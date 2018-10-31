@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Micropin 'Pentacup'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Micropin Pentacup Micropin Table Top/Counter Game The following playfield features are simulated using wireforms: Flippers (2), Pop bumpers (4), Slingshots (2), Kick-out holes (6), Standup targets (5).  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Micropin 'Pentacup' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Pentacup</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3822">Pentacup</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3822">3822</a> <I>/ 1981 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">9.4 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=3822" target="showrate3822">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3822" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Micropin'"><a href="search.pl?searchtype=advanced&amp;mfgid=211">Micropin Corporation, <font size="-1">of Pasadena, California</font> (1979-1981)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1981</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3822">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Table Top/Counter Game&nbsp;<a href="glossary.php#Table_Top/Counter_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>The following <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> features are simulated using wireforms: <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The following details distinguish this game from the earlier version <span title="Click here to open a new window and display Micropin's 1979 'Pentacup'"><a target="game3821" href="machine.cgi?id=3821">Micropin's 1979 'Pentacup'</a></span>:<br><br>• <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> is plexiglas and shows a copyright date.<br>• The <a target="glossary" class="glossarylink" href="/glossary.php#Head">head</a> appears to be taller in height, with 4 rows of displays.<br>• <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> shows 'Micropin' above the words 'Pentacup Model'.<br>• <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> are curved <a target="glossary" class="glossarylink" href="/glossary.php#Wireform">wireforms</a>, not straight.<br>• <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> has printing below the <a target="glossary" class="glossarylink" href="/glossary.php#Drain">drain</a> rails.<br>• The PC board contains four 2716 2K x 8 Eproms.<br>• Rear of game has plexiglas windows showing several accounting features.<br><br>These are the copyright dates on this version of which we are aware:<br>1979 - on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and a circuit board.<br>1980 - on both plexiglas windows on rear of game.<br>1981 - on front plexiglas '<a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>'.<br><br>Based on the latest date above, and until we have more conclusive information, we list the manufacturer date as 1981.<br><br>This version was owned, operated, designed, and manufactured by Micropin Corporation. It was sold exclusively by Elcon Industries, a wholly owned subsidiary of Micropin Corp.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 13 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3822/Micropin_Rom_Images_IPDB_game_3822.zip" >Romset</a></td><td> [Micropin Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3822/1981_Pentacup_Four_page_Flyer_IPDB_game_3822.pdf" >Four-page Flyer</a></td><td> [Micropin Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=2989" 
+><span title="Image # 2989: Pentacup Overall view "><img src="https://www.ipdb.org/images/3822/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 2989: Pentacup Overall view "><br>Overall view</span></a><br><font size="-2">356x541</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45879" 
+><span title="Image # 45879: Pentacup Backglass 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 45879: Pentacup Backglass 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Backglass*</span></a><br><font size="-2">1000x649</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45880" 
+><span title="Image # 45880: Pentacup Playfield 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 45880: Pentacup Playfield 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Playfield*</span></a><br><font size="-2">580x800</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45881" 
+><span title="Image # 45881: Pentacup Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 45881: Pentacup Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Playfield - Detail*</span></a><br><font size="-2">1000x672</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45882" 
+><span title="Image # 45882: Pentacup Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 45882: Pentacup Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Playfield - Detail*</span></a><br><font size="-2">1000x591</font><br>[Duncan Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45883" 
+><span title="Image # 45883: Pentacup Cabinet - Left 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 45883: Pentacup Cabinet - Left 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Cabinet - Left*</span></a><br><font size="-2">1000x447</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45884" 
+><span title="Image # 45884: Pentacup Cabinet - Front 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 45884: Pentacup Cabinet - Front 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Cabinet - Front*</span></a><br><font size="-2">1000x570</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45885" 
+><span title="Image # 45885: Pentacup Cabinet - Rear 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 45885: Pentacup Cabinet - Rear 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Cabinet - Rear*</span></a><br><font size="-2">1000x715</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45886" 
+><span title="Image # 45886: Pentacup Cabinet - Front View 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 45886: Pentacup Cabinet - Front View 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Cabinet - Front View*</span></a><br><font size="-2">981x800</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45887" 
+><span title="Image # 45887: Pentacup Cabinet - Full View 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 45887: Pentacup Cabinet - Full View 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Cabinet - Full View*</span></a><br><font size="-2">1000x619</font><br>[Duncan Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45888" 
+><span title="Image # 45888: Pentacup Under Playfield 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 45888: Pentacup Under Playfield 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Under Playfield*</span></a><br><font size="-2">744x1000</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45889" 
+><span title="Image # 45889: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 45889: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">1000x666</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45890" 
+><span title="Image # 45890: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 45890: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">1000x544</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45891" 
+><span title="Image # 45891: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 45891: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">1000x695</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45892" 
+><span title="Image # 45892: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 45892: Pentacup Under Playfield - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">1000x455</font><br>[Duncan Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45893" 
+><span title="Image # 45893: Pentacup Inside Cabinet 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 45893: Pentacup Inside Cabinet 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Inside Cabinet*</span></a><br><font size="-2">558x800</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45894" 
+><span title="Image # 45894: Pentacup Inside Cabinet - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 45894: Pentacup Inside Cabinet - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1000x535</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45895" 
+><span title="Image # 45895: Pentacup Inside Cabinet - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 45895: Pentacup Inside Cabinet - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">562x800</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3822&amp;picno=45896" 
+><span title="Image # 45896: Pentacup Inside Cabinet - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><img src="https://www.ipdb.org/images/3822/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 45896: Pentacup Inside Cabinet - Detail 
+(Serial number on back of cabinet reads A0074 Level 23. This specific game is pictured in the manufacturer's flyer.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1000x693</font><br>[Duncan Brown]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

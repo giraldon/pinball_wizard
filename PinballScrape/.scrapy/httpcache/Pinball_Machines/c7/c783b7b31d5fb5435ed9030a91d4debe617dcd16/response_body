@@ -1,0 +1,154 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Flag-Ship'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Flag-Ship Flag Ship, Flagship Flippers (2), Pop bumpers (4), Passive bumpers (2), Slingshots (2), Standup targets (6), Gobble holes (3). 3, 4, or 5 ball play. Double match awards 2 or 10 replays (operator option).
+
+Maximum displayed point score is 1,999 points per player.  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Flag-Ship' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Flag-Ship</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="868">Flag-Ship</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=868">868</a> <I>/ January, 1957 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.4 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=868" target="showrate868">5 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=868" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1957</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>124</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,250 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=868">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Nautical - Sailing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">Gobble&nbsp;holes</a> (3). 3, 4, or 5 ball play. Double <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> awards 2 or 10 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> (operator option).<br><br>Maximum displayed point score is 1,999 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> carries Gottlieb's famous phrase: <I>Amusement Pinballs, as American as Baseball and Hot Dogs!</I></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 102<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=4827" 
+><span title="Image # 4827: Flag-Ship Flyer "><img src="https://www.ipdb.org/images/868/tn_868f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 4827: Flag-Ship Flyer "><br>Flyer</span></a><br><font size="-2">900x664</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=5305" 
+><span title="Image # 5305: Flag-Ship Score Card "><img src="https://www.ipdb.org/images/868/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 5305: Flag-Ship Score Card "><br>Score Card</span></a><br><font size="-2">432x593</font><br>[Scott Phillips]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=21359" 
+><span title="Image # 21359: Flag-Ship Backglass "><img src="https://www.ipdb.org/images/868/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 21359: Flag-Ship Backglass "><br>Backglass</span></a><br><font size="-2">362x278</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=21360" 
+><span title="Image # 21360: Flag-Ship Backglass - Reverse "><img src="https://www.ipdb.org/images/868/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 21360: Flag-Ship Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">366x281</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=21574" 
+><span title="Image # 21574: Flag-Ship Backglass "><img src="https://www.ipdb.org/images/868/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 21574: Flag-Ship Backglass "><br>Backglass</span></a><br><font size="-2">352x280</font><br>[Duwayne & Mary Ellen McLean]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=21575" 
+><span title="Image # 21575: Flag-Ship Playfield "><img src="https://www.ipdb.org/images/868/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 21575: Flag-Ship Playfield "><br>Playfield</span></a><br><font size="-2">304x300</font><br>[Duwayne & Mary Ellen McLean]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=21576" 
+><span title="Image # 21576: Flag-Ship Upper Playfield "><img src="https://www.ipdb.org/images/868/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 21576: Flag-Ship Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">394x300</font><br>[Duwayne & Mary Ellen McLean]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=21577" 
+><span title="Image # 21577: Flag-Ship Lower Playfield "><img src="https://www.ipdb.org/images/868/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 21577: Flag-Ship Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">379x300</font><br>[Duwayne & Mary Ellen McLean]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=23832" 
+><span title="Image # 23832: Flag-Ship Illuminated Backglass "><img src="https://www.ipdb.org/images/868/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 23832: Flag-Ship Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">375x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=23833" 
+><span title="Image # 23833: Flag-Ship Lower Playfield "><img src="https://www.ipdb.org/images/868/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23833: Flag-Ship Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=23837" 
+><span title="Image # 23837: Flag-Ship Repainted Backbox - Right 
+(The game in this image has been repainted but is included here to show the cabinet structure.)"><img src="https://www.ipdb.org/images/868/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 23837: Flag-Ship Repainted Backbox - Right 
+(The game in this image has been repainted but is included here to show the cabinet structure.)"><br>Repainted Backbox - Right*</span></a><br><font size="-2">188x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=23838" 
+><span title="Image # 23838: Flag-Ship Repainted Cabinet - Front 
+(The game in this image has been repainted but is included here to show the cabinet structure.)"><img src="https://www.ipdb.org/images/868/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 23838: Flag-Ship Repainted Cabinet - Front 
+(The game in this image has been repainted but is included here to show the cabinet structure.)"><br>Repainted Cabinet - Front*</span></a><br><font size="-2">378x299</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=23839" 
+><span title="Image # 23839: Flag-Ship Inside Backbox "><img src="https://www.ipdb.org/images/868/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 23839: Flag-Ship Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">392x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=60973" 
+><span title="Image # 60973: Flag-Ship Original Backbox Art 
+(This game had been repainted. That paint was removed to reveal the manufacturer's original art design.)"><img src="https://www.ipdb.org/images/868/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 60973: Flag-Ship Original Backbox Art 
+(This game had been repainted. That paint was removed to reveal the manufacturer's original art design.)"><br>Original Backbox Art*</span></a><br><font size="-2">563x1008</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=868&amp;picno=60974" 
+><span title="Image # 60974: Flag-Ship Original Cabinet Art 
+(This game had been repainted. That paint was removed to reveal the manufacturer's original art design. The metal flipper guard has been removed to show the original and untouched art.)"><img src="https://www.ipdb.org/images/868/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60974: Flag-Ship Original Cabinet Art 
+(This game had been repainted. That paint was removed to reveal the manufacturer's original art design. The metal flipper guard has been removed to show the original and untouched art.)"><br>Original Cabinet Art*</span></a><br><font size="-2">1008x752</font><br>[Bruce Brigham]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

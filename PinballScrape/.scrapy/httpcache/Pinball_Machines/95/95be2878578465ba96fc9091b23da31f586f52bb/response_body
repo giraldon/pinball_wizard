@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams '3 Jokers'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams 3 Jokers Three Jokers Add-A-Ball Flippers (2), Pop bumpers (5), Slingshots (2), Standup targets (4), Kick-out hole (1), Playfield spinner, Up-post between flippers.  Christian Marche Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams '3 Jokers' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>3 Jokers</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2540">3 Jokers</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2540">2540</a> <I>/ November, 1970 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.6 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2540" target="showrate2540">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2540" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1970</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>392</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2540">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cards/Gambling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Add-A-Ball&nbsp;<a href="glossary.php#Add-A-Ball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Playfield_Spinner">Playfield&nbsp;spinner</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<!-- 928 == 4 Aces -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> version of this game is <span title="Click here to open a new window and display Williams' 1970 'Straight Flush'"><a target="game2393" href="machine.cgi?id=2393">Williams' 1970 'Straight Flush'</a></span>.<br><br>Pictured in this listing is a game having <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet_Insert">cabinet&nbsp;inserts</a> from a Sample 'Straight Flush'. Specifically, the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> is tagged '3 Jokers' as serial number 65382 while its <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> is tagged as a Sample 'Straight Flush' with handwritten number 70 (or 76). The lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> is tagged '3 Jokers' as serial number 65384 while its <a target="glossary" class="glossarylink" href="/glossary.php#Motor_Board">motor&nbsp;board</a> is tagged as a Sample 'Straight Flush' with handwritten number 61. Although the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> unit is operational and can award <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a>, the '3 Jokers' <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> correctly does not have a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> window on it, thus the game <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a> on the 'Straight Flush' <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;insert</a> has been set to <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-Ball</a>.  The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> serial numbers on this game do not fall numerically close to the few other serial numbers we have for the production version but instead fall within the known number range of an earlier game <a target="game928" href="machine.cgi?id=928">4 Aces</a> from March 1970, suggesting the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> was created around that time. We can only theorize that Williams purposely placed Sample <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;inserts</a> from Straight Flush into a '3 Jokers' game. This theory is supported by the fact that the Sample tags, while having different two-digit numbers between them, each have '3J-(4)' written on them, which might suggest this was the fourth '3 Jokers' sample game. Until we receive a better explanation for this data, we will mark these game images as Sample Game.<br><br>The production game pictured in this listing also has a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> unit minus the <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> wheel and this unit is likely disabled. We suspect others in this production run are equipped the same.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 93<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=2432" 
+><span title="Image # 2432: 3 Jokers Backglass "><img src="https://www.ipdb.org/images/2540/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 2432: 3 Jokers Backglass "><br>Backglass</span></a><br><font size="-2">412x433</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=2433" 
+><span title="Image # 2433: 3 Jokers Playfield "><img src="https://www.ipdb.org/images/2540/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 2433: 3 Jokers Playfield "><br>Playfield</span></a><br><font size="-2">420x539</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=4374" 
+><span title="Image # 4374: 3 Jokers Flyer "><img src="https://www.ipdb.org/images/2540/tn_2540f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 4374: 3 Jokers Flyer "><br>Flyer</span></a><br><font size="-2">832x1091</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60014" 
+><span title="Image # 60014: 3 Jokers Sample Game - Backglass 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><img src="https://www.ipdb.org/images/2540/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 60014: 3 Jokers Sample Game - Backglass 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><br>Sample Game - Backglass*</span></a><br><font size="-2">989x1105</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60015" 
+><span title="Image # 60015: 3 Jokers Sample Game - Backglass 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><img src="https://www.ipdb.org/images/2540/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 60015: 3 Jokers Sample Game - Backglass 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><br>Sample Game - Backglass*</span></a><br><font size="-2">987x1153</font><br>[Jason Heiser]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60016" 
+><span title="Image # 60016: 3 Jokers Sample Game - Backglass - Detail 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><img src="https://www.ipdb.org/images/2540/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 60016: 3 Jokers Sample Game - Backglass - Detail 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><br>Sample Game - Backglass - Detail*</span></a><br><font size="-2">1200x1200</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60017" 
+><span title="Image # 60017: 3 Jokers Sample Game - Backglass - Reverse 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><img src="https://www.ipdb.org/images/2540/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 60017: 3 Jokers Sample Game - Backglass - Reverse 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><br>Sample Game - Backglass - Reverse*</span></a><br><font size="-2">995x1145</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60018" 
+><span title="Image # 60018: 3 Jokers Sample Game - Backbox Insert 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number, and its replay unit is visible.)"><img src="https://www.ipdb.org/images/2540/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60018: 3 Jokers Sample Game - Backbox Insert 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number, and its replay unit is visible.)"><br>Sample Game - Backbox Insert*</span></a><br><font size="-2">768x1024</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60019" 
+><span title="Image # 60019: 3 Jokers Sample Game - Inside Backbox 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number, and its replay unit is visible.)"><img src="https://www.ipdb.org/images/2540/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60019: 3 Jokers Sample Game - Inside Backbox 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number, and its replay unit is visible.)"><br>Sample Game - Inside Backbox*</span></a><br><font size="-2">768x1024</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60020" 
+><span title="Image # 60020: 3 Jokers Sample Game - Backbox Serial Number Tags 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><img src="https://www.ipdb.org/images/2540/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60020: 3 Jokers Sample Game - Backbox Serial Number Tags 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number.)"><br>Sample Game - Backbox Serial Number Tags*</span></a><br><font size="-2">768x1024</font><br>[Jason Heiser]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60021" 
+><span title="Image # 60021: 3 Jokers Sample Game - Replay Unit and Mode Setting 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number. The Mode in this image is set for 'Add-a-ball'.)"><img src="https://www.ipdb.org/images/2540/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 60021: 3 Jokers Sample Game - Replay Unit and Mode Setting 
+(The backbox is tagged '3 Jokers' with serial number 65382. The Sample insert is tagged 'Straight Flush' with a two-digit handwritten serial number. The Mode in this image is set for 'Add-a-ball'.)"><br>Sample Game - Replay Unit and Mode Setting*</span></a><br><font size="-2">933x933</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60022" 
+><span title="Image # 60022: 3 Jokers Sample Game - Motor Board 
+(The cabinet is tagged '3 Jokers' with serial number 65384. The Sample motor board is tagged 'Straight Flush' with a handwritten serial number 61.)"><img src="https://www.ipdb.org/images/2540/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60022: 3 Jokers Sample Game - Motor Board 
+(The cabinet is tagged '3 Jokers' with serial number 65384. The Sample motor board is tagged 'Straight Flush' with a handwritten serial number 61.)"><br>Sample Game - Motor Board*</span></a><br><font size="-2">768x1024</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60023" 
+><span title="Image # 60023: 3 Jokers Sample Game - Motor Board 
+(The cabinet is tagged '3 Jokers' with serial number 65384. The Sample motor board is tagged 'Straight Flush' with a handwritten serial number 61.)"><img src="https://www.ipdb.org/images/2540/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60023: 3 Jokers Sample Game - Motor Board 
+(The cabinet is tagged '3 Jokers' with serial number 65384. The Sample motor board is tagged 'Straight Flush' with a handwritten serial number 61.)"><br>Sample Game - Motor Board*</span></a><br><font size="-2">768x1024</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=60024" 
+><span title="Image # 60024: 3 Jokers Sample Game - Cabinet Serial Number Tags 
+(The cabinet is tagged '3 Jokers' with serial number 65384. The Sample motor board is tagged 'Straight Flush' with a handwritten serial number 61.)"><img src="https://www.ipdb.org/images/2540/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60024: 3 Jokers Sample Game - Cabinet Serial Number Tags 
+(The cabinet is tagged '3 Jokers' with serial number 65384. The Sample motor board is tagged 'Straight Flush' with a handwritten serial number 61.)"><br>Sample Game - Cabinet Serial Number Tags*</span></a><br><font size="-2">1024x768</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61148" 
+><span title="Image # 61148: 3 Jokers Backglass 
+(Backbox serial number 81355.)"><img src="https://www.ipdb.org/images/2540/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 61148: 3 Jokers Backglass 
+(Backbox serial number 81355.)"><br>Backglass*</span></a><br><font size="-2">1131x1200</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61149" 
+><span title="Image # 61149: 3 Jokers Backglass - Detail 
+(Serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 61149: 3 Jokers Backglass - Detail 
+(Serial number 81346.)"><br>Backglass - Detail*</span></a><br><font size="-2">1200x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61150" 
+><span title="Image # 61150: 3 Jokers Backglass - Detail 
+(Serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 61150: 3 Jokers Backglass - Detail 
+(Serial number 81346.)"><br>Backglass - Detail*</span></a><br><font size="-2">1200x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61151" 
+><span title="Image # 61151: 3 Jokers Playfield 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61151: 3 Jokers Playfield 
+(Cabinet serial number 81346.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61152" 
+><span title="Image # 61152: 3 Jokers Upper Playfield 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61152: 3 Jokers Upper Playfield 
+(Cabinet serial number 81346.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61153" 
+><span title="Image # 61153: 3 Jokers Middle Playfield 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61153: 3 Jokers Middle Playfield 
+(Cabinet serial number 81346.)"><br>Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61154" 
+><span title="Image # 61154: 3 Jokers Lower Playfield 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61154: 3 Jokers Lower Playfield 
+(Cabinet serial number 81346.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61155" 
+><span title="Image # 61155: 3 Jokers Score Card - 3 Ball 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61155: 3 Jokers Score Card - 3 Ball 
+(Cabinet serial number 81346.)"><br>Score Card - 3 Ball*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61156" 
+><span title="Image # 61156: 3 Jokers Score Card - 5 Ball 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61156: 3 Jokers Score Card - 5 Ball 
+(Cabinet serial number 81346.)"><br>Score Card - 5 Ball*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61157" 
+><span title="Image # 61157: 3 Jokers Instruction Card - Add-A-Ball 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61157: 3 Jokers Instruction Card - Add-A-Ball 
+(Cabinet serial number 81346.)"><br>Instruction Card - Add-A-Ball*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61158" 
+><span title="Image # 61158: 3 Jokers Instruction Card - Novelty 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61158: 3 Jokers Instruction Card - Novelty 
+(Cabinet serial number 81346.)"><br>Instruction Card - Novelty*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61159" 
+><span title="Image # 61159: 3 Jokers Cabinet - Left 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 61159: 3 Jokers Cabinet - Left 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><br>Cabinet - Left*</span></a><br><font size="-2">963x856</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61160" 
+><span title="Image # 61160: 3 Jokers Cabinet - Right 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 61160: 3 Jokers Cabinet - Right 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><br>Cabinet - Right*</span></a><br><font size="-2">925x886</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61161" 
+><span title="Image # 61161: 3 Jokers Cabinet - Front View 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 61161: 3 Jokers Cabinet - Front View 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1059x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61162" 
+><span title="Image # 61162: 3 Jokers Serial Number 
+(Serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 61162: 3 Jokers Serial Number 
+(Serial number 81346.)"><br>Serial Number*</span></a><br><font size="-2">1200x1225</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61163" 
+><span title="Image # 61163: 3 Jokers Backglass - Reverse 
+(Serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 61163: 3 Jokers Backglass - Reverse 
+(Serial number 81346.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1188x1221</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61164" 
+><span title="Image # 61164: 3 Jokers Backbox Insert - Front 
+(The replay unit is present except for the number wheel. Backbox serial number 81355.)"><img src="https://www.ipdb.org/images/2540/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 61164: 3 Jokers Backbox Insert - Front 
+(The replay unit is present except for the number wheel. Backbox serial number 81355.)"><br>Backbox Insert - Front*</span></a><br><font size="-2">1200x1520</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61165" 
+><span title="Image # 61165: 3 Jokers Inside Backbox 
+(Backbox serial number 81355.)"><img src="https://www.ipdb.org/images/2540/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61165: 3 Jokers Inside Backbox 
+(Backbox serial number 81355.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61166" 
+><span title="Image # 61166: 3 Jokers Mode Settings 
+(Backbox serial number 81355.)"><img src="https://www.ipdb.org/images/2540/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61166: 3 Jokers Mode Settings 
+(Backbox serial number 81355.)"><br>Mode Settings*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61167" 
+><span title="Image # 61167: 3 Jokers Under Playfield 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 61167: 3 Jokers Under Playfield 
+(Cabinet serial number 81346.)"><br>Under Playfield*</span></a><br><font size="-2">871x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61168" 
+><span title="Image # 61168: 3 Jokers Inside Cabinet 
+(Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61168: 3 Jokers Inside Cabinet 
+(Cabinet serial number 81346.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61169" 
+><span title="Image # 61169: 3 Jokers Name Strip 
+(Found in the lower cabinet. Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61169: 3 Jokers Name Strip 
+(Found in the lower cabinet. Cabinet serial number 81346.)"><br>Name Strip*</span></a><br><font size="-2">900x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61170" 
+><span title="Image # 61170: 3 Jokers Cabinet Serial Number Tags 
+(Located in the lower cabinet. Serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61170: 3 Jokers Cabinet Serial Number Tags 
+(Located in the lower cabinet. Serial number 81346.)"><br>Cabinet Serial Number Tags*</span></a><br><font size="-2">900x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2540&amp;picno=61171" 
+><span title="Image # 61171: 3 Jokers Backbox Serial Number Tag 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><img src="https://www.ipdb.org/images/2540/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61171: 3 Jokers Backbox Serial Number Tag 
+(Backbox serial number 81355. Cabinet serial number 81346.)"><br>Backbox Serial Number Tag*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

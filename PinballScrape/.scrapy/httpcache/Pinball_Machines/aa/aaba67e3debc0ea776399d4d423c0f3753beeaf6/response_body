@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Jack 'N Jill'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Jack 'N Jill Jack and Jill Flippers (6), Bumpers (9), Kick-out holes (3). Backglass light animation.  Roy Parker Harry Mabs ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Jack 'N Jill' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Jack 'N Jill</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1273">Jack 'N Jill</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1273">1273</a> <I>/ April, 1948 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.9 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1273" target="showrate1273">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1273" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1948</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>4</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1273">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Nursery Rhyme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">Bumpers</a> (9), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3). <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Harry&nbsp;Mabs' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Harry%20Mabs">Harry&nbsp;Mabs</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 40<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 109 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1273/Gottlieb_1948_Jack_N_Jill_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=1208" 
+><span title="Image # 1208: Jack 'N Jill Backglass "><img src="https://www.ipdb.org/images/1273/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 1208: Jack 'N Jill Backglass "><br>Backglass</span></a><br><font size="-2">475x509</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=5803" 
+><span title="Image # 5803: Jack 'N Jill Flyer "><img src="https://www.ipdb.org/images/1273/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 5803: Jack 'N Jill Flyer "><br>Flyer</span></a><br><font size="-2">573x623</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=8019" 
+><span title="Image # 8019: Jack 'N Jill Playfield "><img src="https://www.ipdb.org/images/1273/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 8019: Jack 'N Jill Playfield "><br>Playfield</span></a><br><font size="-2">725x1086</font><br>[Alan Tate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=15058" 
+><span title="Image # 15058: Jack 'N Jill Playfield "><img src="https://www.ipdb.org/images/1273/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 15058: Jack 'N Jill Playfield "><br>Playfield</span></a><br><font size="-2">653x800</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=15059" 
+><span title="Image # 15059: Jack 'N Jill Top View "><img src="https://www.ipdb.org/images/1273/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 15059: Jack 'N Jill Top View "><br>Top View</span></a><br><font size="-2">519x800</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=21049" 
+><span title="Image # 21049: Jack 'N Jill Cabinet - Left "><img src="https://www.ipdb.org/images/1273/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 21049: Jack 'N Jill Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">300x201</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=21050" 
+><span title="Image # 21050: Jack 'N Jill Cabinet - Right "><img src="https://www.ipdb.org/images/1273/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 21050: Jack 'N Jill Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">300x166</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=21051" 
+><span title="Image # 21051: Jack 'N Jill Backbox - Left "><img src="https://www.ipdb.org/images/1273/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 21051: Jack 'N Jill Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">194x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=21052" 
+><span title="Image # 21052: Jack 'N Jill Backbox - Right "><img src="https://www.ipdb.org/images/1273/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 21052: Jack 'N Jill Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">163x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=21053" 
+><span title="Image # 21053: Jack 'N Jill Front "><img src="https://www.ipdb.org/images/1273/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21053: Jack 'N Jill Front "><br>Front</span></a><br><font size="-2">400x298</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26306" 
+><span title="Image # 26306: Jack 'N Jill Instruction Card "><img src="https://www.ipdb.org/images/1273/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26306: Jack 'N Jill Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26512" 
+><span title="Image # 26512: Jack 'N Jill Backbox "><img src="https://www.ipdb.org/images/1273/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 26512: Jack 'N Jill Backbox "><br>Backbox</span></a><br><font size="-2">800x1220</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26514" 
+><span title="Image # 26514: Jack 'N Jill Playfield Detail 1 "><img src="https://www.ipdb.org/images/1273/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 26514: Jack 'N Jill Playfield Detail 1 "><br>Playfield Detail 1</span></a><br><font size="-2">700x673</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26515" 
+><span title="Image # 26515: Jack 'N Jill Playfield Detail 2 "><img src="https://www.ipdb.org/images/1273/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 26515: Jack 'N Jill Playfield Detail 2 "><br>Playfield Detail 2</span></a><br><font size="-2">600x738</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26516" 
+><span title="Image # 26516: Jack 'N Jill Playfield Detail 3 "><img src="https://www.ipdb.org/images/1273/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 26516: Jack 'N Jill Playfield Detail 3 "><br>Playfield Detail 3</span></a><br><font size="-2">600x439</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26517" 
+><span title="Image # 26517: Jack 'N Jill Playfield Detail 4 "><img src="https://www.ipdb.org/images/1273/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26517: Jack 'N Jill Playfield Detail 4 "><br>Playfield Detail 4</span></a><br><font size="-2">600x450</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=26518" 
+><span title="Image # 26518: Jack 'N Jill Playfield Detail 5 "><img src="https://www.ipdb.org/images/1273/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26518: Jack 'N Jill Playfield Detail 5 "><br>Playfield Detail 5</span></a><br><font size="-2">600x800</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=28825" 
+><span title="Image # 28825: Jack 'N Jill Under Playfield "><img src="https://www.ipdb.org/images/1273/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28825: Jack 'N Jill Under Playfield "><br>Under Playfield</span></a><br><font size="-2">300x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=28826" 
+><span title="Image # 28826: Jack 'N Jill Inside Cabinet "><img src="https://www.ipdb.org/images/1273/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28826: Jack 'N Jill Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">300x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=28827" 
+><span title="Image # 28827: Jack 'N Jill Inside Cabinet "><img src="https://www.ipdb.org/images/1273/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28827: Jack 'N Jill Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1273&amp;picno=28828" 
+><span title="Image # 28828: Jack 'N Jill Inside Backbox "><img src="https://www.ipdb.org/images/1273/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28828: Jack 'N Jill Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">300x400</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

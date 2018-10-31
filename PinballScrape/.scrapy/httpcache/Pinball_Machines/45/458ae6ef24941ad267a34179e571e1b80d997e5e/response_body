@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Mayfair'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Mayfair Flippers (2), Pop bumpers (3), Slingshots (2), Ball kickers (2), Snap target (1). The snap target is not in continuous motion but alternates between left and right only when hit by the ball. It has two award ladders. Two 'auto-shooters' located between the flippers propel the ball towards this target.  Roy Parker Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Mayfair' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Mayfair</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1562">Mayfair</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1562">1562</a> <I>/ June, 1966 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1562" target="showrate1562"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1562" target="showrate1562">15 ratings/10 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1562" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1966</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>220</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,120 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1562">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Show Business</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kickers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Snap_Target">Snap&nbsp;target</a> (1). The <a target="glossary" class="glossarylink" href="/glossary.php#Snap_Target">snap&nbsp;target</a> is not in continuous motion but alternates between left and right only when hit by the ball. It has two award ladders. Two "auto-shooters" located between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> propel the ball towards this target.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<!-- 5678 == Hyde Park, June 1966, for Italy -->
+<!-- 1258 == Hyde Park, August 1966, for USA -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The manufacturer refers to the center target as a "<a target="glossary" class="glossarylink" href="/glossary.php#Swinging_Target">swinging&nbsp;target</a>" on the game flyer but it performs like a <a target="glossary" class="glossarylink" href="/glossary.php#Snap_Target">snap&nbsp;target</a>.<br><br>George Bernard Shaw's 1912 play 'Pygmalion' enjoyed success on Broadway as 'My Fair Lady' from 1956 to 1962 and as a Hollywood musical in 1964, winning an Academy Award for Best Picture. 'Mayfair' was based on this popular movie.<br><br>The artwork on this June 1966 game is identical to both <a target="game5678" href="machine.cgi?id=5678">Hyde Park, June 1966, for Italy</a> and <a target="game1258" href="machine.cgi?id=1258">Hyde Park, August 1966, for USA</a>. Together, they represent artist Roy Parker’s last games. They were released a year after his death.<br><br>We previously showed a date for this game of July 1966. The new date is per Gottlieb documentation.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 57-59<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 188<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 211<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 49<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1562">http://www.pinballowners.com/owners/1562</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=4907" 
+><span title="Image # 4907: Mayfair Flyer "><img src="https://www.ipdb.org/images/1562/tn_1562f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4907: Mayfair Flyer "><br>Flyer</span></a><br><font size="-2">752x978</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=6542" 
+><span title="Image # 6542: Mayfair Illuminated Backglass "><img src="https://www.ipdb.org/images/1562/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 6542: Mayfair Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1002</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=6543" 
+><span title="Image # 6543: Mayfair Illuminated Playfield "><img src="https://www.ipdb.org/images/1562/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 6543: Mayfair Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x1494</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10125" 
+><span title="Image # 10125: Mayfair Plastic Backglass "><img src="https://www.ipdb.org/images/1562/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 10125: Mayfair Plastic Backglass "><br>Plastic Backglass</span></a><br><font size="-2">718x577</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10126" 
+><span title="Image # 10126: Mayfair Plastic Backglass "><img src="https://www.ipdb.org/images/1562/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 10126: Mayfair Plastic Backglass "><br>Plastic Backglass</span></a><br><font size="-2">721x586</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10127" 
+><span title="Image # 10127: Mayfair Cabinet - Left "><img src="https://www.ipdb.org/images/1562/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 10127: Mayfair Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">631x576</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10128" 
+><span title="Image # 10128: Mayfair Cabinet - Rear "><img src="https://www.ipdb.org/images/1562/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 10128: Mayfair Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">541x859</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10129" 
+><span title="Image # 10129: Mayfair Inside Backbox "><img src="https://www.ipdb.org/images/1562/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 10129: Mayfair Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">690x578</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10130" 
+><span title="Image # 10130: Mayfair Inside View "><img src="https://www.ipdb.org/images/1562/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 10130: Mayfair Inside View "><br>Inside View</span></a><br><font size="-2">592x896</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10401" 
+><span title="Image # 10401: Mayfair Early Production - Purple Outlanes 
+(This game in this image has the purple outlane artwork shown in the flyer.  It is serial number 01011.)"><img src="https://www.ipdb.org/images/1562/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10401: Mayfair Early Production - Purple Outlanes 
+(This game in this image has the purple outlane artwork shown in the flyer.  It is serial number 01011.)"><br>Early Production - Purple Outlanes*</span></a><br><font size="-2">768x576</font><br>[Greg Stanwood]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=10690" 
+><span title="Image # 10690: Mayfair Playfield "><img src="https://www.ipdb.org/images/1562/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10690: Mayfair Playfield "><br>Playfield</span></a><br><font size="-2">725x972</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23700" 
+><span title="Image # 23700: Mayfair Plexiglas Backglass - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23700: Mayfair Plexiglas Backglass - Detail "><br>Plexiglas Backglass - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23701" 
+><span title="Image # 23701: Mayfair Plexiglas Backglass - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23701: Mayfair Plexiglas Backglass - Detail "><br>Plexiglas Backglass - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23702" 
+><span title="Image # 23702: Mayfair Playfield - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23702: Mayfair Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23703" 
+><span title="Image # 23703: Mayfair Swinging Target "><img src="https://www.ipdb.org/images/1562/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23703: Mayfair Swinging Target "><br>Swinging Target</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23704" 
+><span title="Image # 23704: Mayfair Playfield - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23704: Mayfair Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23705" 
+><span title="Image # 23705: Mayfair Playfield - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23705: Mayfair Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23706" 
+><span title="Image # 23706: Mayfair Playfield - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23706: Mayfair Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=23707" 
+><span title="Image # 23707: Mayfair Twin Auto-shooters "><img src="https://www.ipdb.org/images/1562/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23707: Mayfair Twin Auto-shooters "><br>Twin Auto-shooters</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=24698" 
+><span title="Image # 24698: Mayfair Backglass "><img src="https://www.ipdb.org/images/1562/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 24698: Mayfair Backglass "><br>Backglass</span></a><br><font size="-2">1024x859</font><br>[Steve Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=24699" 
+><span title="Image # 24699: Mayfair Playfield "><img src="https://www.ipdb.org/images/1562/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 24699: Mayfair Playfield "><br>Playfield</span></a><br><font size="-2">960x1280</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=24700" 
+><span title="Image # 24700: Mayfair Cabinet - Left "><img src="https://www.ipdb.org/images/1562/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 24700: Mayfair Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">936x938</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=24701" 
+><span title="Image # 24701: Mayfair Cabinet - Right "><img src="https://www.ipdb.org/images/1562/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24701: Mayfair Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=24702" 
+><span title="Image # 24702: Mayfair Backbox - Right "><img src="https://www.ipdb.org/images/1562/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 24702: Mayfair Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">846x1216</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=24703" 
+><span title="Image # 24703: Mayfair Cabinet - Front View "><img src="https://www.ipdb.org/images/1562/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 24703: Mayfair Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">604x1184</font><br>[Steve Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=27310" 
+><span title="Image # 27310: Mayfair Backglass - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 27310: Mayfair Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">668x449</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=27311" 
+><span title="Image # 27311: Mayfair Backglass - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27311: Mayfair Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=27312" 
+><span title="Image # 27312: Mayfair Backglass - Detail "><img src="https://www.ipdb.org/images/1562/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27312: Mayfair Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=27313" 
+><span title="Image # 27313: Mayfair Illuminated Playfield "><img src="https://www.ipdb.org/images/1562/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 27313: Mayfair Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">386x704</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=27314" 
+><span title="Image # 27314: Mayfair Inside Coin Door "><img src="https://www.ipdb.org/images/1562/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 27314: Mayfair Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">704x429</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=27315" 
+><span title="Image # 27315: Mayfair Cabinet - Rear "><img src="https://www.ipdb.org/images/1562/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 27315: Mayfair Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">439x704</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=37655" 
+><span title="Image # 37655: Mayfair Backglass "><img src="https://www.ipdb.org/images/1562/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 37655: Mayfair Backglass "><br>Backglass</span></a><br><font size="-2">1024x955</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1562&amp;picno=37656" 
+><span title="Image # 37656: Mayfair Cabinet - Left "><img src="https://www.ipdb.org/images/1562/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 37656: Mayfair Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x831</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

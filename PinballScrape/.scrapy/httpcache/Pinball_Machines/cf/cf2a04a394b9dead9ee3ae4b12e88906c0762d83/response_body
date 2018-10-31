@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Roma-Automatic 'Miami Balls'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Roma-Automatic Miami Balls Miami Ball's Head-to-Head Play 20 centimes for 2 players. 5 balls per game. Flippers (12), Ball kickers (8), Pop bumper (1), Slingshots (4). Balls enter playfield from the middle of one side, served by a manual ball lift mechanism operated by the player at the end of the cabinet having the coin slot mechanism. Both player's scores appear at each end of playfield, facing the other player.
+
+We have limited information on the 'Loterie' (Free Play) feature. The pop bumper activates it, and a light can illuminate at Game Over for it.
+
+This is a head-to-head game where two players at opposite ends of the playfield compete in simultaneous play. Each player has flipper buttons which control only those flippers facing the opponent.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Roma-Automatic 'Miami Balls' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Miami Balls</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5281">Miami Balls</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5281">5281</a> <I>/ 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5281" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Roma-Automatic'"><a href="search.pl?searchtype=advanced&amp;mfgid=517">Roma-Automatic, <font size="-1">of Paris, France</font></a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5281">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Soccer - Futbol</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Head-to-Head Play&nbsp;<a href="glossary.php#Head-to-Head_Play" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>20 centimes for 2 players. 5 balls per game. <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (12), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kickers</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumper</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (4). Balls enter <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> from the middle of one side, served by a manual ball lift mechanism operated by the player at the end of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> having the coin slot mechanism. Both player's scores appear at each end of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, facing the other player.<br><br>We have limited information on the '<a target="glossary" class="glossarylink" href="/glossary.php#Loterie">Loterie</a>' (Free Play) feature. The <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> activates it, and a light can illuminate at Game Over for it.<br><br>This is a head-to-head game where two players at opposite ends of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> compete in simultaneous play. Each player has <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons which control only those <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> facing the opponent.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The flyer states Gottlieb parts are used.<br><br>A search of public records in Paris showed Roma-Automatic started business there in 1964 doing pinball and other vending machines. It was subsequently reported to us that they closed in 1997. No other manufacturer information available.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=37014" 
+><span title="Image # 37014: Miami Balls Flyer "><img src="https://www.ipdb.org/images/5281/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 37014: Miami Balls Flyer "><br>Flyer</span></a><br><font size="-2">1024x1324</font><br>[Jean-Christophe Crépeau]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41001" 
+><span title="Image # 41001: Miami Balls Cabinet - Left Side of Coin End 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=35 alt="Image # 41001: Miami Balls Cabinet - Left Side of Coin End 
+(Serial number 0005 0012.)"><br>Cabinet - Left Side of Coin End*</span></a><br><font size="-2">1024x356</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41003" 
+><span title="Image # 41003: Miami Balls Illuminated Playfield - Blue Team Player 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41003: Miami Balls Illuminated Playfield - Blue Team Player 
+(Serial number 0005 0012.)"><br>Illuminated Playfield - Blue Team Player*</span></a><br><font size="-2">1024x683</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41004" 
+><span title="Image # 41004: Miami Balls Ball In Play and Tilt Indicators 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 41004: Miami Balls Ball In Play and Tilt Indicators 
+(Serial number 0005 0012.)"><br>Ball In Play and Tilt Indicators*</span></a><br><font size="-2">1024x567</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41312" 
+><span title="Image # 41312: Miami Balls Illuminated Playfield - Aerial View 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 41312: Miami Balls Illuminated Playfield - Aerial View 
+(Serial number 0005 0012.)"><br>Illuminated Playfield - Aerial View*</span></a><br><font size="-2">1024x549</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41313" 
+><span title="Image # 41313: Miami Balls Illuminated Playfield 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 41313: Miami Balls Illuminated Playfield 
+(Serial number 0005 0012.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1024x400</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41314" 
+><span title="Image # 41314: Miami Balls Illuminated Playfield 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41314: Miami Balls Illuminated Playfield 
+(Serial number 0005 0012.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41315" 
+><span title="Image # 41315: Miami Balls Goalkeeper View 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41315: Miami Balls Goalkeeper View 
+(Serial number 0005 0012.)"><br>Goalkeeper View*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41316" 
+><span title="Image # 41316: Miami Balls Ball at Entry Point 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41316: Miami Balls Ball at Entry Point 
+(Serial number 0005 0012.)"><br>Ball at Entry Point*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41317" 
+><span title="Image # 41317: Miami Balls Ball In Play Counter and Tilt Indicator 
+(Balls do not enter playfield from this direction. Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41317: Miami Balls Ball In Play Counter and Tilt Indicator 
+(Balls do not enter playfield from this direction. Serial number 0005 0012.)"><br>Ball In Play Counter and Tilt Indicator*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41318" 
+><span title="Image # 41318: Miami Balls Illuminated Pop Bumper 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41318: Miami Balls Illuminated Pop Bumper 
+(Serial number 0005 0012.)"><br>Illuminated Pop Bumper*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41319" 
+><span title="Image # 41319: Miami Balls Illuminated Score Indicators 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41319: Miami Balls Illuminated Score Indicators 
+(Serial number 0005 0012.)"><br>Illuminated Score Indicators*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41320" 
+><span title="Image # 41320: Miami Balls Illuminated Playfield - Detail 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41320: Miami Balls Illuminated Playfield - Detail 
+(Serial number 0005 0012.)"><br>Illuminated Playfield - Detail*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41321" 
+><span title="Image # 41321: Miami Balls Playfield - Detail 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41321: Miami Balls Playfield - Detail 
+(Serial number 0005 0012.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41322" 
+><span title="Image # 41322: Miami Balls Corner Kickers and Slingshot 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41322: Miami Balls Corner Kickers and Slingshot 
+(Serial number 0005 0012.)"><br>Corner Kickers and Slingshot*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41323" 
+><span title="Image # 41323: Miami Balls Corner Kickers and Slingshot 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41323: Miami Balls Corner Kickers and Slingshot 
+(Serial number 0005 0012.)"><br>Corner Kickers and Slingshot*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41324" 
+><span title="Image # 41324: Miami Balls Corner Kickers and Slingshot 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41324: Miami Balls Corner Kickers and Slingshot 
+(Serial number 0005 0012.)"><br>Corner Kickers and Slingshot*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41325" 
+><span title="Image # 41325: Miami Balls Game Over With Loterie 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41325: Miami Balls Game Over With Loterie 
+(Serial number 0005 0012.)"><br>Game Over With Loterie*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41326" 
+><span title="Image # 41326: Miami Balls Game Over Without Loterie 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 41326: Miami Balls Game Over Without Loterie 
+(Serial number 0005 0012.)"><br>Game Over Without Loterie*</span></a><br><font size="-2">1024x540</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41327" 
+><span title="Image # 41327: Miami Balls French Instruction Card 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41327: Miami Balls French Instruction Card 
+(Serial number 0005 0012.)"><br>French Instruction Card*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41328" 
+><span title="Image # 41328: Miami Balls Cabinet - Coin End 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41328: Miami Balls Cabinet - Coin End 
+(Serial number 0005 0012.)"><br>Cabinet - Coin End*</span></a><br><font size="-2">1200x800</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41329" 
+><span title="Image # 41329: Miami Balls Coin Slot and Serial Number 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41329: Miami Balls Coin Slot and Serial Number 
+(Serial number 0005 0012.)"><br>Coin Slot and Serial Number*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41330" 
+><span title="Image # 41330: Miami Balls Serial Number 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 41330: Miami Balls Serial Number 
+(Serial number 0005 0012.)"><br>Serial Number*</span></a><br><font size="-2">1024x608</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41331" 
+><span title="Image # 41331: Miami Balls Cabinet - Right Side of Coin End 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 41331: Miami Balls Cabinet - Right Side of Coin End 
+(Serial number 0005 0012.)"><br>Cabinet - Right Side of Coin End*</span></a><br><font size="-2">1024x564</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41332" 
+><span title="Image # 41332: Miami Balls Inside Cabinet 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41332: Miami Balls Inside Cabinet 
+(Serial number 0005 0012.)"><br>Inside Cabinet*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41333" 
+><span title="Image # 41333: Miami Balls Inside Cabinet 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 41333: Miami Balls Inside Cabinet 
+(Serial number 0005 0012.)"><br>Inside Cabinet*</span></a><br><font size="-2">1024x1536</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41334" 
+><span title="Image # 41334: Miami Balls Ball Trough and Ball Lift Mechanism 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41334: Miami Balls Ball Trough and Ball Lift Mechanism 
+(Serial number 0005 0012.)"><br>Ball Trough and Ball Lift Mechanism*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41335" 
+><span title="Image # 41335: Miami Balls Mercury Tilt Switch 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41335: Miami Balls Mercury Tilt Switch 
+(Serial number 0005 0012.)"><br>Mercury Tilt Switch*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41336" 
+><span title="Image # 41336: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 41336: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><br>Under Playfield*</span></a><br><font size="-2">1024x1536</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41337" 
+><span title="Image # 41337: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 41337: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><br>Under Playfield*</span></a><br><font size="-2">1024x1536</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41338" 
+><span title="Image # 41338: Miami Balls Under Playfield - Detail 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 41338: Miami Balls Under Playfield - Detail 
+(Serial number 0005 0012.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">1120x1072</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41339" 
+><span title="Image # 41339: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41339: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><br>Under Playfield*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41340" 
+><span title="Image # 41340: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41340: Miami Balls Under Playfield 
+(Serial number 0005 0012.)"><br>Under Playfield*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41341" 
+><span title="Image # 41341: Miami Balls Under Playfield - Loterie Wheel 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 41341: Miami Balls Under Playfield - Loterie Wheel 
+(Serial number 0005 0012.)"><br>Under Playfield - Loterie Wheel*</span></a><br><font size="-2">1024x683</font><br>[Alain Jaffart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5281&amp;picno=41342" 
+><span title="Image # 41342: Miami Balls Under Playfield - Loterie Wheel 
+(Serial number 0005 0012.)"><img src="https://www.ipdb.org/images/5281/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 41342: Miami Balls Under Playfield - Loterie Wheel 
+(Serial number 0005 0012.)"><br>Under Playfield - Loterie Wheel*</span></a><br><font size="-2">848x684</font><br>[Alain Jaffart]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+flyer&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

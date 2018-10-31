@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'The Pennant'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally The Pennant 10 balls for 5 cents. Diverters (4). Two diverters are shaped like airplane propellers. Game measures 36 inches long, 16 inches wide, and 42 inches high.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'The Pennant' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>The Pennant</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1773">The Pennant</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1773">1773</a> <I>/ December, 1933 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1773" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1933</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Pure Mechanical (PM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=PM#PM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1773">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Football</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>10 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Diverter">Diverters</a> (4). Two <a target="glossary" class="glossarylink" href="/glossary.php#Diverter">diverters</a> are shaped like airplane propellers. Game measures 36 inches long, 16 inches wide, and 42 inches high.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 19<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 163<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 119<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 137<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=1717" 
+><span title="Image # 1717: The Pennant Playfield "><img src="https://www.ipdb.org/images/1773/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 1717: The Pennant Playfield "><br>Playfield</span></a><br><font size="-2">360x627</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=37225" 
+><span title="Image # 37225: The Pennant Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 37225: The Pennant Playfield "><br>Playfield</span></a><br><font size="-2">436x597</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=37226" 
+><span title="Image # 37226: The Pennant Middle Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37226: The Pennant Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=37227" 
+><span title="Image # 37227: The Pennant Lower Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37227: The Pennant Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=37228" 
+><span title="Image # 37228: The Pennant Full View "><img src="https://www.ipdb.org/images/1773/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 37228: The Pennant Full View "><br>Full View</span></a><br><font size="-2">421x445</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44852" 
+><span title="Image # 44852: The Pennant Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44852: The Pennant Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44853" 
+><span title="Image # 44853: The Pennant Upper Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44853: The Pennant Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44854" 
+><span title="Image # 44854: The Pennant Middle Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 44854: The Pennant Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1160x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44855" 
+><span title="Image # 44855: The Pennant Lower Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44855: The Pennant Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44856" 
+><span title="Image # 44856: The Pennant Cabinet - Left "><img src="https://www.ipdb.org/images/1773/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 44856: The Pennant Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">944x824</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44857" 
+><span title="Image # 44857: The Pennant Cabinet - Right "><img src="https://www.ipdb.org/images/1773/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 44857: The Pennant Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">902x864</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44858" 
+><span title="Image # 44858: The Pennant Cabinet - Front View "><img src="https://www.ipdb.org/images/1773/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 44858: The Pennant Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">960x1516</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44859" 
+><span title="Image # 44859: The Pennant Cabinet - Front "><img src="https://www.ipdb.org/images/1773/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 44859: The Pennant Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1096x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44860" 
+><span title="Image # 44860: The Pennant Cabinet - Rear View "><img src="https://www.ipdb.org/images/1773/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 44860: The Pennant Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">960x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=44861" 
+><span title="Image # 44861: The Pennant Instructions "><img src="https://www.ipdb.org/images/1773/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44861: The Pennant Instructions "><br>Instructions</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57324" 
+><span title="Image # 57324: The Pennant Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 57324: The Pennant Playfield "><br>Playfield</span></a><br><font size="-2">847x1588</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57325" 
+><span title="Image # 57325: The Pennant Upper Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 57325: The Pennant Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1029x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57326" 
+><span title="Image # 57326: The Pennant Lower Playfield "><img src="https://www.ipdb.org/images/1773/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57326: The Pennant Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57327" 
+><span title="Image # 57327: The Pennant Ball Shooter Gauge "><img src="https://www.ipdb.org/images/1773/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57327: The Pennant Ball Shooter Gauge "><br>Ball Shooter Gauge</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57328" 
+><span title="Image # 57328: The Pennant Cabinet - Left "><img src="https://www.ipdb.org/images/1773/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=42 alt="Image # 57328: The Pennant Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x502</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57329" 
+><span title="Image # 57329: The Pennant Cabinet - Front "><img src="https://www.ipdb.org/images/1773/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 57329: The Pennant Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1111x641</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57330" 
+><span title="Image # 57330: The Pennant Cabinet - Rear "><img src="https://www.ipdb.org/images/1773/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 57330: The Pennant Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">1059x746</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57331" 
+><span title="Image # 57331: The Pennant Manufacturer "><img src="https://www.ipdb.org/images/1773/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57331: The Pennant Manufacturer "><br>Manufacturer</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57332" 
+><span title="Image # 57332: The Pennant Cabinet - Detail "><img src="https://www.ipdb.org/images/1773/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 57332: The Pennant Cabinet - Detail "><br>Cabinet - Detail</span></a><br><font size="-2">931x736</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57333" 
+><span title="Image # 57333: The Pennant Inside Front Door "><img src="https://www.ipdb.org/images/1773/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 57333: The Pennant Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">1572x999</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1773&amp;picno=57334" 
+><span title="Image # 57334: The Pennant Cash Box "><img src="https://www.ipdb.org/images/1773/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 57334: The Pennant Cash Box "><br>Cash Box</span></a><br><font size="-2">1200x782</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

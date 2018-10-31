@@ -1,0 +1,241 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Devil's Dare'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Devil's Dare Devils Dare Widebody Flippers (3), Pop bumpers (3), Slingshots (4), Spinning targets (2), 5-bank drop targets (2), 3-bank drop targets (1), Standup targets (12), Kick-out hole (1), Middle left-side kickback lane, Left outlane kickback, dual inlanes, Multiball.  David Moore Doug Watson Tom Szafransky ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Devil's Dare' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Devil's Dare</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="673">Devil's Dare</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=673">673</a> <I>/ August, 1982 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=673" target="showrate673"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=673" target="showrate673">28 ratings/23 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=673" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1982</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>670</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>DD</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=16">Gottlieb System 80A</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,832 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=673">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (12), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), Middle left-side <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a> lane, Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a>, dual <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Szafransky' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Szafransky">Tom&nbsp;Szafransky</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Doug&nbsp;Watson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Doug%20Watson">Doug&nbsp;Watson</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>First System 80A game.<br><br><P>We asked Doug Watson to tell us about his pre-production <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> art. He replies:<P style="padding-left:30px;"><I>The story is simply that after printing up the first sample glass (the one that I have) the execs at Gottlieb decided it was too extreme. Keep in mind this was 1980 and they were still using Gordon Morrison as their primary artist. Gordon's work was friendly and accessible and he had been their signature artist for 20 years. I was the new guy they were trying out. Gottlieb still took pride in their 'family friendly' image, especially compared to what had been done by Dave Christensen at Bally in the 1970's. While I proceeded on to other projects, another artist at Ad Posters, Dave Moore, created a painting based on my design minus the naked green bat winged babes decorating the display windows. Dave's painting allowed Ad Posters to showcase their new 4 color process on glass printing capability.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 140<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0785807845/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0785807845&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball: The Lure of the Silverball</a>, page 98<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 141<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 14<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 188-189<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/673">http://www.pinballowners.com/owners/673</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 673 dvlsdre.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (sound only) <!-- gid 673 dvlsdre2.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 15 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 673 Gottlieb_1982_Devil_s_Dare_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 673 Gottlieb_1982_Devil_s_Dare_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Gottlieb Amusement Games]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=5075" 
+><span title="Image # 5075: Devil's Dare Flyer, Front "><img src="https://www.ipdb.org/images/673/tn_673f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5075: Devil's Dare Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=5076" 
+><span title="Image # 5076: Devil's Dare Flyer, Back "><img src="https://www.ipdb.org/images/673/tn_673f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5076: Devil's Dare Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=11680" 
+><span title="Image # 11680: Devil's Dare Backglass "><img src="https://www.ipdb.org/images/673/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 11680: Devil's Dare Backglass "><br>Backglass</span></a><br><font size="-2">607x543</font><br>[The Halifax Pinball Company Ltd]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=11681" 
+><span title="Image # 11681: Devil's Dare Upper Playfield "><img src="https://www.ipdb.org/images/673/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11681: Devil's Dare Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">600x800</font><br>[The Halifax Pinball Company Ltd]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=11682" 
+><span title="Image # 11682: Devil's Dare Lower Playfield "><img src="https://www.ipdb.org/images/673/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11682: Devil's Dare Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">600x800</font><br>[The Halifax Pinball Company Ltd]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=11683" 
+><span title="Image # 11683: Devil's Dare Ball View "><img src="https://www.ipdb.org/images/673/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11683: Devil's Dare Ball View "><br>Ball View</span></a><br><font size="-2">800x600</font><br>[The Halifax Pinball Company Ltd]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=11684" 
+><span title="Image # 11684: Devil's Dare Cabinet "><img src="https://www.ipdb.org/images/673/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 11684: Devil's Dare Cabinet "><br>Cabinet</span></a><br><font size="-2">503x565</font><br>[The Halifax Pinball Company Ltd]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=15859" 
+><span title="Image # 15859: Devil's Dare Blank Playfield "><img src="https://www.ipdb.org/images/673/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 15859: Devil's Dare Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">684x1338</font><br>[Anthony Kapolka]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=15860" 
+><span title="Image # 15860: Devil's Dare Blank Playfield "><img src="https://www.ipdb.org/images/673/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 15860: Devil's Dare Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1024x957</font><br>[Anthony Kapolka]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=44913" 
+><span title="Image # 44913: Devil's Dare German Flyer - Outside Fold "><img src="https://www.ipdb.org/images/673/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 44913: Devil's Dare German Flyer - Outside Fold "><br>German Flyer - Outside Fold</span></a><br><font size="-2">800x381</font><br>[Bernard Marrou]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=44914" 
+><span title="Image # 44914: Devil's Dare German Flyer - Inside Fold "><img src="https://www.ipdb.org/images/673/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 44914: Devil's Dare German Flyer - Inside Fold "><br>German Flyer - Inside Fold</span></a><br><font size="-2">800x380</font><br>[Bernard Marrou]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=46073" 
+><span title="Image # 46073: Devil's Dare Pre-Production Backglass "><img src="https://www.ipdb.org/images/673/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 46073: Devil's Dare Pre-Production Backglass "><br>Pre-Production Backglass</span></a><br><font size="-2">1024x1037</font><br>[Doug Watson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=47423" 
+><span title="Image # 47423: Devil's Dare Under Playfield "><img src="https://www.ipdb.org/images/673/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47423: Devil's Dare Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=47424" 
+><span title="Image # 47424: Devil's Dare Inside Cabinet "><img src="https://www.ipdb.org/images/673/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47424: Devil's Dare Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=47425" 
+><span title="Image # 47425: Devil's Dare Inside Front Door "><img src="https://www.ipdb.org/images/673/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47425: Devil's Dare Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=47426" 
+><span title="Image # 47426: Devil's Dare Inside Backbox "><img src="https://www.ipdb.org/images/673/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47426: Devil's Dare Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=50853" 
+><span title="Image # 50853: Devil's Dare Backglass - Reverse "><img src="https://www.ipdb.org/images/673/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 50853: Devil's Dare Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1110x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=52427" 
+><span title="Image # 52427: Devil's Dare Playfield "><img src="https://www.ipdb.org/images/673/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 52427: Devil's Dare Playfield "><br>Playfield</span></a><br><font size="-2">1200x1754</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=52428" 
+><span title="Image # 52428: Devil's Dare Upper Playfield "><img src="https://www.ipdb.org/images/673/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 52428: Devil's Dare Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x864</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=52429" 
+><span title="Image # 52429: Devil's Dare Middle Playfield "><img src="https://www.ipdb.org/images/673/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 52429: Devil's Dare Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x980</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=52430" 
+><span title="Image # 52430: Devil's Dare Lower Playfield "><img src="https://www.ipdb.org/images/673/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 52430: Devil's Dare Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x961</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=56671" 
+><span title="Image # 56671: Devil's Dare Illuminated Backglass "><img src="https://www.ipdb.org/images/673/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 56671: Devil's Dare Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1031</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=56672" 
+><span title="Image # 56672: Devil's Dare Playfield 
+(The score card is not original to this game.)"><img src="https://www.ipdb.org/images/673/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 56672: Devil's Dare Playfield 
+(The score card is not original to this game.)"><br>Playfield*</span></a><br><font size="-2">861x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=56673" 
+><span title="Image # 56673: Devil's Dare Backbox - Right "><img src="https://www.ipdb.org/images/673/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 56673: Devil's Dare Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">695x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=56674" 
+><span title="Image # 56674: Devil's Dare Cabinet - Left "><img src="https://www.ipdb.org/images/673/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 56674: Devil's Dare Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1600x618</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=57231" 
+><span title="Image # 57231: Devil's Dare Illuminated Backglass "><img src="https://www.ipdb.org/images/673/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57231: Devil's Dare Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">960x1280</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=57232" 
+><span title="Image # 57232: Devil's Dare Playfield "><img src="https://www.ipdb.org/images/673/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57232: Devil's Dare Playfield "><br>Playfield</span></a><br><font size="-2">960x1280</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=57233" 
+><span title="Image # 57233: Devil's Dare Center Plastic "><img src="https://www.ipdb.org/images/673/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57233: Devil's Dare Center Plastic "><br>Center Plastic</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=57234" 
+><span title="Image # 57234: Devil's Dare Playfield - Detail "><img src="https://www.ipdb.org/images/673/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57234: Devil's Dare Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=57235" 
+><span title="Image # 57235: Devil's Dare Cabinet - Front "><img src="https://www.ipdb.org/images/673/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57235: Devil's Dare Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65117" 
+><span title="Image # 65117: Devil's Dare Backglass "><img src="https://www.ipdb.org/images/673/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65117: Devil's Dare Backglass "><br>Backglass</span></a><br><font size="-2">1200x1184</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65118" 
+><span title="Image # 65118: Devil's Dare Playfield "><img src="https://www.ipdb.org/images/673/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 65118: Devil's Dare Playfield "><br>Playfield</span></a><br><font size="-2">1200x1532</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65119" 
+><span title="Image # 65119: Devil's Dare Playfield - Detail "><img src="https://www.ipdb.org/images/673/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 65119: Devil's Dare Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">999x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65120" 
+><span title="Image # 65120: Devil's Dare Playfield - Detail "><img src="https://www.ipdb.org/images/673/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 65120: Devil's Dare Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x876</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65121" 
+><span title="Image # 65121: Devil's Dare Playfield - Detail "><img src="https://www.ipdb.org/images/673/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 65121: Devil's Dare Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">911x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65122" 
+><span title="Image # 65122: Devil's Dare Playfield - Detail "><img src="https://www.ipdb.org/images/673/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 65122: Devil's Dare Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1573</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65123" 
+><span title="Image # 65123: Devil's Dare Backbox - Right "><img src="https://www.ipdb.org/images/673/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 65123: Devil's Dare Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">723x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65124" 
+><span title="Image # 65124: Devil's Dare Cabinet - Right "><img src="https://www.ipdb.org/images/673/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 65124: Devil's Dare Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x434</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65125" 
+><span title="Image # 65125: Devil's Dare Cabinet - Front "><img src="https://www.ipdb.org/images/673/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 65125: Devil's Dare Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x756</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65126" 
+><span title="Image # 65126: Devil's Dare Cabinet - Front View "><img src="https://www.ipdb.org/images/673/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 65126: Devil's Dare Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">908x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=673&amp;picno=65127" 
+><span title="Image # 65127: Devil's Dare Cabinet - Full View "><img src="https://www.ipdb.org/images/673/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 65127: Devil's Dare Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1200x1534</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

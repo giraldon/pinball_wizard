@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Diner'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Diner Mechanical Backbox Animation Flippers (2), Pop bumpers (3), 3-bank drop targets (2), Ramps (2), Cellar hole (1), 2-ball multiball. Two backbox animations (clock hands count time, and spring-mounted diners bobble when game is shaken).  Mark Sprenger Mark Ritchie Chris Granner Jim Strompolis Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Diner' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Diner</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="681">Diner</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=681">681</a> <I>/ September, 1990 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=681" target="showrate681"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=681" target="showrate681">76 ratings/55 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=681" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1990</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>571</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=9">Williams System 11C</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,552 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=681">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Happiness - Food</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Cellar_Hole">Cellar&nbsp;hole</a> (1), 2-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. Two <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animations</a> (clock hands count time, and spring-mounted diners bobble when game is shaken).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Ritchie">Mark&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Sprenger' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Sprenger">Mark&nbsp;Sprenger</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Strompolis' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Strompolis">Jim&nbsp;Strompolis</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Uses the same <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> effect routine from <span title="Click here to open a new window and display Midway's 1989 'Mousin' Around!'"><a target="game1635" href="machine.cgi?id=1635">Midway's 1989 'Mousin' Around!'</a></span>, programmer Jim Strompolis' first game.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The Rush Is On"<br>
+"A Full Menu of Features!"<br>
+"Get It While Its Hot!"<br>
+"Its fresh! Its fast! Its hot!"<br>
+"This Games Really Cookin!"<br>
+"Serving up the finest earnings!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1555217311/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1555217311&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Slot Machines and Coin-Op Games</a>, page 62<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 126<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 17 and 169<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764326090/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764326090&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Perspectives</a>, pages 60-65<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/681/diner.htm" target="rulesheet">Diner Guide (Sep/28/1993), by Gloomboy</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/681/DINERTIP.TXT" target="rulesheet">Diner Tip Sheet (Dec/3/1990), by Lui Sieh</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/681">http://www.pinballowners.com/owners/681</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 243 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Game_ROM_L_4.zip" >Game ROM L-4</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 80 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/diner_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/diner_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 220 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/diner_l4.zip" >PinMAME Romset (L-4)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Revision_L_1_European_Game_ROM.zip" >Revision L-1 European Game ROM</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Revision_L_3_Game_ROM.zip" >Revision L-3 Game ROM</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 35 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Full_Operations_Manual.pdf" onClick="return purchasemanual();">Full Operations Manual</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1021 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Operator_Handbook.pdf" onClick="return purchasemanual();">Operator Handbook</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 697 KB</td><td align=left nowrap width="5%">&nbsp;TIF&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Boris_Insert_Decal_Recreated.tif" >Boris Insert Decal - Recreated</a></td><td> [Jesse Kujawa]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 101 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/681/Williams_1990_Diner_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=4617" 
+><span title="Image # 4617: Diner Flyer, Front "><img src="https://www.ipdb.org/images/681/tn_681f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4617: Diner Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=4618" 
+><span title="Image # 4618: Diner Flyer, Back "><img src="https://www.ipdb.org/images/681/tn_681f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4618: Diner Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=14373" 
+><span title="Image # 14373: Diner Backbox "><img src="https://www.ipdb.org/images/681/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 14373: Diner Backbox "><br>Backbox</span></a><br><font size="-2">1024x841</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=14374" 
+><span title="Image # 14374: Diner Playfield "><img src="https://www.ipdb.org/images/681/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 14374: Diner Playfield "><br>Playfield</span></a><br><font size="-2">1024x1569</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25494" 
+><span title="Image # 25494: Diner Full Machine "><img src="https://www.ipdb.org/images/681/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 25494: Diner Full Machine "><br>Full Machine</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25495" 
+><span title="Image # 25495: Diner Cabinet - Front "><img src="https://www.ipdb.org/images/681/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25495: Diner Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">534x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25496" 
+><span title="Image # 25496: Diner Cabinet - Left "><img src="https://www.ipdb.org/images/681/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 25496: Diner Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">700x350</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25497" 
+><span title="Image # 25497: Diner Backbox - Left "><img src="https://www.ipdb.org/images/681/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 25497: Diner Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">350x700</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25498" 
+><span title="Image # 25498: Diner Cabinet - Rear "><img src="https://www.ipdb.org/images/681/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 25498: Diner Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25499" 
+><span title="Image # 25499: Diner Cabinet - Right "><img src="https://www.ipdb.org/images/681/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 25499: Diner Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x350</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25500" 
+><span title="Image # 25500: Diner Backbox - Right "><img src="https://www.ipdb.org/images/681/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 25500: Diner Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">350x700</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25501" 
+><span title="Image # 25501: Diner Playfield Apron "><img src="https://www.ipdb.org/images/681/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25501: Diner Playfield Apron "><br>Playfield Apron</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25502" 
+><span title="Image # 25502: Diner Lower PLayfield "><img src="https://www.ipdb.org/images/681/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25502: Diner Lower PLayfield "><br>Lower PLayfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25503" 
+><span title="Image # 25503: Diner Upper Playfield "><img src="https://www.ipdb.org/images/681/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25503: Diner Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25504" 
+><span title="Image # 25504: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25504: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25505" 
+><span title="Image # 25505: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25505: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25506" 
+><span title="Image # 25506: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25506: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25507" 
+><span title="Image # 25507: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25507: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25508" 
+><span title="Image # 25508: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25508: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25509" 
+><span title="Image # 25509: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25509: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25510" 
+><span title="Image # 25510: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25510: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25511" 
+><span title="Image # 25511: Diner PLayfield Underside "><img src="https://www.ipdb.org/images/681/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 25511: Diner PLayfield Underside "><br>PLayfield Underside</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25512" 
+><span title="Image # 25512: Diner Cabinet - Inside "><img src="https://www.ipdb.org/images/681/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 25512: Diner Cabinet - Inside "><br>Cabinet - Inside</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25513" 
+><span title="Image # 25513: Diner Playfield Underside "><img src="https://www.ipdb.org/images/681/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25513: Diner Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25514" 
+><span title="Image # 25514: Diner Playfield Underside "><img src="https://www.ipdb.org/images/681/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25514: Diner Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25515" 
+><span title="Image # 25515: Diner Cabinet - Inside "><img src="https://www.ipdb.org/images/681/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25515: Diner Cabinet - Inside "><br>Cabinet - Inside</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25516" 
+><span title="Image # 25516: Diner Translite - Reverse "><img src="https://www.ipdb.org/images/681/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25516: Diner Translite - Reverse "><br>Translite - Reverse</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25517" 
+><span title="Image # 25517: Diner Backbox Insert Panel "><img src="https://www.ipdb.org/images/681/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25517: Diner Backbox Insert Panel "><br>Backbox Insert Panel</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25518" 
+><span title="Image # 25518: Diner Backbox Electronics "><img src="https://www.ipdb.org/images/681/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25518: Diner Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25519" 
+><span title="Image # 25519: Diner Backbox Electronics "><img src="https://www.ipdb.org/images/681/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25519: Diner Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25520" 
+><span title="Image # 25520: Diner Insert Panel Backside "><img src="https://www.ipdb.org/images/681/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25520: Diner Insert Panel Backside "><br>Insert Panel Backside</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25521" 
+><span title="Image # 25521: Diner Backbox "><img src="https://www.ipdb.org/images/681/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 25521: Diner Backbox "><br>Backbox</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25522" 
+><span title="Image # 25522: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25522: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25523" 
+><span title="Image # 25523: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25523: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25524" 
+><span title="Image # 25524: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25524: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25525" 
+><span title="Image # 25525: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25525: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25526" 
+><span title="Image # 25526: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25526: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25527" 
+><span title="Image # 25527: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25527: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25528" 
+><span title="Image # 25528: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25528: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25529" 
+><span title="Image # 25529: Diner Playfield Detail "><img src="https://www.ipdb.org/images/681/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25529: Diner Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25530" 
+><span title="Image # 25530: Diner Cabinet Corner "><img src="https://www.ipdb.org/images/681/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25530: Diner Cabinet Corner "><br>Cabinet Corner</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=25531" 
+><span title="Image # 25531: Diner Backbox Corner "><img src="https://www.ipdb.org/images/681/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25531: Diner Backbox Corner "><br>Backbox Corner</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32762" 
+><span title="Image # 32762: Diner Prototype - Illuminated Backglass "><img src="https://www.ipdb.org/images/681/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 32762: Diner Prototype - Illuminated Backglass "><br>Prototype - Illuminated Backglass</span></a><br><font size="-2">477x455</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32763" 
+><span title="Image # 32763: Diner Prototype Upper Playfield "><img src="https://www.ipdb.org/images/681/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32763: Diner Prototype Upper Playfield "><br>Prototype Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32764" 
+><span title="Image # 32764: Diner Prototype Middle Playfield "><img src="https://www.ipdb.org/images/681/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32764: Diner Prototype Middle Playfield "><br>Prototype Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32765" 
+><span title="Image # 32765: Diner Prototype Lower Playfield "><img src="https://www.ipdb.org/images/681/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32765: Diner Prototype Lower Playfield "><br>Prototype Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32766" 
+><span title="Image # 32766: Diner Prototype Lower Left Playfield "><img src="https://www.ipdb.org/images/681/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32766: Diner Prototype Lower Left Playfield "><br>Prototype Lower Left Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32767" 
+><span title="Image # 32767: Diner Prototype Lower Right Playfield "><img src="https://www.ipdb.org/images/681/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32767: Diner Prototype Lower Right Playfield "><br>Prototype Lower Right Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32768" 
+><span title="Image # 32768: Diner Prototype Cabinet - Left "><img src="https://www.ipdb.org/images/681/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32768: Diner Prototype Cabinet - Left "><br>Prototype Cabinet - Left</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32769" 
+><span title="Image # 32769: Diner Prototype Cabinet - Right "><img src="https://www.ipdb.org/images/681/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32769: Diner Prototype Cabinet - Right "><br>Prototype Cabinet - Right</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32770" 
+><span title="Image # 32770: Diner Prototype Backbox - Left "><img src="https://www.ipdb.org/images/681/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 32770: Diner Prototype Backbox - Left "><br>Prototype Backbox - Left</span></a><br><font size="-2">368x587</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32771" 
+><span title="Image # 32771: Diner Prototype Backbox - Right "><img src="https://www.ipdb.org/images/681/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 32771: Diner Prototype Backbox - Right "><br>Prototype Backbox - Right</span></a><br><font size="-2">399x639</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=32772" 
+><span title="Image # 32772: Diner Prototype Cabinet - Front "><img src="https://www.ipdb.org/images/681/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 32772: Diner Prototype Cabinet - Front "><br>Prototype Cabinet - Front</span></a><br><font size="-2">558x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=67266" 
+><span title="Image # 67266: Diner Playfield - Detail "><img src="https://www.ipdb.org/images/681/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 67266: Diner Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x985</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=67267" 
+><span title="Image # 67267: Diner Playfield - Detail "><img src="https://www.ipdb.org/images/681/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 67267: Diner Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1268</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=681&amp;picno=67268" 
+><span title="Image # 67268: Diner Playfield - Detail "><img src="https://www.ipdb.org/images/681/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 67268: Diner Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1344</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

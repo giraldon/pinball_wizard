@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Straight Flush'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Straight Flush Flippers (2), Pop bumpers (5), Slingshots (2), Standup targets (4), Kick-out hole (1), Playfield spinner, Up-post between flippers. 3 or 5 ball play.
+
+Replay wheel maximum: 37
+
+Sound: bell, wooden box chime.  Christian Marche Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Straight Flush' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Straight Flush</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2393">Straight Flush</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2393">2393</a> <I>/ October 28, 1970 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2393" target="showrate2393"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2393" target="showrate2393">7 ratings/7 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2393" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>October 28, 1970</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>389</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2393">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Playing Cards - Poker</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Playfield_Spinner">Playfield&nbsp;spinner</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. 3 or 5 ball play.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 37<br><br>Sound: bell, wooden box chime.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Adjustable for either <a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-ball</a>, or Novelty operation. The <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> only version of this game is <span title="Click here to open a new window and display Williams' 1970 '3 Jokers'"><a target="game2540" href="machine.cgi?id=2540">Williams' 1970 '3 Jokers'</a></span>.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is silkscreened to show 1,000,000 points above the score reels. The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;insert</a> is equipped with two lamps to illuminate this score. However, the lamp sockets are not wired from the factory, nor is there a 'One Million Relay' installed to light them, therefore this feature does not operate. Only the electrical return path is present, factory-wired from these sockets to a nearby score reel socket. The schematic diagram shows the missing wiring represented by a dashed line for both lamp and relay, and shows an <a target="glossary" class="glossarylink" href="/glossary.php#End-of-Stroke_Switch">End-Of-Stroke&nbsp;Switch</a> on the 100,000 score reel to have operated the relay via the 9th Position switch. (Williams used the term "drum unit" in place of "score reel".) The game we investigated had no <a target="glossary" class="glossarylink" href="/glossary.php#EOSS">EOSS</a> on that drum unit. The manual does not mention a 'One Million Relay'. Because we know that other models such as <span title="Click here to open a new window and display Williams' 1970 'Gay 90's'"><a target="game989" href="machine.cgi?id=989">Williams' 1970 'Gay 90's'</a></span> used dash lines on the schematic to represent an optional "Extra ball wiring kit" consisting of a relay cabled to a connector plug, we might have assumed Williams offered this "One Million" feature as a kit, although it seems unlikely that the <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> would have been expected to install not only the <a target="glossary" class="glossarylink" href="/glossary.php#EOSS">EOSS</a> but also the wiring to this switch and to the lamps, instead of everything pre-wired to a convenient factory-installed cable connector jack. More information is needed to understand why Williams would acknowledge on the schematic this feature that is only partially installed in the game. We note that 1969-1971 was a period of transition for Williams from games with just four score reels to games showing five or six reels, with 'Straight Flush' being one of only four games during this transition that had six reels, until Williams finally settled on five reels in 1971. Williams did not return to six score reels until <span title="Click here to open a new window and display Williams' 1976 'Aztec'"><a target="game119" href="machine.cgi?id=119">Williams' 1976 'Aztec'</a></span>.<br><br>Interestingly, a <a href="http://www.ipdb.org/showpic.pl?id=2540&picno=60019" target=>Sample 'Straight Flush' back<ignore>box ins<ignore>ert</a> was found on a '3 Jokers' game, and this ins<ignore>ert never had lamp sockets for 1,000,000 points.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cash Box, Nov-21-1970, page 58<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 17<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=2277" 
+><span title="Image # 2277: Straight Flush Backglass - No Replay Window 
+(The replay window is not evident in this image and may have been covered up by an operator.)"><img src="https://www.ipdb.org/images/2393/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 2277: Straight Flush Backglass - No Replay Window 
+(The replay window is not evident in this image and may have been covered up by an operator.)"><br>Backglass - No Replay Window*</span></a><br><font size="-2">380x408</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=2278" 
+><span title="Image # 2278: Straight Flush Playfield "><img src="https://www.ipdb.org/images/2393/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 2278: Straight Flush Playfield "><br>Playfield</span></a><br><font size="-2">506x546</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=4355" 
+><span title="Image # 4355: Straight Flush Flyer "><img src="https://www.ipdb.org/images/2393/tn_2393f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4355: Straight Flush Flyer "><br>Flyer</span></a><br><font size="-2">602x784</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=24765" 
+><span title="Image # 24765: Straight Flush Illuminated Backglass "><img src="https://www.ipdb.org/images/2393/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 24765: Straight Flush Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">447x568</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=24766" 
+><span title="Image # 24766: Straight Flush Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/2393/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 24766: Straight Flush Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">439x338</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=24767" 
+><span title="Image # 24767: Straight Flush Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/2393/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24767: Straight Flush Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">438x327</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=24768" 
+><span title="Image # 24768: Straight Flush Inside Cabinet "><img src="https://www.ipdb.org/images/2393/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 24768: Straight Flush Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">442x814</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=24769" 
+><span title="Image # 24769: Straight Flush Inside Backbox "><img src="https://www.ipdb.org/images/2393/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 24769: Straight Flush Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">436x512</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=24770" 
+><span title="Image # 24770: Straight Flush Inside Front Door "><img src="https://www.ipdb.org/images/2393/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 24770: Straight Flush Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">442x389</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=27721" 
+><span title="Image # 27721: Straight Flush Backglass "><img src="https://www.ipdb.org/images/2393/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 27721: Straight Flush Backglass "><br>Backglass</span></a><br><font size="-2">728x800</font><br>[Joe Orosz]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=27722" 
+><span title="Image # 27722: Straight Flush Playfield Spinner "><img src="https://www.ipdb.org/images/2393/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27722: Straight Flush Playfield Spinner "><br>Playfield Spinner</span></a><br><font size="-2">800x600</font><br>[Joe Orosz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=27723" 
+><span title="Image # 27723: Straight Flush Cabinet - Left "><img src="https://www.ipdb.org/images/2393/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 27723: Straight Flush Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">547x800</font><br>[Joe Orosz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=27724" 
+><span title="Image # 27724: Straight Flush Cabinet - Right "><img src="https://www.ipdb.org/images/2393/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 27724: Straight Flush Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x677</font><br>[Joe Orosz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=27725" 
+><span title="Image # 27725: Straight Flush Backbox - Right "><img src="https://www.ipdb.org/images/2393/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27725: Straight Flush Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">600x800</font><br>[Joe Orosz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=27726" 
+><span title="Image # 27726: Straight Flush Front View "><img src="https://www.ipdb.org/images/2393/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 27726: Straight Flush Front View "><br>Front View</span></a><br><font size="-2">465x800</font><br>[Joe Orosz]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=43118" 
+><span title="Image # 43118: Straight Flush Backbox - Right "><img src="https://www.ipdb.org/images/2393/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 43118: Straight Flush Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">680x1364</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=43119" 
+><span title="Image # 43119: Straight Flush Behind Backglass "><img src="https://www.ipdb.org/images/2393/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 43119: Straight Flush Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1200x1496</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=43120" 
+><span title="Image # 43120: Straight Flush Inside Backbox 
+(The wooden chime box in the upper left corner is missing its coil and solenoid, although the metal chassis remains. The two 1,000,000 point lamps in the upper right corner have their ground wire dangling, unconnected, because it used to be attached to the ground wiring above the hundreds reel until two lamp sockets for two score reels were removed. In the lower half of the insert, one of the two cable connectors has been removed.)"><img src="https://www.ipdb.org/images/2393/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 43120: Straight Flush Inside Backbox 
+(The wooden chime box in the upper left corner is missing its coil and solenoid, although the metal chassis remains. The two 1,000,000 point lamps in the upper right corner have their ground wire dangling, unconnected, because it used to be attached to the ground wiring above the hundreds reel until two lamp sockets for two score reels were removed. In the lower half of the insert, one of the two cable connectors has been removed.)"><br>Inside Backbox*</span></a><br><font size="-2">1128x1205</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=44213" 
+><span title="Image # 44213: Straight Flush Cash Box Ad 
+(Cash Box, Nov-21-1970, page 58)"><img src="https://www.ipdb.org/images/2393/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44213: Straight Flush Cash Box Ad 
+(Cash Box, Nov-21-1970, page 58)"><br>Cash Box Ad*</span></a><br><font size="-2">1200x1604</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=59965" 
+><span title="Image # 59965: Straight Flush 1,000,000 Score Lamps 
+(There is no factory-installed wire to these lamp sockets to provide electricity to light these lamps.)"><img src="https://www.ipdb.org/images/2393/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 59965: Straight Flush 1,000,000 Score Lamps 
+(There is no factory-installed wire to these lamp sockets to provide electricity to light these lamps.)"><br>1,000,000 Score Lamps*</span></a><br><font size="-2">1200x1600</font><br>[Jason Heiser]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=59966" 
+><span title="Image # 59966: Straight Flush 1,000,000 Score - Schematic Wiring 
+(The 'One Million Relay', the End-Of-Stroke switch, and their wiring are shown here but are not present in the game. Only one of the two factory-installed lamps is depicted on the schematic.)"><img src="https://www.ipdb.org/images/2393/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 59966: Straight Flush 1,000,000 Score - Schematic Wiring 
+(The 'One Million Relay', the End-Of-Stroke switch, and their wiring are shown here but are not present in the game. Only one of the two factory-installed lamps is depicted on the schematic.)"><br>1,000,000 Score - Schematic Wiring*</span></a><br><font size="-2">1200x1077</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=59967" 
+><span title="Image # 59967: Straight Flush 10,000 Drum Unit - EOS Switch 
+(The 10, 100, 1000, and 10000 drum units each have an End-Of-Stroke switch. It is the vertical switch in this picture, partially obscured by the metal frame of the unit. It is a normally-closed switch.)"><img src="https://www.ipdb.org/images/2393/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59967: Straight Flush 10,000 Drum Unit - EOS Switch 
+(The 10, 100, 1000, and 10000 drum units each have an End-Of-Stroke switch. It is the vertical switch in this picture, partially obscured by the metal frame of the unit. It is a normally-closed switch.)"><br>10,000 Drum Unit - EOS Switch*</span></a><br><font size="-2">1200x900</font><br>[Jason Heiser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2393&amp;picno=59968" 
+><span title="Image # 59968: Straight Flush 100,000 Drum Unit - No EOS Switch - Annotated 
+(An End-Of-Stroke switch was not factory-installed on this drum unit and would be one of the components needed to illuminate the 1,000,000 point value that is silkscreened on the backglass.)"><img src="https://www.ipdb.org/images/2393/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59968: Straight Flush 100,000 Drum Unit - No EOS Switch - Annotated 
+(An End-Of-Stroke switch was not factory-installed on this drum unit and would be one of the components needed to illuminate the 1,000,000 point value that is silkscreened on the backglass.)"><br>100,000 Drum Unit - No EOS Switch - Annotated*</span></a><br><font size="-2">1200x900</font><br>[Jason Heiser]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

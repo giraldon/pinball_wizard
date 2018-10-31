@@ -1,0 +1,261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Arkon Automaten 'Sexy Girl'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Arkon Automaten Sexy Girl Conversion Kit Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), 5-bank drop targets (1), Upper left kickback lane. Hitting the 5 letters g-i-r-l-s projects a pin-up picture on the screen in the playfield. This picture changes each time a left-side target is hit.  Michele 'Mike' Martinelli ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Arkon Automaten 'Sexy Girl' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Sexy Girl</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2106">Sexy Girl</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2106">2106</a> <I>/ December, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.3 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2106" target="showrate2106">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2106" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Arkon Automaten'"><a href="search.pl?searchtype=advanced&amp;mfgid=28">Arkon Automaten, GmbH, <font size="-1">of Frankfurt, Germany</font> (1980-1982)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2106">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Girls - Women</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Conversion Kit&nbsp;<a href="glossary.php#Conversion_Kit" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), Upper left <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a> lane. Hitting the 5 letters g-i-r-l-s projects a pin-up picture on the screen in the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. This picture changes each time a left-side target is hit.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Michele&nbsp;"Mike"&nbsp;Martinelli' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Michele%20%22Mike%22%20Martinelli">Michele&nbsp;"Mike"&nbsp;Martinelli</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Although the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> layout for this <a target="glossary" class="glossarylink" href="/glossary.php#Conversion_Kit">conversion&nbsp;kit</a> is identical to <span title="Click here to open a new window and display Bally's 1978 'Playboy'"><a target="game1823" href="machine.cgi?id=1823">Bally's 1978 'Playboy'</a></span>, Sexy Girl was advertised for use on all Bally electronic pins of the time. The kit consisted of a wired <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, projector, film cartridge, and instruction manual. <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> decals were not mentioned as part of this kit, yet we note that the few <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> shown here all have the same generic art which did not appear on Bally games. A collector from Germany told us that Arkon did the conversion and repainted the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a>. Perhaps, then, this manufacturer made Sexy Girl as a <a target="glossary" class="glossarylink" href="/glossary.php#Converted_Game">converted&nbsp;game</a>, in addition to marketing this as a <a target="glossary" class="glossarylink" href="/glossary.php#Conversion_Kit">conversion&nbsp;kit</a> where it is intended for <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a> to do all the work of converting.<br><br>There was a Sexy Girl <a target="glossary" class="glossarylink" href="/glossary.php#Conversion_Kit">conversion&nbsp;kit</a> made specifically for <span title="Click here to open a new window and display Bally's 1980 'Silverball Mania'"><a target="game2156" href="machine.cgi?id=2156">Bally's 1980 'Silverball Mania'</a></span> which accounted for the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> <a target="glossary" class="glossarylink" href="/glossary.php#Carry-over">carry-over</a> feature in that game. We show it in a separate listing as <span title="Click here to open a new window and display Arkon Automaten's 1983 'Sexy Girl (Delux)'"><a target="game4423" href="machine.cgi?id=4423">Arkon Automaten's 1983 'Sexy Girl (Delux)'</a></span>.<br><br>The manufacturer's flyer and some of the games shown here are branded with more than one company name, depending where on the game one looks. We list the company names and where we found them:<br><br>Backglass:<br>Ranco Automaten A.G. of Thun, Switzerland<br><br>Apron:<br>Ranco Automaten A.G. of Thun, Switzerland<br>Bell Coin Matics of Italy (a maker of conver<ignore>sion kits)<br><br>Film Cartridge:<br>Ranco Automaten A.G. (blue label only)<br>Arkon Automaten GMBH (both blue and brown labels)<br><br>Flyer:<br>Arkon Automaten GMBH of Frankfurt, Germany<br>Pinball Vision, a division of Arc, Inc. of Weymouth, Massachusetts, USA<br><br>Because we know that <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Apron">aprons</a> are portable thus can be exchanged between machines, we had been uncertain as to who was the actual manufacturer or if there was more than one. In our Files section is a letter we received in 2005 from Reinhard Deutsch, the inventor of the Picture Pin™, who explained that he owned both Ranco and Arkon companies. He referenced his relationship to Bell Coin Matics and to Pinball Vision. Uwe Burkheiser, the USA distributor for this game, clarified for us the roles the different companies played:<P style="padding-left:30px;"><I>Ranco (Switzerland) was Reinhard’s distribution arm for European sales outside of Germany.<br><br>Pinball Vision (Weymouth US) was the distributor for the Americas and ran by me (living in Boston at the time) as a favour to Reinhard who was bound to Frankfurt/Main – Germany the home of Arkon Automaten GmbH.<br><br>Reinhard concentrated (with Arkon/Germany) on the modification of the Bally electronics of the conversions (difficult enough at that time) while the backg<ignore>lasses and the apr<ignore>ons where made by either Bell Coin Matics/Italy or a small local supplier to Ranco/Switzerland, which explains their names on these parts.<br><br>I grant you that the various names may have created confusion in the marketplace. However, the legal setup at that time in Europe required for all these parts the manufacturer to be named on the part – when crossing country borders.<br><br>From a factual and economic perspective Reinhard Deutsch via Arkon Automaten GmbH, Frankfurt/Main, Germany, was the centre of the wheel and the inventor. All else are administrative or distributive additives/necessities. </i><br></P><br>The manufacturer flyer indicates 200 pin-up images are in this kit. Two cassettes are shown here, one with a blue label and one with a brown label. We do not know if the content differs between them, but a collector counted only 190 images on the film loop in his blue-labeled cassette.<br><br>Depicted on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is model Ann Pennington from her centerfold pose in Playboy, March 1976.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 48<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 89<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 97<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2106/Arkon_1980_Sexy_Girl_German_Manual.pdf" onClick="return purchasemanual();">German Manual (with paginated schematics)</a></td><td> [Arkon Automaten GMBH]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 33 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2106/1980_Sexy_Girl_Letter_from_Inventor_dated_2005.pdf" >Letter from Inventor (dated 2005)</a></td><td> [Reinhard Deutsch]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=2955" 
+><span title="Image # 2955: Sexy Girl Backglass "><img src="https://www.ipdb.org/images/2106/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 2955: Sexy Girl Backglass "><br>Backglass</span></a><br><font size="-2">476x425</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=2956" 
+><span title="Image # 2956: Sexy Girl Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 2956: Sexy Girl Playfield "><br>Playfield</span></a><br><font size="-2">396x519</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=4841" 
+><span title="Image # 4841: Sexy Girl Backglass "><img src="https://www.ipdb.org/images/2106/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 4841: Sexy Girl Backglass "><br>Backglass</span></a><br><font size="-2">317x300</font><br>[BXLCOM BXLNET (Brussels)]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=4842" 
+><span title="Image # 4842: Sexy Girl Projected Image "><img src="https://www.ipdb.org/images/2106/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4842: Sexy Girl Projected Image "><br>Projected Image</span></a><br><font size="-2">317x404</font><br>[BXLCOM BXLNET (Brussels)]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=4843" 
+><span title="Image # 4843: Sexy Girl Cabinet - Right "><img src="https://www.ipdb.org/images/2106/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 4843: Sexy Girl Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">317x385</font><br>[BXLCOM BXLNET (Brussels)]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=4844" 
+><span title="Image # 4844: Sexy Girl Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 4844: Sexy Girl Playfield "><br>Playfield</span></a><br><font size="-2">317x353</font><br>[BXLCOM BXLNET (Brussels)]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=4845" 
+><span title="Image # 4845: Sexy Girl Playfield - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 4845: Sexy Girl Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">317x255</font><br>[BXLCOM BXLNET (Brussels)]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=5941" 
+><span title="Image # 5941: Sexy Girl Backglass "><img src="https://www.ipdb.org/images/2106/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5941: Sexy Girl Backglass "><br>Backglass</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=5942" 
+><span title="Image # 5942: Sexy Girl Cabinet - Front View "><img src="https://www.ipdb.org/images/2106/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 5942: Sexy Girl Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=5943" 
+><span title="Image # 5943: Sexy Girl Middle Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5943: Sexy Girl Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=5945" 
+><span title="Image # 5945: Sexy Girl Upper Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 5945: Sexy Girl Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">576x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=5946" 
+><span title="Image # 5946: Sexy Girl Upper Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 5946: Sexy Girl Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">576x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=6296" 
+><span title="Image # 6296: Sexy Girl Flyer - Front "><img src="https://www.ipdb.org/images/2106/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 6296: Sexy Girl Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">586x829</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=6297" 
+><span title="Image # 6297: Sexy Girl Flyer - Back "><img src="https://www.ipdb.org/images/2106/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 6297: Sexy Girl Flyer - Back "><br>Flyer - Back</span></a><br><font size="-2">586x829</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=8493" 
+><span title="Image # 8493: Sexy Girl Promotional Photo "><img src="https://www.ipdb.org/images/2106/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 8493: Sexy Girl Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">718x588</font><br>[John Smout]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=8494" 
+><span title="Image # 8494: Sexy Girl Promotional Photo "><img src="https://www.ipdb.org/images/2106/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 8494: Sexy Girl Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">588x720</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=8495" 
+><span title="Image # 8495: Sexy Girl Promotional Photo "><img src="https://www.ipdb.org/images/2106/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 8495: Sexy Girl Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">588x720</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=8496" 
+><span title="Image # 8496: Sexy Girl Flyer "><img src="https://www.ipdb.org/images/2106/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 8496: Sexy Girl Flyer "><br>Flyer</span></a><br><font size="-2">620x793</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=8497" 
+><span title="Image # 8497: Sexy Girl Promo Information "><img src="https://www.ipdb.org/images/2106/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 8497: Sexy Girl Promo Information "><br>Promo Information</span></a><br><font size="-2">620x793</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=35218" 
+><span title="Image # 35218: Sexy Girl Backglass - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 35218: Sexy Girl Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x617</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=35219" 
+><span title="Image # 35219: Sexy Girl Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 35219: Sexy Girl Playfield "><br>Playfield</span></a><br><font size="-2">1024x1350</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=35220" 
+><span title="Image # 35220: Sexy Girl Pop Bumper Cap "><img src="https://www.ipdb.org/images/2106/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 35220: Sexy Girl Pop Bumper Cap "><br>Pop Bumper Cap</span></a><br><font size="-2">1024x1135</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=36187" 
+><span title="Image # 36187: Sexy Girl Lower Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36187: Sexy Girl Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x1365</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=36188" 
+><span title="Image # 36188: Sexy Girl Backglass - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 36188: Sexy Girl Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x865</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41612" 
+><span title="Image # 41612: Sexy Girl Backglass - Reverse "><img src="https://www.ipdb.org/images/2106/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 41612: Sexy Girl Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">482x447</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41613" 
+><span title="Image # 41613: Sexy Girl Behind Backglass "><img src="https://www.ipdb.org/images/2106/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 41613: Sexy Girl Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">597x458</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41614" 
+><span title="Image # 41614: Sexy Girl Inside Backbox "><img src="https://www.ipdb.org/images/2106/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41614: Sexy Girl Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">624x468</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41615" 
+><span title="Image # 41615: Sexy Girl Under Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 41615: Sexy Girl Under Playfield "><br>Under Playfield</span></a><br><font size="-2">425x649</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41616" 
+><span title="Image # 41616: Sexy Girl Inside Cabinet "><img src="https://www.ipdb.org/images/2106/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 41616: Sexy Girl Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">369x592</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41617" 
+><span title="Image # 41617: Sexy Girl Projection Unit with Film Cartridge "><img src="https://www.ipdb.org/images/2106/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 41617: Sexy Girl Projection Unit with Film Cartridge "><br>Projection Unit with Film Cartridge</span></a><br><font size="-2">482x499</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41618" 
+><span title="Image # 41618: Sexy Girl Cabinet - Left "><img src="https://www.ipdb.org/images/2106/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 41618: Sexy Girl Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">709x338</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41619" 
+><span title="Image # 41619: Sexy Girl Cabinet - Right "><img src="https://www.ipdb.org/images/2106/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 41619: Sexy Girl Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">624x241</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41620" 
+><span title="Image # 41620: Sexy Girl Cabinet - Front "><img src="https://www.ipdb.org/images/2106/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 41620: Sexy Girl Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">652x432</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=41621" 
+><span title="Image # 41621: Sexy Girl Artist Name "><img src="https://www.ipdb.org/images/2106/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 41621: Sexy Girl Artist Name "><br>Artist Name</span></a><br><font size="-2">482x630</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55334" 
+><span title="Image # 55334: Sexy Girl Projection Unit without Film Cartridge "><img src="https://www.ipdb.org/images/2106/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55334: Sexy Girl Projection Unit without Film Cartridge "><br>Projection Unit without Film Cartridge</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55335" 
+><span title="Image # 55335: Sexy Girl Projection Unit - Cover Removed "><img src="https://www.ipdb.org/images/2106/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 55335: Sexy Girl Projection Unit - Cover Removed "><br>Projection Unit - Cover Removed</span></a><br><font size="-2">983x899</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55336" 
+><span title="Image # 55336: Sexy Girl Projection Unit - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55336: Sexy Girl Projection Unit - Detail "><br>Projection Unit - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55337" 
+><span title="Image # 55337: Sexy Girl Projection Unit - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55337: Sexy Girl Projection Unit - Detail "><br>Projection Unit - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55338" 
+><span title="Image # 55338: Sexy Girl Projection Unit - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55338: Sexy Girl Projection Unit - Detail "><br>Projection Unit - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55339" 
+><span title="Image # 55339: Sexy Girl Projection Unit - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55339: Sexy Girl Projection Unit - Detail "><br>Projection Unit - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55340" 
+><span title="Image # 55340: Sexy Girl Film Strip Cartridge "><img src="https://www.ipdb.org/images/2106/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 55340: Sexy Girl Film Strip Cartridge "><br>Film Strip Cartridge</span></a><br><font size="-2">999x642</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55341" 
+><span title="Image # 55341: Sexy Girl Film Strip Cartridge "><img src="https://www.ipdb.org/images/2106/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 55341: Sexy Girl Film Strip Cartridge "><br>Film Strip Cartridge</span></a><br><font size="-2">848x897</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55342" 
+><span title="Image # 55342: Sexy Girl Film Strip Cartridge - Cover Removed "><img src="https://www.ipdb.org/images/2106/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 55342: Sexy Girl Film Strip Cartridge - Cover Removed "><br>Film Strip Cartridge - Cover Removed</span></a><br><font size="-2">959x820</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=55343" 
+><span title="Image # 55343: Sexy Girl Film Strip - Detail "><img src="https://www.ipdb.org/images/2106/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 55343: Sexy Girl Film Strip - Detail "><br>Film Strip - Detail</span></a><br><font size="-2">1200x638</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=56118" 
+><span title="Image # 56118: Sexy Girl Film Strip Cartridge "><img src="https://www.ipdb.org/images/2106/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 56118: Sexy Girl Film Strip Cartridge "><br>Film Strip Cartridge</span></a><br><font size="-2">824x1408</font><br>[Markus Gloor]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=56119" 
+><span title="Image # 56119: Sexy Girl Film Strip - Detail 
+(The film image is seen reflected in a mirror.)"><img src="https://www.ipdb.org/images/2106/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 56119: Sexy Girl Film Strip - Detail 
+(The film image is seen reflected in a mirror.)"><br>Film Strip - Detail*</span></a><br><font size="-2">1119x598</font><br>[Markus Gloor]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=66678" 
+><span title="Image # 66678: Sexy Girl Cabinet - Full View "><img src="https://www.ipdb.org/images/2106/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66678: Sexy Girl Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1200x1600</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=66679" 
+><span title="Image # 66679: Sexy Girl Playfield "><img src="https://www.ipdb.org/images/2106/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 66679: Sexy Girl Playfield "><br>Playfield</span></a><br><font size="-2">1200x1305</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=66680" 
+><span title="Image # 66680: Sexy Girl Inside Cabinet "><img src="https://www.ipdb.org/images/2106/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66680: Sexy Girl Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2106&amp;picno=66681" 
+><span title="Image # 66681: Sexy Girl Film Strip Cartridge "><img src="https://www.ipdb.org/images/2106/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 66681: Sexy Girl Film Strip Cartridge "><br>Film Strip Cartridge</span></a><br><font size="-2">1200x1034</font><br>[Federico Ravagnati]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

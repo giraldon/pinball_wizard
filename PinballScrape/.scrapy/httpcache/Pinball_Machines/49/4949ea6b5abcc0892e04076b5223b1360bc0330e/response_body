@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Roto Pool'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Roto Pool Roto-Pool Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (4), Roto-targets (3), Bullseye targets (2), Left and right dual outlanes. Backbox light animation (Miniature pool balls in backbox light when playfield targets are hit)  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Roto Pool' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Roto Pool</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2022">Roto Pool</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2022">2022</a> <I>/ July, 1958 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2022" target="showrate2022"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2022" target="showrate2022">13 ratings/12 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2022" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>July, 1958</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>146</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,800 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2022">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Billiards</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Roto-target">Roto-targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Bullseye_target">Bullseye&nbsp;targets</a> (2), Left and right <a target="glossary" class="glossarylink" href="/glossary.php#Dual_Outlanes">dual&nbsp;outlanes</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (Miniature pool balls in <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> light when <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> targets are hit)</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> carries Gottlieb's famous phrase: <I>Amusement Pinballs, as American as Baseball and Hot Dogs!</I><br><br>Early Production <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> have the name 'POOL" spelled with two striped billiard balls. This idea may have been restricted to Sample games as most <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> show the double letters "OO". The point values for the <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a> in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> appeared on the metal <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshot</a> bar and not on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> itself, such as the game in the manufacturer's flyer. During production, these point values were moved to the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> in front of the <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>. One game pictured in this listing has the point values on both the metal bars and the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Two Sample games have been identified with the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> Gottlieb logo having the word PRODUCT misspelled as PPODUCT. We don't know when during production that this error was caught and corrected but it may have been restricted to Sample games.<br><br>We previously showed a date for this game of May 1958. The new date is per Gottlieb documentation.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 2<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 132<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 110<br>
+The Pinball Compendium Electro-mechanical Era, page 101<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2022">http://www.pinballowners.com/owners/2022</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>Original Instruction Cards and Score Cards <!-- gid 2022 GTB_1958_Roto_Pool_Instruction_and_Score_Cards.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [D&#46; Gottlieb & Company]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2022/GTB_1958_Roto_Pool_Post_Adjustment_Chart_and_Misc_Paperwork.pdf" >Post Adjustment Chart and Misc Paperwork</a></td><td> [D&#46; Gottlieb & Company]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=4720" 
+><span title="Image # 4720: Roto Pool Flyer "><img src="https://www.ipdb.org/images/2022/tn_2022f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 4720: Roto Pool Flyer "><br>Flyer</span></a><br><font size="-2">900x663</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=5319" 
+><span title="Image # 5319: Roto Pool Score Card "><img src="https://www.ipdb.org/images/2022/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5319: Roto Pool Score Card "><br>Score Card</span></a><br><font size="-2">1024x1326</font><br>[Scott Phillips]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=5620" 
+><span title="Image # 5620: Roto Pool Cabinet - Right "><img src="https://www.ipdb.org/images/2022/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 5620: Roto Pool Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x955</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=13095" 
+><span title="Image # 13095: Roto Pool Backbox - Left "><img src="https://www.ipdb.org/images/2022/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 13095: Roto Pool Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">700x867</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=13096" 
+><span title="Image # 13096: Roto Pool Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 13096: Roto Pool Playfield "><br>Playfield</span></a><br><font size="-2">700x910</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=13097" 
+><span title="Image # 13097: Roto Pool Cabinet - Full View "><img src="https://www.ipdb.org/images/2022/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 13097: Roto Pool Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">700x1096</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=13098" 
+><span title="Image # 13098: Roto Pool Backbox - Left "><img src="https://www.ipdb.org/images/2022/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 13098: Roto Pool Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">725x997</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19306" 
+><span title="Image # 19306: Roto Pool Under Playfield Unit "><img src="https://www.ipdb.org/images/2022/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19306: Roto Pool Under Playfield Unit "><br>Under Playfield Unit</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19307" 
+><span title="Image # 19307: Roto Pool Apron "><img src="https://www.ipdb.org/images/2022/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 19307: Roto Pool Apron "><br>Apron</span></a><br><font size="-2">640x377</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19308" 
+><span title="Image # 19308: Roto Pool Lower Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19308: Roto Pool Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19309" 
+><span title="Image # 19309: Roto Pool Upper Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19309: Roto Pool Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19310" 
+><span title="Image # 19310: Roto Pool Under Lower Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19310: Roto Pool Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19311" 
+><span title="Image # 19311: Roto Pool Cabinet - Front View "><img src="https://www.ipdb.org/images/2022/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 19311: Roto Pool Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">239x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19312" 
+><span title="Image # 19312: Roto Pool Cabinet - Front "><img src="https://www.ipdb.org/images/2022/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 19312: Roto Pool Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">446x428</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19313" 
+><span title="Image # 19313: Roto Pool Backbox - Left "><img src="https://www.ipdb.org/images/2022/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 19313: Roto Pool Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">351x464</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19314" 
+><span title="Image # 19314: Roto Pool Cabinet - Left "><img src="https://www.ipdb.org/images/2022/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 19314: Roto Pool Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">584x334</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19315" 
+><span title="Image # 19315: Roto Pool Cabinet - Left "><img src="https://www.ipdb.org/images/2022/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 19315: Roto Pool Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">493x415</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19316" 
+><span title="Image # 19316: Roto Pool Backbox - Right "><img src="https://www.ipdb.org/images/2022/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 19316: Roto Pool Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">292x547</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19317" 
+><span title="Image # 19317: Roto Pool Cabinet - Right "><img src="https://www.ipdb.org/images/2022/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 19317: Roto Pool Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x347</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19318" 
+><span title="Image # 19318: Roto Pool Cabinet - Right "><img src="https://www.ipdb.org/images/2022/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 19318: Roto Pool Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">583x444</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19319" 
+><span title="Image # 19319: Roto Pool Upper Playfield Detail "><img src="https://www.ipdb.org/images/2022/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19319: Roto Pool Upper Playfield Detail "><br>Upper Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19320" 
+><span title="Image # 19320: Roto Pool Middle Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19320: Roto Pool Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19321" 
+><span title="Image # 19321: Roto Pool Lower Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19321: Roto Pool Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19322" 
+><span title="Image # 19322: Roto Pool Playfield Arch "><img src="https://www.ipdb.org/images/2022/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19322: Roto Pool Playfield Arch "><br>Playfield Arch</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19323" 
+><span title="Image # 19323: Roto Pool Balls Played Indicator "><img src="https://www.ipdb.org/images/2022/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19323: Roto Pool Balls Played Indicator "><br>Balls Played Indicator</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19324" 
+><span title="Image # 19324: Roto Pool Playfield - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19324: Roto Pool Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19325" 
+><span title="Image # 19325: Roto Pool Playfield - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19325: Roto Pool Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19326" 
+><span title="Image # 19326: Roto Pool Playfield - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19326: Roto Pool Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19327" 
+><span title="Image # 19327: Roto Pool Playfield - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19327: Roto Pool Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19328" 
+><span title="Image # 19328: Roto Pool Playfield - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19328: Roto Pool Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19329" 
+><span title="Image # 19329: Roto Pool Playfield - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19329: Roto Pool Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19330" 
+><span title="Image # 19330: Roto Pool Inside Cabinet "><img src="https://www.ipdb.org/images/2022/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19330: Roto Pool Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19331" 
+><span title="Image # 19331: Roto Pool Under Lower Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19331: Roto Pool Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19332" 
+><span title="Image # 19332: Roto Pool Under Middle Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19332: Roto Pool Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19333" 
+><span title="Image # 19333: Roto Pool Under Upper Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19333: Roto Pool Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19334" 
+><span title="Image # 19334: Roto Pool Inside Cabinet - Front "><img src="https://www.ipdb.org/images/2022/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19334: Roto Pool Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=19335" 
+><span title="Image # 19335: Roto Pool Backbox "><img src="https://www.ipdb.org/images/2022/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 19335: Roto Pool Backbox "><br>Backbox</span></a><br><font size="-2">501x478</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=23172" 
+><span title="Image # 23172: Roto Pool Left Side View "><img src="https://www.ipdb.org/images/2022/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23172: Roto Pool Left Side View "><br>Left Side View</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=23173" 
+><span title="Image # 23173: Roto Pool Backglass "><img src="https://www.ipdb.org/images/2022/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23173: Roto Pool Backglass "><br>Backglass</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=23174" 
+><span title="Image # 23174: Roto Pool Backglass "><img src="https://www.ipdb.org/images/2022/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23174: Roto Pool Backglass "><br>Backglass</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=23175" 
+><span title="Image # 23175: Roto Pool Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/2022/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23175: Roto Pool Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=23176" 
+><span title="Image # 23176: Roto Pool Playfield "><img src="https://www.ipdb.org/images/2022/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23176: Roto Pool Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2022&amp;picno=64027" 
+><span title="Image # 64027: Roto Pool Sample Game - Logo Misspelling 
+(The word 'Product' is misspelled. Serial number 08023 S.)"><img src="https://www.ipdb.org/images/2022/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64027: Roto Pool Sample Game - Logo Misspelling 
+(The word 'Product' is misspelled. Serial number 08023 S.)"><br>Sample Game - Logo Misspelling*</span></a><br><font size="-2">1200x896</font><br>[Bruce Brigham]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

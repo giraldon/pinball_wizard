@@ -1,0 +1,248 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Johnny Mnemonic'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Johnny Mnemonic Flippers(2), Pop bumpers (3), Slingshots (2), Ramps(2), Touch tone Multiball (2 ball), Quick Multiball (2 ball), Multiball (3 ball), Video Mode, Power Down Wizard Mode (4 balls continuously till 'power down'), Automatic Plunger. Unlimited buy-in balls per player (operator option). Magnetic ball lift via movable hand/glove, Matrix ball lock  John Youssi George Gomez Adam Rhine Brian Morris Tom Kopera Dave Zabriskie Tom Uban Dave Zabriskie ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Johnny Mnemonic' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Johnny Mnemonic</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3683">Johnny Mnemonic</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3683">3683</a> <I>/ August 08, 1995 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=3683" target="showrate3683"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=3683" target="showrate3683">104 ratings/76 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3683" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August 08, 1995</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50042</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>JM, JMn</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=30">Williams WPC Security (WPC-S)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,756 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3683">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Flippers(2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Ramps(2), Touch tone <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (2 ball), Quick <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (2 ball), <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (3 ball), <a target="glossary" class="glossarylink" href="/glossary.php#Video_Mode">Video&nbsp;Mode</a>, Power Down <a target="glossary" class="glossarylink" href="/glossary.php#Wizard_Mode">Wizard&nbsp;Mode</a> (4 balls continuously till 'power down'), Automatic <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">Plunger</a>. Unlimited <a target="glossary" class="glossarylink" href="/glossary.php#Buy-In">buy-in</a> balls per player (operator option).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Magnetic ball lift via movable hand/glove, Matrix ball lock</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Adam&nbsp;Rhine' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Adam%20Rhine">Adam&nbsp;Rhine</a></span>, <span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Morris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Morris">Brian&nbsp;Morris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Kopera' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Kopera">Tom&nbsp;Kopera</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Zabriskie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Zabriskie">Dave&nbsp;Zabriskie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Zabriskie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Zabriskie">Dave&nbsp;Zabriskie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Uban' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Uban">Tom&nbsp;Uban</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Atlanta Journal & Atlanta Constitution November 26, 1995, pp. G4:1.<br>
+Cigar Aficionado Autumn 1996, pp. 320 ,321,323,324,327,328,331,332,335,336,339,341. pp. (Game, PF)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 203<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/3683/MNEMONIC.HTM" target="rulesheet">Johnny Mnemonic Rulesheet Version 0.2, by Rich Derr</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#3683">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=2dI5yGE2pPk">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 368 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Belgium_Game_ROM_V1_2.zip" >Belgium Game ROM V1.2</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 368 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Game_ROM_V1_2.zip" >Game ROM V1.2</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/jm_12r.zip" >PinMAME Romset (1.2R)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_English_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 16 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Manual_Addendum_1.pdf" onClick="return purchasemanual();">Manual Addendum 1</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 17 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Manual_Addendum_2.pdf" onClick="return purchasemanual();">Manual Addendum 2</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 196 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 20 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Service_Bulletin_85.pdf" >Service Bulletin #85</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 33 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_Service_Bulletin_87.pdf" >Service Bulletin #87</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=2949" 
+><span title="Image # 2949: Johnny Mnemonic Playfield "><img src="https://www.ipdb.org/images/3683/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 2949: Johnny Mnemonic Playfield "><br>Playfield</span></a><br><font size="-2">260x552</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=4414" 
+><span title="Image # 4414: Johnny Mnemonic Flyer, Front "><img src="https://www.ipdb.org/images/3683/tn_3683f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4414: Johnny Mnemonic Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">634x822</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=4415" 
+><span title="Image # 4415: Johnny Mnemonic Flyer, Back "><img src="https://www.ipdb.org/images/3683/tn_3683f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4415: Johnny Mnemonic Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">638x825</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=5205" 
+><span title="Image # 5205: Johnny Mnemonic Translite "><img src="https://www.ipdb.org/images/3683/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 5205: Johnny Mnemonic Translite "><br>Translite</span></a><br><font size="-2">730x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=12108" 
+><span title="Image # 12108: Johnny Mnemonic Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12108: Johnny Mnemonic Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Crosio Roberto]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=12109" 
+><span title="Image # 12109: Johnny Mnemonic Left Ramp Detail "><img src="https://www.ipdb.org/images/3683/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12109: Johnny Mnemonic Left Ramp Detail "><br>Left Ramp Detail</span></a><br><font size="-2">768x1024</font><br>[Crosio Roberto]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=12110" 
+><span title="Image # 12110: Johnny Mnemonic Left Side "><img src="https://www.ipdb.org/images/3683/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 12110: Johnny Mnemonic Left Side "><br>Left Side</span></a><br><font size="-2">725x757</font><br>[Crosio Roberto]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=12111" 
+><span title="Image # 12111: Johnny Mnemonic Magnetic Hand Mechanism "><img src="https://www.ipdb.org/images/3683/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12111: Johnny Mnemonic Magnetic Hand Mechanism "><br>Magnetic Hand Mechanism</span></a><br><font size="-2">1024x768</font><br>[Crosio Roberto]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=12112" 
+><span title="Image # 12112: Johnny Mnemonic Right Side "><img src="https://www.ipdb.org/images/3683/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 12112: Johnny Mnemonic Right Side "><br>Right Side</span></a><br><font size="-2">673x765</font><br>[Crosio Roberto]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22042" 
+><span title="Image # 22042: Johnny Mnemonic Full Machine "><img src="https://www.ipdb.org/images/3683/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 22042: Johnny Mnemonic Full Machine "><br>Full Machine</span></a><br><font size="-2">600x835</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22043" 
+><span title="Image # 22043: Johnny Mnemonic Front - Double Chute "><img src="https://www.ipdb.org/images/3683/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 22043: Johnny Mnemonic Front - Double Chute "><br>Front - Double Chute</span></a><br><font size="-2">500x321</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22044" 
+><span title="Image # 22044: Johnny Mnemonic Cabinet - Left "><img src="https://www.ipdb.org/images/3683/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 22044: Johnny Mnemonic Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">500x438</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22045" 
+><span title="Image # 22045: Johnny Mnemonic Cabinet - Right "><img src="https://www.ipdb.org/images/3683/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 22045: Johnny Mnemonic Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">500x478</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22046" 
+><span title="Image # 22046: Johnny Mnemonic Cabinet - Rear "><img src="https://www.ipdb.org/images/3683/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22046: Johnny Mnemonic Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22047" 
+><span title="Image # 22047: Johnny Mnemonic Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22047: Johnny Mnemonic Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22048" 
+><span title="Image # 22048: Johnny Mnemonic Upper Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22048: Johnny Mnemonic Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22049" 
+><span title="Image # 22049: Johnny Mnemonic Lower Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22049: Johnny Mnemonic Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22050" 
+><span title="Image # 22050: Johnny Mnemonic Lower Right Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22050: Johnny Mnemonic Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22051" 
+><span title="Image # 22051: Johnny Mnemonic Middle Right Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22051: Johnny Mnemonic Middle Right Playfield "><br>Middle Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22052" 
+><span title="Image # 22052: Johnny Mnemonic Upper Right Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22052: Johnny Mnemonic Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22053" 
+><span title="Image # 22053: Johnny Mnemonic Lower Left Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22053: Johnny Mnemonic Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22054" 
+><span title="Image # 22054: Johnny Mnemonic Middle Left Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22054: Johnny Mnemonic Middle Left Playfield "><br>Middle Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22055" 
+><span title="Image # 22055: Johnny Mnemonic Upper Left Playfield "><img src="https://www.ipdb.org/images/3683/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22055: Johnny Mnemonic Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22056" 
+><span title="Image # 22056: Johnny Mnemonic Playfield Detail "><img src="https://www.ipdb.org/images/3683/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22056: Johnny Mnemonic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22057" 
+><span title="Image # 22057: Johnny Mnemonic Playfield Detail "><img src="https://www.ipdb.org/images/3683/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22057: Johnny Mnemonic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22058" 
+><span title="Image # 22058: Johnny Mnemonic Playfield Detail "><img src="https://www.ipdb.org/images/3683/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22058: Johnny Mnemonic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22059" 
+><span title="Image # 22059: Johnny Mnemonic Playfield Detail "><img src="https://www.ipdb.org/images/3683/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22059: Johnny Mnemonic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22060" 
+><span title="Image # 22060: Johnny Mnemonic Playfield Detail "><img src="https://www.ipdb.org/images/3683/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22060: Johnny Mnemonic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22061" 
+><span title="Image # 22061: Johnny Mnemonic Playfield Underside "><img src="https://www.ipdb.org/images/3683/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22061: Johnny Mnemonic Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22062" 
+><span title="Image # 22062: Johnny Mnemonic Cabinet - Inside "><img src="https://www.ipdb.org/images/3683/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22062: Johnny Mnemonic Cabinet - Inside "><br>Cabinet - Inside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22063" 
+><span title="Image # 22063: Johnny Mnemonic Backbox Electronics "><img src="https://www.ipdb.org/images/3683/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22063: Johnny Mnemonic Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=22064" 
+><span title="Image # 22064: Johnny Mnemonic Backbox "><img src="https://www.ipdb.org/images/3683/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22064: Johnny Mnemonic Backbox "><br>Backbox</span></a><br><font size="-2">600x800</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=27636" 
+><span title="Image # 27636: Johnny Mnemonic NOS Playfield (Uncut Matrix Mini PF) "><img src="https://www.ipdb.org/images/3683/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 27636: Johnny Mnemonic NOS Playfield (Uncut Matrix Mini PF) "><br>NOS Playfield (Uncut Matrix Mini PF)</span></a><br><font size="-2">600x1356</font><br>[Victor Ireland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=29996" 
+><span title="Image # 29996: Johnny Mnemonic Front - Single Chute "><img src="https://www.ipdb.org/images/3683/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29996: Johnny Mnemonic Front - Single Chute "><br>Front - Single Chute</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=42282" 
+><span title="Image # 42282: Johnny Mnemonic Playfield - Ball View "><img src="https://www.ipdb.org/images/3683/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 42282: Johnny Mnemonic Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x893</font><br>[Jasper van Eeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=50934" 
+><span title="Image # 50934: Johnny Mnemonic Backglass "><img src="https://www.ipdb.org/images/3683/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 50934: Johnny Mnemonic Backglass "><br>Backglass</span></a><br><font size="-2">1200x818</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=54232" 
+><span title="Image # 54232: Johnny Mnemonic Backbox - Right "><img src="https://www.ipdb.org/images/3683/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 54232: Johnny Mnemonic Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">737x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=54233" 
+><span title="Image # 54233: Johnny Mnemonic Cabinet - Right "><img src="https://www.ipdb.org/images/3683/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=49 alt="Image # 54233: Johnny Mnemonic Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x506</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=54234" 
+><span title="Image # 54234: Johnny Mnemonic Cabinet - Front "><img src="https://www.ipdb.org/images/3683/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 54234: Johnny Mnemonic Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x665</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=54235" 
+><span title="Image # 54235: Johnny Mnemonic Cabinet - Front View "><img src="https://www.ipdb.org/images/3683/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 54235: Johnny Mnemonic Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">692x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3683&amp;picno=66154" 
+><span title="Image # 66154: Johnny Mnemonic Sample Sound ROMs "><img src="https://www.ipdb.org/images/3683/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 66154: Johnny Mnemonic Sample Sound ROMs "><br>Sample Sound ROMs</span></a><br><font size="-2">450x800</font><br>[Peter Lukats]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

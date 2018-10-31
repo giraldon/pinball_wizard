@@ -1,0 +1,367 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'The Getaway: High Speed II'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams The Getaway: High Speed II High Speed II: The Getaway Flippers (3), Pop bumpers (3), 3-bank standup targets (5), Left ramp with a diverter (which diverts the ball either to the Supercharger ball accelerator or to the left habitrail), Diverter on the upper right side of the playfield (which diverts the ball either to the right orbit or to the ball lock on the right side of the playfield), Left outlane kickback, Kick-out hole (1), 3-ball Multiball, Autoplunger, Video mode, 'Supercharger' Magnetic ball accelerator. Gear shift (for launching the ball and for shifting gears during main gameplay, as well as the video mode). Red police light on top of the backbox. Traffic light on the upper-right side of the playfield.  Doug Watson Mark Sprenger Steve Ritchie Scott Slomiany Carl Biagi Dan Forden Dwight Sullivan Dan Forden ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'The Getaway: High Speed II' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>The Getaway: High Speed II</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1000">The Getaway: High Speed II</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1000">1000</a> <I>/ February 02, 1992 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1000" target="showrate1000"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1000" target="showrate1000">272 ratings/191 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1000" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February 02, 1992</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50004</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>HS2, HSII</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=31">Williams WPC (Fliptronics 2)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>13,259 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1000">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cops - Driving - Police - Speeding</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a> (5), Left <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> with a <a target="glossary" class="glossarylink" href="/glossary.php#Diverter">diverter</a> (which diverts the ball either to the Supercharger ball accelerator or to the left habitrail), <a target="glossary" class="glossarylink" href="/glossary.php#Diverter">Diverter</a> on the upper right side of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> (which diverts the ball either to the right orbit or to the ball lock on the right side of the playfield), Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Autoplunger">Autoplunger</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Video_Mode">Video&nbsp;mode</a>, "Supercharger" Magnetic ball accelerator. Gear shift (for launching the ball and for shifting gears during main gameplay, as well as the video mode).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Red police light on top of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. Traffic light on the upper-right side of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Ritchie">Steve&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Doug&nbsp;Watson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Doug%20Watson">Doug&nbsp;Watson</a></span>, <span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Sprenger' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Sprenger">Mark&nbsp;Sprenger</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Slomiany' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Slomiany">Scott&nbsp;Slomiany</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Carl&nbsp;Biagi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Carl%20Biagi">Carl&nbsp;Biagi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dwight&nbsp;Sullivan' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dwight%20Sullivan">Dwight&nbsp;Sullivan</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>According to Doug Watson, it is Steve Ritchie in the driver's seat of the getaway car.<br><br>Doug Watson did the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> art and Mark Sprenger did all other art.<br><br>This game uses the song, "<a href='http://www.allmusic.com/cg/amg.dll?p=amg&searchlink=ZZTOP&sql=11:1sn20r1ac48p~T3' target='zztoplagrange'>La Grange</a>" (by <a href='http://www.allmusic.com/cg/amg.dll?p=amg&searchlink=ZZTOP&sql=11:1sn20r1ac48p~T0' target='zztop'>ZZ Top</a>), as its theme song.<br>--<br><br>There are 2 versions of this game. Unless otherwise noted, the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> images shown here are of the first version.  Notable differences are as follows:<br><br>1. First version was not diamond coated<br><br>2. Art work on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> for the 1st, 2nd, etc. "gear lights" is yellow in the first version, and fluorescent orange with the word "gear" added on later versions.  e.g.: "1st Gear" vs "1st".   Also, the first version has the words "Supercharger" in front of the super charger entrance.<br><br>3. Front <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> decal on first version is of the <a target="glossary" class="glossarylink" href="/glossary.php#Head">head</a> lights of the car on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.  This was changed on the later version and the word "Getaway" was added under coin door.<br><br>4. First version has single <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> hinge, not allowing <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to be pulled forward for servicing.  Switches and brackets were also moved on later versions to suit later style <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> hinge system.  The early version also has 2 extra GE lights on the right side of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, but they were removed to fit the new hinge system.<br><br>5. First version used a standard 23/850 <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> and bell amature assembly for the ball launcher; later version used a much larger, more powerfull assembly.<br><br>6. Added ball deflector to rear glass channel on later versions to prevent air balls from falling into <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> (Top left corner).<br><br>7. Bar code added to left <a target="glossary" class="glossarylink" href="/glossary.php#Return_Lane">return&nbsp;lane</a> under diamond coat on later version<br><br>-----<br><br>This game is renowned for blowing U20 on the MPU board.  This is caused by balls getting stuck under <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>, which can smash the bulb, shorting the bulb filament to the sling switch and instantly blowing U20.   If you have a switch matrix problem that says "Ground Short" check under your slings for a lodged ball. <br><br>If checking for voltage to "Mars Lamp" Red rotating light, the manual states 48VAC but the correct voltage is 20VAC.<br><br>-----<br><br>Included in this listing are pictures of a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> "mountain" that was not installed on production games. Reportedly, there were only twenty formed, with six of them cut and fitted for the game. Steve Ritchie comments: <i>"The vacuform "mountain / tunnel" was deleted from the design as a cost reduction.  Only a few were painted, and that was where the big cost savings came in.  [The reported] quantity numbers sound right, but it was a long time ago."</i><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Shift into High Gear!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 145 and 163<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 156<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764326090/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764326090&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Perspectives</a>, pages 10, 97-101<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1000/getaway.htm" target="rulesheet">High Speed II: The Getaway Guide (Mar/03/1994), by Sigma</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.chrisguk.somee.com/pinball/details.asp?table=hs2">http://www.chrisguk.somee.com/pinball/details.asp?table=hs2</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#1000">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=LIJi0G_2VYA">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 512 KB</td><td align=left nowrap width="5%">&nbsp;BIN&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Game_ROM_Prototype_P_7.bin" >Game ROM - Prototype P-7</a></td><td> [Williams Electronic Games, Inc]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 223 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Game_ROM_Prototype_P_C.zip" >Game ROM - Prototype P-C</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 223 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Game_ROM_L_1.zip" >Game ROM L-1</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 225 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 232 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Game_ROM_L_3.zip" >Game ROM L-3</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 288 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Game_ROM_L_5.zip" >Game ROM L-5</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 223 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/gw_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 225 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/gw_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 229 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/gw_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 640 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/gw_l5.zip" >PinMAME Romset (L-5)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 634 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/gw_pc.zip" >PinMAME Romset (P-C)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_English_Manual_with_OCR.pdf" onClick="return purchasemanual();">English Manual (OCR searchable)</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 200 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_WPC_Schematics_Revised_May_17_1993_.pdf" onClick="return purchasemanual();">WPC Schematics (Revised May 17, 1993)</a></td><td> [Williams Electronic Games Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Graphic_Rule_Sheet_French_language.pdf" >Graphic Rule Sheet (French language)</a></td><td> [Jacques Detroyat]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 109 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1000/Williams_1992_The_Getaway_High_Speed_II_Reproduction_Score_and_Instruction_Cards_Including_Dutch_French.zip" >Reproduction Score and Instruction Cards (Including Dutch & French)</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=4496" 
+><span title="Image # 4496: The Getaway: High Speed II Flyer, Front "><img src="https://www.ipdb.org/images/1000/tn_1000f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4496: The Getaway: High Speed II Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=4497" 
+><span title="Image # 4497: The Getaway: High Speed II Flyer, Back "><img src="https://www.ipdb.org/images/1000/tn_1000f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4497: The Getaway: High Speed II Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=6798" 
+><span title="Image # 6798: The Getaway: High Speed II Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 6798: The Getaway: High Speed II Playfield "><br>Playfield</span></a><br><font size="-2">576x762</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=6799" 
+><span title="Image # 6799: The Getaway: High Speed II Playfield Detail "><img src="https://www.ipdb.org/images/1000/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 6799: The Getaway: High Speed II Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">576x419</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=6800" 
+><span title="Image # 6800: The Getaway: High Speed II Under Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=36 height=100 alt="Image # 6800: The Getaway: High Speed II Under Playfield "><br>Under Playfield</span></a><br><font size="-2">360x995</font><br>[John Kirby]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=6801" 
+><span title="Image # 6801: The Getaway: High Speed II Inside Backbox "><img src="https://www.ipdb.org/images/1000/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 6801: The Getaway: High Speed II Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">360x318</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=6802" 
+><span title="Image # 6802: The Getaway: High Speed II Cabinet "><img src="https://www.ipdb.org/images/1000/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 6802: The Getaway: High Speed II Cabinet "><br>Cabinet</span></a><br><font size="-2">432x360</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=8635" 
+><span title="Image # 8635: The Getaway: High Speed II Backglass "><img src="https://www.ipdb.org/images/1000/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 8635: The Getaway: High Speed II Backglass "><br>Backglass</span></a><br><font size="-2">606x505</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=8636" 
+><span title="Image # 8636: The Getaway: High Speed II Full Machine "><img src="https://www.ipdb.org/images/1000/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 8636: The Getaway: High Speed II Full Machine "><br>Full Machine</span></a><br><font size="-2">651x1091</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=8637" 
+><span title="Image # 8637: The Getaway: High Speed II Cabinet Right "><img src="https://www.ipdb.org/images/1000/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 8637: The Getaway: High Speed II Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">650x777</font><br>[Steve Nordseth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=8638" 
+><span title="Image # 8638: The Getaway: High Speed II Cabinet Left "><img src="https://www.ipdb.org/images/1000/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 8638: The Getaway: High Speed II Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">648x729</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=8640" 
+><span title="Image # 8640: The Getaway: High Speed II Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 8640: The Getaway: High Speed II Playfield "><br>Playfield</span></a><br><font size="-2">646x908</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=8641" 
+><span title="Image # 8641: The Getaway: High Speed II Middle Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 8641: The Getaway: High Speed II Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">654x575</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=9781" 
+><span title="Image # 9781: The Getaway: High Speed II Backbox "><img src="https://www.ipdb.org/images/1000/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 9781: The Getaway: High Speed II Backbox "><br>Backbox</span></a><br><font size="-2">1024x1151</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=9782" 
+><span title="Image # 9782: The Getaway: High Speed II Upper Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 9782: The Getaway: High Speed II Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x930</font><br>[Christopher Wolf]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=9783" 
+><span title="Image # 9783: The Getaway: High Speed II Lower Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 9783: The Getaway: High Speed II Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x1068</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21951" 
+><span title="Image # 21951: The Getaway: High Speed II Full Machine "><img src="https://www.ipdb.org/images/1000/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 21951: The Getaway: High Speed II Full Machine "><br>Full Machine</span></a><br><font size="-2">700x1071</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21952" 
+><span title="Image # 21952: The Getaway: High Speed II Cabinet - Front "><img src="https://www.ipdb.org/images/1000/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21952: The Getaway: High Speed II Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21953" 
+><span title="Image # 21953: The Getaway: High Speed II Cabinet - Left "><img src="https://www.ipdb.org/images/1000/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21953: The Getaway: High Speed II Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21954" 
+><span title="Image # 21954: The Getaway: High Speed II Backbox - Left "><img src="https://www.ipdb.org/images/1000/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21954: The Getaway: High Speed II Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21955" 
+><span title="Image # 21955: The Getaway: High Speed II CAbinet - Right "><img src="https://www.ipdb.org/images/1000/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21955: The Getaway: High Speed II CAbinet - Right "><br>CAbinet - Right</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21956" 
+><span title="Image # 21956: The Getaway: High Speed II Backbox - Right "><img src="https://www.ipdb.org/images/1000/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21956: The Getaway: High Speed II Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21957" 
+><span title="Image # 21957: The Getaway: High Speed II Cabinet - Rear "><img src="https://www.ipdb.org/images/1000/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21957: The Getaway: High Speed II Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21958" 
+><span title="Image # 21958: The Getaway: High Speed II Upper Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21958: The Getaway: High Speed II Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21959" 
+><span title="Image # 21959: The Getaway: High Speed II Lower Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21959: The Getaway: High Speed II Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21960" 
+><span title="Image # 21960: The Getaway: High Speed II Lower Right Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21960: The Getaway: High Speed II Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21961" 
+><span title="Image # 21961: The Getaway: High Speed II Middle Right Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21961: The Getaway: High Speed II Middle Right Playfield "><br>Middle Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21962" 
+><span title="Image # 21962: The Getaway: High Speed II Upper Right Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21962: The Getaway: High Speed II Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21963" 
+><span title="Image # 21963: The Getaway: High Speed II Lower Left Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21963: The Getaway: High Speed II Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21964" 
+><span title="Image # 21964: The Getaway: High Speed II Middle Left Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21964: The Getaway: High Speed II Middle Left Playfield "><br>Middle Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21965" 
+><span title="Image # 21965: The Getaway: High Speed II Upper Left Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21965: The Getaway: High Speed II Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21966" 
+><span title="Image # 21966: The Getaway: High Speed II Pop Bumpers "><img src="https://www.ipdb.org/images/1000/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21966: The Getaway: High Speed II Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21967" 
+><span title="Image # 21967: The Getaway: High Speed II Playfield Detail "><img src="https://www.ipdb.org/images/1000/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21967: The Getaway: High Speed II Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21968" 
+><span title="Image # 21968: The Getaway: High Speed II Playfield Detail "><img src="https://www.ipdb.org/images/1000/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21968: The Getaway: High Speed II Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21969" 
+><span title="Image # 21969: The Getaway: High Speed II Playfield Detail "><img src="https://www.ipdb.org/images/1000/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21969: The Getaway: High Speed II Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21970" 
+><span title="Image # 21970: The Getaway: High Speed II Playfield Detail "><img src="https://www.ipdb.org/images/1000/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21970: The Getaway: High Speed II Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21971" 
+><span title="Image # 21971: The Getaway: High Speed II Playfield Detail "><img src="https://www.ipdb.org/images/1000/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21971: The Getaway: High Speed II Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x525</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21972" 
+><span title="Image # 21972: The Getaway: High Speed II Backbox Electronics "><img src="https://www.ipdb.org/images/1000/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21972: The Getaway: High Speed II Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21973" 
+><span title="Image # 21973: The Getaway: High Speed II Playfield Underside "><img src="https://www.ipdb.org/images/1000/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21973: The Getaway: High Speed II Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21974" 
+><span title="Image # 21974: The Getaway: High Speed II Cabinet - Inside "><img src="https://www.ipdb.org/images/1000/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21974: The Getaway: High Speed II Cabinet - Inside "><br>Cabinet - Inside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21975" 
+><span title="Image # 21975: The Getaway: High Speed II Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21975: The Getaway: High Speed II Playfield "><br>Playfield</span></a><br><font size="-2">700x933</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=21976" 
+><span title="Image # 21976: The Getaway: High Speed II Backbox "><img src="https://www.ipdb.org/images/1000/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21976: The Getaway: High Speed II Backbox "><br>Backbox</span></a><br><font size="-2">700x933</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=32051" 
+><span title="Image # 32051: The Getaway: High Speed II Prototype Mountain "><img src="https://www.ipdb.org/images/1000/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32051: The Getaway: High Speed II Prototype Mountain "><br>Prototype Mountain</span></a><br><font size="-2">504x378</font><br>[Timbre Bjornson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=32052" 
+><span title="Image # 32052: The Getaway: High Speed II Prototype Mountain - Ball View "><img src="https://www.ipdb.org/images/1000/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32052: The Getaway: High Speed II Prototype Mountain - Ball View "><br>Prototype Mountain - Ball View</span></a><br><font size="-2">504x378</font><br>[Timbre Bjornson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=36826" 
+><span title="Image # 36826: The Getaway: High Speed II Backglass "><img src="https://www.ipdb.org/images/1000/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 36826: The Getaway: High Speed II Backglass "><br>Backglass</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37125" 
+><span title="Image # 37125: The Getaway: High Speed II 2nd Version Blank Playfield 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-A43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 37125: The Getaway: High Speed II 2nd Version Blank Playfield 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield*</span></a><br><font size="-2">968x2000</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37126" 
+><span title="Image # 37126: The Getaway: High Speed II 2nd Version Blank Playfield - Reverse 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-A44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 37126: The Getaway: High Speed II 2nd Version Blank Playfield - Reverse 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Reverse*</span></a><br><font size="-2">766x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37127" 
+><span title="Image # 37127: The Getaway: High Speed II 2nd Version Blank Playfield - Top 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37127: The Getaway: High Speed II 2nd Version Blank Playfield - Top 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Top*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37128" 
+><span title="Image # 37128: The Getaway: High Speed II 2nd Version Blank Playfield - Middle 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37128: The Getaway: High Speed II 2nd Version Blank Playfield - Middle 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Middle*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37129" 
+><span title="Image # 37129: The Getaway: High Speed II 2nd Version Blank Playfield - Bottom 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37129: The Getaway: High Speed II 2nd Version Blank Playfield - Bottom 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Bottom*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37130" 
+><span title="Image # 37130: The Getaway: High Speed II 2nd Version Blank Playfield - Diamond Plate Marking 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37130: The Getaway: High Speed II 2nd Version Blank Playfield - Diamond Plate Marking 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Diamond Plate Marking*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37131" 
+><span title="Image # 37131: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37131: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37132" 
+><span title="Image # 37132: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37132: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37133" 
+><span title="Image # 37133: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37133: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37134" 
+><span title="Image # 37134: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37134: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37135" 
+><span title="Image # 37135: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37135: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37136" 
+><span title="Image # 37136: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37136: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37137" 
+><span title="Image # 37137: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37137: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=37138" 
+><span title="Image # 37138: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><img src="https://www.ipdb.org/images/1000/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37138: The Getaway: High Speed II 2nd Version Blank Playfield - Detail 
+(This playfield has the Diamond Plate coating.)"><br>2nd Version Blank Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=45329" 
+><span title="Image # 45329: The Getaway: High Speed II Diamond Plate Playfield "><img src="https://www.ipdb.org/images/1000/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 45329: The Getaway: High Speed II Diamond Plate Playfield "><br>Diamond Plate Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=45330" 
+><span title="Image # 45330: The Getaway: High Speed II Instruction Card "><img src="https://www.ipdb.org/images/1000/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45330: The Getaway: High Speed II Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=45331" 
+><span title="Image # 45331: The Getaway: High Speed II Inside Backbox "><img src="https://www.ipdb.org/images/1000/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45331: The Getaway: High Speed II Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=45332" 
+><span title="Image # 45332: The Getaway: High Speed II Inside Backbox - Detail "><img src="https://www.ipdb.org/images/1000/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45332: The Getaway: High Speed II Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=48591" 
+><span title="Image # 48591: The Getaway: High Speed II Cabinet - Left "><img src="https://www.ipdb.org/images/1000/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 48591: The Getaway: High Speed II Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x721</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=48592" 
+><span title="Image # 48592: The Getaway: High Speed II Cabinet - Front View "><img src="https://www.ipdb.org/images/1000/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 48592: The Getaway: High Speed II Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">701x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1000&amp;picno=51273" 
+><span title="Image # 51273: The Getaway: High Speed II Cabinet Front - First version "><img src="https://www.ipdb.org/images/1000/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51273: The Getaway: High Speed II Cabinet Front - First version "><br>Cabinet Front - First version</span></a><br><font size="-2">1200x900</font><br>[Sean Casey]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

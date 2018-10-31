@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Galaxy'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Galaxy Flippers (2), Pop bumpers (3), Slingshots (2), Star rollovers (4), Standup targets (3), 4-bank drop targets (1), Spinning target (1), Kick-out saucer (1), Kickback lane, Left and right dual inlanes.  Bob Timm Harry Williams ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Galaxy' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Galaxy</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="980">Galaxy</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=980">980</a> <I>/ January, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=980" target="showrate980"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=980" target="showrate980">30 ratings/25 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=980" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=302">Stern Electronics, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1977-1984) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>114</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=34">Stern M-200 MPU</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,947 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=980">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Saucer">Kick-out&nbsp;saucer</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">Kickback</a> lane, Left and right dual <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Harry&nbsp;Williams' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Harry%20Williams">Harry&nbsp;Williams</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bob&nbsp;Timm' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bob%20Timm">Bob&nbsp;Timm</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Galaxy' has computer-controlled general illumination and may be the first pinball machine to have it.<br><br>The artist's name is located on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> at the bottom end of the center blue galaxy. Artist Bob Timm told us he did both the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> for this game while he was at Ad Posters. He said <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art was always done at the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> maker and, as far as he knew, none of the game artists had anything to do with it.<br><br>This game was also manufactured in Australia under license as <span title="Click here to open a new window and display LAI's 1980 'Galaxy'"><a target="game6318" href="machine.cgi?id=6318">LAI's 1980 'Galaxy'</a></span>.<br><br>Manufacturer data for Galaxy:<br>Production Start Date: 1/16/80<br>Production End Date: 3/19/80<br>Quantity produced - full games: 4947<br>Quantity produced - <a target="glossary" class="glossarylink" href="/glossary.php#Knock-Down_Game">knock-down&nbsp;games</a><ignore>: 183 (see <span title="Click here to open a new window and display LAI's 1980 'Galaxy'"><a target="game6318" href="machine.cgi?id=6318">LAI's 1980 'Galaxy'</a></span>)<br>Total Quantity Produced: 5130<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Designed by the prophet of the pinball planet"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 17, 155-156<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 184<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 132-133<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/980">http://www.pinballowners.com/owners/980</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 6 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/galaxy.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 6 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/galaxyb.zip" >PinMAME Romset (7-digit bootleg)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 6 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/Stern_1980_Galaxy_ROMs.zip" >ROMs</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/Stern_1980_Galaxy_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 137 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/Stern_1980_Galaxy_Playfield_Parts_Diagram.pdf" onClick="return purchasemanual();">Playfield Parts Diagram</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 656 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/Stern_1980_Galaxy_Selected_Schematics_and_Wiring_Diagrams.pdf" onClick="return purchasemanual();">Selected Schematics and Wiring Diagrams (paginated)</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 41 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/980/Stern_1980_Galaxy_Reproduction_Instruction_Card.pdf" >Reproduction Instruction Card</a></td><td> [Mr&#46; Blik]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=965" 
+><span title="Image # 965: Galaxy Backglass "><img src="https://www.ipdb.org/images/980/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 965: Galaxy Backglass "><br>Backglass</span></a><br><font size="-2">479x414</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=3676" 
+><span title="Image # 3676: Galaxy Flyer, Back "><img src="https://www.ipdb.org/images/980/tn_980f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3676: Galaxy Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">605x782</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=3700" 
+><span title="Image # 3700: Galaxy Flyer - Front "><img src="https://www.ipdb.org/images/980/tn_980f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 3700: Galaxy Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">610x781</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=3701" 
+><span title="Image # 3701: Galaxy Flyer, Page 2 "><img src="https://www.ipdb.org/images/980/tn_980f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 3701: Galaxy Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">612x776</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=3702" 
+><span title="Image # 3702: Galaxy Flyer, Page 3 "><img src="https://www.ipdb.org/images/980/tn_980f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 3702: Galaxy Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">609x773</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=6313" 
+><span title="Image # 6313: Galaxy Instruction Card "><img src="https://www.ipdb.org/images/980/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 6313: Galaxy Instruction Card "><br>Instruction Card</span></a><br><font size="-2">600x419</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=25962" 
+><span title="Image # 25962: Galaxy Backglass - Reverse "><img src="https://www.ipdb.org/images/980/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 25962: Galaxy Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">606x471</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27625" 
+><span title="Image # 27625: Galaxy Inside Backbox "><img src="https://www.ipdb.org/images/980/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27625: Galaxy Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27626" 
+><span title="Image # 27626: Galaxy Backbox Insert "><img src="https://www.ipdb.org/images/980/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27626: Galaxy Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27627" 
+><span title="Image # 27627: Galaxy Backbox - Right "><img src="https://www.ipdb.org/images/980/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27627: Galaxy Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27628" 
+><span title="Image # 27628: Galaxy Backbox - Left "><img src="https://www.ipdb.org/images/980/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27628: Galaxy Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27629" 
+><span title="Image # 27629: Galaxy Cabinet - Left "><img src="https://www.ipdb.org/images/980/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=42 alt="Image # 27629: Galaxy Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x267</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27633" 
+><span title="Image # 27633: Galaxy Cabinet - Right "><img src="https://www.ipdb.org/images/980/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 27633: Galaxy Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">540x411</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27634" 
+><span title="Image # 27634: Galaxy Under Playfield "><img src="https://www.ipdb.org/images/980/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27634: Galaxy Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=27635" 
+><span title="Image # 27635: Galaxy Inside Cabinet "><img src="https://www.ipdb.org/images/980/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27635: Galaxy Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=32978" 
+><span title="Image # 32978: Galaxy Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32978: Galaxy Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Adriaan van Roeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35051" 
+><span title="Image # 35051: Galaxy Spinning Target - Obverse "><img src="https://www.ipdb.org/images/980/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 35051: Galaxy Spinning Target - Obverse "><br>Spinning Target - Obverse</span></a><br><font size="-2">1024x814</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35052" 
+><span title="Image # 35052: Galaxy Spinning Target - Reverse "><img src="https://www.ipdb.org/images/980/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 35052: Galaxy Spinning Target - Reverse "><br>Spinning Target - Reverse</span></a><br><font size="-2">1024x829</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35974" 
+><span title="Image # 35974: Galaxy Upper Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35974: Galaxy Upper Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35975" 
+><span title="Image # 35975: Galaxy Lower Playfield "><img src="https://www.ipdb.org/images/980/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35975: Galaxy Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35976" 
+><span title="Image # 35976: Galaxy Upper Left Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35976: Galaxy Upper Left Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Upper Left Playfield*</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35977" 
+><span title="Image # 35977: Galaxy Upper Right Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35977: Galaxy Upper Right Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Upper Right Playfield*</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35978" 
+><span title="Image # 35978: Galaxy Upper Right Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35978: Galaxy Upper Right Playfield 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Upper Right Playfield*</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35979" 
+><span title="Image # 35979: Galaxy Pop Bumpers and Planets "><img src="https://www.ipdb.org/images/980/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35979: Galaxy Pop Bumpers and Planets "><br>Pop Bumpers and Planets</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35980" 
+><span title="Image # 35980: Galaxy Galaxy Lane 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35980: Galaxy Galaxy Lane 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Galaxy Lane*</span></a><br><font size="-2">1024x1365</font><br>[Jasper van Eeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=35981" 
+><span title="Image # 35981: Galaxy Cabinet - Full View 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35981: Galaxy Cabinet - Full View 
+(The design on the spinning target does not match the one shown on the manufacturer flyer.)"><br>Cabinet - Full View*</span></a><br><font size="-2">1024x1365</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=54094" 
+><span title="Image # 54094: Galaxy Backglass "><img src="https://www.ipdb.org/images/980/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 54094: Galaxy Backglass "><br>Backglass</span></a><br><font size="-2">1024x915</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=61352" 
+><span title="Image # 61352: Galaxy Cabinet - Front View 
+(The spinning target is missing the design of the one shown on the manufacturer flyer.)"><img src="https://www.ipdb.org/images/980/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 61352: Galaxy Cabinet - Front View 
+(The spinning target is missing the design of the one shown on the manufacturer flyer.)"><br>Cabinet - Front View*</span></a><br><font size="-2">747x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=62758" 
+><span title="Image # 62758: Galaxy Artist Signature on Backglass "><img src="https://www.ipdb.org/images/980/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 62758: Galaxy Artist Signature on Backglass "><br>Artist Signature on Backglass</span></a><br><font size="-2">1024x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66769" 
+><span title="Image # 66769: Galaxy Whitewood Playfield "><img src="https://www.ipdb.org/images/980/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 66769: Galaxy Whitewood Playfield "><br>Whitewood Playfield</span></a><br><font size="-2">1171x2089</font><br>[Dave Slabiak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66770" 
+><span title="Image # 66770: Galaxy Whitewood Playfield - Upper "><img src="https://www.ipdb.org/images/980/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 66770: Galaxy Whitewood Playfield - Upper "><br>Whitewood Playfield - Upper</span></a><br><font size="-2">968x858</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66771" 
+><span title="Image # 66771: Galaxy Whitewood Playfield - Middle "><img src="https://www.ipdb.org/images/980/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 66771: Galaxy Whitewood Playfield - Middle "><br>Whitewood Playfield - Middle</span></a><br><font size="-2">960x900</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66772" 
+><span title="Image # 66772: Galaxy Whitewood Playfield - Lower "><img src="https://www.ipdb.org/images/980/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 66772: Galaxy Whitewood Playfield - Lower "><br>Whitewood Playfield - Lower</span></a><br><font size="-2">980x883</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66773" 
+><span title="Image # 66773: Galaxy Whitewood Playfield Backside "><img src="https://www.ipdb.org/images/980/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 66773: Galaxy Whitewood Playfield Backside "><br>Whitewood Playfield Backside</span></a><br><font size="-2">739x1359</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66774" 
+><span title="Image # 66774: Galaxy Whitewood Playfield Backside Upper "><img src="https://www.ipdb.org/images/980/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 66774: Galaxy Whitewood Playfield Backside Upper "><br>Whitewood Playfield Backside Upper</span></a><br><font size="-2">1041x823</font><br>[Dave Slabiak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66775" 
+><span title="Image # 66775: Galaxy Whitewood Playfield Backside Middle "><img src="https://www.ipdb.org/images/980/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 66775: Galaxy Whitewood Playfield Backside Middle "><br>Whitewood Playfield Backside Middle</span></a><br><font size="-2">1166x899</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66776" 
+><span title="Image # 66776: Galaxy Whitewood Playfield Backside Lower "><img src="https://www.ipdb.org/images/980/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 66776: Galaxy Whitewood Playfield Backside Lower "><br>Whitewood Playfield Backside Lower</span></a><br><font size="-2">1200x883</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66777" 
+><span title="Image # 66777: Galaxy Whitewood Playfield Backside Top Left "><img src="https://www.ipdb.org/images/980/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 66777: Galaxy Whitewood Playfield Backside Top Left "><br>Whitewood Playfield Backside Top Left</span></a><br><font size="-2">1089x1514</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66778" 
+><span title="Image # 66778: Galaxy Whitewood Playfield Backside Top Middle "><img src="https://www.ipdb.org/images/980/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 66778: Galaxy Whitewood Playfield Backside Top Middle "><br>Whitewood Playfield Backside Top Middle</span></a><br><font size="-2">1200x1513</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66779" 
+><span title="Image # 66779: Galaxy Whitewood Playfield Backside Top Right "><img src="https://www.ipdb.org/images/980/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 66779: Galaxy Whitewood Playfield Backside Top Right "><br>Whitewood Playfield Backside Top Right</span></a><br><font size="-2">1068x1563</font><br>[Dave Slabiak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66780" 
+><span title="Image # 66780: Galaxy Whitewood Playfield Backside Middle Left "><img src="https://www.ipdb.org/images/980/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66780: Galaxy Whitewood Playfield Backside Middle Left "><br>Whitewood Playfield Backside Middle Left</span></a><br><font size="-2">1200x1600</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66781" 
+><span title="Image # 66781: Galaxy Whitewood Playfield Backside Center "><img src="https://www.ipdb.org/images/980/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66781: Galaxy Whitewood Playfield Backside Center "><br>Whitewood Playfield Backside Center</span></a><br><font size="-2">1200x1600</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66782" 
+><span title="Image # 66782: Galaxy Whitewood Playfield Backside Middle Right "><img src="https://www.ipdb.org/images/980/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 66782: Galaxy Whitewood Playfield Backside Middle Right "><br>Whitewood Playfield Backside Middle Right</span></a><br><font size="-2">1170x1600</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66783" 
+><span title="Image # 66783: Galaxy Whitewood Playfield Backside Bottom Left "><img src="https://www.ipdb.org/images/980/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 66783: Galaxy Whitewood Playfield Backside Bottom Left "><br>Whitewood Playfield Backside Bottom Left</span></a><br><font size="-2">1077x1600</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66784" 
+><span title="Image # 66784: Galaxy Whitewood Playfield Backside Bottom Middle "><img src="https://www.ipdb.org/images/980/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 66784: Galaxy Whitewood Playfield Backside Bottom Middle "><br>Whitewood Playfield Backside Bottom Middle</span></a><br><font size="-2">1200x1523</font><br>[Dave Slabiak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66785" 
+><span title="Image # 66785: Galaxy Whitewood Playfield Backside Bottom Right "><img src="https://www.ipdb.org/images/980/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 66785: Galaxy Whitewood Playfield Backside Bottom Right "><br>Whitewood Playfield Backside Bottom Right</span></a><br><font size="-2">929x1550</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=980&amp;picno=66786" 
+><span title="Image # 66786: Galaxy Whitewood Playfield Top Edge "><img src="https://www.ipdb.org/images/980/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=29 alt="Image # 66786: Galaxy Whitewood Playfield Top Edge "><br>Whitewood Playfield Top Edge</span></a><br><font size="-2">1200x351</font><br>[Dave Slabiak]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

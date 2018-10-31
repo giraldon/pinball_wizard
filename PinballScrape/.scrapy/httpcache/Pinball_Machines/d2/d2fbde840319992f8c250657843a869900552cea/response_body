@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Capcom 'Breakshot'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Capcom Breakshot 3 ball cue in the center of the playfield with a hole at the bottom, and 3 scoops at the top; after each ball is captured, a large metal plug rises and blocks the opening and the locked balls rest against it.  The player must then hit the plug to knock the balls into the scoops to start multiball.
+
+This 1996 game is designed in the older electromechanical style, with no ramps and a one-level playfield. It has a dot matrix display that shows the scores as score reel numbers, and digital sound that simulates EM chimes.  Stan Fukuoka Greg Kmiec Denise Wallner Chuck Biddlecom Jeff Powell Tony DeFeo ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Capcom 'Breakshot' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Breakshot</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3784">Breakshot</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3784">3784</a> <I>/ May, 1996 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=3784" target="showrate3784"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=3784" target="showrate3784">29 ratings/21 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3784" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Capcom Coin-Op, Incorporated'"><a href="search.pl?searchtype=advanced&amp;mfgid=76">Capcom Coin-Op, Incorporated (1995-1996) <i>[Trade Name: Capcom</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May, 1996</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>3584</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=32">Capcom A0015405</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3784">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Pool</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>3 ball cue in the center of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> with a hole at the bottom, and 3 <a target="glossary" class="glossarylink" href="/glossary.php#Scoop">scoops</a> at the top; after each ball is captured, a large metal plug rises and blocks the opening and the locked balls rest against it.  The player must then hit the plug to knock the balls into the <a target="glossary" class="glossarylink" href="/glossary.php#Scoop">scoops</a> to start <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>.<br><br>This 1996 game is designed in the older electromechanical style, with no <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> and a one-level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. It has a <a target="glossary" class="glossarylink" href="/glossary.php#Dot_Matrix_Display">dot&nbsp;matrix&nbsp;display</a> that shows the scores as score reel numbers, and digital sound that simulates <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> chimes.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Kmiec' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Kmiec">Greg&nbsp;Kmiec</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Stan&nbsp;Fukuoka' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Stan%20Fukuoka">Stan&nbsp;Fukuoka</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Denise&nbsp;Wallner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Denise%20Wallner">Denise&nbsp;Wallner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chuck&nbsp;Biddlecom' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chuck%20Biddlecom">Chuck&nbsp;Biddlecom</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jeff&nbsp;Powell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeff%20Powell">Jeff&nbsp;Powell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tony&nbsp;DeFeo' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tony%20DeFeo">Tony&nbsp;DeFeo</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>220lbs uncrated; 22 7/8" wide, 52 1/8" deep, 74 1/4" tall.<br><br>According to the book <i>Pinball Memories</i>, Capcom promoted 'Breakshot' as having the first loadable <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">captive&nbsp;ball</a> feature on a pinball. However, a different type of loadable <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">captive&nbsp;ball</a> feature can be found on <span title="Click here to open a new window and display Bally Midway's 1986 'Strange Science'"><a target="game2396" href="machine.cgi?id=2396">Bally Midway's 1986 'Strange Science'</a></span> and<br><span title="Click here to open a new window and display Bally Midway's 1987 'Heavy Metal Meltdown'"><a target="game1150" href="machine.cgi?id=1150">Bally Midway's 1987 'Heavy Metal Meltdown'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Now This is Pinball!"<br>
+"Now That's Pinball!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 203-206<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 220<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/3784/breakshot.htm" target="rulesheet">Breakshot Rulesheet Version 1.0, by FSPA</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/3784/BRKSHOT.TXT" target="rulesheet">Breakshot Quick Tips (May/13/1996), by Steve Baumgarten</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/3784">http://www.pinballowners.com/owners/3784</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#3784">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/bsv103.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 874 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/bsb105.zip" >PinMAME Romset (beta)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 575 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/bsv100r.zip" >PinMAME Romset (Redemption 1.0)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 569 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/bsv102r.zip" >PinMAME Romset (redemption 1.2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 880 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/Capcom_1996_Breakshot_ROM_V1_05_Beta.zip" >ROM V1.05 Beta</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/Capcom_1996_Breakshot_ROM_V1_3_03.zip" >ROM V1.3</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 20 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3784/Capcom_1996_Breakshot_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=2974" 
+><span title="Image # 2974: Breakshot Backglass "><img src="https://www.ipdb.org/images/3784/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 2974: Breakshot Backglass "><br>Backglass</span></a><br><font size="-2">938x704</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=2975" 
+><span title="Image # 2975: Breakshot Playfield "><img src="https://www.ipdb.org/images/3784/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 2975: Breakshot Playfield "><br>Playfield</span></a><br><font size="-2">532x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=10739" 
+><span title="Image # 10739: Breakshot Promotional Photo "><img src="https://www.ipdb.org/images/3784/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 10739: Breakshot Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">530x670</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=10740" 
+><span title="Image # 10740: Breakshot Press Release "><img src="https://www.ipdb.org/images/3784/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 10740: Breakshot Press Release "><br>Press Release</span></a><br><font size="-2">607x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=10741" 
+><span title="Image # 10741: Breakshot Promotional Photo (Playfield) "><img src="https://www.ipdb.org/images/3784/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 10741: Breakshot Promotional Photo (Playfield) "><br>Promotional Photo (Playfield)</span></a><br><font size="-2">578x714</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31972" 
+><span title="Image # 31972: Breakshot Backglass "><img src="https://www.ipdb.org/images/3784/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 31972: Breakshot Backglass "><br>Backglass</span></a><br><font size="-2">800x698</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31973" 
+><span title="Image # 31973: Breakshot Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31973: Breakshot Playfield "><br>Playfield</span></a><br><font size="-2">800x1067</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31974" 
+><span title="Image # 31974: Breakshot Upper Left Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31974: Breakshot Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31975" 
+><span title="Image # 31975: Breakshot Upper Middle Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31975: Breakshot Upper Middle Playfield "><br>Upper Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31976" 
+><span title="Image # 31976: Breakshot Upper Right Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31976: Breakshot Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31977" 
+><span title="Image # 31977: Breakshot Left Middle Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31977: Breakshot Left Middle Playfield "><br>Left Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31978" 
+><span title="Image # 31978: Breakshot Center Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31978: Breakshot Center Playfield "><br>Center Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31979" 
+><span title="Image # 31979: Breakshot Right Middle Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31979: Breakshot Right Middle Playfield "><br>Right Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31980" 
+><span title="Image # 31980: Breakshot Left Middle Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31980: Breakshot Left Middle Playfield "><br>Left Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31981" 
+><span title="Image # 31981: Breakshot Left Middle Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31981: Breakshot Left Middle Playfield "><br>Left Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31982" 
+><span title="Image # 31982: Breakshot Right Middle Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31982: Breakshot Right Middle Playfield "><br>Right Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31983" 
+><span title="Image # 31983: Breakshot Lower Left Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31983: Breakshot Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31984" 
+><span title="Image # 31984: Breakshot Lower Right Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31984: Breakshot Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31985" 
+><span title="Image # 31985: Breakshot Lower Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31985: Breakshot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31986" 
+><span title="Image # 31986: Breakshot Lower Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31986: Breakshot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31987" 
+><span title="Image # 31987: Breakshot Playfield - Detail "><img src="https://www.ipdb.org/images/3784/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31987: Breakshot Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31988" 
+><span title="Image # 31988: Breakshot Instruction Card "><img src="https://www.ipdb.org/images/3784/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31988: Breakshot Instruction Card "><br>Instruction Card</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31989" 
+><span title="Image # 31989: Breakshot Pricing Card "><img src="https://www.ipdb.org/images/3784/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31989: Breakshot Pricing Card "><br>Pricing Card</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31990" 
+><span title="Image # 31990: Breakshot Translite - Reverse "><img src="https://www.ipdb.org/images/3784/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 31990: Breakshot Translite - Reverse "><br>Translite - Reverse</span></a><br><font size="-2">800x431</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31991" 
+><span title="Image # 31991: Breakshot Cabinet - Left "><img src="https://www.ipdb.org/images/3784/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 31991: Breakshot Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x481</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31992" 
+><span title="Image # 31992: Breakshot Cabinet - Right "><img src="https://www.ipdb.org/images/3784/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 31992: Breakshot Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x385</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31993" 
+><span title="Image # 31993: Breakshot Backbox - Left "><img src="https://www.ipdb.org/images/3784/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 31993: Breakshot Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">800x1533</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31994" 
+><span title="Image # 31994: Breakshot Backbox - Right 
+(This side of backbox has been touched up.)"><img src="https://www.ipdb.org/images/3784/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 31994: Breakshot Backbox - Right 
+(This side of backbox has been touched up.)"><br>Backbox - Right*</span></a><br><font size="-2">800x1535</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31995" 
+><span title="Image # 31995: Breakshot Front "><img src="https://www.ipdb.org/images/3784/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 31995: Breakshot Front "><br>Front</span></a><br><font size="-2">800x590</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31996" 
+><span title="Image # 31996: Breakshot Under Playfield "><img src="https://www.ipdb.org/images/3784/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 31996: Breakshot Under Playfield "><br>Under Playfield</span></a><br><font size="-2">800x1592</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31997" 
+><span title="Image # 31997: Breakshot Inside Cabinet - Front "><img src="https://www.ipdb.org/images/3784/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31997: Breakshot Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31998" 
+><span title="Image # 31998: Breakshot Inside Cabinet - Rear "><img src="https://www.ipdb.org/images/3784/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31998: Breakshot Inside Cabinet - Rear "><br>Inside Cabinet - Rear</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=31999" 
+><span title="Image # 31999: Breakshot Inside Backbox "><img src="https://www.ipdb.org/images/3784/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31999: Breakshot Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=32000" 
+><span title="Image # 32000: Breakshot Inside Backbox "><img src="https://www.ipdb.org/images/3784/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32000: Breakshot Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=32001" 
+><span title="Image # 32001: Breakshot Behind Speaker Grille 
+(CPU Board.)"><img src="https://www.ipdb.org/images/3784/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32001: Breakshot Behind Speaker Grille 
+(CPU Board.)"><br>Behind Speaker Grille*</span></a><br><font size="-2">800x600</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=32002" 
+><span title="Image # 32002: Breakshot Full View "><img src="https://www.ipdb.org/images/3784/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 32002: Breakshot Full View "><br>Full View</span></a><br><font size="-2">800x1183</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=50241" 
+><span title="Image # 50241: Breakshot Cabinet - Left "><img src="https://www.ipdb.org/images/3784/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50241: Breakshot Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1022x766</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3784&amp;picno=71797" 
+><span title="Image # 71797: Breakshot Flyer "><img src="https://www.ipdb.org/images/3784/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 71797: Breakshot Flyer "><br>Flyer</span></a><br><font size="-2">1200x1556</font><br>&nbsp;</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

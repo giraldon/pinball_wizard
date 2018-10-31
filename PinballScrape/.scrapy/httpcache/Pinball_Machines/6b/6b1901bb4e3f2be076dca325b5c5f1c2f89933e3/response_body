@@ -1,0 +1,332 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Future Spa'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Future Spa Widebody Flippers (2), Pop bumpers (5), Slingshot (1), Spinning targets (2), Kick-out hole (1), Star rollover (1), 4-in-line drop targets, Left kicker lane, Left outlane detour gate.  Paul Faris Dave Christensen George Christian ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Future Spa' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Future Spa</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="974">Future Spa</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=974">974</a> <I>/ December, 1979 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=974" target="showrate974"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=974" target="showrate974">36 ratings/28 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=974" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>March 20, 1979</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1979</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1173-E</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>6,400 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=974">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fitness - Fantasy - Relaxation</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshot</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> (1), 4-in-line <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>, Left <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> lane, Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> detour <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Christian' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Christian">George&nbsp;Christian</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span>, <span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Christensen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Christensen">Dave&nbsp;Christensen</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Future Spa' was the first game from this manufacturer to use continuous background sound. The first pinball machine from any manufacturer to do this was <span title="Click here to open a new window and display Williams' 1979 'Flash'"><a target="game871" href="machine.cgi?id=871">Williams' 1979 'Flash'</a></span>.<br><br>This was also the first game from any manufacturer to have in-line <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>.<br><br>Patent 4,257,604 [IN-LINE DROP TARGETS] filed June 4, 1979. Granted March 24, 1981 to Irwin J. Grabel and Glenn R. Andersen. Assignee is Bally Manufacturing Company, Chicago, Illinois.<br><br>Bally's new sound board for this was previously tested on a few specially modified <span title="Click here to open a new window and display Bally's 1979 'Voltan Escapes Cosmic Doom'"><a target="game2744" href="machine.cgi?id=2744">Bally's 1979 'Voltan Escapes Cosmic Doom'</a></span>. See that listing for more information.<br> <br>In the book <i>Pinball Snapshots</i>, Paul Faris tells the author that with the deadline for this game approaching, Dave Christensen was not going to be able to finish the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> in time to work on the glass. So, Paul painted the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> while Dave finished the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>The penciled drawings of the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, shown in this listing, were made by Dave Christensen. The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> drawing shows the pre-production name (the working title) for this game was 'Bon Vivant'. Also shown is his black line drawing. It uses cut and taped letters and numbers to do the mock-up for some of the <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> values.<br><br>The manufacturer flyer shows a <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> having a strong red color. We show pictures of a <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> attributed to Renault that also have this red <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. We also show pictures of a pink-colored <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. We don't know if color fade is responsible for this pink color. Pictures attributed to Schneider show severe <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> fade.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Silver Knight pp. April/May 1995<br>
+Pinball The Lure of the Silverball, page 81<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 155<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764321099/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764321099&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Snapshots</a>, pages 12, 94-98<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 149<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 118-119<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/974">http://www.pinballowners.com/owners/974</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/974/futurspa.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 50 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/974/futurspb.zip" >PinMAME Romset (7-digit bootleg)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 10 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/974/Bally_1979_Future_Spa_ROMs.zip" >ROMs</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/974/Bally_1979_Future_Spa_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=4211" 
+><span title="Image # 4211: Future Spa Flyer, Front "><img src="https://www.ipdb.org/images/974/tn_974f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4211: Future Spa Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">824x1097</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=4212" 
+><span title="Image # 4212: Future Spa Flyer, Page 2 "><img src="https://www.ipdb.org/images/974/tn_974f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4212: Future Spa Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">844x1132</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=4213" 
+><span title="Image # 4213: Future Spa Flyer, Page 3 "><img src="https://www.ipdb.org/images/974/tn_974f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4213: Future Spa Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">835x1120</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=4214" 
+><span title="Image # 4214: Future Spa Flyer, Back "><img src="https://www.ipdb.org/images/974/tn_974f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 4214: Future Spa Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">865x1132</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=10862" 
+><span title="Image # 10862: Future Spa Backglass "><img src="https://www.ipdb.org/images/974/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 10862: Future Spa Backglass "><br>Backglass</span></a><br><font size="-2">400x321</font><br>[Bruno Durand]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=13472" 
+><span title="Image # 13472: Future Spa Backglass Detail "><img src="https://www.ipdb.org/images/974/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13472: Future Spa Backglass Detail "><br>Backglass Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=18410" 
+><span title="Image # 18410: Future Spa Illuminated Backglass "><img src="https://www.ipdb.org/images/974/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 18410: Future Spa Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">651x600</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=18411" 
+><span title="Image # 18411: Future Spa Playfield "><img src="https://www.ipdb.org/images/974/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18411: Future Spa Playfield "><br>Playfield</span></a><br><font size="-2">450x600</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=18412" 
+><span title="Image # 18412: Future Spa Upper Playfield "><img src="https://www.ipdb.org/images/974/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18412: Future Spa Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=18413" 
+><span title="Image # 18413: Future Spa Cabinet - Left "><img src="https://www.ipdb.org/images/974/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 18413: Future Spa Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">556x586</font><br>[Mark Schneider]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=18414" 
+><span title="Image # 18414: Future Spa Cabinet - Right "><img src="https://www.ipdb.org/images/974/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 18414: Future Spa Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">596x600</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=18415" 
+><span title="Image # 18415: Future Spa Front View "><img src="https://www.ipdb.org/images/974/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 18415: Future Spa Front View "><br>Front View</span></a><br><font size="-2">344x585</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=27030" 
+><span title="Image # 27030: Future Spa Under Playfield "><img src="https://www.ipdb.org/images/974/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27030: Future Spa Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=27031" 
+><span title="Image # 27031: Future Spa Behind Backglass "><img src="https://www.ipdb.org/images/974/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27031: Future Spa Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=27032" 
+><span title="Image # 27032: Future Spa Inside Backbox "><img src="https://www.ipdb.org/images/974/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27032: Future Spa Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30119" 
+><span title="Image # 30119: Future Spa Names of Both Artists "><img src="https://www.ipdb.org/images/974/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30119: Future Spa Names of Both Artists "><br>Names of Both Artists</span></a><br><font size="-2">1024x768</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30359" 
+><span title="Image # 30359: Future Spa Backglass - Detail "><img src="https://www.ipdb.org/images/974/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30359: Future Spa Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30636" 
+><span title="Image # 30636: Future Spa Backglass - Reverse Detail 
+(Special decal on game name for prism effect.)"><img src="https://www.ipdb.org/images/974/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30636: Future Spa Backglass - Reverse Detail 
+(Special decal on game name for prism effect.)"><br>Backglass - Reverse Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30637" 
+><span title="Image # 30637: Future Spa Cabinet - Right "><img src="https://www.ipdb.org/images/974/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 30637: Future Spa Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">710x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30638" 
+><span title="Image # 30638: Future Spa Full View "><img src="https://www.ipdb.org/images/974/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 30638: Future Spa Full View "><br>Full View</span></a><br><font size="-2">582x730</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30701" 
+><span title="Image # 30701: Future Spa Backglass - Reverse "><img src="https://www.ipdb.org/images/974/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30701: Future Spa Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">768x576</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30702" 
+><span title="Image # 30702: Future Spa Lower Playfield "><img src="https://www.ipdb.org/images/974/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30702: Future Spa Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">768x576</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30703" 
+><span title="Image # 30703: Future Spa Middle Playfield "><img src="https://www.ipdb.org/images/974/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30703: Future Spa Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">768x576</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=30704" 
+><span title="Image # 30704: Future Spa Upper Playfield "><img src="https://www.ipdb.org/images/974/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30704: Future Spa Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">768x576</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36710" 
+><span title="Image # 36710: Future Spa Blank Playfield "><img src="https://www.ipdb.org/images/974/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 36710: Future Spa Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1024x1535</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36711" 
+><span title="Image # 36711: Future Spa Blank Playfield - Reverse "><img src="https://www.ipdb.org/images/974/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 36711: Future Spa Blank Playfield - Reverse "><br>Blank Playfield - Reverse</span></a><br><font size="-2">1024x1582</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36712" 
+><span title="Image # 36712: Future Spa Blank Playfield - Upper "><img src="https://www.ipdb.org/images/974/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36712: Future Spa Blank Playfield - Upper "><br>Blank Playfield - Upper</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36713" 
+><span title="Image # 36713: Future Spa Blank Playfield - Lower "><img src="https://www.ipdb.org/images/974/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36713: Future Spa Blank Playfield - Lower "><br>Blank Playfield - Lower</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36714" 
+><span title="Image # 36714: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36714: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36715" 
+><span title="Image # 36715: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36715: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36716" 
+><span title="Image # 36716: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 36716: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">796x2000</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36717" 
+><span title="Image # 36717: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=39 height=100 alt="Image # 36717: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">783x2000</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36718" 
+><span title="Image # 36718: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 36718: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x933</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36719" 
+><span title="Image # 36719: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36719: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=36720" 
+><span title="Image # 36720: Future Spa Blank Playfield - Detail "><img src="https://www.ipdb.org/images/974/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36720: Future Spa Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=43123" 
+><span title="Image # 43123: Future Spa Original Backglass Artwork - Framed  
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 26 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 43123: Future Spa Original Backglass Artwork - Framed  
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 26 inches high.)"><br>Original Backglass Artwork - Framed *</span></a><br><font size="-2">1164x900</font><br>[Mark Andresen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=43124" 
+><span title="Image # 43124: Future Spa Original Backglass Artwork - Framed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 26 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43124: Future Spa Original Backglass Artwork - Framed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 26 inches high.)"><br>Original Backglass Artwork - Framed - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Mark Andresen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=43125" 
+><span title="Image # 43125: Future Spa Original Playfield Artwork - Framed  
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 43 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43125: Future Spa Original Playfield Artwork - Framed  
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 43 inches high.)"><br>Original Playfield Artwork - Framed *</span></a><br><font size="-2">1200x1600</font><br>[Mark Andresen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=43126" 
+><span title="Image # 43126: Future Spa Original Playfield Artwork - Framed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43126: Future Spa Original Playfield Artwork - Framed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><br>Original Playfield Artwork - Framed - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Mark Andresen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=43127" 
+><span title="Image # 43127: Future Spa Original Playfield Artwork - Framed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43127: Future Spa Original Playfield Artwork - Framed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><br>Original Playfield Artwork - Framed - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Mark Andresen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=43717" 
+><span title="Image # 43717: Future Spa Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/974/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 43717: Future Spa Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">800x534</font><br>[Dave Petersen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=63656" 
+><span title="Image # 63656: Future Spa Backglass "><img src="https://www.ipdb.org/images/974/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 63656: Future Spa Backglass "><br>Backglass</span></a><br><font size="-2">1200x1083</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=63657" 
+><span title="Image # 63657: Future Spa Backbox - Left "><img src="https://www.ipdb.org/images/974/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 63657: Future Spa Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">703x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=63658" 
+><span title="Image # 63658: Future Spa Cabinet - Left "><img src="https://www.ipdb.org/images/974/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 63658: Future Spa Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x472</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=63659" 
+><span title="Image # 63659: Future Spa Cabinet - Front "><img src="https://www.ipdb.org/images/974/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 63659: Future Spa Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x670</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=63660" 
+><span title="Image # 63660: Future Spa Cabinet - Front View "><img src="https://www.ipdb.org/images/974/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 63660: Future Spa Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">987x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=70360" 
+><span title="Image # 70360: Future Spa Black Line Drawing 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><img src="https://www.ipdb.org/images/974/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 70360: Future Spa Black Line Drawing 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><br>Black Line Drawing*</span></a><br><font size="-2">1066x1584</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=70361" 
+><span title="Image # 70361: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><img src="https://www.ipdb.org/images/974/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 70361: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><br>Black Line Drawing - Detail*</span></a><br><font size="-2">1200x923</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=70362" 
+><span title="Image # 70362: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><img src="https://www.ipdb.org/images/974/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 70362: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><br>Black Line Drawing - Detail*</span></a><br><font size="-2">1200x902</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=70363" 
+><span title="Image # 70363: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><img src="https://www.ipdb.org/images/974/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 70363: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><br>Black Line Drawing - Detail*</span></a><br><font size="-2">1200x983</font><br>[James Loflin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=70364" 
+><span title="Image # 70364: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><img src="https://www.ipdb.org/images/974/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 70364: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><br>Black Line Drawing - Detail*</span></a><br><font size="-2">1200x848</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=70365" 
+><span title="Image # 70365: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><img src="https://www.ipdb.org/images/974/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 70365: Future Spa Black Line Drawing - Detail 
+(Artist is Dave Christensen.Ink/felt pen on sepia Mylar.Dimensions 28 by 44 inches.)"><br>Black Line Drawing - Detail*</span></a><br><font size="-2">1200x902</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=71255" 
+><span title="Image # 71255: Future Spa Original Backglass Artwork - Unframed 
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 26 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 71255: Future Spa Original Backglass Artwork - Unframed 
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 26 inches high.)"><br>Original Backglass Artwork - Unframed*</span></a><br><font size="-2">1200x1019</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=71256" 
+><span title="Image # 71256: Future Spa Original Backglass Artwork - Unframed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 26 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 71256: Future Spa Original Backglass Artwork - Unframed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 26 inches high.)"><br>Original Backglass Artwork - Unframed - Detail*</span></a><br><font size="-2">1200x1173</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=71257" 
+><span title="Image # 71257: Future Spa Original Backglass Artwork - Unframed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 26 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 71257: Future Spa Original Backglass Artwork - Unframed - Detail 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 26 inches high.)"><br>Original Backglass Artwork - Unframed - Detail*</span></a><br><font size="-2">1200x915</font><br>[James Loflin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=71258" 
+><span title="Image # 71258: Future Spa Original Playfield Artwork - Unframed 
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 43 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 71258: Future Spa Original Playfield Artwork - Unframed 
+(Artist is David Christensen.Colored pencil on drafting paper.Dimensions 28 inches wide by 43 inches high.)"><br>Original Playfield Artwork - Unframed*</span></a><br><font size="-2">1066x1600</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=71259" 
+><span title="Image # 71259: Future Spa Original Playfield Artwork - Unframed - Designer Signature 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 71259: Future Spa Original Playfield Artwork - Unframed - Designer Signature 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><br>Original Playfield Artwork - Unframed - Designer Signature*</span></a><br><font size="-2">1200x1426</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=974&amp;picno=71260" 
+><span title="Image # 71260: Future Spa Original Playfield Artwork - Unframed - Artist Signature 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><img src="https://www.ipdb.org/images/974/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 71260: Future Spa Original Playfield Artwork - Unframed - Artist Signature 
+(Artist is David Christensen.Colored pencil on drafting paper.Full dimensions are 28 inches wide by 43 inches high.)"><br>Original Playfield Artwork - Unframed - Artist Signature*</span></a><br><font size="-2">1200x861</font><br>[James Loflin]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Photo&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

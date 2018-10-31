@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Outer Space'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Outer Space Flippers (2), Pop bumpers (3), Slingshot (1), Standup targets (3), Vari-target (1), Spinning target (1), Upper right ball return rollunder, Right outlane ball return gate.
+
+Maximum displayed point score is 99,990 points per player.  Gordon Morison Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Outer Space' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Outer Space</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1728">Outer Space</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1728">1728</a> <I>/ January, 1972 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1728" target="showrate1728"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1728" target="showrate1728">16 ratings/15 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1728" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1972</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>322</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,350 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1728">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshot</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Upper right ball return <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">rollunder</a>, Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.<br><br>Maximum displayed point score is 99,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 4-player version of this game is <span title="Click here to open a new window and display Gottlieb's 1971 'Orbit'"><a target="game1724" href="machine.cgi?id=1724">Gottlieb's 1971 'Orbit'</a></span>.<br><br>We previously showed a date for this game of February 1972. The new date is per Gottlieb documentation.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 45<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 20, 32-33, 168, and 254<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=4915" 
+><span title="Image # 4915: Outer Space Flyer "><img src="https://www.ipdb.org/images/1728/tn_1728f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4915: Outer Space Flyer "><br>Flyer</span></a><br><font size="-2">884x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=9889" 
+><span title="Image # 9889: Outer Space Illuminated Backglass "><img src="https://www.ipdb.org/images/1728/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 9889: Outer Space Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">300x280</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=9890" 
+><span title="Image # 9890: Outer Space Illuminated Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 9890: Outer Space Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">250x355</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=9891" 
+><span title="Image # 9891: Outer Space Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 9891: Outer Space Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">270x257</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=9892" 
+><span title="Image # 9892: Outer Space Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 9892: Outer Space Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">303x255</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=9893" 
+><span title="Image # 9893: Outer Space Cabinet - Left "><img src="https://www.ipdb.org/images/1728/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9893: Outer Space Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">350x263</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=9894" 
+><span title="Image # 9894: Outer Space Cabinet - Front "><img src="https://www.ipdb.org/images/1728/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 9894: Outer Space Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">251x202</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=14790" 
+><span title="Image # 14790: Outer Space Backglass - Reverse "><img src="https://www.ipdb.org/images/1728/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14790: Outer Space Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">448x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=22089" 
+><span title="Image # 22089: Outer Space Backglass "><img src="https://www.ipdb.org/images/1728/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 22089: Outer Space Backglass "><br>Backglass</span></a><br><font size="-2">757x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=22090" 
+><span title="Image # 22090: Outer Space Backglass - Reverse "><img src="https://www.ipdb.org/images/1728/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22090: Outer Space Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=22091" 
+><span title="Image # 22091: Outer Space Inside Backbox "><img src="https://www.ipdb.org/images/1728/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 22091: Outer Space Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">745x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=22092" 
+><span title="Image # 22092: Outer Space Cabinet - Full View "><img src="https://www.ipdb.org/images/1728/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 22092: Outer Space Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">420x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=22473" 
+><span title="Image # 22473: Outer Space Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 22473: Outer Space Playfield "><br>Playfield</span></a><br><font size="-2">1024x926</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=46070" 
+><span title="Image # 46070: Outer Space Instruction Card - 3 Balls "><img src="https://www.ipdb.org/images/1728/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 46070: Outer Space Instruction Card - 3 Balls "><br>Instruction Card - 3 Balls</span></a><br><font size="-2">1200x850</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=46071" 
+><span title="Image # 46071: Outer Space Instruction Card - 5 Balls "><img src="https://www.ipdb.org/images/1728/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 46071: Outer Space Instruction Card - 5 Balls "><br>Instruction Card - 5 Balls</span></a><br><font size="-2">1024x725</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=46072" 
+><span title="Image # 46072: Outer Space Score Card Index "><img src="https://www.ipdb.org/images/1728/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 46072: Outer Space Score Card Index "><br>Score Card Index</span></a><br><font size="-2">1024x726</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=57365" 
+><span title="Image # 57365: Outer Space Backglass "><img src="https://www.ipdb.org/images/1728/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 57365: Outer Space Backglass "><br>Backglass</span></a><br><font size="-2">897x898</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=57366" 
+><span title="Image # 57366: Outer Space Illuminated Backglass "><img src="https://www.ipdb.org/images/1728/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 57366: Outer Space Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">908x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=57367" 
+><span title="Image # 57367: Outer Space Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57367: Outer Space Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=57368" 
+><span title="Image # 57368: Outer Space Illuminated Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57368: Outer Space Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=57369" 
+><span title="Image # 57369: Outer Space Cabinet - Front "><img src="https://www.ipdb.org/images/1728/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 57369: Outer Space Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1085x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=57370" 
+><span title="Image # 57370: Outer Space Cabinet - Full View "><img src="https://www.ipdb.org/images/1728/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 57370: Outer Space Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1020x1598</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=59243" 
+><span title="Image # 59243: Outer Space Illuminated Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 59243: Outer Space Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">900x1200</font><br>[John Ilgenfritz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=59244" 
+><span title="Image # 59244: Outer Space Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59244: Outer Space Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[John Ilgenfritz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=59245" 
+><span title="Image # 59245: Outer Space Lower Playfield "><img src="https://www.ipdb.org/images/1728/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59245: Outer Space Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[John Ilgenfritz]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=59246" 
+><span title="Image # 59246: Outer Space Lower Playfield - Downfield View "><img src="https://www.ipdb.org/images/1728/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59246: Outer Space Lower Playfield - Downfield View "><br>Lower Playfield - Downfield View</span></a><br><font size="-2">1200x900</font><br>[John Ilgenfritz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1728&amp;picno=59247" 
+><span title="Image # 59247: Outer Space Cabinet - Front View "><img src="https://www.ipdb.org/images/1728/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 59247: Outer Space Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">795x1187</font><br>[John Ilgenfritz]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

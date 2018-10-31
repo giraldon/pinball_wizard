@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Grand Prix'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Grand Prix Flippers (2), Pop bumpers (2), Slingshots (2), Drop targets (4), Kick-out holes (3), Spinning targets (2). Upper left lane has a unique tilt rollover.
+
+Maximum displayed point score is 999,990 points per player.  Christian Marche Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Grand Prix' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Grand Prix</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1072">Grand Prix</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1072">1072</a> <I>/ June 30, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1072" target="showrate1072"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1072" target="showrate1072">39 ratings/30 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1072" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June 30, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>468</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>10,554 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1072">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Auto Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2). Upper left lane has a unique <a target="glossary" class="glossarylink" href="/glossary.php#Tilt_Rollover">tilt&nbsp;rollover</a>.<br><br>Maximum displayed point score is 999,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Compare the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> with <span title="Click here to open a new window and display Williams' 1977 'Liberty Bell'"><a target="game1436" href="machine.cgi?id=1436">Williams' 1977 'Liberty Bell'</a></span>.<br><br>A few of these games exist with solid state controllers.  See <span title="Click here to open a new window and display Williams' 1977 'Grand Prix'"><a target="game5647" href="machine.cgi?id=5647">Williams' 1977 'Grand Prix'</a></span>.<br><br>Production Floor Records for Grand Prix EM:<br>Production Start Date: Jun-30-1976<br>Production End Date: Apr-19-1977<br>Production Floor Quantity: 10,554<br>First ship date: Jul-6-1976<br>Last ship date: Apr-19-1977<br><br>Product History Record for Grand Prix EM: <br>Quantity produced for USA/Canada: 5,742*<br>Quantity produced for export: 4,815*<br>Total quantity produced: 10,554*<br>Price to Distributor: $945.00<br>*These quantities may be sales estimates.<br><br>From Steve Kordek Lists #3 and #11:<br>BOM cost per game: $402.23<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 210<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 92<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 60<br>
+The Pinball Compendium Electro-mechanical Era, page 218<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1072">http://www.pinballowners.com/owners/1072</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1072/Williams_1976_Grand_Prix_Manual.pdf" onClick="return purchasemanual();">English Manual (no schematics)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 630 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1072/Williams_1976_Grand_Prix_Schematic_Diagram_continuous_includes_correction_to_L_R_Kickers.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous, includes correction to L & R Kickers)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 671 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1072/Williams_1976_Grand_Prix_Schematic_Diagram_paginated_includes_correction_to_L_R_Kickers.pdf" onClick="return purchasemanual();">Schematic Diagram (paginated, includes correction to L & R Kickers)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=1053" 
+><span title="Image # 1053: Grand Prix Backglass "><img src="https://www.ipdb.org/images/1072/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 1053: Grand Prix Backglass "><br>Backglass</span></a><br><font size="-2">499x440</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=1054" 
+><span title="Image # 1054: Grand Prix Cabinet - Front View "><img src="https://www.ipdb.org/images/1072/tn_Front_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 1054: Grand Prix Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">296x433</font><br>[Ron Tyler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=1056" 
+><span title="Image # 1056: Grand Prix Playfield "><img src="https://www.ipdb.org/images/1072/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 1056: Grand Prix Playfield "><br>Playfield</span></a><br><font size="-2">395x550</font><br>[Ron Tyler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=4226" 
+><span title="Image # 4226: Grand Prix Flyer "><img src="https://www.ipdb.org/images/1072/tn_1072f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4226: Grand Prix Flyer "><br>Flyer</span></a><br><font size="-2">877x1144</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=6497" 
+><span title="Image # 6497: Grand Prix Cabinet - Right "><img src="https://www.ipdb.org/images/1072/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 6497: Grand Prix Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">382x436</font><br>[Mark Orthner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=10874" 
+><span title="Image # 10874: Grand Prix Backglass "><img src="https://www.ipdb.org/images/1072/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 10874: Grand Prix Backglass "><br>Backglass</span></a><br><font size="-2">400x368</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=15455" 
+><span title="Image # 15455: Grand Prix Backglass - Reverse "><img src="https://www.ipdb.org/images/1072/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15455: Grand Prix Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">314x237</font><br>[Kel Geiger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16079" 
+><span title="Image # 16079: Grand Prix Illuminated Front View "><img src="https://www.ipdb.org/images/1072/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 16079: Grand Prix Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">217x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16080" 
+><span title="Image # 16080: Grand Prix Cabinet - Left "><img src="https://www.ipdb.org/images/1072/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 16080: Grand Prix Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">347x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16081" 
+><span title="Image # 16081: Grand Prix Cabinet - Right "><img src="https://www.ipdb.org/images/1072/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 16081: Grand Prix Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">328x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16795" 
+><span title="Image # 16795: Grand Prix Upper Playfield 
+(The 'C' and 'D' drop targets are not original to this game.)"><img src="https://www.ipdb.org/images/1072/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16795: Grand Prix Upper Playfield 
+(The 'C' and 'D' drop targets are not original to this game.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>[Steve Levin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16797" 
+><span title="Image # 16797: Grand Prix Playfield - Ball View 
+(The 'C' and 'D' drop targets are not original to this game.)"><img src="https://www.ipdb.org/images/1072/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16797: Grand Prix Playfield - Ball View 
+(The 'C' and 'D' drop targets are not original to this game.)"><br>Playfield - Ball View*</span></a><br><font size="-2">1024x768</font><br>[Steve Levin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16798" 
+><span title="Image # 16798: Grand Prix Backglass - Reverse "><img src="https://www.ipdb.org/images/1072/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16798: Grand Prix Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x768</font><br>[Steve Levin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16799" 
+><span title="Image # 16799: Grand Prix Backbox Insert "><img src="https://www.ipdb.org/images/1072/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16799: Grand Prix Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1024x768</font><br>[Steve Levin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16800" 
+><span title="Image # 16800: Grand Prix Inside Backbox "><img src="https://www.ipdb.org/images/1072/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16800: Grand Prix Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Steve Levin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16801" 
+><span title="Image # 16801: Grand Prix Backbox - Left "><img src="https://www.ipdb.org/images/1072/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16801: Grand Prix Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">768x1024</font><br>[Steve Levin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=16802" 
+><span title="Image # 16802: Grand Prix Backbox - Right "><img src="https://www.ipdb.org/images/1072/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16802: Grand Prix Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">768x1024</font><br>[Steve Levin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=30365" 
+><span title="Image # 30365: Grand Prix Backglass - Detail "><img src="https://www.ipdb.org/images/1072/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30365: Grand Prix Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=32003" 
+><span title="Image # 32003: Grand Prix Inside Cabinet "><img src="https://www.ipdb.org/images/1072/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32003: Grand Prix Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Andreas Mueller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35540" 
+><span title="Image # 35540: Grand Prix Cabinet - Front "><img src="https://www.ipdb.org/images/1072/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35540: Grand Prix Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35542" 
+><span title="Image # 35542: Grand Prix Playfield "><img src="https://www.ipdb.org/images/1072/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35542: Grand Prix Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35543" 
+><span title="Image # 35543: Grand Prix Backglass "><img src="https://www.ipdb.org/images/1072/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 35543: Grand Prix Backglass "><br>Backglass</span></a><br><font size="-2">1197x1313</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35545" 
+><span title="Image # 35545: Grand Prix Cabinet - Left "><img src="https://www.ipdb.org/images/1072/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 35545: Grand Prix Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">876x676</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35547" 
+><span title="Image # 35547: Grand Prix Backbox - Right "><img src="https://www.ipdb.org/images/1072/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35547: Grand Prix Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35548" 
+><span title="Image # 35548: Grand Prix Backbox - Left "><img src="https://www.ipdb.org/images/1072/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35548: Grand Prix Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35549" 
+><span title="Image # 35549: Grand Prix Cabinet - Right "><img src="https://www.ipdb.org/images/1072/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35549: Grand Prix Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35552" 
+><span title="Image # 35552: Grand Prix Playfield "><img src="https://www.ipdb.org/images/1072/tn_image-B19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35552: Grand Prix Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35554" 
+><span title="Image # 35554: Grand Prix Upper Playfield "><img src="https://www.ipdb.org/images/1072/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35554: Grand Prix Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35555" 
+><span title="Image # 35555: Grand Prix Lower Playfield "><img src="https://www.ipdb.org/images/1072/tn_image-C8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35555: Grand Prix Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35567" 
+><span title="Image # 35567: Grand Prix Inside Cabinet "><img src="https://www.ipdb.org/images/1072/tn_image-D8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35567: Grand Prix Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35568" 
+><span title="Image # 35568: Grand Prix Under Playfield "><img src="https://www.ipdb.org/images/1072/tn_image-D10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35568: Grand Prix Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35570" 
+><span title="Image # 35570: Grand Prix Backbox - Back "><img src="https://www.ipdb.org/images/1072/tn_image-D20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35570: Grand Prix Backbox - Back "><br>Backbox - Back</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35579" 
+><span title="Image # 35579: Grand Prix Cabinet - Full View "><img src="https://www.ipdb.org/images/1072/tn_image-F19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35579: Grand Prix Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=35580" 
+><span title="Image # 35580: Grand Prix Backglass - Detail "><img src="https://www.ipdb.org/images/1072/tn_image-F20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35580: Grand Prix Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=43160" 
+><span title="Image # 43160: Grand Prix Backglass 
+(Serial number 286825.)"><img src="https://www.ipdb.org/images/1072/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 43160: Grand Prix Backglass 
+(Serial number 286825.)"><br>Backglass*</span></a><br><font size="-2">1024x854</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=43161" 
+><span title="Image # 43161: Grand Prix Instruction Card 
+(From the game with serial number 286825.)"><img src="https://www.ipdb.org/images/1072/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 43161: Grand Prix Instruction Card 
+(From the game with serial number 286825.)"><br>Instruction Card*</span></a><br><font size="-2">1024x552</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=43162" 
+><span title="Image # 43162: Grand Prix Score Card 
+(From the game with serial number 286825.)"><img src="https://www.ipdb.org/images/1072/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 43162: Grand Prix Score Card 
+(From the game with serial number 286825.)"><br>Score Card*</span></a><br><font size="-2">1024x562</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=43163" 
+><span title="Image # 43163: Grand Prix Backbox - Right 
+(Serial number 286825.)"><img src="https://www.ipdb.org/images/1072/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 43163: Grand Prix Backbox - Right 
+(Serial number 286825.)"><br>Backbox - Right*</span></a><br><font size="-2">717x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=43164" 
+><span title="Image # 43164: Grand Prix Cabinet - Right "><img src="https://www.ipdb.org/images/1072/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 43164: Grand Prix Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x368</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1072&amp;picno=43165" 
+><span title="Image # 43165: Grand Prix Cabinet - Front 
+(Serial number 286825.)"><img src="https://www.ipdb.org/images/1072/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 43165: Grand Prix Cabinet - Front 
+(Serial number 286825.)"><br>Cabinet - Front*</span></a><br><font size="-2">1024x736</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: AMI 'Navajo'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game AMI Navajo 3 or 5 ball play. Flippers (2), Pop bumpers (3), Slingshots (2), 4-bank drop targets (1), Standup targets (6), Spinning target (1), Upper right kicker lane, Right side dual inlanes. The spinning target doesn't score any points; its only purpose is to change the 'Star' value. The ball diverter in upper right playfield is always under spring tension and is always up, unless a ball comes at it from the spinning target, then it allows access to the kicker lane.
+
+Maximum displayed point score is 99,990 points per player.
+
+Tilt penalty: ball in play.
+
+Digital credit meter maximum: 9
+
+The operator can select only one replay level for all players: 60,000 points, 70,000 points, 80,000 points, 90,000 points, or 100,000 points (flipping over the maximum score). The digital credit meter, located in the upper left backglass area, has manual option plugs allowing the maximum credit display to be fixed anywhere from 3 to 9 credits. The Ball In Play count uses silkscreened numbers appearing below the digital credit meter. The match feature cannot be disabled.  Michele 'Mike' Martinelli ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for AMI 'Navajo' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Navajo</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3716">Navajo</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3716">3716</a> <I>/ 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.4 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=3716" target="showrate3716">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3716" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'AMI'"><a href="search.pl?searchtype=advanced&amp;mfgid=10">A.M.I, <font size="-1">of Italy</font> (1975-1977)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3716">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Native Americans</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>3 or 5 ball play. <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Upper right <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> lane, Right side dual <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a> doesn't score any points; its only purpose is to change the "Star" value. The ball <a target="glossary" class="glossarylink" href="/glossary.php#Diverter">diverter</a> in upper right <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is always under spring tension and is always up, unless a ball comes at it from the <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a>, then it allows access to the <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> lane.<br><br>Maximum displayed point score is 99,990 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Tilt">Tilt</a> penalty: ball in play.<br><br>Digital credit meter maximum: 9<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> can select only one <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> level for all players: 60,000 points, 70,000 points, 80,000 points, 90,000 points, or 100,000 points (flipping over the maximum score). The digital credit meter, located in the upper left <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> area, has manual option plugs allowing the maximum credit display to be fixed anywhere from 3 to 9 credits. The Ball In Play count uses silkscreened numbers appearing below the digital credit meter. The <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> feature cannot be disabled.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Michele&nbsp;"Mike"&nbsp;Martinelli' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Michele%20%22Mike%22%20Martinelli">Michele&nbsp;"Mike"&nbsp;Martinelli</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 1-player version of this game is <span title="Click here to open a new window and display AMI's 1976 'Big Hunt'"><a target="game3692" href="machine.cgi?id=3692">AMI's 1976 'Big Hunt'</a></span> which is identical in <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and rules except it scores higher. The game is based on Gottlieb logic while using AMI-labeled <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coils</a>.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> measures approximately 60 cm by 56 cm.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=36929" 
+><span title="Image # 36929: Navajo Backglass 
+(This glass measures approximately 60 cm by 56 cm.)"><img src="https://www.ipdb.org/images/3716/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 36929: Navajo Backglass 
+(This glass measures approximately 60 cm by 56 cm.)"><br>Backglass*</span></a><br><font size="-2">400x354</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40329" 
+><span title="Image # 40329: Navajo Playfield "><img src="https://www.ipdb.org/images/3716/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40329: Navajo Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40330" 
+><span title="Image # 40330: Navajo Front View "><img src="https://www.ipdb.org/images/3716/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 40330: Navajo Front View "><br>Front View</span></a><br><font size="-2">588x926</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40331" 
+><span title="Image # 40331: Navajo Illuminated Front View "><img src="https://www.ipdb.org/images/3716/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40331: Navajo Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40332" 
+><span title="Image # 40332: Navajo Inside Cabinet "><img src="https://www.ipdb.org/images/3716/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 40332: Navajo Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">738x1024</font><br>[Reto Fornara]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40333" 
+><span title="Image # 40333: Navajo Under Playfield - Detail 
+(The green insert does not have a lamp socket wired to it.)"><img src="https://www.ipdb.org/images/3716/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40333: Navajo Under Playfield - Detail 
+(The green insert does not have a lamp socket wired to it.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40334" 
+><span title="Image # 40334: Navajo Inside Backbox "><img src="https://www.ipdb.org/images/3716/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 40334: Navajo Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">970x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40335" 
+><span title="Image # 40335: Navajo Electronic Credit Unit "><img src="https://www.ipdb.org/images/3716/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40335: Navajo Electronic Credit Unit "><br>Electronic Credit Unit</span></a><br><font size="-2">1024x1372</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40461" 
+><span title="Image # 40461: Navajo Electronic Credit Unit - Detail 
+(The 8-position jack on the right inexplicably has no wires soldered to its underside.)"><img src="https://www.ipdb.org/images/3716/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 40461: Navajo Electronic Credit Unit - Detail 
+(The 8-position jack on the right inexplicably has no wires soldered to its underside.)"><br>Electronic Credit Unit - Detail*</span></a><br><font size="-2">666x798</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40462" 
+><span title="Image # 40462: Navajo Replay Level Chart "><img src="https://www.ipdb.org/images/3716/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40462: Navajo Replay Level Chart "><br>Replay Level Chart</span></a><br><font size="-2">1024x1365</font><br>[Reto Fornara]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40463" 
+><span title="Image # 40463: Navajo Instructions "><img src="https://www.ipdb.org/images/3716/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40463: Navajo Instructions "><br>Instructions</span></a><br><font size="-2">1017x760</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40464" 
+><span title="Image # 40464: Navajo Illuminated Backglass - Game Over 
+(In this image, Ball In Play is not illuminated and there are seven credits. The match number is 90.)"><img src="https://www.ipdb.org/images/3716/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 40464: Navajo Illuminated Backglass - Game Over 
+(In this image, Ball In Play is not illuminated and there are seven credits. The match number is 90.)"><br>Illuminated Backglass - Game Over*</span></a><br><font size="-2">818x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40465" 
+><span title="Image # 40465: Navajo Illuminated Backglass - Ball In Play Is Lit 
+(In this image, Ball In Play is illuminated for Player 2 and there are zero credits.)"><img src="https://www.ipdb.org/images/3716/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 40465: Navajo Illuminated Backglass - Ball In Play Is Lit 
+(In this image, Ball In Play is illuminated for Player 2 and there are zero credits.)"><br>Illuminated Backglass - Ball In Play Is Lit*</span></a><br><font size="-2">824x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40614" 
+><span title="Image # 40614: Navajo Cabinet - Left "><img src="https://www.ipdb.org/images/3716/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=41 alt="Image # 40614: Navajo Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x415</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=40615" 
+><span title="Image # 40615: Navajo Backbox - Left "><img src="https://www.ipdb.org/images/3716/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 40615: Navajo Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">947x2000</font><br>[Reto Fornara]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=44942" 
+><span title="Image # 44942: Navajo Ad - Front "><img src="https://www.ipdb.org/images/3716/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 44942: Navajo Ad - Front "><br>Ad - Front</span></a><br><font size="-2">350x513</font><br>[Bernard Marrou]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3716&amp;picno=44943" 
+><span title="Image # 44943: Navajo Ad - Back "><img src="https://www.ipdb.org/images/3716/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 44943: Navajo Ad - Back "><br>Ad - Back</span></a><br><font size="-2">350x515</font><br>[Bernard Marrou]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

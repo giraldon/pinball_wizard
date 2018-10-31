@@ -1,0 +1,315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Rocky'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Rocky Widebody Flippers (5), Pop bumpers (4), Slingshots (4), 5-bank drop targets (1), 3-bank drop targets (2), Ball kicker (1), Kick-out hole (1), Spinning target (1), Standup target (1). Ball kicker lane below flippers propels ball back into play.  David Moore John Trudeau ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Rocky' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Rocky</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1993">Rocky</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1993">1993</a> <I>/ September, 1982 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1993" target="showrate1993"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1993" target="showrate1993">17 ratings/9 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1993" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1982</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>672</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=16">Gottlieb System 80A</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,504 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1993">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Boxing - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (4), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1). Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> lane below <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> propels ball back into play.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Trudeau' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Trudeau">John&nbsp;Trudeau</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>When seen in the movie "Rocky III", this machine had a prop <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> used only for the movie.  Only three of the prop <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> were made, and one was destroyed in the film when Paulie, Rocky's brother-in-law, threw a bottle of Scotch through it.  The remaining two are in possession of collectors.<br><br><P>We asked <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> John Trudeau why the production <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> was not used in the movie. He replies:<P style="padding-left:30px;"><i>The coordination with the Rocky III movie was already in process when I started at Gottlieb in '81. Ed Krynski had a whitewood in development for the license tie-in. I guess it didn't play very well, because it never made it to production. The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> that were made for the movie were made to fit an existing game - not Rocky (I was told that it was a Force II, but the displays would have to have been moved). The produced game didn't even exist at that time, nor did any artwork. I believe we were pretty close to NOT using the Rocky license at all. I came up with the design that was produced pretty much at the last minute.<br><br>Later, Stallone was in Chicago promoting the movie's opening. We were told that he might stop by to see the game, but he never showed. I still have my Rocky <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. The only one I have left that's survived the years.<br><br>Stallone also did have final approval over the painting for the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Dave Moore had to repaint the facial area twice before it was approved. Sly didn't want the beat-up face for the glass (who can blame him?).<br><br>Dave Moore did manage to paint himself and me into the crowd. At the foreground right ring post there is a fella with glasses that has his arms crossed (Dave) and another guy next to him with a black moustache and graying temple hair (Me).</i></P>In the Rocky III movie, the character of Paulie is shown in a pinball arcade throwing an object at the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> of the <a target="glossary" class="glossarylink" href="/glossary.php#Widebody">widebody</a> movie prop pinball machine, breaking the prop glass to reveal underneath a specially made <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a>, never used on production Gottlieb games, that had all four score displays in a column on the left side of the <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> and the light bulbs were arranged to resemble the character of Rocky with his arms raised, as shown on the prop <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Close examination of this movie scene shows the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> was from a <span title="Click here to open a new window and display Gottlieb 1981 'Force II'"><a target="game916" href="machine.cgi?id=916">Gottlieb 1981 'Force II'</a></span>. The lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art was very generic and the only production <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> we found that had that same generic art was used on <span title="Click here to open a new window and display Gottlieb's 1981 'Pink Panther'"><a target="game1800" href="machine.cgi?id=1800">Gottlieb's 1981 'Pink Panther'</a></span>, although the colors were different.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> for an engineering sample of "Rocky" was reused for the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> for <span title="Click here to open a new window and display Gottlieb's 1982 'Gold Rush'"><a target="game5329" href="machine.cgi?id=5329">Gottlieb's 1982 'Gold Rush'</a></span> and can be seen in that listing.<br><br>On production games, the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> artwork that surrounds the coin door shows a boxing ring along with two symbols that possibly were meant to represent flashbulbs going off in the crowd. On most <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a>, the flashes are black in color, and the "nearest" side of the boxing ring is black also, with the remainder of the ring painted in red. We have seen pictures of two games in Europe (not shown here) that have the black and red colors reversed on this <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> front. We do not know how many of these "Red Flash Rocky" games were made.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The Crowd Cheers.The Music Plays.The Fight Begins!"<br>
+"Enter the Ring with the Champ!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 111<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 15<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1993">http://www.pinballowners.com/owners/1993</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 1993 rocky.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 1993 Gottlieb_1982_Rocky_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 1993 Gottlieb_1982_Rocky_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [D&#46; Gottlieb & Co&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=5017" 
+><span title="Image # 5017: Rocky Flyer, Front "><img src="https://www.ipdb.org/images/1993/tn_1993f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5017: Rocky Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=5018" 
+><span title="Image # 5018: Rocky Flyer, Back "><img src="https://www.ipdb.org/images/1993/tn_1993f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5018: Rocky Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21745" 
+><span title="Image # 21745: Rocky Illuminated Whitewood "><img src="https://www.ipdb.org/images/1993/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 21745: Rocky Illuminated Whitewood "><br>Illuminated Whitewood</span></a><br><font size="-2">457x462</font><br>[John Trudeau]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21982" 
+><span title="Image # 21982: Rocky Illuminated Front View "><img src="https://www.ipdb.org/images/1993/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 21982: Rocky Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">405x480</font><br>[Steve Cascella]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21983" 
+><span title="Image # 21983: Rocky Backglass "><img src="https://www.ipdb.org/images/1993/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21983: Rocky Backglass "><br>Backglass</span></a><br><font size="-2">640x480</font><br>[Steve Cascella]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21984" 
+><span title="Image # 21984: Rocky Upper Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21984: Rocky Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Steve Cascella]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21985" 
+><span title="Image # 21985: Rocky Lower Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21985: Rocky Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Steve Cascella]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21987" 
+><span title="Image # 21987: Rocky Coin Door "><img src="https://www.ipdb.org/images/1993/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21987: Rocky Coin Door "><br>Coin Door</span></a><br><font size="-2">640x480</font><br>[Steve Cascella]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21989" 
+><span title="Image # 21989: Rocky Blank Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 21989: Rocky Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">284x469</font><br>[Steve Cascella]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21990" 
+><span title="Image # 21990: Rocky Apron "><img src="https://www.ipdb.org/images/1993/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21990: Rocky Apron "><br>Apron</span></a><br><font size="-2">640x480</font><br>[Steve Cascella]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=21991" 
+><span title="Image # 21991: Rocky Illuminated Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 21991: Rocky Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">579x480</font><br>[Steve Cascella]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=24852" 
+><span title="Image # 24852: Rocky Movie Backglass 
+(This prop backglass (only three were made) was used on the Rocky pinball machine in the Rocky III movie.)"><img src="https://www.ipdb.org/images/1993/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 24852: Rocky Movie Backglass 
+(This prop backglass (only three were made) was used on the Rocky pinball machine in the Rocky III movie.)"><br>Movie Backglass*</span></a><br><font size="-2">695x612</font><br>[Richard Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=39537" 
+><span title="Image # 39537: Rocky Cabinet - Front View "><img src="https://www.ipdb.org/images/1993/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 39537: Rocky Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">399x600</font><br>[Eric Chaudier]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=39538" 
+><span title="Image # 39538: Rocky Cabinet - Left "><img src="https://www.ipdb.org/images/1993/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39538: Rocky Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x532</font><br>[Eric Chaudier]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=39539" 
+><span title="Image # 39539: Rocky Inside Backbox "><img src="https://www.ipdb.org/images/1993/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39539: Rocky Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x532</font><br>[Eric Chaudier]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44578" 
+><span title="Image # 44578: Rocky Illuminated Backglass "><img src="https://www.ipdb.org/images/1993/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 44578: Rocky Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">902x878</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44579" 
+><span title="Image # 44579: Rocky Backglass - Detail "><img src="https://www.ipdb.org/images/1993/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44579: Rocky Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44580" 
+><span title="Image # 44580: Rocky Backglass - Detail "><img src="https://www.ipdb.org/images/1993/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44580: Rocky Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44581" 
+><span title="Image # 44581: Rocky Illuminated Front View "><img src="https://www.ipdb.org/images/1993/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44581: Rocky Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44582" 
+><span title="Image # 44582: Rocky Illuminated Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44582: Rocky Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44583" 
+><span title="Image # 44583: Rocky Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44583: Rocky Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44584" 
+><span title="Image # 44584: Rocky Left Flippers "><img src="https://www.ipdb.org/images/1993/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44584: Rocky Left Flippers "><br>Left Flippers</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44585" 
+><span title="Image # 44585: Rocky Playfield - Detail "><img src="https://www.ipdb.org/images/1993/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44585: Rocky Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44586" 
+><span title="Image # 44586: Rocky Right Flippers "><img src="https://www.ipdb.org/images/1993/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44586: Rocky Right Flippers "><br>Right Flippers</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44587" 
+><span title="Image # 44587: Rocky Drop Targets "><img src="https://www.ipdb.org/images/1993/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44587: Rocky Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44588" 
+><span title="Image # 44588: Rocky Drop Targets "><img src="https://www.ipdb.org/images/1993/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44588: Rocky Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44589" 
+><span title="Image # 44589: Rocky Playfield - Ball View "><img src="https://www.ipdb.org/images/1993/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44589: Rocky Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44590" 
+><span title="Image # 44590: Rocky Playfield - Ball View "><img src="https://www.ipdb.org/images/1993/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44590: Rocky Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44591" 
+><span title="Image # 44591: Rocky Pop Bumpers "><img src="https://www.ipdb.org/images/1993/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44591: Rocky Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44592" 
+><span title="Image # 44592: Rocky Spinning Target "><img src="https://www.ipdb.org/images/1993/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44592: Rocky Spinning Target "><br>Spinning Target</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44593" 
+><span title="Image # 44593: Rocky Inside Cabinet "><img src="https://www.ipdb.org/images/1993/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44593: Rocky Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44594" 
+><span title="Image # 44594: Rocky Inside Cabinet "><img src="https://www.ipdb.org/images/1993/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44594: Rocky Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44595" 
+><span title="Image # 44595: Rocky Under Upper Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44595: Rocky Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44596" 
+><span title="Image # 44596: Rocky Under Lower Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44596: Rocky Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44597" 
+><span title="Image # 44597: Rocky Fuse Panel and Volume Control 
+(Coin door is on the right.)"><img src="https://www.ipdb.org/images/1993/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44597: Rocky Fuse Panel and Volume Control 
+(Coin door is on the right.)"><br>Fuse Panel and Volume Control*</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44598" 
+><span title="Image # 44598: Rocky Inside Front Door "><img src="https://www.ipdb.org/images/1993/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44598: Rocky Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44599" 
+><span title="Image # 44599: Rocky Inside Backbox "><img src="https://www.ipdb.org/images/1993/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44599: Rocky Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44600" 
+><span title="Image # 44600: Rocky Power Supply PCB "><img src="https://www.ipdb.org/images/1993/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44600: Rocky Power Supply PCB "><br>Power Supply PCB</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44601" 
+><span title="Image # 44601: Rocky CPU Board "><img src="https://www.ipdb.org/images/1993/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44601: Rocky CPU Board "><br>CPU Board</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44602" 
+><span title="Image # 44602: Rocky Sound Board "><img src="https://www.ipdb.org/images/1993/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44602: Rocky Sound Board "><br>Sound Board</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44603" 
+><span title="Image # 44603: Rocky Driver Board "><img src="https://www.ipdb.org/images/1993/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44603: Rocky Driver Board "><br>Driver Board</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44604" 
+><span title="Image # 44604: Rocky Backbox Insert "><img src="https://www.ipdb.org/images/1993/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 44604: Rocky Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1104x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44605" 
+><span title="Image # 44605: Rocky Backglass - Reverse "><img src="https://www.ipdb.org/images/1993/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 44605: Rocky Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1060x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44606" 
+><span title="Image # 44606: Rocky Backbox - Left "><img src="https://www.ipdb.org/images/1993/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44606: Rocky Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44607" 
+><span title="Image # 44607: Rocky Backbox - Right "><img src="https://www.ipdb.org/images/1993/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44607: Rocky Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44608" 
+><span title="Image # 44608: Rocky Cabinet - Front "><img src="https://www.ipdb.org/images/1993/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44608: Rocky Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=44609" 
+><span title="Image # 44609: Rocky Cabinet - Front View "><img src="https://www.ipdb.org/images/1993/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 44609: Rocky Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">884x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=52967" 
+><span title="Image # 52967: Rocky Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 52967: Rocky Playfield "><br>Playfield</span></a><br><font size="-2">1200x1639</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=52968" 
+><span title="Image # 52968: Rocky Upper Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 52968: Rocky Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x788</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=52969" 
+><span title="Image # 52969: Rocky Middle Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52969: Rocky Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=52970" 
+><span title="Image # 52970: Rocky Playfield - Detail "><img src="https://www.ipdb.org/images/1993/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52970: Rocky Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=52971" 
+><span title="Image # 52971: Rocky Instruction Card "><img src="https://www.ipdb.org/images/1993/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 52971: Rocky Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x815</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65214" 
+><span title="Image # 65214: Rocky Backglass "><img src="https://www.ipdb.org/images/1993/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65214: Rocky Backglass "><br>Backglass</span></a><br><font size="-2">1200x1184</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65215" 
+><span title="Image # 65215: Rocky Illuminated Backglass "><img src="https://www.ipdb.org/images/1993/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 65215: Rocky Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1196</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65216" 
+><span title="Image # 65216: Rocky Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 65216: Rocky Playfield "><br>Playfield</span></a><br><font size="-2">1200x1261</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65217" 
+><span title="Image # 65217: Rocky Upper Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 65217: Rocky Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x885</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65218" 
+><span title="Image # 65218: Rocky Middle Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 65218: Rocky Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x861</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65219" 
+><span title="Image # 65219: Rocky Lower Playfield "><img src="https://www.ipdb.org/images/1993/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 65219: Rocky Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x820</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65220" 
+><span title="Image # 65220: Rocky Playfield - Detail "><img src="https://www.ipdb.org/images/1993/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65220: Rocky Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1191</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65221" 
+><span title="Image # 65221: Rocky French Instruction Card "><img src="https://www.ipdb.org/images/1993/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 65221: Rocky French Instruction Card "><br>French Instruction Card</span></a><br><font size="-2">1200x858</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65222" 
+><span title="Image # 65222: Rocky Backbox - Right "><img src="https://www.ipdb.org/images/1993/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 65222: Rocky Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">685x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65223" 
+><span title="Image # 65223: Rocky Cabinet - Left "><img src="https://www.ipdb.org/images/1993/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=37 alt="Image # 65223: Rocky Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x446</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65224" 
+><span title="Image # 65224: Rocky Cabinet - Front View "><img src="https://www.ipdb.org/images/1993/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 65224: Rocky Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">711x1200</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1993&amp;picno=65225" 
+><span title="Image # 65225: Rocky Front View Illuminated "><img src="https://www.ipdb.org/images/1993/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 65225: Rocky Front View Illuminated "><br>Front View Illuminated</span></a><br><font size="-2">906x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

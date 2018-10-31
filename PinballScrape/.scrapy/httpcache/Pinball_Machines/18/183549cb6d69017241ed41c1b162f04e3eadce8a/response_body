@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Broadway'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Broadway Bingo Machine 5 balls for 5 cents. Trap holes (25). Mirrored backglass.
+
+Sound: knocker  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Broadway' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Broadway</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="381">Broadway</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=381">381</a> <I>/ June 15, 1951 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=381" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>June 15, 1951</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>535</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=381">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Bingo Machine&nbsp;<a href="glossary.php#Bingo_Machine" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Trap_Hole">Trap&nbsp;holes</a> (25). Mirrored <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.<br><br>Sound: <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a><P></td></tr>
+<!-- 5991 == 42nd and Broadway -->
+<!-- 374 == Bright Lights -->
+<!-- 1448 == Line-Up -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This listing represents Bally 'Broadway' Model 535 and previously carried an incorrect name of <a target="game5991" href="machine.cgi?id=5991">42nd and Broadway</a>.<br> <br>The schematic part number is W-348c showing an issue date of 1951.<br><br>The earliest Billboard ad that we found for this game (not shown here) is a distributor ad dated Sept-1-1951 page 85 and it referred to this game as "new". We have not found any ads placed by the manufacturer.<br><br>The pictures in this listing show that Bally's six-card <a target="game374" href="machine.cgi?id=374">Bright Lights</a> bingo game from April 1951 was reused to make this one-card game by mounting in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> the light board for a single large bingo card directly onto the front of the in<ignore>sert of that earlier game, covering its six smaller cards. Several stepper units in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> for multiple card operation have been manually disabled. The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> itself is deeper in size when compared to Bright Lights, probably to accommodate the extra space required behind the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> for the added light board. The underside of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is tagged 'Bright Lights' and the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art design is the same. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art is the same, however the paint lines on the coin door do not fully coincide with those of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. This coin door is further different, having a start button and a coin chute instead of a coin slide, and may be a repainted after-factory replacement. The schematic that came with the game is also pictured here and carries a part number found in Bally documentation assigned to Model 535. This schematic clearly shows it is a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> game with a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> counter. However, in the game pictured here, a portion of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> unit that searches for winning score combinations has been removed from the game, leaving clipped wires. This means no <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> are ever awarded in spite of the score cards that were included with the game, and the <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a> never operates. As a result, this particular game operates as a 5-ball novelty game, even while its inoperative <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> unit remains visible to the player. It seems excessive to have physically deconstructed the search unit in this way when unsoldering wires would have been simpler and easily reversible, but perhaps it was necessary to show local authorities on demand that this game could never award <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a>. Reportedly, several of these games were operated in the Syracuse, New York area where <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> were illegal. Perhaps the different coin door was necessary for New York operation. <br><br>We don't know how many units of this Model 535 were made, and since the game pictured here reportedly is the only example that anyone has found, we do not know if other examples would have the unusual <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;insert</a> modification. Even so, we have no reason to believe this modification and deeper <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> were not produced by Bally. The mirrored <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is an original design and does carry the brand name. We suggest that any unauthorized party making a <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> would not have risked using the brand name or have bothered with the added expense of mirroring.<br><br>Interestingly, although the schematic defends Broadway as a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> game, Bally's internal documentation identifies Model 535 as a "5-ball novelty" while clearly listing other machines of this type as "bingo". It is hard to know what Bally was thinking, when we find no ads placed by them, and the old Billboard ads we do find are minimal notices placed by distributors located in Los Angeles and other territories where <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> were legal. The score cards imply a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> unit payoff, but could also be used in restricted territories to direct the location to pay off the player when law enforcement was not looking.<br><br>Bright Lights and Broadway were Bally's first two <a target="glossary" class="glossarylink" href="/glossary.php#Bingo_Machine">bingo&nbsp;machines</a> following a gap of many years since their very first one in 1937, <a target="game1448" href="machine.cgi?id=1448">Line-Up</a>. <br><br>Bally later made a different bingo game with the same name and a different <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. See <span title="Click here to open a new window and display Bally's 1955 'Broadway'"><a target="game382" href="machine.cgi?id=382">Bally's 1955 'Broadway'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58124" 
+><span title="Image # 58124: Broadway Backglass 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 58124: Broadway Backglass 
+(Serial number A2331.)"><br>Backglass*</span></a><br><font size="-2">545x536</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58125" 
+><span title="Image # 58125: Broadway Playfield 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 58125: Broadway Playfield 
+(Serial number A2331.)"><br>Playfield*</span></a><br><font size="-2">430x640</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58126" 
+><span title="Image # 58126: Broadway Score Card 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58126: Broadway Score Card 
+(Serial number A2331.)"><br>Score Card*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58127" 
+><span title="Image # 58127: Broadway Score Card - Game Name 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 58127: Broadway Score Card - Game Name 
+(Serial number A2331.)"><br>Score Card - Game Name*</span></a><br><font size="-2">1200x671</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58128" 
+><span title="Image # 58128: Broadway Cabinet - Right 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 58128: Broadway Cabinet - Right 
+(Serial number A2331.)"><br>Cabinet - Right*</span></a><br><font size="-2">526x477</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58129" 
+><span title="Image # 58129: Broadway Cabinet - Front View 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 58129: Broadway Cabinet - Front View 
+(Serial number A2331.)"><br>Cabinet - Front View*</span></a><br><font size="-2">329x582</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58130" 
+><span title="Image # 58130: Broadway Backbox Serial Number 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 58130: Broadway Backbox Serial Number 
+(Serial number A2331.)"><br>Backbox Serial Number*</span></a><br><font size="-2">1200x824</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58131" 
+><span title="Image # 58131: Broadway Cabinet Serial Number 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58131: Broadway Cabinet Serial Number 
+(Serial number A2331.)"><br>Cabinet Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58132" 
+><span title="Image # 58132: Broadway Backbox Insert - Front 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 58132: Broadway Backbox Insert - Front 
+(Serial number A2331.)"><br>Backbox Insert - Front*</span></a><br><font size="-2">561x531</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58133" 
+><span title="Image # 58133: Broadway Inside Backbox 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58133: Broadway Inside Backbox 
+(Serial number A2331.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58134" 
+><span title="Image # 58134: Broadway Inside Upper Backbox 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58134: Broadway Inside Upper Backbox 
+(Serial number A2331.)"><br>Inside Upper Backbox*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58135" 
+><span title="Image # 58135: Broadway Backbox Door Lowered 
+(The backboor door lowers on a hinge. Each of the five counter units has a switch blade manually bent to prevent closure, thus disabling the unit from operation. Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58135: Broadway Backbox Door Lowered 
+(The backboor door lowers on a hinge. Each of the five counter units has a switch blade manually bent to prevent closure, thus disabling the unit from operation. Serial number A2331.)"><br>Backbox Door Lowered*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58136" 
+><span title="Image # 58136: Broadway Stepper Units Disabled 
+(Each of the five counter units has a switch blade manually bent to prevent closure, thus disabling the unit from operation. Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58136: Broadway Stepper Units Disabled 
+(Each of the five counter units has a switch blade manually bent to prevent closure, thus disabling the unit from operation. Serial number A2331.)"><br>Stepper Units Disabled*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58137" 
+><span title="Image # 58137: Broadway Search Unit Disabled 
+(Two images are presented here for comparison. The lower left corner of the left image shows five wires in the Broadway game (serial number A2331) have been clipped to allow removal of the five bare wires that connect to the center axis of the rotating search unit. The right image shows a complete search unit from a United 'Playtime' bingo.)"><img src="https://www.ipdb.org/images/381/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 58137: Broadway Search Unit Disabled 
+(Two images are presented here for comparison. The lower left corner of the left image shows five wires in the Broadway game (serial number A2331) have been clipped to allow removal of the five bare wires that connect to the center axis of the rotating search unit. The right image shows a complete search unit from a United 'Playtime' bingo.)"><br>Search Unit Disabled*</span></a><br><font size="-2">1200x800</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58138" 
+><span title="Image # 58138: Broadway Under Playfield 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58138: Broadway Under Playfield 
+(Serial number A2331.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58139" 
+><span title="Image # 58139: Broadway Inside Backbox - Detail 
+(Serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58139: Broadway Inside Backbox - Detail 
+(Serial number A2331.)"><br>Inside Backbox - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58140" 
+><span title="Image # 58140: Broadway Score Cards 
+(From the game with serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 58140: Broadway Score Cards 
+(From the game with serial number A2331.)"><br>Score Cards*</span></a><br><font size="-2">1062x809</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58141" 
+><span title="Image # 58141: Broadway Schematic 
+(From the game with serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 58141: Broadway Schematic 
+(From the game with serial number A2331.)"><br>Schematic*</span></a><br><font size="-2">1160x771</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58142" 
+><span title="Image # 58142: Broadway Schematic Part Number 
+(From the game with serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 58142: Broadway Schematic Part Number 
+(From the game with serial number A2331.)"><br>Schematic Part Number*</span></a><br><font size="-2">1180x776</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=381&amp;picno=58143" 
+><span title="Image # 58143: Broadway Schematic Date 
+(From the game with serial number A2331.)"><img src="https://www.ipdb.org/images/381/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58143: Broadway Schematic Date 
+(From the game with serial number A2331.)"><br>Schematic Date*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Olympic Hockey'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Olympic Hockey Mechanical Backbox Animation Flippers (2), Pop bumpers (5), Passive bumper (1), Slingshots (2), Standup targets (2), Up-post between flippers, Right outlane ball return gate. Ten rollover buttons arranged in an arc can all be hit with a single rebound of the ball from either side rebound rubber. Mechanical backglass animation (puck moves across hockey rink). Backglass counts goals as well as points, for each player. 3 or 5 ball play.
+
+Maximum displayed point score is 99,990 points per player.
+
+Sound: 2 bells.  Christian Marche Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Olympic Hockey' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Olympic Hockey</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1709">Olympic Hockey</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1709">1709</a> <I>/ January 12, 1972 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1709" target="showrate1709"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1709" target="showrate1709">6 ratings/6 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1709" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January 12, 1972</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>351</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,555 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1709">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Hockey</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumper</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Ten <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> buttons arranged in an arc can all be hit with a single rebound of the ball from either side rebound <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubber</a>. Mechanical <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (puck moves across hockey rink). <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> counts goals as well as points, for each player. 3 or 5 ball play.<br><br>Maximum displayed point score is 99,990 points per player.<br><br>Sound: 2 bells.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0890091188/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0890091188&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Portfolio</a>, page 119<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 40<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 89<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1709/Williams_1972_Olympic_Hockey_Instruction_Manual_Catalog_Supplement_JJ_and_Schematic_submitted_by_Bob_Bisceglia.pdf" onClick="return purchasemanual();">Instruction Manual, Catalog Supplement "JJ", and Schematic (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=1652" 
+><span title="Image # 1652: Olympic Hockey Backglass "><img src="https://www.ipdb.org/images/1709/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 1652: Olympic Hockey Backglass "><br>Backglass</span></a><br><font size="-2">416x438</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=1653" 
+><span title="Image # 1653: Olympic Hockey Playfield "><img src="https://www.ipdb.org/images/1709/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 1653: Olympic Hockey Playfield "><br>Playfield</span></a><br><font size="-2">540x334</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=1654" 
+><span title="Image # 1654: Olympic Hockey Cabinet - Front View "><img src="https://www.ipdb.org/images/1709/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 1654: Olympic Hockey Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=1655" 
+><span title="Image # 1655: Olympic Hockey Playfield "><img src="https://www.ipdb.org/images/1709/tn_Playfield2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 1655: Olympic Hockey Playfield "><br>Playfield</span></a><br><font size="-2">334x540</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=4283" 
+><span title="Image # 4283: Olympic Hockey Flyer "><img src="https://www.ipdb.org/images/1709/tn_1709f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4283: Olympic Hockey Flyer "><br>Flyer</span></a><br><font size="-2">892x1150</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=10276" 
+><span title="Image # 10276: Olympic Hockey Illuminated Playfield "><img src="https://www.ipdb.org/images/1709/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10276: Olympic Hockey Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">450x600</font><br>[David Sobel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=13364" 
+><span title="Image # 13364: Olympic Hockey Behind Backglass "><img src="https://www.ipdb.org/images/1709/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 13364: Olympic Hockey Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">510x450</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=13365" 
+><span title="Image # 13365: Olympic Hockey Backbox Animation "><img src="https://www.ipdb.org/images/1709/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 13365: Olympic Hockey Backbox Animation "><br>Backbox Animation</span></a><br><font size="-2">617x449</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=13366" 
+><span title="Image # 13366: Olympic Hockey Upper Playfield "><img src="https://www.ipdb.org/images/1709/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13366: Olympic Hockey Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=18916" 
+><span title="Image # 18916: Olympic Hockey Backglass "><img src="https://www.ipdb.org/images/1709/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 18916: Olympic Hockey Backglass "><br>Backglass</span></a><br><font size="-2">400x400</font><br>[Bruno Durand]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=26432" 
+><span title="Image # 26432: Olympic Hockey Backglass - Reverse "><img src="https://www.ipdb.org/images/1709/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 26432: Olympic Hockey Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">626x517</font><br>[Eric Avedesian]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30403" 
+><span title="Image # 30403: Olympic Hockey Backglass - Detail "><img src="https://www.ipdb.org/images/1709/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30403: Olympic Hockey Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30762" 
+><span title="Image # 30762: Olympic Hockey Inside Backbox "><img src="https://www.ipdb.org/images/1709/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30762: Olympic Hockey Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30763" 
+><span title="Image # 30763: Olympic Hockey Animation Unit "><img src="https://www.ipdb.org/images/1709/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30763: Olympic Hockey Animation Unit "><br>Animation Unit</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30764" 
+><span title="Image # 30764: Olympic Hockey Animation Unit "><img src="https://www.ipdb.org/images/1709/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30764: Olympic Hockey Animation Unit "><br>Animation Unit</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30765" 
+><span title="Image # 30765: Olympic Hockey Cabinet - Left "><img src="https://www.ipdb.org/images/1709/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30765: Olympic Hockey Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30766" 
+><span title="Image # 30766: Olympic Hockey Backbox - Left "><img src="https://www.ipdb.org/images/1709/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30766: Olympic Hockey Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30767" 
+><span title="Image # 30767: Olympic Hockey Cabinet - Right "><img src="https://www.ipdb.org/images/1709/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30767: Olympic Hockey Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30768" 
+><span title="Image # 30768: Olympic Hockey Backbox - Right "><img src="https://www.ipdb.org/images/1709/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30768: Olympic Hockey Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30769" 
+><span title="Image # 30769: Olympic Hockey Instruction Card "><img src="https://www.ipdb.org/images/1709/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30769: Olympic Hockey Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30770" 
+><span title="Image # 30770: Olympic Hockey Playfield "><img src="https://www.ipdb.org/images/1709/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30770: Olympic Hockey Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30771" 
+><span title="Image # 30771: Olympic Hockey Under Lower Playfield "><img src="https://www.ipdb.org/images/1709/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30771: Olympic Hockey Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30772" 
+><span title="Image # 30772: Olympic Hockey Under Upper Playfield "><img src="https://www.ipdb.org/images/1709/tn_image-B8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30772: Olympic Hockey Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=30773" 
+><span title="Image # 30773: Olympic Hockey Inside Cabinet "><img src="https://www.ipdb.org/images/1709/tn_image-B9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30773: Olympic Hockey Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=54700" 
+><span title="Image # 54700: Olympic Hockey Backglass "><img src="https://www.ipdb.org/images/1709/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 54700: Olympic Hockey Backglass "><br>Backglass</span></a><br><font size="-2">1024x918</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1709&amp;picno=63598" 
+><span title="Image # 63598: Olympic Hockey Score Card - 5 Ball "><img src="https://www.ipdb.org/images/1709/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 63598: Olympic Hockey Score Card - 5 Ball "><br>Score Card - 5 Ball</span></a><br><font size="-2">743x414</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

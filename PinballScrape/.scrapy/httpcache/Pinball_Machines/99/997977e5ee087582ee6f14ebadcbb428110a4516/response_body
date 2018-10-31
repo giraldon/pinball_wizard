@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Cyclone'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Cyclone Flippers (2), Pop bumpers (5), Passive bumpers (5), Kickback lanes (2), Kick-out hole (1). The kickback lanes are called 'side recovery lanes' in the flyer.  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Cyclone' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Cyclone</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="615">Cyclone</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=615">615</a> <I>/ April, 1951 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=615" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1951</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>49</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>800 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=615">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cyclones - Weather</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">Kickback</a> lanes (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). The <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a> lanes are called "side recovery lanes" in the flyer.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Pinball Trader pp. Volume 2 Issue 5<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=4806" 
+><span title="Image # 4806: Cyclone Flyer "><img src="https://www.ipdb.org/images/615/tn_615f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 4806: Cyclone Flyer "><br>Flyer</span></a><br><font size="-2">824x1078</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=5515" 
+><span title="Image # 5515: Cyclone Playfield "><img src="https://www.ipdb.org/images/615/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 5515: Cyclone Playfield "><br>Playfield</span></a><br><font size="-2">393x738</font><br>[Clay Harrell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39863" 
+><span title="Image # 39863: Cyclone Backglass 
+(Serial number 053123C.)"><img src="https://www.ipdb.org/images/615/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 39863: Cyclone Backglass 
+(Serial number 053123C.)"><br>Backglass*</span></a><br><font size="-2">744x768</font><br>[Michael Heidelman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39864" 
+><span title="Image # 39864: Cyclone Playfield 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><img src="https://www.ipdb.org/images/615/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39864: Cyclone Playfield 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><br>Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Michael Heidelman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39865" 
+><span title="Image # 39865: Cyclone Playfield 
+(The game flyer shows that both flippers are supposed to be white. The posts nearest the flippers are not original to this game. Serial number 053123C.)"><img src="https://www.ipdb.org/images/615/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39865: Cyclone Playfield 
+(The game flyer shows that both flippers are supposed to be white. The posts nearest the flippers are not original to this game. Serial number 053123C.)"><br>Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Michael Heidelman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39866" 
+><span title="Image # 39866: Cyclone Playfield 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><img src="https://www.ipdb.org/images/615/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 39866: Cyclone Playfield 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><br>Playfield*</span></a><br><font size="-2">872x1340</font><br>[Michael Heidelman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39867" 
+><span title="Image # 39867: Cyclone Lower Playfield 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><img src="https://www.ipdb.org/images/615/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39867: Cyclone Lower Playfield 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Michael Heidelman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39868" 
+><span title="Image # 39868: Cyclone Cabinet - Left 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><img src="https://www.ipdb.org/images/615/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39868: Cyclone Cabinet - Left 
+(The game flyer shows that both flippers are supposed to be white. Serial number 053123C.)"><br>Cabinet - Left*</span></a><br><font size="-2">1024x768</font><br>[Michael Heidelman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=39869" 
+><span title="Image # 39869: Cyclone Cabinet - Front 
+(The game flyer shows that both flippers are supposed to be white. The oval doorbell button on the coin door is likely a free-play button and is not original to this game.)"><img src="https://www.ipdb.org/images/615/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39869: Cyclone Cabinet - Front 
+(The game flyer shows that both flippers are supposed to be white. The oval doorbell button on the coin door is likely a free-play button and is not original to this game.)"><br>Cabinet - Front*</span></a><br><font size="-2">1024x768</font><br>[Michael Heidelman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52154" 
+><span title="Image # 52154: Cyclone Illuminated Backglass "><img src="https://www.ipdb.org/images/615/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52154: Cyclone Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">600x800</font><br>[Bryan Holmgren]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52155" 
+><span title="Image # 52155: Cyclone Playfield "><img src="https://www.ipdb.org/images/615/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52155: Cyclone Playfield "><br>Playfield</span></a><br><font size="-2">600x800</font><br>[Bryan Holmgren]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52156" 
+><span title="Image # 52156: Cyclone Upper Playfield "><img src="https://www.ipdb.org/images/615/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52156: Cyclone Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Bryan Holmgren]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52157" 
+><span title="Image # 52157: Cyclone Lower Playfield "><img src="https://www.ipdb.org/images/615/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52157: Cyclone Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Bryan Holmgren]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52158" 
+><span title="Image # 52158: Cyclone Cabinet - Left "><img src="https://www.ipdb.org/images/615/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52158: Cyclone Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">600x800</font><br>[Bryan Holmgren]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52159" 
+><span title="Image # 52159: Cyclone Cabinet - Left "><img src="https://www.ipdb.org/images/615/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52159: Cyclone Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x600</font><br>[Bryan Holmgren]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52160" 
+><span title="Image # 52160: Cyclone Cabinet - Right "><img src="https://www.ipdb.org/images/615/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52160: Cyclone Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x600</font><br>[Bryan Holmgren]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=615&amp;picno=52161" 
+><span title="Image # 52161: Cyclone Cabinet - Front "><img src="https://www.ipdb.org/images/615/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52161: Cyclone Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">800x600</font><br>[Bryan Holmgren]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

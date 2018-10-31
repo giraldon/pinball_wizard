@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Star Ship'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Star Ship Starship Flippers (2), Pop bumpers (3), Slingshots (2), 5-bank drop targets (1), Standup targets (4), Kick-out hole (1), Spinning target (1), Star rollovers (11), Right outlane ball return gate.  Greg Kmiec ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Star Ship' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Star Ship</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3498">Star Ship</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3498">3498</a> <I>/ October 06, 1976 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3498" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>October 06, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1106</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1 unit &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3498">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (11), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Kmiec' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Kmiec">Greg&nbsp;Kmiec</a></span></td></tr>
+<!-- 2455 == Supersonic -->
+<!-- 2803 == Wiz<ignore>ard -->
+<!-- 438 == Capt. Fantastic -->
+<!-- 2355 == Star Trek -->
+<!-- 1677 == Night Rider E<ignore>M -->
+<!-- 4497 == Night Rider S<ignore>S -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> shows the spaceship from the 1960's TV show 'Star Trek', also depicted on <span title="Click here to open a new window and display Bally's 1979 'Star Trek'"><a target="game2355" href="machine.cgi?id=2355">Bally's 1979 'Star Trek'</a></span>.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is identical in design to <span title="Click here to open a new window and display Bally's 1979 'Supersonic'"><a target="game2455" href="machine.cgi?id=2455">Bally's 1979 'Supersonic'</a></span>.<br><br>The game pictured here was found for sale on a gas station bulletin board near Dekalb, Illinois in 2008. The seller had purchased it from a retired executive.<br><br><P>We asked <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> Greg Kmiec how many units of this game were actually made. He replies:<P style="padding-left:30px;"><i>As I remember, only 1 engineering sample <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> of Star Ship were made.  Two <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> were made, one for the game and one for art registration.</i></P><br>We subsequently received a picture of a second, <a target="glossary" class="glossarylink" href="/glossary.php#NOS">NOS</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, for this listing.<br><br><P>Greg Kmiec also explains why this game never went into production but instead was later used to make <a target="game2455" href="machine.cgi?id=2455">Supersonic</a>:<P style="padding-left:30px;"><i>I had just designed <a target="game2803" href="machine.cgi?id=2803">Wiz<ignore>ard</a> and <a target="game438" href="machine.cgi?id=438">Capt. Fantastic</a>. I quickly went on to design a whitewood game called "Super Shooter" with two S's as bonus lights. That game was renamed "Star Ship" probably because of the bonus lights, and a futuristic art theme was added. <br><br>Bally had just realized it was a bonus to manufacture licensed games like Wiz<ignore>ard and Capt. Fantastic. (It distinguished Bally from the rest of the pack.) Bally went out and procured the <a target="game2355" href="machine.cgi?id=2355">Star Trek</a> license.  I had just done two licensed games. Bally management hired a new desig<ignore>ner and gave him the Star Trek license in order to spread licensed games among the four desig<ignore>ners.  <br><br>After Star Ship was done, I was already working on <a target="game1677" href="machine.cgi?id=1677">Night Rider E<ignore>M</a>, a game that was themed after the then popular CB radio fad. It was imperative to get a CB-themed game in the market ASAP. Night Rider was deemed too good of a game to change its name. (Changing "Night Rider" to "Star Trek" would have delayed a CB-themed game by about a year. In retrospect, the drop tar<ignore>get banks probably could have spelled S-T-A-R T-R-E-K. But it all worked out, as <a target="game4497" href="machine.cgi?id=4497">Night Rider S<ignore>S</a> became the test game for Bally solid state games.)<br><br>So there was "Star Ship", a complete game all designed with artwork, with the two S's as bonus lights, [while the Star Trek license had been assigned to another desig<ignore>ner]. What was Bally to do?  <br><br>"Star Ship" was designed as an economy game in a "push" market. What that meant was that because of the success of Wiz<ignore>ard and Capt. Fantastic, Bally was able to "push" game orders to distributors instead of distributors "pulling" game orders from Bally. And the bonus to Bally was that these "push" games were inexpensive to make but sold just as many as other games.  <br><br>Bally didn't want to kill the "Star Ship" game. Therefore, a new theme, "Supersonic", was created, to take into account the two bonus light S's. (And, "Supersonic" is a spacey sounding theme.) In a game designed from scratch, the "T" of "SST" would have had bonus lights in it.<br><br>To my knowledge, Supersonic is the only Bally game that had two production names, "Star Ship" and "Supersonic."</i></P><P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36741" 
+><span title="Image # 36741: Star Ship Backglass "><img src="https://www.ipdb.org/images/3498/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 36741: Star Ship Backglass "><br>Backglass</span></a><br><font size="-2">1024x911</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36742" 
+><span title="Image # 36742: Star Ship Illuminated Backglass "><img src="https://www.ipdb.org/images/3498/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 36742: Star Ship Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x936</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36743" 
+><span title="Image # 36743: Star Ship Lower Backglass "><img src="https://www.ipdb.org/images/3498/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36743: Star Ship Lower Backglass "><br>Lower Backglass</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36744" 
+><span title="Image # 36744: Star Ship Illuminated Lower Backglass "><img src="https://www.ipdb.org/images/3498/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36744: Star Ship Illuminated Lower Backglass "><br>Illuminated Lower Backglass</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36745" 
+><span title="Image # 36745: Star Ship Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 36745: Star Ship Playfield "><br>Playfield</span></a><br><font size="-2">1024x643</font><br>[Bill Cody]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36746" 
+><span title="Image # 36746: Star Ship Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36746: Star Ship Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36747" 
+><span title="Image # 36747: Star Ship Illuminated Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36747: Star Ship Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36748" 
+><span title="Image # 36748: Star Ship Upper Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36748: Star Ship Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36749" 
+><span title="Image # 36749: Star Ship Upper Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36749: Star Ship Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36750" 
+><span title="Image # 36750: Star Ship Lower Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36750: Star Ship Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36751" 
+><span title="Image # 36751: Star Ship Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/3498/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36751: Star Ship Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36752" 
+><span title="Image # 36752: Star Ship Playfield - Detail "><img src="https://www.ipdb.org/images/3498/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36752: Star Ship Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36753" 
+><span title="Image # 36753: Star Ship Cabinet - Left "><img src="https://www.ipdb.org/images/3498/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36753: Star Ship Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36754" 
+><span title="Image # 36754: Star Ship Cabinet - Right "><img src="https://www.ipdb.org/images/3498/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 36754: Star Ship Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x585</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36755" 
+><span title="Image # 36755: Star Ship Cabinet - Front "><img src="https://www.ipdb.org/images/3498/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 36755: Star Ship Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x713</font><br>[Bill Cody]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36756" 
+><span title="Image # 36756: Star Ship Inside Backbox "><img src="https://www.ipdb.org/images/3498/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36756: Star Ship Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36757" 
+><span title="Image # 36757: Star Ship Inside Cabinet "><img src="https://www.ipdb.org/images/3498/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36757: Star Ship Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36758" 
+><span title="Image # 36758: Star Ship Cabinet - Front View "><img src="https://www.ipdb.org/images/3498/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 36758: Star Ship Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1471</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=36759" 
+><span title="Image # 36759: Star Ship Illuminated Front View "><img src="https://www.ipdb.org/images/3498/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36759: Star Ship Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1024x1365</font><br>[Bill Cody]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3498&amp;picno=51957" 
+><span title="Image # 51957: Star Ship Blank Playfield 
+(This playfield is New Old Stock.)"><img src="https://www.ipdb.org/images/3498/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 51957: Star Ship Blank Playfield 
+(This playfield is New Old Stock.)"><br>Blank Playfield*</span></a><br><font size="-2">876x1596</font><br>[Kory Hankin]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

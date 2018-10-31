@@ -1,0 +1,241 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Super Mario Bros.'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Super Mario Bros. Flippers (3), Pop bumpers (3), Vertical up-kicker (2), Standup target (1), Ramps (2), Elevated mini-playfield. Revolving Castle  David Moore Constantino Mitchell Jeanine Mitchell Nintendo Jon Norris Rand Paulin Daryl Moore Allen Edwall Rand Paulin ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Super Mario Bros.' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Super Mario Bros.</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2435">Super Mario Bros.</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2435">2435</a> <I>/ April 25, 1992 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2435" target="showrate2435"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2435" target="showrate2435">59 ratings/41 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2435" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April 25, 1992</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>733</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SMB</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,200 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2435">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Vertical_Up-Kicker">Vertical&nbsp;up-kicker</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), Elevated mini-playfield.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Revolving Castle</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Nintendo' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Nintendo">Nintendo</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Norris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Norris">Jon&nbsp;Norris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Rand&nbsp;Paulin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rand%20Paulin">Rand&nbsp;Paulin</a></span>, <span title="Click here to perform a search for all pinball games that 'Daryl&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Daryl%20Moore">Daryl&nbsp;Moore</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Allen&nbsp;Edwall' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Allen%20Edwall">Allen&nbsp;Edwall</a></span>, <span title="Click here to perform a search for all pinball games that 'Rand&nbsp;Paulin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rand%20Paulin">Rand&nbsp;Paulin</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>First Gottlieb game to use a <a target="glossary" class="glossarylink" href="/glossary.php#Dot_Matrix_Display">Dot&nbsp;Matrix&nbsp;Display</a> (DMD).</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The Hit Video Game Comes to Pinball!!!"<br>
+"Mario Mania Comes to Pinball!!!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Appliance Manufacturer 41(3), March 1993, pp. 45,46.<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2435/mariobros.html" target="rulesheet">Super Mario Bros Rulesheet, by Rod Cooper</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2435">http://www.pinballowners.com/owners/2435</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 526 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 2435 smb.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 18 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (Rev. 1) <!-- gid 2435 smb1.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 80 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (Rev. 2) <!-- gid 2435 smb2.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 80 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (Rev. 3) <!-- gid 2435 smb3.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 2435 Gottlieb_1992_Super_Mario_Bros_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=5137" 
+><span title="Image # 5137: Super Mario Bros. Flyer, Front "><img src="https://www.ipdb.org/images/2435/tn_2435f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5137: Super Mario Bros. Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=5138" 
+><span title="Image # 5138: Super Mario Bros. Flyer, Back "><img src="https://www.ipdb.org/images/2435/tn_2435f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5138: Super Mario Bros. Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=15417" 
+><span title="Image # 15417: Super Mario Bros. Backglass "><img src="https://www.ipdb.org/images/2435/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 15417: Super Mario Bros. Backglass "><br>Backglass</span></a><br><font size="-2">561x615</font><br>[HighwayGames]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=15418" 
+><span title="Image # 15418: Super Mario Bros. Cabinet "><img src="https://www.ipdb.org/images/2435/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 15418: Super Mario Bros. Cabinet "><br>Cabinet</span></a><br><font size="-2">462x653</font><br>[HighwayGames]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=15419" 
+><span title="Image # 15419: Super Mario Bros. Lower Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15419: Super Mario Bros. Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">716x535</font><br>[HighwayGames]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=15420" 
+><span title="Image # 15420: Super Mario Bros. Upper Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 15420: Super Mario Bros. Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">725x539</font><br>[HighwayGames]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=30754" 
+><span title="Image # 30754: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30754: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1365</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=30755" 
+><span title="Image # 30755: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30755: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1365</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=30756" 
+><span title="Image # 30756: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30756: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1365</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=30757" 
+><span title="Image # 30757: Super Mario Bros. Lower Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30757: Super Mario Bros. Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Federico Ravagnati]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33958" 
+><span title="Image # 33958: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33958: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33959" 
+><span title="Image # 33959: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33959: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33960" 
+><span title="Image # 33960: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33960: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33961" 
+><span title="Image # 33961: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33961: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33962" 
+><span title="Image # 33962: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33962: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33963" 
+><span title="Image # 33963: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33963: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33964" 
+><span title="Image # 33964: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33964: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33965" 
+><span title="Image # 33965: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33965: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33966" 
+><span title="Image # 33966: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33966: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=33967" 
+><span title="Image # 33967: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33967: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=41177" 
+><span title="Image # 41177: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41177: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=41178" 
+><span title="Image # 41178: Super Mario Bros. Cabinet - Left "><img src="https://www.ipdb.org/images/2435/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 41178: Super Mario Bros. Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">930x774</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=41179" 
+><span title="Image # 41179: Super Mario Bros. Cabinet - Right "><img src="https://www.ipdb.org/images/2435/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 41179: Super Mario Bros. Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x850</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=41180" 
+><span title="Image # 41180: Super Mario Bros. Backbox - Left "><img src="https://www.ipdb.org/images/2435/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 41180: Super Mario Bros. Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">868x1148</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=41181" 
+><span title="Image # 41181: Super Mario Bros. Backbox - Right "><img src="https://www.ipdb.org/images/2435/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41181: Super Mario Bros. Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1024x1372</font><br>[Federico Ravagnati]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=41182" 
+><span title="Image # 41182: Super Mario Bros. Cabinet - Front "><img src="https://www.ipdb.org/images/2435/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 41182: Super Mario Bros. Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">928x1556</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68720" 
+><span title="Image # 68720: Super Mario Bros. Cabinet - Front View "><img src="https://www.ipdb.org/images/2435/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68720: Super Mario Bros. Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68721" 
+><span title="Image # 68721: Super Mario Bros. Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68721: Super Mario Bros. Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68722" 
+><span title="Image # 68722: Super Mario Bros. Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68722: Super Mario Bros. Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68723" 
+><span title="Image # 68723: Super Mario Bros. Upper Left Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68723: Super Mario Bros. Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68724" 
+><span title="Image # 68724: Super Mario Bros. Upper Right Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68724: Super Mario Bros. Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68725" 
+><span title="Image # 68725: Super Mario Bros. Middle Left Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68725: Super Mario Bros. Middle Left Playfield "><br>Middle Left Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68726" 
+><span title="Image # 68726: Super Mario Bros. Middle Right Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68726: Super Mario Bros. Middle Right Playfield "><br>Middle Right Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68727" 
+><span title="Image # 68727: Super Mario Bros. Lower Left Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68727: Super Mario Bros. Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68728" 
+><span title="Image # 68728: Super Mario Bros. Lower Right Playfield "><img src="https://www.ipdb.org/images/2435/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68728: Super Mario Bros. Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68729" 
+><span title="Image # 68729: Super Mario Bros. Playfield - Ball View "><img src="https://www.ipdb.org/images/2435/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68729: Super Mario Bros. Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68730" 
+><span title="Image # 68730: Super Mario Bros. Playfield - Ball View "><img src="https://www.ipdb.org/images/2435/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68730: Super Mario Bros. Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68731" 
+><span title="Image # 68731: Super Mario Bros. Vertical Up-Kicker "><img src="https://www.ipdb.org/images/2435/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68731: Super Mario Bros. Vertical Up-Kicker "><br>Vertical Up-Kicker</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68732" 
+><span title="Image # 68732: Super Mario Bros. Playfield - Detail "><img src="https://www.ipdb.org/images/2435/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68732: Super Mario Bros. Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2435&amp;picno=68733" 
+><span title="Image # 68733: Super Mario Bros. Outhole "><img src="https://www.ipdb.org/images/2435/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68733: Super Mario Bros. Outhole "><br>Outhole</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

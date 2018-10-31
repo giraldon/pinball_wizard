@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Playmatic 'Zira'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Playmatic Zira Widebody Flippers (3), Pop bumpers (2), 7-bank drop targets (1), 4-bank drop targets (1), Spinning target (1), Kick-out hole (1), Captive balls (4), Quadruple left inlanes, Dual right inlanes. When two or more players play at the same time, the players can choose whether to change players after each ball or to allow each player to finish a game before changing to the next player.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Playmatic 'Zira' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Zira</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3584">Zira</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3584">3584</a> <I>/ 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.0 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=3584" target="showrate3584">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3584" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Playmatic'"><a href="search.pl?searchtype=advanced&amp;mfgid=255">Playmatic, <font size="-1">of Barcelona, Spain</font> (1968-1987)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=64">Playmatic MPU-C</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3584">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;balls</a> (4), Quadruple left <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>, Dual right <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>. When two or more players play at the same time, the players can choose whether to change players after each ball or to allow each player to finish a game before changing to the next player.</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 4 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3584/zira.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3584/Playmatic_1980_Zira_Instructions_Manual_And_Troubleshooting_English_with_paginated_schematics.pdf" onClick="return purchasemanual();">Instructions Manual And Troubleshooting (English, with paginated schematics)</a></td><td> [Playmatic]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=33654" 
+><span title="Image # 33654: Zira Cabinet "><img src="https://www.ipdb.org/images/3584/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 33654: Zira Cabinet "><br>Cabinet</span></a><br><font size="-2">254x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46320" 
+><span title="Image # 46320: Zira Backglass "><img src="https://www.ipdb.org/images/3584/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 46320: Zira Backglass "><br>Backglass</span></a><br><font size="-2">833x768</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46321" 
+><span title="Image # 46321: Zira Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46321: Zira Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">768x1024</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46322" 
+><span title="Image # 46322: Zira Backglass - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46322: Zira Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">768x1024</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46324" 
+><span title="Image # 46324: Zira Playfield - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 46324: Zira Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x746</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46325" 
+><span title="Image # 46325: Zira Playfield - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46325: Zira Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46326" 
+><span title="Image # 46326: Zira Playfield - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 46326: Zira Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">738x1024</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46327" 
+><span title="Image # 46327: Zira Playfield - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46327: Zira Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46328" 
+><span title="Image # 46328: Zira Playfield - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46328: Zira Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46329" 
+><span title="Image # 46329: Zira Playfield - Detail "><img src="https://www.ipdb.org/images/3584/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46329: Zira Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46330" 
+><span title="Image # 46330: Zira Backbox - Right "><img src="https://www.ipdb.org/images/3584/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 46330: Zira Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">611x1024</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46331" 
+><span title="Image # 46331: Zira Cabinet - Right "><img src="https://www.ipdb.org/images/3584/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 46331: Zira Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x400</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46332" 
+><span title="Image # 46332: Zira Cabinet - Front "><img src="https://www.ipdb.org/images/3584/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 46332: Zira Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x642</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46333" 
+><span title="Image # 46333: Zira Inside Backbox "><img src="https://www.ipdb.org/images/3584/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 46333: Zira Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x702</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46334" 
+><span title="Image # 46334: Zira Under Playfield "><img src="https://www.ipdb.org/images/3584/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 46334: Zira Under Playfield "><br>Under Playfield</span></a><br><font size="-2">744x1024</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46335" 
+><span title="Image # 46335: Zira Inside Cabinet - Left "><img src="https://www.ipdb.org/images/3584/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 46335: Zira Inside Cabinet - Left "><br>Inside Cabinet - Left</span></a><br><font size="-2">964x768</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=46336" 
+><span title="Image # 46336: Zira Inside Cabinet - Right "><img src="https://www.ipdb.org/images/3584/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 46336: Zira Inside Cabinet - Right "><br>Inside Cabinet - Right</span></a><br><font size="-2">1024x696</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60148" 
+><span title="Image # 60148: Zira Illuminated Backglass 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 60148: Zira Illuminated Backglass 
+(Serial number 458.)"><br>Illuminated Backglass*</span></a><br><font size="-2">974x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60149" 
+><span title="Image # 60149: Zira Illuminated Playfield 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60149: Zira Illuminated Playfield 
+(Serial number 458.)"><br>Illuminated Playfield*</span></a><br><font size="-2">798x1200</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60150" 
+><span title="Image # 60150: Zira Illuminated Upper Playfield 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60150: Zira Illuminated Upper Playfield 
+(Serial number 458.)"><br>Illuminated Upper Playfield*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60151" 
+><span title="Image # 60151: Zira Illuminated Lower Playfield 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60151: Zira Illuminated Lower Playfield 
+(Serial number 458.)"><br>Illuminated Lower Playfield*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60152" 
+><span title="Image # 60152: Zira Pop Bumper 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60152: Zira Pop Bumper 
+(Serial number 458.)"><br>Pop Bumper*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60153" 
+><span title="Image # 60153: Zira Playfield - Detail 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60153: Zira Playfield - Detail 
+(Serial number 458.)"><br>Playfield - Detail*</span></a><br><font size="-2">798x1200</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60154" 
+><span title="Image # 60154: Zira Spinner - Obverse 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60154: Zira Spinner - Obverse 
+(Serial number 458.)"><br>Spinner - Obverse*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60155" 
+><span title="Image # 60155: Zira Spinner - Reverse 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60155: Zira Spinner - Reverse 
+(Serial number 458.)"><br>Spinner - Reverse*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60156" 
+><span title="Image # 60156: Zira Quadruple Inlanes 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60156: Zira Quadruple Inlanes 
+(Serial number 458.)"><br>Quadruple Inlanes*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60157" 
+><span title="Image # 60157: Zira Stripped Playfield 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60157: Zira Stripped Playfield 
+(Serial number 458.)"><br>Stripped Playfield*</span></a><br><font size="-2">798x1200</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60158" 
+><span title="Image # 60158: Zira Stripped Upper Playfield 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60158: Zira Stripped Upper Playfield 
+(Serial number 458.)"><br>Stripped Upper Playfield*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60159" 
+><span title="Image # 60159: Zira Stripped Lower Playfield 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60159: Zira Stripped Lower Playfield 
+(Serial number 458.)"><br>Stripped Lower Playfield*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60160" 
+><span title="Image # 60160: Zira Backbox - Left 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 60160: Zira Backbox - Left 
+(Serial number 458.)"><br>Backbox - Left*</span></a><br><font size="-2">757x1200</font><br>[Jasper Verheggen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60161" 
+><span title="Image # 60161: Zira Cabinet - Left 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60161: Zira Cabinet - Left 
+(Serial number 458.)"><br>Cabinet - Left*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60162" 
+><span title="Image # 60162: Zira Cabinet - Front 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60162: Zira Cabinet - Front 
+(Serial number 458.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60163" 
+><span title="Image # 60163: Zira Illuminated Front View 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60163: Zira Illuminated Front View 
+(Serial number 458.)"><br>Illuminated Front View*</span></a><br><font size="-2">798x1200</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60164" 
+><span title="Image # 60164: Zira Illuminated Front View 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 60164: Zira Illuminated Front View 
+(Serial number 458.)"><br>Illuminated Front View*</span></a><br><font size="-2">720x1163</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60165" 
+><span title="Image # 60165: Zira Backbox Insert - Front 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 60165: Zira Backbox Insert - Front 
+(Serial number 458.)"><br>Backbox Insert - Front*</span></a><br><font size="-2">949x798</font><br>[Jasper Verheggen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60166" 
+><span title="Image # 60166: Zira Backbox Insert - Back 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60166: Zira Backbox Insert - Back 
+(Serial number 458.)"><br>Backbox Insert - Back*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60167" 
+><span title="Image # 60167: Zira Inside Backbox 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60167: Zira Inside Backbox 
+(Serial number 458.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60168" 
+><span title="Image # 60168: Zira MPU 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60168: Zira MPU 
+(Serial number 458.)"><br>MPU*</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=60169" 
+><span title="Image # 60169: Zira Production Tag 
+(Serial number 458.)"><img src="https://www.ipdb.org/images/3584/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60169: Zira Production Tag 
+(Serial number 458.)"><br>Production Tag*</span></a><br><font size="-2">798x1200</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3584&amp;picno=68165" 
+><span title="Image # 68165: Zira MPU-C "><img src="https://www.ipdb.org/images/3584/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 68165: Zira MPU-C "><br>MPU-C</span></a><br><font size="-2">975x616</font><br>[Patrick Schneider]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

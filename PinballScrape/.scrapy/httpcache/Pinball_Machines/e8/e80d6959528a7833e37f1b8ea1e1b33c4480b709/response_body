@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Taxi'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Taxi Flippers (2), Pop bumpers (3), Slingshots (2), Kick-out holes (2), 3-bank drop targets (2), Standup target (1). A left-side catapult propels the ball airborne into a habitrail. A plunger lane skill shot shoots the ball into the 'Spin-Out' whirlpool to score up to 100,000 points.
+
+First Williams game to display four player scores using only two alpha-numeric 16 character displays.  Python Anghelo Python Anghelo Mark Ritchie Mark Ritchie Craig Fitpold Tony Kraemer Mark Kim Chris Granner Ed Boon Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Taxi' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Taxi</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2505">Taxi</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2505">2505</a> <I>/ August, 1988 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2505" target="showrate2505"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2505" target="showrate2505">137 ratings/95 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2505" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1988</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>553</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=8">Williams System 11B</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,303 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2505">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Automobiles - Transportation</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1). A left-side catapult propels the ball airborne into a <a target="glossary" class="glossarylink" href="/glossary.php#Habitrail">habitrail</a>. A <a target="glossary" class="glossarylink" href="/glossary.php#Plunger_Lane">plunger&nbsp;lane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Shot">skill&nbsp;shot</a> shoots the ball into the "Spin-Out" <a target="glossary" class="glossarylink" href="/glossary.php#Whirlpool">whirlpool</a> to score up to 100,000 points.<br><br>First Williams game to display four player scores using only two alpha-numeric 16 character displays.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Python&nbsp;Anghelo' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Python%20Anghelo">Python&nbsp;Anghelo</a></span>, <span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Ritchie">Mark&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Ritchie">Mark&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Python&nbsp;Anghelo' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Python%20Anghelo">Python&nbsp;Anghelo</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Craig&nbsp;Fitpold' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Craig%20Fitpold">Craig&nbsp;Fitpold</a></span>, <span title="Click here to perform a search for all pinball games that 'Tony&nbsp;Kraemer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tony%20Kraemer">Tony&nbsp;Kraemer</a></span>, <span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Kim' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Kim">Mark&nbsp;Kim</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Boon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Boon">Ed&nbsp;Boon</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The first games in production were made with a blonde 'Marilyn' taxi passenger, a likeness of Marilyn Monroe. This was changed during production to be a darker-haired 'Lola', ostensibly a likeness of no one famous.<br><br><P>We asked Roger Sharpe about the reason for this change. He replies:<P style="padding-left:30px;"><I>Suffice it to say that we did have some limited run of machines featuring a 'blonde Marilyn' — and I don’t know if these were for international only. However, we were informed that there were rights that needed to be secured in order to use Marilyn and the decision was made to just alter the artwork so that the female character was renamed ‘Lola’ for the main production run. If memory serves, and I can’t say with certainty—there might be games that were manufactured with a brunette Lola and then a redheaded Lola.</i></P><br>The changes needed to introduce 'Lola' include <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> art, <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art, game software, and instruction card.<br><br>According to Mark Ritchie, as explained in the book <i>The Pinball Compendium 1982 to Present</i>, at least 200 sample games were in the process of being shipped with 'Marilyn' before the change had to be made. He also explained the name 'Lola' was taken from a 1970s song about a transvestite, chosen to befit her muscular arms as depicted on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.<br><br>Marilyn's face appears twice on the playfield: directly below the center <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> bank and also as an illuminating <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> further down. We have seen one instance of the Lola <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> where she was still blonde near the <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> but was a brunette in the <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a>. We don't know how many <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> were made this way.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The one taxi Marilyn, Gorbie, Santa, Dracula... and Operators Everywhere are Hailing!"<br>
+"The one taxi Lola, Gorbie, Santa, Dracula... and Operators Everywhere are Hailing!"<br>
+"Get ready for the taxi everyone's going to be lining up for!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Chicago Tribune December 31, 1989, pp. Sect. 10, p. 14-19.<br>
+Newsweek 112, December 5, 1988, pp. 76+.<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 100 (Lola)<br>
+Pinball Trader, Vol 3 No. 1, Sept-Oct 1988, page 31 (Marilyn)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 180, 181, and 234 (Marilyn)<br>
+Pinball Machines, page 131 (Marilyn)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 125 (Marilyn)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 102 (Marilyn, Lola)<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z (Marilyn, Lola)<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2505/TAXI.HTM" target="rulesheet">Taxi Rulesheet, by Mark Valentine</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?taxi">http://pinball.jameswest.com/ownerslists/ownerslist.php?taxi</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2505">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 179 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Game_ROM_L_3_Marilyn_.zip" >Game ROM L-3 (Marilyn)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 179 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Game_ROM_L_4_Lola_.zip" >Game ROM L-4 (Lola)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 79 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/taxi_lg1.zip" >PinMAME Romset (L-1) Germany</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 67 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/taxi_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 176 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/taxi_l4.zip" >PinMAME Romset (L-4)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 45 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Cover_Letter_to_Operator_for_Preliminary_Operations_Manual_August_1988.pdf" onClick="return purchasemanual();">Cover Letter to Operator for Preliminary Operations Manual (August 1988)</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Manual.pdf" onClick="return purchasemanual();">English Operations Manual (September 1988, page 8 is illegible)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 353 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Preliminary_Operations_Manual_August_1988_no_schematics.pdf" onClick="return purchasemanual();">Preliminary Operations Manual (August 1988, no schematics)</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Schematics.pdf" onClick="return purchasemanual();">Reference Diagrams and Schematics (paginated)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Service_Bulletin_Book_1989_includes_Taxi_SS54_SS55.pdf" >Service Bulletin Book 1989 (includes Taxi SS54, SS55)</a></td><td> [Williams/Bally/Midway]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 49 KB</td><td align=left nowrap width="5%">&nbsp;TIF&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Instruction_Card.tif" >Instruction Card</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 22 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Instruction_Card_Reproduction.pdf" >Reproduction Instruction Card (Lola)</a></td><td> [Per Martinson]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 96 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2505/Williams_1988_Taxi_Reproduction_Instruction_Card_Lola_.pdf" >Reproduction Instruction Card (Marilyn)</a></td><td> [Per Martinson]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=2400" 
+><span title="Image # 2400: Taxi Backglass "><img src="https://www.ipdb.org/images/2505/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 2400: Taxi Backglass "><br>Backglass</span></a><br><font size="-2">356x430</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=2401" 
+><span title="Image # 2401: Taxi Playfield "><img src="https://www.ipdb.org/images/2505/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 2401: Taxi Playfield "><br>Playfield</span></a><br><font size="-2">426x537</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=4562" 
+><span title="Image # 4562: Taxi Flyer, Front "><img src="https://www.ipdb.org/images/2505/tn_2505f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4562: Taxi Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1144</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=4563" 
+><span title="Image # 4563: Taxi Flyer, Back "><img src="https://www.ipdb.org/images/2505/tn_2505f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 4563: Taxi Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">857x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=5084" 
+><span title="Image # 5084: Taxi Flyer (with Marilyn) "><img src="https://www.ipdb.org/images/2505/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 5084: Taxi Flyer (with Marilyn) "><br>Flyer (with Marilyn)</span></a><br><font size="-2">300x393</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=5085" 
+><span title="Image # 5085: Taxi Flyer (with Lola) "><img src="https://www.ipdb.org/images/2505/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 5085: Taxi Flyer (with Lola) "><br>Flyer (with Lola)</span></a><br><font size="-2">300x393</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=14559" 
+><span title="Image # 14559: Taxi Popbumpers & Upper Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14559: Taxi Popbumpers & Upper Playfield "><br>Popbumpers & Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Chris Bucci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=14560" 
+><span title="Image # 14560: Taxi Lower Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14560: Taxi Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Chris Bucci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=14561" 
+><span title="Image # 14561: Taxi Right Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14561: Taxi Right Playfield "><br>Right Playfield</span></a><br><font size="-2">640x480</font><br>[Chris Bucci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15970" 
+><span title="Image # 15970: Taxi Backglass - Lola "><img src="https://www.ipdb.org/images/2505/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 15970: Taxi Backglass - Lola "><br>Backglass - Lola</span></a><br><font size="-2">431x476</font><br>[Marty Wilke]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15971" 
+><span title="Image # 15971: Taxi Backglass - Lola "><img src="https://www.ipdb.org/images/2505/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15971: Taxi Backglass - Lola "><br>Backglass - Lola</span></a><br><font size="-2">640x480</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15972" 
+><span title="Image # 15972: Taxi Upper Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 15972: Taxi Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">599x463</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15973" 
+><span title="Image # 15973: Taxi Lower Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15973: Taxi Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15975" 
+><span title="Image # 15975: Taxi Cabinet - Left "><img src="https://www.ipdb.org/images/2505/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 15975: Taxi Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">569x253</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15976" 
+><span title="Image # 15976: Taxi Backbox - Left "><img src="https://www.ipdb.org/images/2505/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=33 height=100 alt="Image # 15976: Taxi Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">191x573</font><br>[Marty Wilke]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=15977" 
+><span title="Image # 15977: Taxi Front "><img src="https://www.ipdb.org/images/2505/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 15977: Taxi Front "><br>Front</span></a><br><font size="-2">539x357</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=26283" 
+><span title="Image # 26283: Taxi Under Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26283: Taxi Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=26284" 
+><span title="Image # 26284: Taxi Behind Backglass "><img src="https://www.ipdb.org/images/2505/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26284: Taxi Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=26285" 
+><span title="Image # 26285: Taxi Inside Backbox "><img src="https://www.ipdb.org/images/2505/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26285: Taxi Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=30552" 
+><span title="Image # 30552: Taxi Backbox - Right "><img src="https://www.ipdb.org/images/2505/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30552: Taxi Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=30553" 
+><span title="Image # 30553: Taxi Instruction Card "><img src="https://www.ipdb.org/images/2505/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30553: Taxi Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=34992" 
+><span title="Image # 34992: Taxi Illuminated Backglass (Lola) "><img src="https://www.ipdb.org/images/2505/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34992: Taxi Illuminated Backglass (Lola) "><br>Illuminated Backglass (Lola)</span></a><br><font size="-2">800x600</font><br>[Phil Hauser]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=35284" 
+><span title="Image # 35284: Taxi Translite "><img src="https://www.ipdb.org/images/2505/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35284: Taxi Translite "><br>Translite</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40434" 
+><span title="Image # 40434: Taxi Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 40434: Taxi Playfield "><br>Playfield</span></a><br><font size="-2">1024x1530</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40493" 
+><span title="Image # 40493: Taxi Passengers - Marilyn "><img src="https://www.ipdb.org/images/2505/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 40493: Taxi Passengers - Marilyn "><br>Passengers - Marilyn</span></a><br><font size="-2">1024x819</font><br>[Mike Ives]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40504" 
+><span title="Image # 40504: Taxi Cabinet Front - Coined for British Money "><img src="https://www.ipdb.org/images/2505/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 40504: Taxi Cabinet Front - Coined for British Money "><br>Cabinet Front - Coined for British Money</span></a><br><font size="-2">926x686</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40552" 
+><span title="Image # 40552: Taxi Upper Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40552: Taxi Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x685</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40553" 
+><span title="Image # 40553: Taxi Middle Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-A23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40553: Taxi Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x686</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40556" 
+><span title="Image # 40556: Taxi Lower Playfield "><img src="https://www.ipdb.org/images/2505/tn_image-B23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 40556: Taxi Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x819</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40586" 
+><span title="Image # 40586: Taxi Passenger Drac "><img src="https://www.ipdb.org/images/2505/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 40586: Taxi Passenger Drac "><br>Passenger Drac</span></a><br><font size="-2">1200x960</font><br>[Mike Ives]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40666" 
+><span title="Image # 40666: Taxi Passenger Gorbie "><img src="https://www.ipdb.org/images/2505/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 40666: Taxi Passenger Gorbie "><br>Passenger Gorbie</span></a><br><font size="-2">1200x960</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40667" 
+><span title="Image # 40667: Taxi Passenger Santa Claus "><img src="https://www.ipdb.org/images/2505/tn_image-A25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 40667: Taxi Passenger Santa Claus "><br>Passenger Santa Claus</span></a><br><font size="-2">649x727</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40668" 
+><span title="Image # 40668: Taxi Passenger PinBot "><img src="https://www.ipdb.org/images/2505/tn_image-B25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 40668: Taxi Passenger PinBot "><br>Passenger PinBot</span></a><br><font size="-2">960x1200</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=40669" 
+><span title="Image # 40669: Taxi Passenger Marilyn "><img src="https://www.ipdb.org/images/2505/tn_image-C25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 40669: Taxi Passenger Marilyn "><br>Passenger Marilyn</span></a><br><font size="-2">1200x1392</font><br>[Mike Ives]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=54841" 
+><span title="Image # 54841: Taxi Cabinet - Front View "><img src="https://www.ipdb.org/images/2505/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 54841: Taxi Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">686x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2505&amp;picno=66563" 
+><span title="Image # 66563: Taxi Cabinet - Front View "><img src="https://www.ipdb.org/images/2505/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 66563: Taxi Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">696x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

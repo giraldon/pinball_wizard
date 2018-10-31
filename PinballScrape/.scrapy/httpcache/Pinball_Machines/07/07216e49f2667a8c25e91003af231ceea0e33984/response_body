@@ -1,0 +1,277 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Jockey Special'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Jockey Special Horserace Game Passive bumpers (4), Trap holes (31), Skill Lane option for 5-ball jurisdictions.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Jockey Special' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Jockey Special</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1303">Jockey Special</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1303">1303</a> <I>/ September, 1947 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1303" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>March 01, 1948</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1947</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>499</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1303">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Horse Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Horserace Game&nbsp;<a href="glossary.php#Horserace_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+One Ball Game&nbsp;<a href="glossary.php#One_Ball_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Trap_Hole">Trap&nbsp;holes</a> (31), <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Lane">Skill&nbsp;Lane</a> option for 5-ball jurisdictions.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The payout version of this game is <span title="Click here to open a new window and display Bally's 1947 'Jockey Club'"><a target="game1299" href="machine.cgi?id=1299">Bally's 1947 'Jockey Club'</a></span>.<br><br>Two sources of documentation from Bally each provide for Model 499 a release (to production) date of 3-1-48. However, Bally announced this game in Cash Box Sep-15-1947 page 39 and their ad in Billboard Sep-13-1947 page 146 introduced this game for sale. Distributors' ads soon followed.  The Coin Machine Journal ad shown here is dated December 1947 and the reflection on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> glass proves it to be the same image depicted in the Bally Promotional Photo, also shown here.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Sep-13-1947, page 146<br>
+Cash Box, Sep-15-1947, page 58<br>
+Cash Box, Nov-22-1947, page 66<br>
+Coin Machine Journal, December 1947, page 81<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1303/Bally_1947_Jockey_Special_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=22845" 
+><span title="Image # 22845: Jockey Special Promotional Photo "><img src="https://www.ipdb.org/images/1303/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 22845: Jockey Special Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">344x551</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31097" 
+><span title="Image # 31097: Jockey Special Backglass "><img src="https://www.ipdb.org/images/1303/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 31097: Jockey Special Backglass "><br>Backglass</span></a><br><font size="-2">463x545</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31098" 
+><span title="Image # 31098: Jockey Special Playfield "><img src="https://www.ipdb.org/images/1303/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31098: Jockey Special Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31099" 
+><span title="Image # 31099: Jockey Special Cabinet - Left "><img src="https://www.ipdb.org/images/1303/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 31099: Jockey Special Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">720x1224</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31100" 
+><span title="Image # 31100: Jockey Special Cabinet - Right "><img src="https://www.ipdb.org/images/1303/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 31100: Jockey Special Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31101" 
+><span title="Image # 31101: Jockey Special Backbox - Right "><img src="https://www.ipdb.org/images/1303/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 31101: Jockey Special Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">403x719</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31102" 
+><span title="Image # 31102: Jockey Special Cabinet - Front "><img src="https://www.ipdb.org/images/1303/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 31102: Jockey Special Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">816x1224</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=31103" 
+><span title="Image # 31103: Jockey Special Cabinet - Front View "><img src="https://www.ipdb.org/images/1303/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 31103: Jockey Special Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">351x775</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61210" 
+><span title="Image # 61210: Jockey Special Coin Machine Journal Ad 
+(Coin Machine Journal, December 1947, page 81)"><img src="https://www.ipdb.org/images/1303/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 61210: Jockey Special Coin Machine Journal Ad 
+(Coin Machine Journal, December 1947, page 81)"><br>Coin Machine Journal Ad*</span></a><br><font size="-2">1200x1770</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61216" 
+><span title="Image # 61216: Jockey Special Backglass 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 61216: Jockey Special Backglass 
+(Serial number 1859.)"><br>Backglass*</span></a><br><font size="-2">1145x1502</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61217" 
+><span title="Image # 61217: Jockey Special Illuminated Backglass 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 61217: Jockey Special Illuminated Backglass 
+(Serial number 1859.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1157x1596</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61218" 
+><span title="Image # 61218: Jockey Special Illuminated Backglass 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61218: Jockey Special Illuminated Backglass 
+(Serial number 1859.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61219" 
+><span title="Image # 61219: Jockey Special Playfield 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 61219: Jockey Special Playfield 
+(Serial number 1859.)"><br>Playfield*</span></a><br><font size="-2">957x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61220" 
+><span title="Image # 61220: Jockey Special Upper Playfield 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61220: Jockey Special Upper Playfield 
+(Serial number 1859.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61221" 
+><span title="Image # 61221: Jockey Special Middle Playfield 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 61221: Jockey Special Middle Playfield 
+(Serial number 1859.)"><br>Middle Playfield*</span></a><br><font size="-2">967x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61222" 
+><span title="Image # 61222: Jockey Special Lower Playfield 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61222: Jockey Special Lower Playfield 
+(Serial number 1859.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61223" 
+><span title="Image # 61223: Jockey Special Left Instruction Card 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61223: Jockey Special Left Instruction Card 
+(Serial number 1859.)"><br>Left Instruction Card*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61224" 
+><span title="Image # 61224: Jockey Special Right Instruction Card 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61224: Jockey Special Right Instruction Card 
+(Serial number 1859.)"><br>Right Instruction Card*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61225" 
+><span title="Image # 61225: Jockey Special Lockdown Bar - Player Buttons 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61225: Jockey Special Lockdown Bar - Player Buttons 
+(Serial number 1859.)"><br>Lockdown Bar - Player Buttons*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61226" 
+><span title="Image # 61226: Jockey Special Replay and Horseshoe Buttons "><img src="https://www.ipdb.org/images/1303/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61226: Jockey Special Replay and Horseshoe Buttons "><br>Replay and Horseshoe Buttons</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61227" 
+><span title="Image # 61227: Jockey Special Cabinet - Left 
+(The front door is not original to this game and came from the payout version, Jockey Club. The payout cup can be seen in the lower part of the door. Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 61227: Jockey Special Cabinet - Left 
+(The front door is not original to this game and came from the payout version, Jockey Club. The payout cup can be seen in the lower part of the door. Serial number 1859.)"><br>Cabinet - Left*</span></a><br><font size="-2">725x866</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61228" 
+><span title="Image # 61228: Jockey Special Cabinet - Right 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 61228: Jockey Special Cabinet - Right 
+(Serial number 1859.)"><br>Cabinet - Right*</span></a><br><font size="-2">631x859</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61229" 
+><span title="Image # 61229: Jockey Special Cabinet - Front View 
+(The front door is not original to this game and came from the payout version, Jockey Club, which has the same artwork. The payout cup can be seen in the lower part of the door. The main cabinet has serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 61229: Jockey Special Cabinet - Front View 
+(The front door is not original to this game and came from the payout version, Jockey Club, which has the same artwork. The payout cup can be seen in the lower part of the door. The main cabinet has serial number 1859.)"><br>Cabinet - Front View*</span></a><br><font size="-2">771x1532</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61230" 
+><span title="Image # 61230: Jockey Special Cabinet - Front View 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 61230: Jockey Special Cabinet - Front View 
+(Serial number 1859.)"><br>Cabinet - Front View*</span></a><br><font size="-2">888x1589</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61231" 
+><span title="Image # 61231: Jockey Special Cabinet - Rear 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 61231: Jockey Special Cabinet - Rear 
+(Serial number 1859.)"><br>Cabinet - Rear*</span></a><br><font size="-2">659x1502</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61232" 
+><span title="Image # 61232: Jockey Special Hidden Reset Buttons 
+(The Feature Reset button and the Replay Reset button are located underneath the cabinet on the left side for use by the location, not by the player. Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 61232: Jockey Special Hidden Reset Buttons 
+(The Feature Reset button and the Replay Reset button are located underneath the cabinet on the left side for use by the location, not by the player. Serial number 1859.)"><br>Hidden Reset Buttons*</span></a><br><font size="-2">930x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61233" 
+><span title="Image # 61233: Jockey Special Serial Number 
+(Serial number 1859 is located on the upper left corner of the right side of the cabinet.)"><img src="https://www.ipdb.org/images/1303/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 61233: Jockey Special Serial Number 
+(Serial number 1859 is located on the upper left corner of the right side of the cabinet.)"><br>Serial Number*</span></a><br><font size="-2">1103x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61234" 
+><span title="Image # 61234: Jockey Special Backglass - Reverse 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 61234: Jockey Special Backglass - Reverse 
+(Serial number 1859.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1189x1289</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61235" 
+><span title="Image # 61235: Jockey Special Light Board 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61235: Jockey Special Light Board 
+(Serial number 1859.)"><br>Light Board*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61236" 
+><span title="Image # 61236: Jockey Special Inside Backbox "><img src="https://www.ipdb.org/images/1303/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 61236: Jockey Special Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1168x1520</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61237" 
+><span title="Image # 61237: Jockey Special Playfield Glass and Frame - Top 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 61237: Jockey Special Playfield Glass and Frame - Top 
+(Serial number 1859.)"><br>Playfield Glass and Frame - Top*</span></a><br><font size="-2">1007x1577</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61238" 
+><span title="Image # 61238: Jockey Special Playfield Glass and Frame - Bottom 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 61238: Jockey Special Playfield Glass and Frame - Bottom 
+(Serial number 1859.)"><br>Playfield Glass and Frame - Bottom*</span></a><br><font size="-2">946x1570</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61239" 
+><span title="Image # 61239: Jockey Special Under Playfield 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61239: Jockey Special Under Playfield 
+(Serial number 1859.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61240" 
+><span title="Image # 61240: Jockey Special Drain Board 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61240: Jockey Special Drain Board 
+(Serial number 1859.)"><br>Drain Board*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61241" 
+><span title="Image # 61241: Jockey Special Inside Cabinet 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61241: Jockey Special Inside Cabinet 
+(Serial number 1859.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61242" 
+><span title="Image # 61242: Jockey Special Inside Front Door 
+(Serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61242: Jockey Special Inside Front Door 
+(Serial number 1859.)"><br>Inside Front Door*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61243" 
+><span title="Image # 61243: Jockey Special Coin Box 
+(Coin box measures 15 x 7 x 3 1/2 inches. From the game with serial number 1859.)"><img src="https://www.ipdb.org/images/1303/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 61243: Jockey Special Coin Box 
+(Coin box measures 15 x 7 x 3 1/2 inches. From the game with serial number 1859.)"><br>Coin Box*</span></a><br><font size="-2">1168x1371</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1303&amp;picno=61248" 
+><span title="Image # 61248: Jockey Special Billboard Ad 
+(The Billboard, Sep-13-1947, page 146)"><img src="https://www.ipdb.org/images/1303/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 61248: Jockey Special Billboard Ad 
+(The Billboard, Sep-13-1947, page 146)"><br>Billboard Ad*</span></a><br><font size="-2">1200x1693</font><br>[Rob Hawkins]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

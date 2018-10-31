@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Hoops'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Hoops Uses two 20-digit, alpha-numeric (with commas), blue Futaba displays.  David Moore Constantino Mitchell Jeanine Mitchell Ray Tanzer ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Hoops' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Hoops</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1235">Hoops</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1235">1235</a> <I>/ February, 1991 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1235" target="showrate1235"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1235" target="showrate1235">13 ratings/10 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1235" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>727</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>879 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1235">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Basketball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Uses two 20-digit, alpha-numeric (with commas), blue Futaba displays.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ray&nbsp;Tanzer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ray%20Tanzer">Ray&nbsp;Tanzer</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Last Gottlieb "street level" game. "Street level" games were an experiment by Gottlieb towards designing a simplier, single level (no ramps), slightly smaller and cheaper game.  They did not sell very well, and only six models (<span title="Click here to open a new window and display Premier's 1990 'Silver Slugger'"><a target="game2152" href="machine.cgi?id=2152">Premier's 1990 'Silver Slugger'</a></span>, <span title="Click here to open a new window and display Premier's 1990 'Vegas'"><a target="game2724" href="machine.cgi?id=2724">Premier's 1990 'Vegas'</a></span>, <span title="Click here to open a new window and display Premier's 1990 'Deadly Weapon'"><a target="game645" href="machine.cgi?id=645">Premier's 1990 'Deadly Weapon'</a></span>, <span title="Click here to open a new window and display Premier's 1990 'Title Fight'"><a target="game2573" href="machine.cgi?id=2573">Premier's 1990 'Title Fight'</a></span>, <span title="Click here to open a new window and display Premier's 1991 'Car Hop'"><a target="game3676" href="machine.cgi?id=3676">Premier's 1991 'Car Hop'</a></span> and <span title="Click here to open a new window and display Premier's 1991 'Hoops'"><a target="game1235" href="machine.cgi?id=1235">Premier's 1991 'Hoops'</a></span>) were made.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Slam Dunk the Competition!"<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 62 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (Working Set!) <!-- gid 1235 hoops.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 304 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1235/Gottlieb_1991_Hoops_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=4671" 
+><span title="Image # 4671: Hoops Flyer, Front "><img src="https://www.ipdb.org/images/1235/tn_1235f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4671: Hoops Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">606x803</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=4672" 
+><span title="Image # 4672: Hoops Flyer, Back "><img src="https://www.ipdb.org/images/1235/tn_1235f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4672: Hoops Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">597x796</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=13966" 
+><span title="Image # 13966: Hoops Backglass "><img src="https://www.ipdb.org/images/1235/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 13966: Hoops Backglass "><br>Backglass</span></a><br><font size="-2">259x238</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=13967" 
+><span title="Image # 13967: Hoops Upper Playfield "><img src="https://www.ipdb.org/images/1235/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13967: Hoops Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">319x238</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=13968" 
+><span title="Image # 13968: Hoops Middle Playfield "><img src="https://www.ipdb.org/images/1235/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13968: Hoops Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">319x238</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=13969" 
+><span title="Image # 13969: Hoops Lower Playfield "><img src="https://www.ipdb.org/images/1235/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13969: Hoops Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">319x239</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=13970" 
+><span title="Image # 13970: Hoops Cabinet "><img src="https://www.ipdb.org/images/1235/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13970: Hoops Cabinet "><br>Cabinet</span></a><br><font size="-2">318x239</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=13971" 
+><span title="Image # 13971: Hoops Front View "><img src="https://www.ipdb.org/images/1235/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 13971: Hoops Front View "><br>Front View</span></a><br><font size="-2">201x236</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38897" 
+><span title="Image # 38897: Hoops Translite "><img src="https://www.ipdb.org/images/1235/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 38897: Hoops Translite "><br>Translite</span></a><br><font size="-2">716x720</font><br>[Adam Olomon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38898" 
+><span title="Image # 38898: Hoops Full Playfield 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><img src="https://www.ipdb.org/images/1235/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38898: Hoops Full Playfield 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><br>Full Playfield*</span></a><br><font size="-2">1024x768</font><br>[Adam Olomon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38899" 
+><span title="Image # 38899: Hoops Upper Playfield 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><img src="https://www.ipdb.org/images/1235/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 38899: Hoops Upper Playfield 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x635</font><br>[Adam Olomon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38900" 
+><span title="Image # 38900: Hoops Lower Playfield 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><img src="https://www.ipdb.org/images/1235/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38900: Hoops Lower Playfield 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Adam Olomon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38901" 
+><span title="Image # 38901: Hoops Instruction Card 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><img src="https://www.ipdb.org/images/1235/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 38901: Hoops Instruction Card 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><br>Instruction Card*</span></a><br><font size="-2">886x768</font><br>[Adam Olomon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38902" 
+><span title="Image # 38902: Hoops Price Card 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><img src="https://www.ipdb.org/images/1235/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38902: Hoops Price Card 
+(The red and blue rubber post sleeves are not original to this game. Factory sleeves are black.)"><br>Price Card*</span></a><br><font size="-2">1024x768</font><br>[Adam Olomon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1235&amp;picno=38903" 
+><span title="Image # 38903: Hoops Under Playfield "><img src="https://www.ipdb.org/images/1235/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 38903: Hoops Under Playfield "><br>Under Playfield</span></a><br><font size="-2">892x1364</font><br>[Adam Olomon]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'El Paso'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams El Paso 5 balls for 5 cents. Flippers (2), Pop bumpers (2), Passive bumpers (4), Kick-out hole (1). No outlanes.
+
+Replay wheel maximum: 25
+
+Sound: 3 bells.  George Molentin Harry Williams ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'El Paso' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>El Paso</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="768">El Paso</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=768">768</a> <I>/ November 18, 1948 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">5.4 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=768" target="showrate768">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=768" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=352">Williams Manufacturing Company (1944-1958) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November 18, 1948</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>24</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=768">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>American Places</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). No <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlanes</a>.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 25<br><br>Sound: 3 bells.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Harry&nbsp;Williams' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Harry%20Williams">Harry&nbsp;Williams</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Molentin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Molentin">George&nbsp;Molentin</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 177<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/768/Williams_1948_El_Paso_Promotional_Photo_Large_Size.jpg" >Promotional Photo - Large Size</a></td><td> [Williams Manufacturing Company]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=747" 
+><span title="Image # 747: El Paso Playfield 
+(The original color of the flippers is red.)"><img src="https://www.ipdb.org/images/768/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 747: El Paso Playfield 
+(The original color of the flippers is red.)"><br>Playfield*</span></a><br><font size="-2">360x548</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=748" 
+><span title="Image # 748: El Paso Backglass "><img src="https://www.ipdb.org/images/768/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 748: El Paso Backglass "><br>Backglass</span></a><br><font size="-2">380x438</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=7792" 
+><span title="Image # 7792: El Paso Flyer "><img src="https://www.ipdb.org/images/768/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 7792: El Paso Flyer "><br>Flyer</span></a><br><font size="-2">562x499</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=33678" 
+><span title="Image # 33678: El Paso Playfield 
+(The original color of the flippers is red.)"><img src="https://www.ipdb.org/images/768/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 33678: El Paso Playfield 
+(The original color of the flippers is red.)"><br>Playfield*</span></a><br><font size="-2">900x1372</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=33679" 
+><span title="Image # 33679: El Paso Cabinet - Full View 
+(The original color of the flippers is red.)"><img src="https://www.ipdb.org/images/768/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 33679: El Paso Cabinet - Full View 
+(The original color of the flippers is red.)"><br>Cabinet - Full View*</span></a><br><font size="-2">900x1479</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=33680" 
+><span title="Image # 33680: El Paso Cabinet - Front View 
+(The original color of the flippers is red.)"><img src="https://www.ipdb.org/images/768/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33680: El Paso Cabinet - Front View 
+(The original color of the flippers is red.)"><br>Cabinet - Front View*</span></a><br><font size="-2">900x1200</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=39085" 
+><span title="Image # 39085: El Paso Backglass "><img src="https://www.ipdb.org/images/768/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 39085: El Paso Backglass "><br>Backglass</span></a><br><font size="-2">898x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55108" 
+><span title="Image # 55108: El Paso Playfield 
+(The original color of the flippers is red. Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55108: El Paso Playfield 
+(The original color of the flippers is red. Serial number 12325.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55109" 
+><span title="Image # 55109: El Paso Instructions 
+(Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55109: El Paso Instructions 
+(Serial number 12325.)"><br>Instructions*</span></a><br><font size="-2">1200x900</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55110" 
+><span title="Image # 55110: El Paso Cabinet - Front 
+(Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55110: El Paso Cabinet - Front 
+(Serial number 12325.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>[Dirk Kochever]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55111" 
+><span title="Image # 55111: El Paso Under Playfield 
+(Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55111: El Paso Under Playfield 
+(Serial number 12325.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55112" 
+><span title="Image # 55112: El Paso Operator Instructions 
+(This tag is located inside the lower cabinet. Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55112: El Paso Operator Instructions 
+(This tag is located inside the lower cabinet. Serial number 12325.)"><br>Operator Instructions*</span></a><br><font size="-2">1200x900</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55113" 
+><span title="Image # 55113: El Paso Meter Plug Adjustment 
+(This is located on the inside of the coin door. Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55113: El Paso Meter Plug Adjustment 
+(This is located on the inside of the coin door. Serial number 12325.)"><br>Meter Plug Adjustment*</span></a><br><font size="-2">1200x900</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55114" 
+><span title="Image # 55114: El Paso Inside Backbox 
+(Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55114: El Paso Inside Backbox 
+(Serial number 12325.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1600</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55115" 
+><span title="Image # 55115: El Paso Replay Unit 
+(Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55115: El Paso Replay Unit 
+(Serial number 12325.)"><br>Replay Unit*</span></a><br><font size="-2">1200x1600</font><br>[Dirk Kochever]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55116" 
+><span title="Image # 55116: El Paso Replay Unit Label 
+(This label identifies each switch in the switch stack. Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55116: El Paso Replay Unit Label 
+(This label identifies each switch in the switch stack. Serial number 12325.)"><br>Replay Unit Label*</span></a><br><font size="-2">1200x900</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=55117" 
+><span title="Image # 55117: El Paso Game Mode Instructions 
+(This tag advises the operator how to disable the replay unit to set the game for Novelty Play. Serial number 12325.)"><img src="https://www.ipdb.org/images/768/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55117: El Paso Game Mode Instructions 
+(This tag advises the operator how to disable the replay unit to set the game for Novelty Play. Serial number 12325.)"><br>Game Mode Instructions*</span></a><br><font size="-2">1200x1600</font><br>[Dirk Kochever]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=768&amp;picno=62042" 
+><span title="Image # 62042: El Paso Promotional Photo "><img src="https://www.ipdb.org/images/768/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 62042: El Paso Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">1200x1482</font><br>[Duncan Brown]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

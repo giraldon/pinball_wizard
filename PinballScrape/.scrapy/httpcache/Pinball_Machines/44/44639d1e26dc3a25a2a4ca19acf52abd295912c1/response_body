@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Tura Automatenfabrik Gmbh 'Glockenbomber'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Tura Automatenfabrik Gmbh Glockenbomber Flipperless 8 balls for 10 pfennig. Passive bumpers (19).
+
+The three large bumpers score 10,000 points each. The sixteen small bumpers score 1,000 points each. Hitting any bumper illuminates the two red lights in the lower apron. The bell rings when 10,000 points are scored. The cabinet measures 115 cm long, 58 cm wide, 101 cm high in the front, and 118 cm high in the back. Operates on 230V AC.
+
+Maximum displayed point score is 199,000 points.
+
+Sound: 1 bell  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Tura Automatenfabrik Gmbh 'Glockenbomber' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Glockenbomber</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3999">Glockenbomber</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3999">3999</a> <I>/ 1938 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.0 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=3999" target="showrate3999">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3999" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Tura Automatenfabrik Gmbh'"><a href="search.pl?searchtype=advanced&amp;mfgid=320">Tura Automatenfabrik Gmbh, <font size="-1">of Leipzig, Germany</font></a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1938</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3999">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>8 balls for 10 pfennig. <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (19).<br><br>The three large <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> score 10,000 points each. The sixteen small <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> score 1,000 points each. Hitting any <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> illuminates the two red lights in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a>. The bell rings when 10,000 points are scored. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> measures 115 cm long, 58 cm wide, 101 cm high in the front, and 118 cm high in the back. Operates on 230V <a target="glossary" class="glossarylink" href="/glossary.php#AC">AC</a>.<br><br>Maximum displayed point score is 199,000 points.<br><br>Sound: 1 bell<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>We have pictures of a game with a blue <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and one with a red <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. We don't know why two colors were used or what other differences may exist between the two games. The Notable Features information was provided by the owner of the red game.<br><br>We have annotated one picture of the red game <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> to identify various features on it.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=3036" 
+><span title="Image # 3036: Glockenbomber Playfield "><img src="https://www.ipdb.org/images/3999/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 3036: Glockenbomber Playfield "><br>Playfield</span></a><br><font size="-2">414x608</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=3037" 
+><span title="Image # 3037: Glockenbomber Playfield "><img src="https://www.ipdb.org/images/3999/tn_Playfield2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 3037: Glockenbomber Playfield "><br>Playfield</span></a><br><font size="-2">414x614</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38201" 
+><span title="Image # 38201: Glockenbomber Backbox "><img src="https://www.ipdb.org/images/3999/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38201: Glockenbomber Backbox "><br>Backbox</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38202" 
+><span title="Image # 38202: Glockenbomber Playfield "><img src="https://www.ipdb.org/images/3999/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 38202: Glockenbomber Playfield "><br>Playfield</span></a><br><font size="-2">1024x1228</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38203" 
+><span title="Image # 38203: Glockenbomber Cabinet - Front "><img src="https://www.ipdb.org/images/3999/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38203: Glockenbomber Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38204" 
+><span title="Image # 38204: Glockenbomber Coin Unit 
+(This is the front left side of the cabinet.)"><img src="https://www.ipdb.org/images/3999/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38204: Glockenbomber Coin Unit 
+(This is the front left side of the cabinet.)"><br>Coin Unit*</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38205" 
+><span title="Image # 38205: Glockenbomber Under Playfield "><img src="https://www.ipdb.org/images/3999/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38205: Glockenbomber Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38206" 
+><span title="Image # 38206: Glockenbomber Inside Cabinet "><img src="https://www.ipdb.org/images/3999/tn_image-A1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38206: Glockenbomber Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38207" 
+><span title="Image # 38207: Glockenbomber Tilt Unit "><img src="https://www.ipdb.org/images/3999/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38207: Glockenbomber Tilt Unit "><br>Tilt Unit</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38208" 
+><span title="Image # 38208: Glockenbomber Transformer "><img src="https://www.ipdb.org/images/3999/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38208: Glockenbomber Transformer "><br>Transformer</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38209" 
+><span title="Image # 38209: Glockenbomber Score Unit - Front "><img src="https://www.ipdb.org/images/3999/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38209: Glockenbomber Score Unit - Front "><br>Score Unit - Front</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=38210" 
+><span title="Image # 38210: Glockenbomber Score Unit - Back "><img src="https://www.ipdb.org/images/3999/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38210: Glockenbomber Score Unit - Back "><br>Score Unit - Back</span></a><br><font size="-2">1024x768</font><br>[Christiaan Ribbens]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61523" 
+><span title="Image # 61523: Glockenbomber Playfield "><img src="https://www.ipdb.org/images/3999/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 61523: Glockenbomber Playfield "><br>Playfield</span></a><br><font size="-2">1017x1251</font><br>[Thomas Reichenstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61524" 
+><span title="Image # 61524: Glockenbomber Illuminated Playfield 
+(The red lamps illuminate each time a bumper is hit.)"><img src="https://www.ipdb.org/images/3999/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 61524: Glockenbomber Illuminated Playfield 
+(The red lamps illuminate each time a bumper is hit.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1151x1617</font><br>[Thomas Reichenstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61525" 
+><span title="Image # 61525: Glockenbomber Illuminated Playfield "><img src="https://www.ipdb.org/images/3999/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 61525: Glockenbomber Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1151x1477</font><br>[Thomas Reichenstein]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61526" 
+><span title="Image # 61526: Glockenbomber Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/3999/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 61526: Glockenbomber Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x750</font><br>[Thomas Reichenstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61527" 
+><span title="Image # 61527: Glockenbomber Instructions "><img src="https://www.ipdb.org/images/3999/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 61527: Glockenbomber Instructions "><br>Instructions</span></a><br><font size="-2">1200x804</font><br>[Thomas Reichenstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61528" 
+><span title="Image # 61528: Glockenbomber Cabinet - Full View "><img src="https://www.ipdb.org/images/3999/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 61528: Glockenbomber Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1105x1523</font><br>[Thomas Reichenstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61529" 
+><span title="Image # 61529: Glockenbomber Cabinet - Full View - Annotated 
+(The coin entry slot is circled in red. Circled in blue is the handle to reset the game after coining, and next to it is the coin return. The gray circle shows an on/off switch which is not original.)"><img src="https://www.ipdb.org/images/3999/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 61529: Glockenbomber Cabinet - Full View - Annotated 
+(The coin entry slot is circled in red. Circled in blue is the handle to reset the game after coining, and next to it is the coin return. The gray circle shows an on/off switch which is not original.)"><br>Cabinet - Full View - Annotated*</span></a><br><font size="-2">1105x1523</font><br>[Thomas Reichenstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3999&amp;picno=61530" 
+><span title="Image # 61530: Glockenbomber Inside Cabinet "><img src="https://www.ipdb.org/images/3999/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 61530: Glockenbomber Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1146x1779</font><br>[Thomas Reichenstein]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Photo&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

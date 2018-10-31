@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Friendship "7"'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Friendship '7' Friendship Seven Add-A-Ball Minimum 5 balls per play. Flippers (2), Pop bumpers (4), Passive bumpers (4), Slingshots (2), Rollunder (1), Standup target (1), Score drum in playfield. Reverse wedge head.
+
+Maximum displayed point score is 9,999 points.
+
+Sound: wooden box chime.  Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Friendship "7"' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Friendship "7"</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="955">Friendship "7"</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=955">955</a> <I>/ July 15, 1962 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=955" target="showrate955">5 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=955" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=350">Williams Electronic Manufacturing Company (1958-1967) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>July 15, 1962</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>276</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>800 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=955">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Space Age - Space Exploration - Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Add-A-Ball&nbsp;<a href="glossary.php#Add-A-Ball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Minimum 5 balls per play. <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">Rollunder</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1), Score drum in <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Reverse_Wedge_Head">Reverse&nbsp;wedge&nbsp;head</a>.<br><br>Maximum displayed point score is 9,999 points.<br><br>Sound: wooden box chime.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> incorrectly uses an apostrophe in the manufacturer’s name.<br><br>This game is equipped by the manufacturer with only one ball.<br><br>Manufacturer data for Friendship "7":<br>Quantity produced for USA/Canada: n/a<br>Quantity produced for export: n/a<br>Total quantity produced: 800<br>Price to Distributor: $307.50<br><br>'Friendship 7' was the name of the space capsule that American astronaut John Glenn piloted into space and around the earth in 1962.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0890091188/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0890091188&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Portfolio</a>, pages 34-35<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 68<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 9<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 244<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 237<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 143<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=942" 
+><span title="Image # 942: Friendship &quot;7&quot; Playfield "><img src="https://www.ipdb.org/images/955/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 942: Friendship &quot;7&quot; Playfield "><br>Playfield</span></a><br><font size="-2">380x462</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=943" 
+><span title="Image # 943: Friendship &quot;7&quot; Backglass "><img src="https://www.ipdb.org/images/955/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 943: Friendship &quot;7&quot; Backglass "><br>Backglass</span></a><br><font size="-2">404x436</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=4489" 
+><span title="Image # 4489: Friendship &quot;7&quot; Flyer "><img src="https://www.ipdb.org/images/955/tn_955f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 4489: Friendship &quot;7&quot; Flyer "><br>Flyer</span></a><br><font size="-2">779x584</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=7383" 
+><span title="Image # 7383: Friendship &quot;7&quot; Backglass "><img src="https://www.ipdb.org/images/955/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 7383: Friendship &quot;7&quot; Backglass "><br>Backglass</span></a><br><font size="-2">600x522</font><br>[Alan Tate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=7384" 
+><span title="Image # 7384: Friendship &quot;7&quot; Playfield "><img src="https://www.ipdb.org/images/955/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 7384: Friendship &quot;7&quot; Playfield "><br>Playfield</span></a><br><font size="-2">725x1096</font><br>[Alan Tate]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=22889" 
+><span title="Image # 22889: Friendship &quot;7&quot; Backbox - Left "><img src="https://www.ipdb.org/images/955/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22889: Friendship &quot;7&quot; Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=31560" 
+><span title="Image # 31560: Friendship &quot;7&quot; Inside Cabinet 
+(The white trim is after-factory repainting.)"><img src="https://www.ipdb.org/images/955/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31560: Friendship &quot;7&quot; Inside Cabinet 
+(The white trim is after-factory repainting.)"><br>Inside Cabinet*</span></a><br><font size="-2">768x1024</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52506" 
+><span title="Image # 52506: Friendship &quot;7&quot; Backbox 
+(The backbox shown here has a reproduction backglass but is included to show its other features.)"><img src="https://www.ipdb.org/images/955/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 52506: Friendship &quot;7&quot; Backbox 
+(The backbox shown here has a reproduction backglass but is included to show its other features.)"><br>Backbox*</span></a><br><font size="-2">1024x1256</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52507" 
+><span title="Image # 52507: Friendship &quot;7&quot; Illuminated Playfield "><img src="https://www.ipdb.org/images/955/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52507: Friendship &quot;7&quot; Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x1365</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52508" 
+><span title="Image # 52508: Friendship &quot;7&quot; Cabinet - Left 
+(The game shown here has a reproduction backglass but is included to show its other features.)"><img src="https://www.ipdb.org/images/955/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 52508: Friendship &quot;7&quot; Cabinet - Left 
+(The game shown here has a reproduction backglass but is included to show its other features.)"><br>Cabinet - Left*</span></a><br><font size="-2">760x748</font><br>[Mark Trent]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52509" 
+><span title="Image # 52509: Friendship &quot;7&quot; Cabinet - Front "><img src="https://www.ipdb.org/images/955/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 52509: Friendship &quot;7&quot; Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">874x768</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52510" 
+><span title="Image # 52510: Friendship &quot;7&quot; Cabinet - Front View 
+(The game shown here has a reproduction backglass but is included to show its other features.)"><img src="https://www.ipdb.org/images/955/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52510: Friendship &quot;7&quot; Cabinet - Front View 
+(The game shown here has a reproduction backglass but is included to show its other features.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1024x1365</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52511" 
+><span title="Image # 52511: Friendship &quot;7&quot; Cabinet - Full View 
+(The game shown here has a reproduction backglass but is included to show its other features.)"><img src="https://www.ipdb.org/images/955/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 52511: Friendship &quot;7&quot; Cabinet - Full View 
+(The game shown here has a reproduction backglass but is included to show its other features.)"><br>Cabinet - Full View*</span></a><br><font size="-2">1004x1304</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52512" 
+><span title="Image # 52512: Friendship &quot;7&quot; Under Playfield "><img src="https://www.ipdb.org/images/955/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52512: Friendship &quot;7&quot; Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52513" 
+><span title="Image # 52513: Friendship &quot;7&quot; Inside Cabinet "><img src="https://www.ipdb.org/images/955/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52513: Friendship &quot;7&quot; Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Mark Trent]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52514" 
+><span title="Image # 52514: Friendship &quot;7&quot; Ball Trough 
+(This game is equipped by the manufacturer with only one ball.)"><img src="https://www.ipdb.org/images/955/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52514: Friendship &quot;7&quot; Ball Trough 
+(This game is equipped by the manufacturer with only one ball.)"><br>Ball Trough*</span></a><br><font size="-2">1024x1365</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52515" 
+><span title="Image # 52515: Friendship &quot;7&quot; Ball Trough - Detail 
+(This game is equipped by the manufacturer with only one ball.)"><img src="https://www.ipdb.org/images/955/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52515: Friendship &quot;7&quot; Ball Trough - Detail 
+(This game is equipped by the manufacturer with only one ball.)"><br>Ball Trough - Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52516" 
+><span title="Image # 52516: Friendship &quot;7&quot; Inside Backbox "><img src="https://www.ipdb.org/images/955/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 52516: Friendship &quot;7&quot; Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x1365</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52517" 
+><span title="Image # 52517: Friendship &quot;7&quot; Extra Ball Score Adjustment "><img src="https://www.ipdb.org/images/955/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52517: Friendship &quot;7&quot; Extra Ball Score Adjustment "><br>Extra Ball Score Adjustment</span></a><br><font size="-2">1200x900</font><br>[Mark Trent]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=52518" 
+><span title="Image # 52518: Friendship &quot;7&quot; Extra Ball Score Adjustment 
+(The plugs were removed from the jacks for this photo to allow a better view of the text.)"><img src="https://www.ipdb.org/images/955/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 52518: Friendship &quot;7&quot; Extra Ball Score Adjustment 
+(The plugs were removed from the jacks for this photo to allow a better view of the text.)"><br>Extra Ball Score Adjustment*</span></a><br><font size="-2">1200x900</font><br>[Mark Trent]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55124" 
+><span title="Image # 55124: Friendship &quot;7&quot; Illuminated Backglass "><img src="https://www.ipdb.org/images/955/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 55124: Friendship &quot;7&quot; Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">534x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55125" 
+><span title="Image # 55125: Friendship &quot;7&quot; Upper Playfield "><img src="https://www.ipdb.org/images/955/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55125: Friendship &quot;7&quot; Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55126" 
+><span title="Image # 55126: Friendship &quot;7&quot; Middle Playfield "><img src="https://www.ipdb.org/images/955/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55126: Friendship &quot;7&quot; Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55127" 
+><span title="Image # 55127: Friendship &quot;7&quot; Lower Playfield "><img src="https://www.ipdb.org/images/955/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55127: Friendship &quot;7&quot; Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55128" 
+><span title="Image # 55128: Friendship &quot;7&quot; Cabinet - Left "><img src="https://www.ipdb.org/images/955/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 55128: Friendship &quot;7&quot; Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">498x459</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55129" 
+><span title="Image # 55129: Friendship &quot;7&quot; Cabinet - Right "><img src="https://www.ipdb.org/images/955/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 55129: Friendship &quot;7&quot; Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">508x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=955&amp;picno=55130" 
+><span title="Image # 55130: Friendship &quot;7&quot; Inside Front Door "><img src="https://www.ipdb.org/images/955/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55130: Friendship &quot;7&quot; Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

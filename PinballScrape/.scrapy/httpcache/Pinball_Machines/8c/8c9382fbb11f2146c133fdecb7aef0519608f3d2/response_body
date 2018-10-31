@@ -1,0 +1,174 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Quarterback'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Quarterback Touchdown Flippers (4), Pop bumpers (3) 7-bank drop targets (1), Standup targets (2), Spinning target (1), Star rollover (1). Bounce-back outlanes allow the player to nudge a draining ball back into play.  Paul Faris Jim Patla ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Quarterback' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Quarterback</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1887">Quarterback</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1887">1887</a> <I>/ September, 1976 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1887" target="showrate1887">5 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1887" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>May 15, 1975</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1054</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,050 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1887">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Football</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3) 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> (1). Bounce-back <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlanes</a> allow the player to <a target="glossary" class="glossarylink" href="/glossary.php#Nudge">nudge</a> a draining ball back into play.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Patla' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Patla">Jim&nbsp;Patla</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span></td></tr>
+<!-- 1365 == Kick-Off -->
+<!-- 1677 == Night Rider -->
+<!-- 793 == Evel Knievel -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 4-player version of this game is <span title="Click here to open a new window and display Bally's 1977 'Kick Off'"><a target="game1365" href="machine.cgi?id=1365">Bally's 1977 'Kick Off'</a></span>, with a different sports theme.<br><br>We previously had credited Dick White as artist for this game. Paul Faris provided us this information:<P style="padding-left:30px;"><I>When Bally hired me, they had me work on the game 'Quarterback' as my first assignment. I actually had to make a 4-player game with a soccer theme to be sold in Europe (because Europeans favored 4-player games). That one was called <a target="game1365" href="machine.cgi?id=1365">Kick-Off</a>. I know they prototyped it but I don't know if they ever produced it. I think Dick White did the first version of the Quarterback glass and management asked me to redo it along with the soccer version. I don't think I ever saw a production version of either game before I went on to <a target="game1677" href="machine.cgi?id=1677">Night Rider</a> and then <a target="game793" href="machine.cgi?id=793">Evel Knievel</a>. That is as much as I know.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 88<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=3851" 
+><span title="Image # 3851: Quarterback Flyer, Front "><img src="https://www.ipdb.org/images/1887/tn_1887f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3851: Quarterback Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">849x1102</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=3852" 
+><span title="Image # 3852: Quarterback Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><img src="https://www.ipdb.org/images/1887/tn_1887f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 3852: Quarterback Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><br>Flyer, Back*</span></a><br><font size="-2">900x729</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=10209" 
+><span title="Image # 10209: Quarterback Backglass "><img src="https://www.ipdb.org/images/1887/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 10209: Quarterback Backglass "><br>Backglass</span></a><br><font size="-2">804x893</font><br>[Doug Fox]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25143" 
+><span title="Image # 25143: Quarterback Illuminated Backglass 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 25143: Quarterback Illuminated Backglass 
+(Serial number 1502.)"><br>Illuminated Backglass*</span></a><br><font size="-2">483x459</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25144" 
+><span title="Image # 25144: Quarterback Upper Playfield 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25144: Quarterback Upper Playfield 
+(Serial number 1502.)"><br>Upper Playfield*</span></a><br><font size="-2">640x480</font><br>[Marty Wilke]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25145" 
+><span title="Image # 25145: Quarterback Lower Playfield 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 25145: Quarterback Lower Playfield 
+(Serial number 1502.)"><br>Lower Playfield*</span></a><br><font size="-2">582x465</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25146" 
+><span title="Image # 25146: Quarterback Instructions 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 25146: Quarterback Instructions 
+(Serial number 1502.)"><br>Instructions*</span></a><br><font size="-2">550x343</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25147" 
+><span title="Image # 25147: Quarterback Score Card 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 25147: Quarterback Score Card 
+(Serial number 1502.)"><br>Score Card*</span></a><br><font size="-2">553x341</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25148" 
+><span title="Image # 25148: Quarterback Cabinet - Left 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 25148: Quarterback Cabinet - Left 
+(Serial number 1502.)"><br>Cabinet - Left*</span></a><br><font size="-2">617x327</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25149" 
+><span title="Image # 25149: Quarterback Backbox - Left 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 25149: Quarterback Backbox - Left 
+(Serial number 1502.)"><br>Backbox - Left*</span></a><br><font size="-2">381x579</font><br>[Marty Wilke]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=25150" 
+><span title="Image # 25150: Quarterback Front 
+(Serial number 1502.)"><img src="https://www.ipdb.org/images/1887/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 25150: Quarterback Front 
+(Serial number 1502.)"><br>Front*</span></a><br><font size="-2">585x392</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=38997" 
+><span title="Image # 38997: Quarterback Pre-Production Backglass 
+(It is believed this glass was made by Ad Posters for a pre-production presentation of this game. This glass was re-installed into a Quarterback backbox for this photo.)"><img src="https://www.ipdb.org/images/1887/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 38997: Quarterback Pre-Production Backglass 
+(It is believed this glass was made by Ad Posters for a pre-production presentation of this game. This glass was re-installed into a Quarterback backbox for this photo.)"><br>Pre-Production Backglass*</span></a><br><font size="-2">870x766</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=68569" 
+><span title="Image # 68569: Quarterback Backglass - Detail "><img src="https://www.ipdb.org/images/1887/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68569: Quarterback Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>[Marco Rossignoli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=68570" 
+><span title="Image # 68570: Quarterback Backglass - Detail "><img src="https://www.ipdb.org/images/1887/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68570: Quarterback Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>[Marco Rossignoli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=68571" 
+><span title="Image # 68571: Quarterback Backglass - Detail "><img src="https://www.ipdb.org/images/1887/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68571: Quarterback Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Marco Rossignoli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=68572" 
+><span title="Image # 68572: Quarterback Backglass - Detail "><img src="https://www.ipdb.org/images/1887/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68572: Quarterback Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>[Marco Rossignoli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1887&amp;picno=68573" 
+><span title="Image # 68573: Quarterback Backglass - Artist Signature "><img src="https://www.ipdb.org/images/1887/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68573: Quarterback Backglass - Artist Signature "><br>Backglass - Artist Signature</span></a><br><font size="-2">1200x900</font><br>[Marco Rossignoli]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

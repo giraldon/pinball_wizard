@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'Theatre of Magic'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway Theatre of Magic Theater of Magic Flippers (2), Pop bumpers (3), Slingshots (2), Rotating trunk with magnet, Tiger Saw Multiball (2), Trunk Multiball (3), Trunk Multiball w/Vanish Lock (4), Magna save (2), Levitating ball. Maximum 3 buy-in balls per player (operator option). Magic trunk on playfield, levitates ball (with magnet) and makes it 'disappear' to start multi-ball.  The 'Spirit Ring', a round magnet which grabs the ball from the left ramp and releases it to the ramp across the playfield.  Upper rollovers are hidden from player's view by the ramps, but can be seen with a mirror on the back panel.  Linda Deal (aka Doane) John Popadiuk John Popadiuk Brian Morris Adam Rhine Jack Skalon Ernie Pizarro Dave Zabriskie Jeff Johnson Dave Zabriskie ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'Theatre of Magic' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Theatre of Magic</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2845">Theatre of Magic</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2845">2845</a> <I>/ March 28, 1995 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2845" target="showrate2845"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2845" target="showrate2845">417 ratings/266 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2845" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March 28, 1995</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50039</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>ToM</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=30">Williams WPC Security (WPC-S)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>6,600 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2845">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Show Business - Magic</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Rotating trunk with <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnet</a>, Tiger Saw <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (2), Trunk <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (3), Trunk <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> w/Vanish Lock (4), Magna <a target="glossary" class="glossarylink" href="/glossary.php#Save">save</a> (2), Levitating ball. Maximum 3 <a target="glossary" class="glossarylink" href="/glossary.php#Buy-In">buy-in</a> balls per player (operator option).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Magic trunk on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, levitates ball (with magnet) and makes it "disappear" to start multi-ball.  The "Spirit Ring", a round <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnet</a> which grabs the ball from the left <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> and releases it to the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> across the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.  Upper <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> are hidden from player's view by the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>, but can be seen with a mirror on the back panel.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Popadiuk' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Popadiuk">John&nbsp;Popadiuk</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Popadiuk' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Popadiuk">John&nbsp;Popadiuk</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Linda&nbsp;Deal&nbsp;(aka&nbsp;Doane)' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Linda%20Deal%20%28aka%20Doane%29">Linda&nbsp;Deal&nbsp;(aka&nbsp;Doane)</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Morris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Morris">Brian&nbsp;Morris</a></span>, <span title="Click here to perform a search for all pinball games that 'Adam&nbsp;Rhine' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Adam%20Rhine">Adam&nbsp;Rhine</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Skalon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Skalon">Jack&nbsp;Skalon</a></span>, <span title="Click here to perform a search for all pinball games that 'Ernie&nbsp;Pizarro' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ernie%20Pizarro">Ernie&nbsp;Pizarro</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Zabriskie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Zabriskie">Dave&nbsp;Zabriskie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Zabriskie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Zabriskie">Dave&nbsp;Zabriskie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jeff&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeff%20Johnson">Jeff&nbsp;Johnson</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Reportedly:<br>Holding the left <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> when pressing the START button initiates a game of Digital Pinball.<br>Holding down the right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button when pressing START reveals on the display some useful codes for the Mortal Kombat 3 video game.<br><br>In John Popadiuks' article in the July 2000 issue of <i>GameRoom Magazine</i>, he stated that all of the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> games have an <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> (labeled "Magic Post"). Also, he stated this game originally was going to be 'The Magic of David Copperfield' and the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> design for this theme commenced while pursuing the license. The game was modified when the license did not happen.<br><br>Per information from Dave Zabriskie, the male voice was performed by Mike Wadswoth, a good friend of his and an opera singer. The female voice was performed by Cathy Schenkelberg, an accomplished film/stage actor and comedian.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Enter Into a New Age of Pinball"<br>
+"Its Got that Magic Touch."<br>
+"It can even make money appear out of thin air."<br>
+"Theres More...Than Meets the Eye."<br>
+"Amazing acts of enchantment!"<br>
+"Stupendous displays of spellbinding power!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+PinGame Journal pp. Number 41/42<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 199-202<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, pages 205-206<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+GameRoom Magazine, Vol 12 No. 7, July 2000, front cover and page 6<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2845/THEATRE.HTM" target="rulesheet">Theatre of Magic Rulesheet Version 1.0, by Bowen Kerins</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/2845/TOMGEEK.HTM" target="rulesheet">Theatre of Magic Rulesheet, by GeekBoy</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2845">http://www.pinballowners.com/owners/2845</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2845">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=xn7r9Yvzjh8">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 427 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Export_Game_ROM_V1_3.zip" >Export Game ROM V1.3</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 399 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Game_ROM_V1_2.zip" >Game ROM V1.2</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 403 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Game_ROM_V1_4H.zip" >Home Game ROM V1.4H</a></td><td> [Louis Koziarz]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 882 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/tom_06.zip" >PinMAME Romset (0.6a)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 399 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/tom_12.zip" >PinMAME Romset (1.2X)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/tom_13.zip" >PinMAME Romset (1.3X)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Sound_ROM_L_2_S2_S7_.zip" >Sound ROM L-2 [S2-S7]</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Manual_Amendments_undated_pages.pdf" onClick="return purchasemanual();">Manual Amendments (undated pages)</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 517 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Operator_Handbook.pdf" onClick="return purchasemanual();">Operator Handbook</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 196 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 14 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Service_Bulletin_82.pdf" >Service Bulletin #82</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Multimedia Files: </b></td><td align=right nowrap> 194 KB</td><td align=left nowrap width="5%">&nbsp;WAV&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/theatre_of_magic_you_have_the_magic.wav" >"You Have The Magic!" Audio</a></td><td> [Dave Zabriskie]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;MP3&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2845/Bally_1995_Theatre_of_Magic_Main_Music_Tune.mp3" >Main Music Tune</a></td><td> [Dave Zabriskie]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3199" 
+><span title="Image # 3199: Theatre of Magic Translite "><img src="https://www.ipdb.org/images/2845/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 3199: Theatre of Magic Translite "><br>Translite</span></a><br><font size="-2">424x286</font><br>[Paul Groulx]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3200" 
+><span title="Image # 3200: Theatre of Magic Illuminated Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 3200: Theatre of Magic Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">480x598</font><br>[Paul Groulx]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3201" 
+><span title="Image # 3201: Theatre of Magic Cabinet "><img src="https://www.ipdb.org/images/2845/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 3201: Theatre of Magic Cabinet "><br>Cabinet</span></a><br><font size="-2">392x423</font><br>[Paul Groulx]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3203" 
+><span title="Image # 3203: Theatre of Magic Translite "><img src="https://www.ipdb.org/images/2845/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 3203: Theatre of Magic Translite "><br>Translite</span></a><br><font size="-2">1000x692</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3204" 
+><span title="Image # 3204: Theatre of Magic Center of Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 3204: Theatre of Magic Center of Playfield "><br>Center of Playfield</span></a><br><font size="-2">1000x750</font><br>[Christopher Wolf]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3205" 
+><span title="Image # 3205: Theatre of Magic Machine "><img src="https://www.ipdb.org/images/2845/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 3205: Theatre of Magic Machine "><br>Machine</span></a><br><font size="-2">801x1500</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3927" 
+><span title="Image # 3927: Theatre of Magic Flyer, Front "><img src="https://www.ipdb.org/images/2845/tn_2845f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3927: Theatre of Magic Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">612x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=3928" 
+><span title="Image # 3928: Theatre of Magic Flyer, Back "><img src="https://www.ipdb.org/images/2845/tn_2845f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3928: Theatre of Magic Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">612x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=4644" 
+><span title="Image # 4644: Theatre of Magic Center ramp/trunk area,undamaged w/proper posts. 
+(This image shows the center ramp area adjacent to the trunk. In this image, you can see how an undamaged center ramp looks, as well as the proper placement of the post.)"><img src="https://www.ipdb.org/images/2845/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 4644: Theatre of Magic Center ramp/trunk area,undamaged w/proper posts. 
+(This image shows the center ramp area adjacent to the trunk. In this image, you can see how an undamaged center ramp looks, as well as the proper placement of the post.)"><br>Center ramp/trunk area,<br>undamaged w/proper posts.*</span></a><br><font size="-2">640x480</font><br>[Ray Johnson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12896" 
+><span title="Image # 12896: Theatre of Magic Lower Playfield Underside "><img src="https://www.ipdb.org/images/2845/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12896: Theatre of Magic Lower Playfield Underside "><br>Lower Playfield Underside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12897" 
+><span title="Image # 12897: Theatre of Magic Upper Playfield Underside "><img src="https://www.ipdb.org/images/2845/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12897: Theatre of Magic Upper Playfield Underside "><br>Upper Playfield Underside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12898" 
+><span title="Image # 12898: Theatre of Magic Cabinet Inside "><img src="https://www.ipdb.org/images/2845/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12898: Theatre of Magic Cabinet Inside "><br>Cabinet Inside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12899" 
+><span title="Image # 12899: Theatre of Magic Backbox Electronics "><img src="https://www.ipdb.org/images/2845/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12899: Theatre of Magic Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12900" 
+><span title="Image # 12900: Theatre of Magic Lower Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12900: Theatre of Magic Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12901" 
+><span title="Image # 12901: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12901: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12902" 
+><span title="Image # 12902: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12902: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12903" 
+><span title="Image # 12903: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12903: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12904" 
+><span title="Image # 12904: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12904: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12905" 
+><span title="Image # 12905: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12905: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12906" 
+><span title="Image # 12906: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12906: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12907" 
+><span title="Image # 12907: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12907: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12908" 
+><span title="Image # 12908: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12908: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12909" 
+><span title="Image # 12909: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12909: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=12910" 
+><span title="Image # 12910: Theatre of Magic Playfield Detail "><img src="https://www.ipdb.org/images/2845/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12910: Theatre of Magic Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=32726" 
+><span title="Image # 32726: Theatre of Magic Promotional Poster - Shot Map 
+(Dimensions: 24 inches by 36 inches.)"><img src="https://www.ipdb.org/images/2845/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 32726: Theatre of Magic Promotional Poster - Shot Map 
+(Dimensions: 24 inches by 36 inches.)"><br>Promotional Poster - Shot Map*</span></a><br><font size="-2">662x800</font><br>[Bill Ung]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=34248" 
+><span title="Image # 34248: Theatre of Magic Blank Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 34248: Theatre of Magic Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">728x1480</font><br>[Guerre Froide]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=34249" 
+><span title="Image # 34249: Theatre of Magic Upper Blank Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 34249: Theatre of Magic Upper Blank Playfield "><br>Upper Blank Playfield</span></a><br><font size="-2">770x634</font><br>[Guerre Froide]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=34250" 
+><span title="Image # 34250: Theatre of Magic Middle Blank Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 34250: Theatre of Magic Middle Blank Playfield "><br>Middle Blank Playfield</span></a><br><font size="-2">836x676</font><br>[Guerre Froide]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=34251" 
+><span title="Image # 34251: Theatre of Magic Lower Blank Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 34251: Theatre of Magic Lower Blank Playfield "><br>Lower Blank Playfield</span></a><br><font size="-2">1024x681</font><br>[Guerre Froide]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=34252" 
+><span title="Image # 34252: Theatre of Magic Promotional Patch 
+(Measures 8 inches in diameter.)"><img src="https://www.ipdb.org/images/2845/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 34252: Theatre of Magic Promotional Patch 
+(Measures 8 inches in diameter.)"><br>Promotional Patch*</span></a><br><font size="-2">1006x1010</font><br>[Bill Ung]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=43754" 
+><span title="Image # 43754: Theatre of Magic Playfield "><img src="https://www.ipdb.org/images/2845/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43754: Theatre of Magic Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Ravagnati Federico]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=43755" 
+><span title="Image # 43755: Theatre of Magic Cabinet - Left "><img src="https://www.ipdb.org/images/2845/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 43755: Theatre of Magic Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1004x888</font><br>[Ravagnati Federico]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=43756" 
+><span title="Image # 43756: Theatre of Magic Cabinet - Right "><img src="https://www.ipdb.org/images/2845/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 43756: Theatre of Magic Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x988</font><br>[Ravagnati Federico]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=51305" 
+><span title="Image # 51305: Theatre of Magic Behind Backglass "><img src="https://www.ipdb.org/images/2845/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 51305: Theatre of Magic Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1200x1098</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=51306" 
+><span title="Image # 51306: Theatre of Magic Backbox - Right "><img src="https://www.ipdb.org/images/2845/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 51306: Theatre of Magic Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">686x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=51307" 
+><span title="Image # 51307: Theatre of Magic Cabinet - Right "><img src="https://www.ipdb.org/images/2845/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 51307: Theatre of Magic Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x556</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=51308" 
+><span title="Image # 51308: Theatre of Magic Cabinet - Front "><img src="https://www.ipdb.org/images/2845/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 51308: Theatre of Magic Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x855</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=61126" 
+><span title="Image # 61126: Theatre of Magic Playfield - Side Wall Art "><img src="https://www.ipdb.org/images/2845/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=22 alt="Image # 61126: Theatre of Magic Playfield - Side Wall Art "><br>Playfield - Side Wall Art</span></a><br><font size="-2">1200x268</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=61127" 
+><span title="Image # 61127: Theatre of Magic Playfield - Detail "><img src="https://www.ipdb.org/images/2845/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 61127: Theatre of Magic Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x707</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=61128" 
+><span title="Image # 61128: Theatre of Magic Playfield - Flipper Area "><img src="https://www.ipdb.org/images/2845/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 61128: Theatre of Magic Playfield - Flipper Area "><br>Playfield - Flipper Area</span></a><br><font size="-2">1067x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=61129" 
+><span title="Image # 61129: Theatre of Magic Cabinet - Front View "><img src="https://www.ipdb.org/images/2845/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 61129: Theatre of Magic Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">743x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2845&amp;picno=68560" 
+><span title="Image # 68560: Theatre of Magic Prototype Up-Post "><img src="https://www.ipdb.org/images/2845/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 68560: Theatre of Magic Prototype Up-Post "><br>Prototype Up-Post</span></a><br><font size="-2">1200x869</font><br>[Ari Sovijärvi]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

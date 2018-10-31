@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'Black Rose'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway Black Rose Flippers (3), Pop bumpers (3), Ramps (3), 3-bank standup targets (3), 2- or 3-ball Multiball. Left ramp is a mechanically raised or lowered ramp which is raised at certain times to load the ball cannon. Lower playfield has a below-the-playfield ball cannon (catapult-type) which oscillates when loaded, to be fired by player pressing the Fire button on lockdown bar. The Broadside VUK kicks the ball to the center habitrail above the playfield the and sends it to the flippers.  Pat McMahon John Trudeau Brian Eddy Scott Slomiany John Krutsch Ernie Pizarro Paul Heitsch Brian Eddy Paul Heitsch ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'Black Rose' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Black Rose</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="313">Black Rose</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=313">313</a> <I>/ July, 1992 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=313" target="showrate313"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=313" target="showrate313">111 ratings/79 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=313" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>July, 1992</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>20013</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>BR</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=31">Williams WPC (Fliptronics 2)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,746 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=313">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Pirates - Fictional</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (3), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a> (3), 2- or 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>. Left <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> is a mechanically raised or lowered <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> which is raised at certain times to load the ball cannon. Lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has a below-the-playfield ball cannon (catapult-type) which oscillates when loaded, to be fired by player pressing the Fire button on <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a>. The Broadside <a target="glossary" class="glossarylink" href="/glossary.php#VUK">VUK</a> kicks the ball to the center <a target="glossary" class="glossarylink" href="/glossary.php#Habitrail">habitrail</a> above the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> the and sends it to the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Trudeau' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Trudeau">John&nbsp;Trudeau</a></span>, <span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Eddy' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Eddy">Brian&nbsp;Eddy</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pat&nbsp;McMahon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20McMahon">Pat&nbsp;McMahon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Slomiany' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Slomiany">Scott&nbsp;Slomiany</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Krutsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Krutsch">John&nbsp;Krutsch</a></span>, <span title="Click here to perform a search for all pinball games that 'Ernie&nbsp;Pizarro' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ernie%20Pizarro">Ernie&nbsp;Pizarro</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Eddy' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Eddy">Brian&nbsp;Eddy</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Although Ed Boon is listed on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, according to Louis Koziarz, Ed was doing video at Midway (Mortal Kombat) when this game was created.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Designer">Designer</a> John Trudeau said the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> art contains likenesses of himself and artists Greg Freres and Pat McMahon.<br><br>According to the book <i>Pinball Memories</i>, artist Pat McMahon created X-rated artwork for a version of <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> intended for an interested European market. The glass was never produced. Additionally, Bally had considered using black pinballs, but had to abandon the idea.<br><br><span style='font-size:smaller'>For trademark clarification, note that this game has no connection to <I>Black Rose Production Inc.</I>, and no music written by any of its artists was used in this game's production.  According to this game's flyer, "BLACK ROSE" is a trademark of Midway Manufacturing Company.  "BLACK ROSE" is also a registered trademark of Tito Batista of <i>Black Rose Productions, Inc.</i> as per USPTO registration no. 1,214,374 dated Oct. 1982.</span><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"This game is loaded!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 185-188<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 152<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/313/blackros.htm" target="rulesheet">Black Rose Guide (Jan/01/1994), by Cookie</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/313/blackrose-rulesheet-new.htm" target="rulesheet">Black Rose Guide (Mar/01/2003), by Wolffy</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?blackrose">http://pinball.jameswest.com/ownerslists/ownerslist.php?blackrose</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#313">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=p6wTc1RoVpA">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 674 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/br_l4.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 222 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/br_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 224 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/br_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 303 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/br_p17.zip" >PinMAME Romset (SP-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 222 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Revision_L_1_Game_ROM.zip" >Revision L-1 Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 224 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Revision_L_3_Game_ROM.zip" >Revision L-3 Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 279 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Revision_L_4_Game_ROM.zip" >Revision L-4 Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 144 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Revision_P_1_Prototype_Game_ROM.zip" >Revision P-1 (Prototype) Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 205 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Revision_P_17_Prototype_Game_ROM.zip" >Revision P-17 (Prototype) Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 490 KB</td><td align=left nowrap width="5%">&nbsp;RAR&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Sound_ROM.rar" >Sound ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 732 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Operator_Handbook.pdf" onClick="return purchasemanual();">Operator Handbook</a></td><td> [Midway Manufacturing Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 185 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 69 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/313/Bally_1992_Black_Rose_Reproduction_Score_And_Instruction_Cards.zip" >Reproduction Score And Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=4144" 
+><span title="Image # 4144: Black Rose Flyer, Front "><img src="https://www.ipdb.org/images/313/tn_313f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4144: Black Rose Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=4145" 
+><span title="Image # 4145: Black Rose Flyer, Back "><img src="https://www.ipdb.org/images/313/tn_313f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4145: Black Rose Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=9576" 
+><span title="Image # 9576: Black Rose Backglass "><img src="https://www.ipdb.org/images/313/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 9576: Black Rose Backglass "><br>Backglass</span></a><br><font size="-2">710x614</font><br>[Julien Greening]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=9577" 
+><span title="Image # 9577: Black Rose Playfield "><img src="https://www.ipdb.org/images/313/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9577: Black Rose Playfield "><br>Playfield</span></a><br><font size="-2">864x1152</font><br>[Julien Greening]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=9578" 
+><span title="Image # 9578: Black Rose Full machine "><img src="https://www.ipdb.org/images/313/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 9578: Black Rose Full machine "><br>Full machine</span></a><br><font size="-2">692x1152</font><br>[Julien Greening]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14294" 
+><span title="Image # 14294: Black Rose Playfield "><img src="https://www.ipdb.org/images/313/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 14294: Black Rose Playfield "><br>Playfield</span></a><br><font size="-2">723x711</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14295" 
+><span title="Image # 14295: Black Rose Machine - Right "><img src="https://www.ipdb.org/images/313/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 14295: Black Rose Machine - Right "><br>Machine - Right</span></a><br><font size="-2">719x768</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14296" 
+><span title="Image # 14296: Black Rose Backglass "><img src="https://www.ipdb.org/images/313/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 14296: Black Rose Backglass "><br>Backglass</span></a><br><font size="-2">628x646</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14297" 
+><span title="Image # 14297: Black Rose Whirlpool Detail "><img src="https://www.ipdb.org/images/313/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14297: Black Rose Whirlpool Detail "><br>Whirlpool Detail</span></a><br><font size="-2">1024x768</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14298" 
+><span title="Image # 14298: Black Rose Upper Playfield "><img src="https://www.ipdb.org/images/313/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14298: Black Rose Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Mike Gaspar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14299" 
+><span title="Image # 14299: Black Rose Lower Playfield "><img src="https://www.ipdb.org/images/313/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14299: Black Rose Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14300" 
+><span title="Image # 14300: Black Rose Ball View "><img src="https://www.ipdb.org/images/313/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14300: Black Rose Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14301" 
+><span title="Image # 14301: Black Rose Playfield Underside "><img src="https://www.ipdb.org/images/313/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 14301: Black Rose Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">340x761</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=14302" 
+><span title="Image # 14302: Black Rose Inside Backbox "><img src="https://www.ipdb.org/images/313/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14302: Black Rose Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Mike Gaspar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23349" 
+><span title="Image # 23349: Black Rose Full Machine "><img src="https://www.ipdb.org/images/313/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 23349: Black Rose Full Machine "><br>Full Machine</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23350" 
+><span title="Image # 23350: Black Rose Cabinet - Left "><img src="https://www.ipdb.org/images/313/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 23350: Black Rose Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">700x350</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23351" 
+><span title="Image # 23351: Black Rose Cabinet - Right "><img src="https://www.ipdb.org/images/313/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 23351: Black Rose Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x350</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23352" 
+><span title="Image # 23352: Black Rose Backbox - Left "><img src="https://www.ipdb.org/images/313/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 23352: Black Rose Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">350x700</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23353" 
+><span title="Image # 23353: Black Rose Backbox - Right "><img src="https://www.ipdb.org/images/313/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 23353: Black Rose Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">350x700</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23354" 
+><span title="Image # 23354: Black Rose Cabinet - Front "><img src="https://www.ipdb.org/images/313/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23354: Black Rose Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23355" 
+><span title="Image # 23355: Black Rose Playfield "><img src="https://www.ipdb.org/images/313/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 23355: Black Rose Playfield "><br>Playfield</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23356" 
+><span title="Image # 23356: Black Rose Upper Playfield "><img src="https://www.ipdb.org/images/313/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23356: Black Rose Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23357" 
+><span title="Image # 23357: Black Rose Lower Playfield "><img src="https://www.ipdb.org/images/313/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23357: Black Rose Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23358" 
+><span title="Image # 23358: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23358: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23359" 
+><span title="Image # 23359: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23359: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23360" 
+><span title="Image # 23360: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23360: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23361" 
+><span title="Image # 23361: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23361: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23362" 
+><span title="Image # 23362: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23362: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23363" 
+><span title="Image # 23363: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23363: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23364" 
+><span title="Image # 23364: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23364: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23365" 
+><span title="Image # 23365: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23365: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23366" 
+><span title="Image # 23366: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23366: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23367" 
+><span title="Image # 23367: Black Rose Playfield Detail "><img src="https://www.ipdb.org/images/313/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23367: Black Rose Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23368" 
+><span title="Image # 23368: Black Rose Playfield Underside "><img src="https://www.ipdb.org/images/313/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 23368: Black Rose Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23369" 
+><span title="Image # 23369: Black Rose Playfield Underside "><img src="https://www.ipdb.org/images/313/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23369: Black Rose Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23370" 
+><span title="Image # 23370: Black Rose Cabinet Inside "><img src="https://www.ipdb.org/images/313/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23370: Black Rose Cabinet Inside "><br>Cabinet Inside</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23371" 
+><span title="Image # 23371: Black Rose Backglass Rear "><img src="https://www.ipdb.org/images/313/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23371: Black Rose Backglass Rear "><br>Backglass Rear</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23372" 
+><span title="Image # 23372: Black Rose Backbox Electronics "><img src="https://www.ipdb.org/images/313/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23372: Black Rose Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=23373" 
+><span title="Image # 23373: Black Rose Backbox "><img src="https://www.ipdb.org/images/313/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 23373: Black Rose Backbox "><br>Backbox</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=29081" 
+><span title="Image # 29081: Black Rose Backglass "><img src="https://www.ipdb.org/images/313/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 29081: Black Rose Backglass "><br>Backglass</span></a><br><font size="-2">1024x951</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=313&amp;picno=32809" 
+><span title="Image # 32809: Black Rose Illuminated Backglass "><img src="https://www.ipdb.org/images/313/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32809: Black Rose Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1365</font><br>[Chris McKendry]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Flyer&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Blackout'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Blackout Black Out Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), 3-bank drop targets (2), Spinning targets (3), Kick-out hole (1). Lane change.  Constantino Mitchell Jeanine Mitchell Claude Fernandez Paul Dussault Paul Dussault ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Blackout' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Blackout</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="317">Blackout</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=317">317</a> <I>/ June, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=317" target="showrate317"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=317" target="showrate317">39 ratings/31 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=317" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>495</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=3">Williams System 6</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,050 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=317">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space - Space Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;change</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Claude&nbsp;Fernandez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Claude%20Fernandez">Claude&nbsp;Fernandez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Dussault' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Dussault">Paul&nbsp;Dussault</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Dussault' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Dussault">Paul&nbsp;Dussault</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>For several Williams games (especially before 1987), Speech Processing was a separate task than Software Programming and may have been done by a different person than whom we list as having done the Software. Paul Dussault did the French Speech Processing for this game.<br><br>This <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> layout was also used on <span title="Click here to open a new window and display Rowamet's 'Heavy Metal'"><a target="game5175" href="machine.cgi?id=5175">Rowamet's 'Heavy Metal'</a></span> and <span title="Click here to open a new window and display Taito do Brasil's 1983 'Vortex'"><a target="game4576" href="machine.cgi?id=4576">Taito do Brasil's 1983 'Vortex'</a></span>.  A nearly identical layout was used on <span title="Click here to open a new window and display Williams' 1982 'Warlok'"><a target="game2754" href="machine.cgi?id=2754">Williams' 1982 'Warlok'</a></span>.<br><br>The first game designed and produced with <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;Change</a> was <span title="Click here to open a new window and display Williams' 1980 'Firepower'"><a target="game856" href="machine.cgi?id=856">Williams' 1980 'Firepower'</a></span>.<br><br>Blackout was the first Williams <a target="glossary" class="glossarylink" href="/glossary.php#Pin_Game">pin&nbsp;game</a> to have computer-controlled general illumination, used for the "BLACKOUT" sequence. This was accomplished using a relay mounted to the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> floor, called the G.I. Relay, which cut power to all <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> lamps. An earlier game that has this feature is <span title="Click here to open a new window and display Stern's 1980 'Galaxy'"><a target="game980" href="machine.cgi?id=980">Stern's 1980 'Galaxy'</a></span> which came out a few months before.<br><br>Prior to "Blackout", all solid state games from this manufacturer used four bolts to attach the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> to the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. With "Blackout" and later games, Williams used only two bolts even if the steel was still stamped for four holes.<br><br>Compare the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> artwork to the <a href="http://img2.wikia.nocookie.net/__cb20080820024919/marveldatabase/images/3/35/Nick_Fury,_Agent_of_S.H.I.E.L.D._Vol_1_6.jpg" target="wikia.nocookie">front cover page</a> of the November 1968 issue of the <I>Nick Fury, Agent of S.H.I.E.L.D.</I> comic book.<br><br>Artist Constantino Mitchell told us the following information about the original <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> artwork (shown in this listing):<P style="padding-left:30px;"><I>I want Ed Paschke to get credit for Blackout bac<ignore>kglass design. He did the original art concept. Ed Paschke was my teacher and mentor at the Art Institute of Chicago. His usage of color influenced me for the rest of my life. Upper management didn't like the artwork and had me redo it in my style.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Silver Knight pp. June/July 1995<br>
+Flip! Flash! Pinball Art, Items 61 and 62<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 159<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, page 134<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.mbsoundworks.com/blackout.html#owners">http://www.mbsoundworks.com/blackout.html#owners</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 129 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/blkou_t1.zip" >"Divided by 10" Scoring PinMAME Romset</a></td><td> [Ted Estes]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 66 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/blkou_f1.zip" >French Speech Romset</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 62 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/blkou_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 21 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/Williams_1980_Blackout_ROM_L_1.zip" >ROM L-1</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 30 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/Williams_1980_Blackout_Manual_with_paginated_schematics.pdf" onClick="return purchasemanual();">Manual (with paginated schematics)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/Williams_1980_Blackout_Operators_Handbook.pdf" onClick="return purchasemanual();">Operators Handbook</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 21 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/317/Williams_1980_Blackout_Schematics_pages_numbered_7_through_22.pdf" onClick="return purchasemanual();">Schematics (pages 7 through 22 of manual, bleached)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=4587" 
+><span title="Image # 4587: Blackout Flyer, Front "><img src="https://www.ipdb.org/images/317/tn_317f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4587: Blackout Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">879x1128</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=4588" 
+><span title="Image # 4588: Blackout Flyer, Page 2 "><img src="https://www.ipdb.org/images/317/tn_317f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4588: Blackout Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=4589" 
+><span title="Image # 4589: Blackout Flyer, Page 3 "><img src="https://www.ipdb.org/images/317/tn_317f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4589: Blackout Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=4590" 
+><span title="Image # 4590: Blackout Flyer, Back "><img src="https://www.ipdb.org/images/317/tn_317f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4590: Blackout Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=5232" 
+><span title="Image # 5232: Blackout Backglass "><img src="https://www.ipdb.org/images/317/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 5232: Blackout Backglass "><br>Backglass</span></a><br><font size="-2">872x712</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=5233" 
+><span title="Image # 5233: Blackout Front View "><img src="https://www.ipdb.org/images/317/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 5233: Blackout Front View "><br>Front View</span></a><br><font size="-2">600x1219</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=5234" 
+><span title="Image # 5234: Blackout Playfield "><img src="https://www.ipdb.org/images/317/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 5234: Blackout Playfield "><br>Playfield</span></a><br><font size="-2">1071x1074</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=16465" 
+><span title="Image # 16465: Blackout Upper Playfield "><img src="https://www.ipdb.org/images/317/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16465: Blackout Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=16466" 
+><span title="Image # 16466: Blackout Lower Playfield "><img src="https://www.ipdb.org/images/317/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16466: Blackout Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=16467" 
+><span title="Image # 16467: Blackout Full View "><img src="https://www.ipdb.org/images/317/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 16467: Blackout Full View "><br>Full View</span></a><br><font size="-2">597x596</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=17036" 
+><span title="Image # 17036: Blackout Backglass - Reverse "><img src="https://www.ipdb.org/images/317/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17036: Blackout Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=34591" 
+><span title="Image # 34591: Blackout Inside Backbox "><img src="https://www.ipdb.org/images/317/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 34591: Blackout Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">856x740</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=47420" 
+><span title="Image # 47420: Blackout Under Playfield "><img src="https://www.ipdb.org/images/317/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47420: Blackout Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=47421" 
+><span title="Image # 47421: Blackout Inside Cabinet "><img src="https://www.ipdb.org/images/317/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47421: Blackout Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=59969" 
+><span title="Image # 59969: Blackout Drop Target Decal 
+(This is a scanned image of the actual decal, unretouched.)"><img src="https://www.ipdb.org/images/317/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 59969: Blackout Drop Target Decal 
+(This is a scanned image of the actual decal, unretouched.)"><br>Drop Target Decal*</span></a><br><font size="-2">300x425</font><br>[Tom Moore]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=59970" 
+><span title="Image # 59970: Blackout Standup Target Decal 
+(This is a scanned image of the actual decal, unretouched.)"><img src="https://www.ipdb.org/images/317/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 59970: Blackout Standup Target Decal 
+(This is a scanned image of the actual decal, unretouched.)"><br>Standup Target Decal*</span></a><br><font size="-2">325x325</font><br>[Tom Moore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=68156" 
+><span title="Image # 68156: Blackout Original Backglass Artwork 
+(Original art concept by Ed Paschke.Artist is Ed Paschke.Acrylic paint on illustration board.Dimensions 30 inches by 40 inches.)"><img src="https://www.ipdb.org/images/317/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 68156: Blackout Original Backglass Artwork 
+(Original art concept by Ed Paschke.Artist is Ed Paschke.Acrylic paint on illustration board.Dimensions 30 inches by 40 inches.)"><br>Original Backglass Artwork*</span></a><br><font size="-2">1038x872</font><br>[Constantino Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=68964" 
+><span title="Image # 68964: Blackout Playfield - Oblique View "><img src="https://www.ipdb.org/images/317/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68964: Blackout Playfield - Oblique View "><br>Playfield - Oblique View</span></a><br><font size="-2">1200x900</font><br>[Dave Brocky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=68965" 
+><span title="Image # 68965: Blackout Lower Playfield 
+(The German language cards may not be original to this game.)"><img src="https://www.ipdb.org/images/317/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68965: Blackout Lower Playfield 
+(The German language cards may not be original to this game.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Dave Brocky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=68966" 
+><span title="Image # 68966: Blackout Pop Bumpers "><img src="https://www.ipdb.org/images/317/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68966: Blackout Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1200x900</font><br>[Dave Brocky]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=68967" 
+><span title="Image # 68967: Blackout Drop Targets "><img src="https://www.ipdb.org/images/317/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68967: Blackout Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1200x900</font><br>[Dave Brocky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=317&amp;picno=68968" 
+><span title="Image # 68968: Blackout Standup Targets "><img src="https://www.ipdb.org/images/317/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68968: Blackout Standup Targets "><br>Standup Targets</span></a><br><font size="-2">1200x900</font><br>[Dave Brocky]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

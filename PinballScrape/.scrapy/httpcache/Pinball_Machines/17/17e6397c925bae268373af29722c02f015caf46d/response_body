@@ -1,0 +1,235 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally Midway 'Eight Ball Deluxe'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Midway Eight Ball Deluxe Flippers (3), Pop bumpers (3), Kick-out hole (1), 7-bank drop targets (1), 4-in-line drop targets, Stand-alone drop target (1). Speech. Backbox hinges downward.
+
+This version EBD differs from the original version as follows:
+1) Apron (cardholder) is black and shows Bally Midway.
+2) Entire front of cabinet is black.
+3) Side edges of backbox are beveled. Cabinet art is decals.
+4) Playfield lamps are mounted on PCB boards, not individual light sockets.
+5) Slightly smaller hinged backglass that swings out.  Margaret Hudson George Christian ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally Midway 'Eight Ball Deluxe' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Eight Ball Deluxe</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5021">Eight Ball Deluxe</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5021">5021</a> <I>/ 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=5021" target="showrate5021"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=5021" target="showrate5021">24 ratings/19 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5021" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=48">Bally Midway Manufacturing Company (1983-1988) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>0B87</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>8BD, EBD</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5021">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Billiards</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 4-in-line <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>, Stand-alone <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> (1). Speech. <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> hinges downward.<br><br>This version EBD differs from the original version as follows:<br>1) <a target="glossary" class="glossarylink" href="/glossary.php#Apron">Apron</a> (cardholder) is black and shows Bally Midway.<br>2) Entire front of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> is black.<br>3) Side edges of <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> are beveled. <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> art is decals.<br>4) <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> lamps are mounted on <a target="glossary" class="glossarylink" href="/glossary.php#PCB">PCB</a> boards, not individual light sockets.<br>5) Slightly smaller hinged <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> that swings out.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Christian' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Christian">George&nbsp;Christian</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Margaret&nbsp;Hudson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Margaret%20Hudson">Margaret&nbsp;Hudson</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The original run of this game, <span title="Click here to open a new window and display Bally's 1981 'Eight Ball Deluxe'"><a target="game762" href="machine.cgi?id=762">Bally's 1981 'Eight Ball Deluxe'</a></span>, was so successful, it was produced again. This subsequent run is often referred to as the "third version" because it followed the production of <span title="Click here to open a new window and display Bally's 1982 'Eight Ball Deluxe Limited Edition'"><a target="game763" href="machine.cgi?id=763">Bally's 1982 'Eight Ball Deluxe Limited Edition'</a></span>.</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/5021/Bally_1984_Eight_Ball_Deluxe_English_Manual_with_paginated_schematics.pdf" onClick="return purchasemanual();">English Manual (with paginated schematics)</a></td><td> [Bally Midway Mfg&#46; Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=6890" 
+><span title="Image # 6890: Eight Ball Deluxe Backglass "><img src="https://www.ipdb.org/images/5021/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 6890: Eight Ball Deluxe Backglass "><br>Backglass</span></a><br><font size="-2">1024x822</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19039" 
+><span title="Image # 19039: Eight Ball Deluxe Cabinet - Front "><img src="https://www.ipdb.org/images/5021/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 19039: Eight Ball Deluxe Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">494x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19040" 
+><span title="Image # 19040: Eight Ball Deluxe Cabinet - Left "><img src="https://www.ipdb.org/images/5021/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19040: Eight Ball Deluxe Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19041" 
+><span title="Image # 19041: Eight Ball Deluxe Cabinet - Right "><img src="https://www.ipdb.org/images/5021/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19041: Eight Ball Deluxe Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19042" 
+><span title="Image # 19042: Eight Ball Deluxe Cabinet - Right "><img src="https://www.ipdb.org/images/5021/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19042: Eight Ball Deluxe Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19043" 
+><span title="Image # 19043: Eight Ball Deluxe Cabinet - Rear "><img src="https://www.ipdb.org/images/5021/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19043: Eight Ball Deluxe Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19044" 
+><span title="Image # 19044: Eight Ball Deluxe Backbox - Left "><img src="https://www.ipdb.org/images/5021/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 19044: Eight Ball Deluxe Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">209x483</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19045" 
+><span title="Image # 19045: Eight Ball Deluxe Backbox - Right "><img src="https://www.ipdb.org/images/5021/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 19045: Eight Ball Deluxe Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">209x479</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19046" 
+><span title="Image # 19046: Eight Ball Deluxe Inside Cabinet "><img src="https://www.ipdb.org/images/5021/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19046: Eight Ball Deluxe Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19047" 
+><span title="Image # 19047: Eight Ball Deluxe Backbox "><img src="https://www.ipdb.org/images/5021/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 19047: Eight Ball Deluxe Backbox "><br>Backbox</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19048" 
+><span title="Image # 19048: Eight Ball Deluxe Backbox Insert - Back 
+(The lamp driver circuit board at lower right is not original to this game. )"><img src="https://www.ipdb.org/images/5021/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19048: Eight Ball Deluxe Backbox Insert - Back 
+(The lamp driver circuit board at lower right is not original to this game. )"><br>Backbox Insert - Back*</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19049" 
+><span title="Image # 19049: Eight Ball Deluxe Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 19049: Eight Ball Deluxe Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19050" 
+><span title="Image # 19050: Eight Ball Deluxe Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 19050: Eight Ball Deluxe Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19052" 
+><span title="Image # 19052: Eight Ball Deluxe Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19052: Eight Ball Deluxe Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19053" 
+><span title="Image # 19053: Eight Ball Deluxe Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19053: Eight Ball Deluxe Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19054" 
+><span title="Image # 19054: Eight Ball Deluxe Inside Cabinet - Power Supply "><img src="https://www.ipdb.org/images/5021/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19054: Eight Ball Deluxe Inside Cabinet - Power Supply "><br>Inside Cabinet - Power Supply</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19055" 
+><span title="Image # 19055: Eight Ball Deluxe Playfield "><img src="https://www.ipdb.org/images/5021/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 19055: Eight Ball Deluxe Playfield "><br>Playfield</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19056" 
+><span title="Image # 19056: Eight Ball Deluxe Upper Playfield "><img src="https://www.ipdb.org/images/5021/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19056: Eight Ball Deluxe Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19057" 
+><span title="Image # 19057: Eight Ball Deluxe Lower Playfield "><img src="https://www.ipdb.org/images/5021/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19057: Eight Ball Deluxe Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19058" 
+><span title="Image # 19058: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19058: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19059" 
+><span title="Image # 19059: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19059: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19060" 
+><span title="Image # 19060: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19060: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19061" 
+><span title="Image # 19061: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19061: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19062" 
+><span title="Image # 19062: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19062: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19063" 
+><span title="Image # 19063: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19063: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19064" 
+><span title="Image # 19064: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19064: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19065" 
+><span title="Image # 19065: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19065: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19066" 
+><span title="Image # 19066: Eight Ball Deluxe Lower Playfield - Downfield View "><img src="https://www.ipdb.org/images/5021/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19066: Eight Ball Deluxe Lower Playfield - Downfield View "><br>Lower Playfield - Downfield View</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19067" 
+><span title="Image # 19067: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19067: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19068" 
+><span title="Image # 19068: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19068: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19069" 
+><span title="Image # 19069: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19069: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19070" 
+><span title="Image # 19070: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/5021/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19070: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=19071" 
+><span title="Image # 19071: Eight Ball Deluxe Under Playfield "><img src="https://www.ipdb.org/images/5021/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 19071: Eight Ball Deluxe Under Playfield "><br>Under Playfield</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=27380" 
+><span title="Image # 27380: Eight Ball Deluxe Backglass 
+(Note that the rope border is at the edge of the glass, which seems too close even when compared to the other backglass in this listing.)"><img src="https://www.ipdb.org/images/5021/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 27380: Eight Ball Deluxe Backglass 
+(Note that the rope border is at the edge of the glass, which seems too close even when compared to the other backglass in this listing.)"><br>Backglass*</span></a><br><font size="-2">1024x853</font><br>[Eric Avedesian]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=27381" 
+><span title="Image # 27381: Eight Ball Deluxe Backglass - Reverse 
+(This glass appears smaller than the '1st edition' of this game. Compare the distance between the bottom edge and the text above it.)"><img src="https://www.ipdb.org/images/5021/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 27381: Eight Ball Deluxe Backglass - Reverse 
+(This glass appears smaller than the '1st edition' of this game. Compare the distance between the bottom edge and the text above it.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1024x861</font><br>[Eric Avedesian]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=44036" 
+><span title="Image # 44036: Eight Ball Deluxe Hinged Backglass "><img src="https://www.ipdb.org/images/5021/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44036: Eight Ball Deluxe Hinged Backglass "><br>Hinged Backglass</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=44037" 
+><span title="Image # 44037: Eight Ball Deluxe Hinged Backbox "><img src="https://www.ipdb.org/images/5021/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44037: Eight Ball Deluxe Hinged Backbox "><br>Hinged Backbox</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=44038" 
+><span title="Image # 44038: Eight Ball Deluxe Hinged Backbox "><img src="https://www.ipdb.org/images/5021/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44038: Eight Ball Deluxe Hinged Backbox "><br>Hinged Backbox</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=44039" 
+><span title="Image # 44039: Eight Ball Deluxe Backbox Support Bracket "><img src="https://www.ipdb.org/images/5021/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 44039: Eight Ball Deluxe Backbox Support Bracket "><br>Backbox Support Bracket</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5021&amp;picno=44040" 
+><span title="Image # 44040: Eight Ball Deluxe Backbox Hinge and Support Bracket "><img src="https://www.ipdb.org/images/5021/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44040: Eight Ball Deluxe Backbox Hinge and Support Bracket "><br>Backbox Hinge and Support Bracket</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

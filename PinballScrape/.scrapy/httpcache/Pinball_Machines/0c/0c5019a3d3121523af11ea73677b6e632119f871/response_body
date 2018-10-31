@@ -1,0 +1,387 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Lumet '007-Flipper'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Lumet 007-Flipper 007-TorFlipper Head-to-Head Play Flippers (4, or 8, depending on the version), Automatic ball lift. The 4-flipper versions of this game have a movable goalie. Cabinet advertised as 92cm by 50cm by 91cm.
+
+This is a head-to-head game where two players at opposite ends of the playfield compete in simultaneous play. Each player has flipper buttons which control only those flippers facing the opponent.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Lumet '007-Flipper' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>007-Flipper</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5443">007-Flipper</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5443">5443</a> <I>/ 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5443" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Lumet'"><a href="search.pl?searchtype=advanced&amp;mfgid=633">VEB Luckenwalder Metallwarenfabrik, <font size="-1">of Luckenwalde,<br> Germany</font> <i>[Trade Name: Lumet</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5443">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Head-to-Head Play&nbsp;<a href="glossary.php#Head-to-Head_Play" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4, or 8, depending on the version), Automatic ball lift. The 4-flipper versions of this game have a movable goalie. <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> advertised as 92cm by 50cm by 91cm.<br><br>This is a head-to-head game where two players at opposite ends of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> compete in simultaneous play. Each player has <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons which control only those <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> facing the opponent.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>We have found several versions of this <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> game, evidencing at least four different <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> and two different table top designs, with varying <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> details between them. There are probably more versions to discover. We have found no connection to the literary "James Bond 007" in any of them.<br><br>One of the two versions pictured here carries a plate  designating it Model 502 with serial number 3305. It has a two-color <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> (half-green and half-yellow-green) with two posts and four <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. Four <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a>, two green and two red, briefly light simultaneously at the start and end of each game, accompanied by a buzzing sound. For each player, the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> activate simultaneously by pressing either left or right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button, and this allows the player’s other hand to operate the large swivel handle that controls the goalie (aka the "<i>Torkanone</i>"), moving it back and forth to defensively block the opponent’s ball. Pressing the red button on the handle makes the goalie kick the ball towards the opponent as an offensive maneuver. Two posts  are placed at the center line, but close to each side wall, to stay out of the way of most of the power shots. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has several decals depicting women in various clothing unrelated to sports, but these decals were actually part of the intended product as evidenced by their appearance on the game in the distributor’s flyer. (It may have been the distributor’s idea to add the decals, and we have no manufacturer flyer with which to compare.) The game owner advised us that game play lasts about 100 seconds, and that the ball weighs 10g and has a diameter of 2.48 cm. This game is the only example we found that has metal plates surrounding the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons. The owner removed the plates and found that one side of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> had an extra hole for each player, the size of a <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button. If the holes were an error of manufacture or indicative of a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> design or other experimentation, the plates presumably were added to cover them and make this <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> useful. The table top area containing the score counters is a solid red color. The distributor, Autronic Handels GmbH, advertised itself on this game more prominently than did the manufacturer, on a large adhesive sticker above the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> hinge, and on the paper instruction cards inserted at each end of the table top, where they inexplicably referred to this game as "007 TORFLIPPER", an appellation found nowhere else in our research.<br><br>According to a history webpage we found (no longer online, but we found <a href="http://www.broesan-1000feuerzeuge.de/GESCHICHTE/DEUTSCHLAND/KELLERMANN.html" target="broesan-1000feuerzeuge">another webpage</a>), VEB Luckenwalde Metallwarenfabrik (Lumet) was created in either 1951 or 1952 as a result of a series of post-WWII reorganizations of metalworking factories in Germany. It was a publicly-owned company (<i>Volkseigener Betriebe</i>, or VEB) in East Germany that made, among other things, air pumps, gas lighters, and "the first automatic vending machines", although German initiative with vending machines goes back <a href="http://www.sielaff.com/en/company/about-us/history/" target="sielaff">much further</a>. Online we have found Lumet patents from 1959-60 for coin-operated vending machines. A Billboard article shown here and dated March 20, 1961 page 118 announced their entry into the production of pinball machines.<br><br>Lumet also made arcade games that used the same <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> as shown here. Examples of these arcade games are "<a href="http://www.schatzwert.de/news-schaetzung/article/lumet-toto-fix-eishockey-automat.html" target="schatzwert">Toto-Fix</a>" (football, or American soccer) and "Eishockey" (ice hockey), where there are movable "manikins" on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, controlled by each player. The pinball <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> shown here have an unused round metal fitting at each end where the protruding manikin controls were not needed. We have read of these arcade games having manufacture dates in the late 1950s (dates unconfirmed by us) and from this we speculate that it was economical for Lumet in 1961 to simply adapt their arcade <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> for pinball use.<br><br>The other version pictured here has a single-color yellowish <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, four <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, and six posts. The table top area is red with no instruction cards. It has the swiveling goalie at each end so we presume that pressing either <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button activates both <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> simultaneously. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has no picture decals, a detail that sets it apart, and with its six posts placed in such a way as if to thwart many offensive power shots, we wonder if this game had an after-factory <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> swap from a Toto-Fix arcade game, one model of which used the same plain yellow <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The posts may have filled the holes vacated by the manikins.<br><br>We note that the games pictured here operate on 10 pfennig per play. We show a flyer produced by the distributor indicating play is 20 pfennig. Its black-and-white picture shows a game with a two-color <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> having eight dark-colored <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> and no external <i>Torkanone</i> control handle. In fact, a large metal plate has been placed over the areas where the control handle and unneeded arcade fitting would have been. The object that is visible between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> likely is a stationary post. The glass table top has a diamond-net pattern that the other games do not have. A date for this flyer was given to us unconfirmed as 1966.  If that date is true, it could support an evolutionary timeline as suggested by the game it displays and the higher price to play it. We caution, however, that we have no confirmed dates for any of the versions in this listing.<br><br>Another version we have seen (not shown here) has a half-green, half-gold <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, four dark red <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, four <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a>, two posts, and decals. Its diamond-net table top has instruction cards. Each player has the movable goalie and external handle but the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> does not have the residual round arcade fitting.<br><br>Here is the flyer translation:<br><i><br>2-Player-Competition-Flipper<br>007 <br>Finally something new! <br>• Pricing 0,20 DM (20 Pfennig) <br>• Automatic Ball-Lift<br>• Test-Samples left a fascinated crowd of players and satisfied <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a>.<br>• 007 is the only 2-Player-Competition-Flipper of our time who indicates and proves the real skills of both players.<br>• Playing this machine shows always new surprises. No game is like the other, which improves the player's joy so they can't stop playing again and again. <br>• Extra-large cash-box, double-locked. <br>• Traditional, long-proved materials and wise engineers assure you a trouble-free operation and easy maintenance.<br><br>Size- 92cm x 50cm x 91cm<br>DM 1880,-<br></i><br><br>Lumet is reported to be the only manufacturer that produced pinball machines in East Germany. We invite more information about this game or other pinball games from this manufacturer.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?feature=player_detailpage&v=bVMMXpj_tB0">Example of Play (at YouTube) [02:17]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56012" 
+><span title="Image # 56012: 007-Flipper Playfield "><img src="https://www.ipdb.org/images/5443/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56012: 007-Flipper Playfield "><br>Playfield</span></a><br><font size="-2">375x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56013" 
+><span title="Image # 56013: 007-Flipper Playfield "><img src="https://www.ipdb.org/images/5443/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56013: 007-Flipper Playfield "><br>Playfield</span></a><br><font size="-2">375x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56014" 
+><span title="Image # 56014: 007-Flipper Outhole "><img src="https://www.ipdb.org/images/5443/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56014: 007-Flipper Outhole "><br>Outhole</span></a><br><font size="-2">500x375</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56015" 
+><span title="Image # 56015: 007-Flipper Playfield - Detail 
+(The cabinet is abutting another game's cabinet on the right.)"><img src="https://www.ipdb.org/images/5443/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56015: 007-Flipper Playfield - Detail 
+(The cabinet is abutting another game's cabinet on the right.)"><br>Playfield - Detail*</span></a><br><font size="-2">375x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56016" 
+><span title="Image # 56016: 007-Flipper Playfield - Detail 
+(These two detached posts likely came from the playfield.)"><img src="https://www.ipdb.org/images/5443/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56016: 007-Flipper Playfield - Detail 
+(These two detached posts likely came from the playfield.)"><br>Playfield - Detail*</span></a><br><font size="-2">500x375</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56017" 
+><span title="Image # 56017: 007-Flipper Cabinet - Side View "><img src="https://www.ipdb.org/images/5443/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56017: 007-Flipper Cabinet - Side View "><br>Cabinet - Side View</span></a><br><font size="-2">500x375</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56018" 
+><span title="Image # 56018: 007-Flipper Control Handle "><img src="https://www.ipdb.org/images/5443/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56018: 007-Flipper Control Handle "><br>Control Handle</span></a><br><font size="-2">500x375</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56166" 
+><span title="Image # 56166: 007-Flipper Flyer "><img src="https://www.ipdb.org/images/5443/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 56166: 007-Flipper Flyer "><br>Flyer</span></a><br><font size="-2">827x1146</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56184" 
+><span title="Image # 56184: 007-Flipper Billboard Article 
+(The Billboard Mar-20-1961, page 118)"><img src="https://www.ipdb.org/images/5443/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 56184: 007-Flipper Billboard Article 
+(The Billboard Mar-20-1961, page 118)"><br>Billboard Article*</span></a><br><font size="-2">696x717</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56185" 
+><span title="Image # 56185: 007-Flipper Illuminated Playfield 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56185: 007-Flipper Illuminated Playfield 
+(The flippers are not original to this game. Serial number 3305.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56186" 
+><span title="Image # 56186: 007-Flipper Illuminated Playfield 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 56186: 007-Flipper Illuminated Playfield 
+(The flippers are not original to this game. Serial number 3305.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x711</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56187" 
+><span title="Image # 56187: 007-Flipper Playfield - Top Glass Removed 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56187: 007-Flipper Playfield - Top Glass Removed 
+(The flippers are not original to this game. Serial number 3305.)"><br>Playfield - Top Glass Removed*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56188" 
+><span title="Image # 56188: 007-Flipper Yellow Player 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56188: 007-Flipper Yellow Player 
+(The flippers are not original to this game. Serial number 3305.)"><br>Yellow Player*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56189" 
+><span title="Image # 56189: 007-Flipper Green Player 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56189: 007-Flipper Green Player 
+(The flippers are not original to this game. Serial number 3305.)"><br>Green Player*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56190" 
+><span title="Image # 56190: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56190: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><br>Playfield Decal*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56191" 
+><span title="Image # 56191: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56191: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><br>Playfield Decal*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56192" 
+><span title="Image # 56192: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56192: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><br>Playfield Decal*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56193" 
+><span title="Image # 56193: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56193: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><br>Playfield Decal*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56194" 
+><span title="Image # 56194: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56194: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><br>Playfield Decal*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56195" 
+><span title="Image # 56195: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 56195: 007-Flipper Playfield Decal 
+(Serial number 3305.)"><br>Playfield Decal*</span></a><br><font size="-2">1200x1448</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56196" 
+><span title="Image # 56196: 007-Flipper Game Name - Yellow Player 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 56196: 007-Flipper Game Name - Yellow Player 
+(Serial number 3305.)"><br>Game Name - Yellow Player*</span></a><br><font size="-2">1200x2083</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56197" 
+><span title="Image # 56197: 007-Flipper Name Illumination 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56197: 007-Flipper Name Illumination 
+(The flippers are not original to this game. Serial number 3305.)"><br>Name Illumination*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56198" 
+><span title="Image # 56198: 007-Flipper Score Counter - Yellow Player 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 56198: 007-Flipper Score Counter - Yellow Player 
+(Serial number 3305.)"><br>Score Counter - Yellow Player*</span></a><br><font size="-2">1200x1983</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56199" 
+><span title="Image # 56199: 007-Flipper Score Illumination 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56199: 007-Flipper Score Illumination 
+(The flippers are not original to this game. Serial number 3305.)"><br>Score Illumination*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56200" 
+><span title="Image # 56200: 007-Flipper Game Name - Green Player 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 56200: 007-Flipper Game Name - Green Player 
+(Serial number 3305.)"><br>Game Name - Green Player*</span></a><br><font size="-2">1200x2034</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56201" 
+><span title="Image # 56201: 007-Flipper Name Illumination 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56201: 007-Flipper Name Illumination 
+(The flippers are not original to this game. Serial number 3305.)"><br>Name Illumination*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56202" 
+><span title="Image # 56202: 007-Flipper Score Counter - Green Player 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 56202: 007-Flipper Score Counter - Green Player 
+(Serial number 3305.)"><br>Score Counter - Green Player*</span></a><br><font size="-2">1200x2217</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56203" 
+><span title="Image # 56203: 007-Flipper Playfield - Detail 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56203: 007-Flipper Playfield - Detail 
+(The flippers are not original to this game. Serial number 3305.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56204" 
+><span title="Image # 56204: 007-Flipper Playfield - Detail 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56204: 007-Flipper Playfield - Detail 
+(The flippers are not original to this game. Serial number 3305.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56205" 
+><span title="Image # 56205: 007-Flipper Playfield - Detail 
+(This is one of two ball serve channels. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56205: 007-Flipper Playfield - Detail 
+(This is one of two ball serve channels. Serial number 3305.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56206" 
+><span title="Image # 56206: 007-Flipper Ball 
+(The ball weighs 10g and has a diameter of 2.48 cm. From the game with serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 56206: 007-Flipper Ball 
+(The ball weighs 10g and has a diameter of 2.48 cm. From the game with serial number 3305.)"><br>Ball*</span></a><br><font size="-2">498x330</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56207" 
+><span title="Image # 56207: 007-Flipper Top Glass 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 56207: 007-Flipper Top Glass 
+(Serial number 3305.)"><br>Top Glass*</span></a><br><font size="-2">1200x2074</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56208" 
+><span title="Image # 56208: 007-Flipper Illuminated Instruction Card 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56208: 007-Flipper Illuminated Instruction Card 
+(The flippers are not original to this game. Serial number 3305.)"><br>Illuminated Instruction Card*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56209" 
+><span title="Image # 56209: 007-Flipper Cabinet - Coin Side 
+(The flippers are not original to this game. The red playfield posts may not be original. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 56209: 007-Flipper Cabinet - Coin Side 
+(The flippers are not original to this game. The red playfield posts may not be original. Serial number 3305.)"><br>Cabinet - Coin Side*</span></a><br><font size="-2">1200x1221</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56210" 
+><span title="Image # 56210: 007-Flipper Cabinet - Coin Side 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 56210: 007-Flipper Cabinet - Coin Side 
+(Serial number 3305.)"><br>Cabinet - Coin Side*</span></a><br><font size="-2">1200x1698</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56211" 
+><span title="Image # 56211: 007-Flipper Cabinet - Hinge Side 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 56211: 007-Flipper Cabinet - Hinge Side 
+(Serial number 3305.)"><br>Cabinet - Hinge Side*</span></a><br><font size="-2">1200x1757</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56212" 
+><span title="Image # 56212: 007-Flipper Cabinet - Side 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 56212: 007-Flipper Cabinet - Side 
+(Serial number 3305.)"><br>Cabinet - Side*</span></a><br><font size="-2">1200x1018</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56213" 
+><span title="Image # 56213: 007-Flipper Cabinet - Side 
+(The access door is evident. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 56213: 007-Flipper Cabinet - Side 
+(The access door is evident. Serial number 3305.)"><br>Cabinet - Side*</span></a><br><font size="-2">1200x908</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56214" 
+><span title="Image # 56214: 007-Flipper Service Access 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 56214: 007-Flipper Service Access 
+(Serial number 3305.)"><br>Service Access*</span></a><br><font size="-2">1200x1447</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56215" 
+><span title="Image # 56215: 007-Flipper Service Access 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 56215: 007-Flipper Service Access 
+(Serial number 3305.)"><br>Service Access*</span></a><br><font size="-2">1200x2452</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56216" 
+><span title="Image # 56216: 007-Flipper Service Access 
+(The flippers are not original to this game. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 56216: 007-Flipper Service Access 
+(The flippers are not original to this game. Serial number 3305.)"><br>Service Access*</span></a><br><font size="-2">1200x1992</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56217" 
+><span title="Image # 56217: 007-Flipper Coin Entry 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56217: 007-Flipper Coin Entry 
+(Serial number 3305.)"><br>Coin Entry*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56218" 
+><span title="Image # 56218: 007-Flipper Player Control - Coin Side 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56218: 007-Flipper Player Control - Coin Side 
+(Serial number 3305.)"><br>Player Control - Coin Side*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56219" 
+><span title="Image # 56219: 007-Flipper Player Control - Hinge Side 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56219: 007-Flipper Player Control - Hinge Side 
+(Serial number 3305.)"><br>Player Control - Hinge Side*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56220" 
+><span title="Image # 56220: 007-Flipper Manufacturer Name 
+(Located on the side access door. Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56220: 007-Flipper Manufacturer Name 
+(Located on the side access door. Serial number 3305.)"><br>Manufacturer Name*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56222" 
+><span title="Image # 56222: 007-Flipper Cabinet - Access Door 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56222: 007-Flipper Cabinet - Access Door 
+(Serial number 3305.)"><br>Cabinet - Access Door*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56223" 
+><span title="Image # 56223: 007-Flipper Inside Cabinet 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56223: 007-Flipper Inside Cabinet 
+(Serial number 3305.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56224" 
+><span title="Image # 56224: 007-Flipper Inside Cabinet 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56224: 007-Flipper Inside Cabinet 
+(Serial number 3305.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56225" 
+><span title="Image # 56225: 007-Flipper Inside Cabinet - Detail 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56225: 007-Flipper Inside Cabinet - Detail 
+(Serial number 3305.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56226" 
+><span title="Image # 56226: 007-Flipper Inside Cabinet - Detail 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56226: 007-Flipper Inside Cabinet - Detail 
+(Serial number 3305.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56227" 
+><span title="Image # 56227: 007-Flipper Inside Cabinet - Detail 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56227: 007-Flipper Inside Cabinet - Detail 
+(Serial number 3305.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56228" 
+><span title="Image # 56228: 007-Flipper Access Door Notice 
+(Approximate translation:During any handling inside of the device: Remove the mains plug!From game serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56228: 007-Flipper Access Door Notice 
+(Approximate translation:During any handling inside of the device: Remove the mains plug!From game serial number 3305.)"><br>Access Door Notice*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56229" 
+><span title="Image # 56229: 007-Flipper Coin Switch 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56229: 007-Flipper Coin Switch 
+(Serial number 3305.)"><br>Coin Switch*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56230" 
+><span title="Image # 56230: 007-Flipper Under Playfield 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56230: 007-Flipper Under Playfield 
+(Serial number 3305.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56231" 
+><span title="Image # 56231: 007-Flipper Ball Lift Mechanism 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56231: 007-Flipper Ball Lift Mechanism 
+(Serial number 3305.)"><br>Ball Lift Mechanism*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56232" 
+><span title="Image # 56232: 007-Flipper Ball Lift Mechanism 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56232: 007-Flipper Ball Lift Mechanism 
+(Serial number 3305.)"><br>Ball Lift Mechanism*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56233" 
+><span title="Image # 56233: 007-Flipper Goalie Mechanism 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56233: 007-Flipper Goalie Mechanism 
+(Serial number 3305.)"><br>Goalie Mechanism*</span></a><br><font size="-2">1200x900</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56234" 
+><span title="Image # 56234: 007-Flipper Goalie Mechanism 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56234: 007-Flipper Goalie Mechanism 
+(Serial number 3305.)"><br>Goalie Mechanism*</span></a><br><font size="-2">1200x1600</font><br>[Matthias Flügge]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5443&amp;picno=56332" 
+><span title="Image # 56332: 007-Flipper Manufacturer Plate 
+(Serial number 3305.)"><img src="https://www.ipdb.org/images/5443/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 56332: 007-Flipper Manufacturer Plate 
+(Serial number 3305.)"><br>Manufacturer Plate*</span></a><br><font size="-2">1200x700</font><br>[Matthias Flügge]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+flyer&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

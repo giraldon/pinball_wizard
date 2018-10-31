@@ -1,0 +1,321 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Flip Flop'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Flip Flop Flippers (4), Pop bumpers (2), Slingshots (2), Mini-rollover buttons (8), Standup targets (4), Flip flags (4), Kick-out holes (2). Bounce-back outlanes allow the player to nudge a draining ball back into play.
+
+Maximum displayed point score is 199,990 points per player.
+
+Replay wheel maximum: 25  Dick White Jim Patla ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Flip Flop' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Flip Flop</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="889">Flip Flop</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=889">889</a> <I>/ January, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=889" target="showrate889"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=889" target="showrate889">25 ratings/22 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=889" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>November 13, 1974</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1031</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,350 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=889">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Western</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Mini-rollover buttons (8), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Flip_Flag">Flip&nbsp;flags</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2). Bounce-back <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlanes</a> allow the player to <a target="glossary" class="glossarylink" href="/glossary.php#Nudge">nudge</a> a draining ball back into play.<br><br>Maximum displayed point score is 199,990 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 25<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Patla' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Patla">Jim&nbsp;Patla</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dick&nbsp;White' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dick%20White">Dick&nbsp;White</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Pictured here is are two Early Production games as seen in the manufacturer's flyer, with green <a target="glossary" class="glossarylink" href="/glossary.php#Flip_Flag">flip&nbsp;flags</a> instead of red ones, the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> wood side rails are yellow instead of red, the upper ball arch is yellow metal instead of red plastic, and the <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumpers</a> are white instead of red. One has a yellow-and-black <a target="glossary" class="glossarylink" href="/glossary.php#Card_Holder">card&nbsp;holder</a> and the other has a red one. Although the flyer game has a blue Double Bonus <a target="glossary" class="glossarylink" href="/glossary.php#Insert">Insert</a>, these Early Production games have a red <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a>. The owner of one of the games told us this red <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> later broke so he replaced it with a blue one to mat<ignore>ch the color in the flyer. On production games, this <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> is green.<br><br>One unusual example of this game is shown here and has green <a target="glossary" class="glossarylink" href="/glossary.php#Flip_Flag">flip&nbsp;flags</a>. It had white <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumpers</a> until they were replaced with yellow ones by the owner. Unlike the flyer game, the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> is factory-mounted upside down (flip-flopped?) onto the main <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. There is no serial number stamped anywhere on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> or <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. Inside the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> is a paper tag with number 6527. If that is the serial number, then it exceeds the number of games in the Production Run, as the last number in the run is expected to be 6350. However, to label this game as Later Production based on the paper tag seems incongruous with the green flags and white <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumpers</a> expected of Early Production games. J.P. Poelzer, a collector in Seattle, tells us that the Seattle Center was a test location for Bally back in the 1970s as he personally saw many Bally games put out for test play before they were actually released. Until we have more information, the fact that he obtained this unusual game from that location and that it has no serial number causes us to identify his game as a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a>.<br><br>For another game with green <a target="glossary" class="glossarylink" href="/glossary.php#Flip_Flag">flip&nbsp;flags</a> and inverted <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, see the low-production <span title="Click here to open a new window and display Bally's 1975 'Slap Stick'"><a target="game2207" href="machine.cgi?id=2207">Bally's 1975 'Slap Stick'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 116<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 84<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764321099/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764321099&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Snapshots</a>, page 36<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/889">http://www.pinballowners.com/owners/889</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 9 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/889/Bally_1976_Flip_Flop_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Bally Mfg Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 580 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/889/Flip_Flop.pdf" onClick="return purchasemanual();">Playfield Chart from 1976 Parts Catalog</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/889/Bally_1976_Flip_Flop_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=850" 
+><span title="Image # 850: Flip Flop Playfield "><img src="https://www.ipdb.org/images/889/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 850: Flip Flop Playfield "><br>Playfield</span></a><br><font size="-2">384x526</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=851" 
+><span title="Image # 851: Flip Flop Machine "><img src="https://www.ipdb.org/images/889/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 851: Flip Flop Machine "><br>Machine</span></a><br><font size="-2">537x893</font><br>[Daina Petit]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=852" 
+><span title="Image # 852: Flip Flop Backglass "><img src="https://www.ipdb.org/images/889/tn_Backglass2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 852: Flip Flop Backglass "><br>Backglass</span></a><br><font size="-2">576x548</font><br>[Daina Petit]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=853" 
+><span title="Image # 853: Flip Flop Backglass "><img src="https://www.ipdb.org/images/889/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 853: Flip Flop Backglass "><br>Backglass</span></a><br><font size="-2">407x424</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=4023" 
+><span title="Image # 4023: Flip Flop Flyer, Front "><img src="https://www.ipdb.org/images/889/tn_889f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 4023: Flip Flop Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">849x1119</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=4024" 
+><span title="Image # 4024: Flip Flop Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><img src="https://www.ipdb.org/images/889/tn_889f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 4024: Flip Flop Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><br>Flyer, Back*</span></a><br><font size="-2">900x749</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=10200" 
+><span title="Image # 10200: Flip Flop Upper Playfield "><img src="https://www.ipdb.org/images/889/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 10200: Flip Flop Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x533</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=10201" 
+><span title="Image # 10201: Flip Flop Lower Playfield "><img src="https://www.ipdb.org/images/889/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 10201: Flip Flop Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x533</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=10202" 
+><span title="Image # 10202: Flip Flop Cabinet - Left "><img src="https://www.ipdb.org/images/889/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 10202: Flip Flop Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x629</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=10203" 
+><span title="Image # 10203: Flip Flop Cabinet - Right "><img src="https://www.ipdb.org/images/889/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 10203: Flip Flop Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">732x529</font><br>[Michael Tokarski]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=10204" 
+><span title="Image # 10204: Flip Flop Ball View "><img src="https://www.ipdb.org/images/889/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 10204: Flip Flop Ball View "><br>Ball View</span></a><br><font size="-2">800x533</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=25700" 
+><span title="Image # 25700: Flip Flop Backglass - Reverse "><img src="https://www.ipdb.org/images/889/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 25700: Flip Flop Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">513x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40132" 
+><span title="Image # 40132: Flip Flop Illuminated Backglass "><img src="https://www.ipdb.org/images/889/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 40132: Flip Flop Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">772x638</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40133" 
+><span title="Image # 40133: Flip Flop Upper Playfield "><img src="https://www.ipdb.org/images/889/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40133: Flip Flop Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x683</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40134" 
+><span title="Image # 40134: Flip Flop Middle Playfield "><img src="https://www.ipdb.org/images/889/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40134: Flip Flop Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x683</font><br>[Matt Mizeur]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40135" 
+><span title="Image # 40135: Flip Flop Lower Playfield "><img src="https://www.ipdb.org/images/889/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40135: Flip Flop Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x683</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40136" 
+><span title="Image # 40136: Flip Flop Cabinet Left "><img src="https://www.ipdb.org/images/889/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40136: Flip Flop Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">1024x683</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40137" 
+><span title="Image # 40137: Flip Flop Cabinet Right "><img src="https://www.ipdb.org/images/889/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 40137: Flip Flop Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">1024x683</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40138" 
+><span title="Image # 40138: Flip Flop Backbox Left "><img src="https://www.ipdb.org/images/889/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 40138: Flip Flop Backbox Left "><br>Backbox Left</span></a><br><font size="-2">1024x1536</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40139" 
+><span title="Image # 40139: Flip Flop Backbox Right "><img src="https://www.ipdb.org/images/889/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 40139: Flip Flop Backbox Right "><br>Backbox Right</span></a><br><font size="-2">1024x1536</font><br>[Matt Mizeur]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=40140" 
+><span title="Image # 40140: Flip Flop Cabinet - Front "><img src="https://www.ipdb.org/images/889/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 40140: Flip Flop Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">736x684</font><br>[Matt Mizeur]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45688" 
+><span title="Image # 45688: Flip Flop Prototype Game - Illuminated Backglass "><img src="https://www.ipdb.org/images/889/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 45688: Flip Flop Prototype Game - Illuminated Backglass "><br>Prototype Game - Illuminated Backglass</span></a><br><font size="-2">922x884</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45689" 
+><span title="Image # 45689: Flip Flop Prototype Game - Illuminated Playfield 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><img src="https://www.ipdb.org/images/889/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 45689: Flip Flop Prototype Game - Illuminated Playfield 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><br>Prototype Game - Illuminated Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45690" 
+><span title="Image # 45690: Flip Flop Prototype Game - Flip Flags Up 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><img src="https://www.ipdb.org/images/889/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45690: Flip Flop Prototype Game - Flip Flags Up 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><br>Prototype Game - Flip Flags Up*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45691" 
+><span title="Image # 45691: Flip Flop Prototype Game - Flip Flags Down 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><img src="https://www.ipdb.org/images/889/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45691: Flip Flop Prototype Game - Flip Flags Down 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><br>Prototype Game - Flip Flags Down*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45692" 
+><span title="Image # 45692: Flip Flop Prototype Game - Inverted Backbox 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><img src="https://www.ipdb.org/images/889/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 45692: Flip Flop Prototype Game - Inverted Backbox 
+(The mushroom bumpers were originally white but were replaced with yellow ones by a collector.)"><br>Prototype Game - Inverted Backbox*</span></a><br><font size="-2">882x896</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45693" 
+><span title="Image # 45693: Flip Flop Prototype Game - Inside Backbox "><img src="https://www.ipdb.org/images/889/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 45693: Flip Flop Prototype Game - Inside Backbox "><br>Prototype Game - Inside Backbox</span></a><br><font size="-2">1042x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=45694" 
+><span title="Image # 45694: Flip Flop Prototype Game - Inside Backbox - Detail "><img src="https://www.ipdb.org/images/889/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45694: Flip Flop Prototype Game - Inside Backbox - Detail "><br>Prototype Game - Inside Backbox - Detail</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65308" 
+><span title="Image # 65308: Flip Flop Early Production Backglass 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65308: Flip Flop Early Production Backglass 
+(Serial number 1016.)"><br>Early Production Backglass*</span></a><br><font size="-2">1200x1191</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65309" 
+><span title="Image # 65309: Flip Flop Early Production Playfield 
+(The ribbed blue double bonus insert is not original to this game. The original one was red and was not ribbed. Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 65309: Flip Flop Early Production Playfield 
+(The ribbed blue double bonus insert is not original to this game. The original one was red and was not ribbed. Serial number 1016.)"><br>Early Production Playfield*</span></a><br><font size="-2">1200x852</font><br>[Marcus Blöß]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65310" 
+><span title="Image # 65310: Flip Flop Early Production Upper Playfield 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65310: Flip Flop Early Production Upper Playfield 
+(Serial number 1016.)"><br>Early Production Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65311" 
+><span title="Image # 65311: Flip Flop Early Production Lower Playfield 
+(The ribbed blue double bonus insert is not original to this game. The original one was red and was not ribbed. Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65311: Flip Flop Early Production Lower Playfield 
+(The ribbed blue double bonus insert is not original to this game. The original one was red and was not ribbed. Serial number 1016.)"><br>Early Production Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65312" 
+><span title="Image # 65312: Flip Flop Early Production - Red Double Bonus Insert 
+(The red insert came with the game. Later, it broke and was replaced with a ribbed blue insert as seen in other pictures. Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65312: Flip Flop Early Production - Red Double Bonus Insert 
+(The red insert came with the game. Later, it broke and was replaced with a ribbed blue insert as seen in other pictures. Serial number 1016.)"><br>Early Production - Red Double Bonus Insert*</span></a><br><font size="-2">1000x750</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65313" 
+><span title="Image # 65313: Flip Flop Early Production Backbox - Right 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 65313: Flip Flop Early Production Backbox - Right 
+(Serial number 1016.)"><br>Early Production Backbox - Right*</span></a><br><font size="-2">1200x2038</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65314" 
+><span title="Image # 65314: Flip Flop Early Production Cabinet - Right 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 65314: Flip Flop Early Production Cabinet - Right 
+(Serial number 1016.)"><br>Early Production Cabinet - Right*</span></a><br><font size="-2">1200x920</font><br>[Marcus Blöß]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65315" 
+><span title="Image # 65315: Flip Flop Early Production Cabinet - Right 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 65315: Flip Flop Early Production Cabinet - Right 
+(Serial number 1016.)"><br>Early Production Cabinet - Right*</span></a><br><font size="-2">1200x1028</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65316" 
+><span title="Image # 65316: Flip Flop Early Production Cabinet - Front 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 65316: Flip Flop Early Production Cabinet - Front 
+(Serial number 1016.)"><br>Early Production Cabinet - Front*</span></a><br><font size="-2">1200x1119</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65317" 
+><span title="Image # 65317: Flip Flop Early Production Cabinet - Front View 
+(The ribbed blue double bonus insert is not original to this game. The original one was red and was not ribbed. Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 65317: Flip Flop Early Production Cabinet - Front View 
+(The ribbed blue double bonus insert is not original to this game. The original one was red and was not ribbed. Serial number 1016.)"><br>Early Production Cabinet - Front View*</span></a><br><font size="-2">1200x2175</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65318" 
+><span title="Image # 65318: Flip Flop Early Production Backbox - Serial Number 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 65318: Flip Flop Early Production Backbox - Serial Number 
+(Serial number 1016.)"><br>Early Production Backbox - Serial Number*</span></a><br><font size="-2">1200x837</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65319" 
+><span title="Image # 65319: Flip Flop Early Production Cabinet - Serial Number 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 65319: Flip Flop Early Production Cabinet - Serial Number 
+(Serial number 1016.)"><br>Early Production Cabinet - Serial Number*</span></a><br><font size="-2">1200x800</font><br>[Marcus Blöß]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65320" 
+><span title="Image # 65320: Flip Flop Early Production Inside Cabinet 
+(Some wiring was not connected to the motor. Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 65320: Flip Flop Early Production Inside Cabinet 
+(Some wiring was not connected to the motor. Serial number 1016.)"><br>Early Production Inside Cabinet*</span></a><br><font size="-2">1200x1800</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65321" 
+><span title="Image # 65321: Flip Flop Early Production Inside Cabinet - Detail 
+(Some wiring was not connected to the motor. Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 65321: Flip Flop Early Production Inside Cabinet - Detail 
+(Some wiring was not connected to the motor. Serial number 1016.)"><br>Early Production Inside Cabinet - Detail*</span></a><br><font size="-2">1200x800</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65322" 
+><span title="Image # 65322: Flip Flop Early Production Inside Cabinet - Two Meters 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 65322: Flip Flop Early Production Inside Cabinet - Two Meters 
+(Serial number 1016.)"><br>Early Production Inside Cabinet - Two Meters*</span></a><br><font size="-2">1200x1800</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=65323" 
+><span title="Image # 65323: Flip Flop Early Production Inside Backbox 
+(Serial number 1016.)"><img src="https://www.ipdb.org/images/889/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 65323: Flip Flop Early Production Inside Backbox 
+(Serial number 1016.)"><br>Early Production Inside Backbox*</span></a><br><font size="-2">1200x1012</font><br>[Marcus Blöß]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66755" 
+><span title="Image # 66755: Flip Flop Flip Flags Up "><img src="https://www.ipdb.org/images/889/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 66755: Flip Flop Flip Flags Up "><br>Flip Flags Up</span></a><br><font size="-2">1200x800</font><br>[Hansjoerg Reiter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66756" 
+><span title="Image # 66756: Flip Flop Flip Flags Down "><img src="https://www.ipdb.org/images/889/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 66756: Flip Flop Flip Flags Down "><br>Flip Flags Down</span></a><br><font size="-2">1200x800</font><br>[Hansjoerg Reiter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66757" 
+><span title="Image # 66757: Flip Flop Early Production Cabinet - Front View 
+(Serial number 1098.)"><img src="https://www.ipdb.org/images/889/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 66757: Flip Flop Early Production Cabinet - Front View 
+(Serial number 1098.)"><br>Early Production Cabinet - Front View*</span></a><br><font size="-2">802x900</font><br>[Curt Gardner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66758" 
+><span title="Image # 66758: Flip Flop Early Production Playfield 
+(Serial number 1098.)"><img src="https://www.ipdb.org/images/889/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 66758: Flip Flop Early Production Playfield 
+(Serial number 1098.)"><br>Early Production Playfield*</span></a><br><font size="-2">1125x900</font><br>[Curt Gardner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66759" 
+><span title="Image # 66759: Flip Flop Early Production Upper Playfield 
+(Serial number 1098.)"><img src="https://www.ipdb.org/images/889/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 66759: Flip Flop Early Production Upper Playfield 
+(Serial number 1098.)"><br>Early Production Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Curt Gardner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66760" 
+><span title="Image # 66760: Flip Flop Early Production Backbox - Serial Number 
+(Serial number 1098.)"><img src="https://www.ipdb.org/images/889/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 66760: Flip Flop Early Production Backbox - Serial Number 
+(Serial number 1098.)"><br>Early Production Backbox - Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Curt Gardner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=889&amp;picno=66761" 
+><span title="Image # 66761: Flip Flop Early Production Cabinet - Serial Number 
+(Serial number 1098.)"><img src="https://www.ipdb.org/images/889/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 66761: Flip Flop Early Production Cabinet - Serial Number 
+(Serial number 1098.)"><br>Early Production Cabinet - Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Curt Gardner]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

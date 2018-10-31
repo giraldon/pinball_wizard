@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Data East 'Secret Service'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Data East Secret Service Flippers (3), Pop bumpers (3), Rollunder spinners (2), 5-bank drop targets (1), Kick-out hole (1), Up post between flippers. Large flash-effect box on top of backbox. Digital stereo speech and music, music and light-effects are synchronized, alphanumeric displays. A model of the Capitol building is at center playfield, and a White House model is on the left. The White House has 5 drop targets underneath it.  Kevin O'Connor Margaret Hudson Joe Kaminkow David Thiel Lonnie D. Ropp Richard Ditton Kyle Johnson David Thiel ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Data East 'Secret Service' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Secret Service</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2090">Secret Service</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2090">2090</a> <I>/ March, 1988 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2090" target="showrate2090"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2090" target="showrate2090">29 ratings/21 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2090" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Data East'"><a href="search.pl?searchtype=advanced&amp;mfgid=98">Data East Pinball, Incorporated (1986-1994)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1988</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500-5502-01</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=23">DataEast/Sega Version 2</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,741 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2090">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Police/Spy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder_Spinner">Rollunder&nbsp;spinners</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), Up post between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. Large flash-effect box on top of <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. Digital stereo speech and music, music and light-effects are synchronized, <a target="glossary" class="glossarylink" href="/glossary.php#Alphanumeric_Display">alphanumeric&nbsp;displays</a>.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>A model of the Capitol building is at center <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, and a White House model is on the left. The White House has 5 <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> underneath it.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Kaminkow' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Kaminkow">Joe&nbsp;Kaminkow</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span>, <span title="Click here to perform a search for all pinball games that 'Margaret&nbsp;Hudson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Margaret%20Hudson">Margaret&nbsp;Hudson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Thiel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Thiel">David&nbsp;Thiel</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kyle&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kyle%20Johnson">Kyle&nbsp;Johnson</a></span>, <span title="Click here to perform a search for all pinball games that 'David&nbsp;Thiel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Thiel">David&nbsp;Thiel</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Lonnie&nbsp;D.&nbsp;Ropp' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lonnie%20D.%20Ropp">Lonnie&nbsp;D.&nbsp;Ropp</a></span>, <span title="Click here to perform a search for all pinball games that 'Richard&nbsp;Ditton' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Richard%20Ditton">Richard&nbsp;Ditton</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>We previously listed the Manufacture Date as February, 1988.<br>This game was produced from March 1988 to July 1988.<br><br>David Thiel told us that an 8-hour photo session for the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> took place in Madison, Wisconsin because that state capital building looked like the one in Washington D<ignore>C. In the Mercedes car giving chase are <a target="glossary" class="glossarylink" href="/glossary.php#Data_East">Data&nbsp;East</a> personnel Richard Ditton, Elaine Hodgson, Lonnie Ropp, and Thiel.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2090">http://www.pinballowners.com/owners/2090</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 152 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2090/ssvc_a26.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 152 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2090/Data_East_1988_Secret_Service_ROMs.zip" >ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2090/Data_East_1988_Secret_Service_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Data East USA, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 29 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2090/Data_East_Secret_Service_Coin_Card_755_5002_02.pdf" >Coin Card</a></td><td> [Data East (Stern)]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 98 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2090/Data_East_Secret_Service_755_5002_01.pdf" >Instruction Card</a></td><td> [Data East (Stern)]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=3230" 
+><span title="Image # 3230: Secret Service Flyer, Front "><img src="https://www.ipdb.org/images/2090/tn_2090f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3230: Secret Service Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">588x777</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=3231" 
+><span title="Image # 3231: Secret Service Flyer, Back "><img src="https://www.ipdb.org/images/2090/tn_2090f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3231: Secret Service Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">590x776</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=11120" 
+><span title="Image # 11120: Secret Service Flyer 2, Front "><img src="https://www.ipdb.org/images/2090/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 11120: Secret Service Flyer 2, Front "><br>Flyer 2, Front</span></a><br><font size="-2">570x706</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=11121" 
+><span title="Image # 11121: Secret Service Flyer 2, Back "><img src="https://www.ipdb.org/images/2090/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 11121: Secret Service Flyer 2, Back "><br>Flyer 2, Back</span></a><br><font size="-2">570x706</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=15721" 
+><span title="Image # 15721: Secret Service Backglass "><img src="https://www.ipdb.org/images/2090/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15721: Secret Service Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=23713" 
+><span title="Image # 23713: Secret Service Cabinet - Full View "><img src="https://www.ipdb.org/images/2090/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23713: Secret Service Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">428x572</font><br>[Bernhardt]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31652" 
+><span title="Image # 31652: Secret Service Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 31652: Secret Service Playfield "><br>Playfield</span></a><br><font size="-2">397x462</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31653" 
+><span title="Image # 31653: Secret Service Upper Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 31653: Secret Service Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">368x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31654" 
+><span title="Image # 31654: Secret Service Middle Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 31654: Secret Service Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">368x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31655" 
+><span title="Image # 31655: Secret Service Lower Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 31655: Secret Service Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">371x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31656" 
+><span title="Image # 31656: Secret Service Upper Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 31656: Secret Service Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">521x345</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31657" 
+><span title="Image # 31657: Secret Service Lower Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31657: Secret Service Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31658" 
+><span title="Image # 31658: Secret Service Lower Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 31658: Secret Service Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">448x398</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31659" 
+><span title="Image # 31659: Secret Service Cabinet - Front "><img src="https://www.ipdb.org/images/2090/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 31659: Secret Service Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">400x468</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=31660" 
+><span title="Image # 31660: Secret Service Cabinet - Full View "><img src="https://www.ipdb.org/images/2090/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 31660: Secret Service Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">339x448</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=42055" 
+><span title="Image # 42055: Secret Service Playfield "><img src="https://www.ipdb.org/images/2090/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42055: Secret Service Playfield "><br>Playfield</span></a><br><font size="-2">900x1200</font><br>[Marco Albus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=61088" 
+><span title="Image # 61088: Secret Service Illuminated Backglass "><img src="https://www.ipdb.org/images/2090/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 61088: Secret Service Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x872</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=61089" 
+><span title="Image # 61089: Secret Service Playfield - Detail "><img src="https://www.ipdb.org/images/2090/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 61089: Secret Service Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1425</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=61090" 
+><span title="Image # 61090: Secret Service Playfield - Detail "><img src="https://www.ipdb.org/images/2090/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61090: Secret Service Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x905</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=61091" 
+><span title="Image # 61091: Secret Service Cabinet - Front "><img src="https://www.ipdb.org/images/2090/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 61091: Secret Service Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x849</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2090&amp;picno=61092" 
+><span title="Image # 61092: Secret Service Cabinet - Front View "><img src="https://www.ipdb.org/images/2090/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 61092: Secret Service Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">721x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

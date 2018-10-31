@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Flight 2000'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Flight 2000 Widebody 3 ball multiball where each ball is launched through 3 separate 'lift-off' stages.  This takes place at the upper left of the playfield inside a unique maze-like ball lock mechanism.  Solenoid-driven 'steppers' move the balls along until kickers knock the ball into the top arch.  Gerry Simkus Doug Watson Harry Williams Bill Pfutzenreuter ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Flight 2000' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Flight 2000</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="887">Flight 2000</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=887">887</a> <I>/ August, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=887" target="showrate887"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=887" target="showrate887">49 ratings/40 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=887" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=302">Stern Electronics, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1977-1984) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>128</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>F2K</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=34">Stern M-200 MPU</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>6,301 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=887">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>3 ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a> where each ball is launched through 3 separate "lift-off" stages.  This takes place at the upper left of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> inside a unique maze-like ball lock mechanism.  Solenoid-driven "steppers" move the balls along until <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kickers</a> knock the ball into the top arch.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Harry&nbsp;Williams' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Harry%20Williams">Harry&nbsp;Williams</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gerry&nbsp;Simkus' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gerry%20Simkus">Gerry&nbsp;Simkus</a></span>, <span title="Click here to perform a search for all pinball games that 'Doug&nbsp;Watson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Doug%20Watson">Doug&nbsp;Watson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Pfutzenreuter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Pfutzenreuter">Bill&nbsp;Pfutzenreuter</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>First talking Stern game, using the VSU-100 speech board.<br><br>There are two versions of the ball serve mechanism pictured in this listing. One game with serial number 598 shows the kicking <a target="glossary" class="glossarylink" href="/glossary.php#Solenoid">solenoid</a> mounted above the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and under the <a target="glossary" class="glossarylink" href="/glossary.php#Card_Holder">card&nbsp;holder</a>. Another game with serial number 6324 shows the <a target="glossary" class="glossarylink" href="/glossary.php#Solenoid">solenoid</a> is mounted under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. We do not yet know when in the production run this change occurred, or why.<br><br>Manufacturer data for Flight 2000:<br>Production Start Date: 8/15/80<br>Production End Date: 12/12/80<br>Quantity produced: 6301<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Stern's first talking Pinball Game is Really Taking Off!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 17 and 104<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 152, 154-155<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/887">http://www.pinballowners.com/owners/887</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 9 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/887/Stern_1980_Flight_2000_Game_ROMs.zip" >Game ROMs</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 9 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/887/flight2k.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/887/Stern_1980_Flight_2000_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Stern Electronics]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/887/Stern_1980_Flight_2000_Schematic_Diagram_paginated.pdf" onClick="return purchasemanual();">Schematic Diagram (paginated)</a></td><td> [Stern Electronics]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 300 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/887/Stern_vsu_100.pdf" onClick="return purchasemanual();">VSU-100  Voice Synthesizer Module Schematic</a></td><td> [Stern Electronics]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=3671" 
+><span title="Image # 3671: Flight 2000 Flyer, Front "><img src="https://www.ipdb.org/images/887/tn_887f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3671: Flight 2000 Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">599x780</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=3672" 
+><span title="Image # 3672: Flight 2000 Flyer, Back "><img src="https://www.ipdb.org/images/887/tn_887f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 3672: Flight 2000 Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">609x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=6695" 
+><span title="Image # 6695: Flight 2000 Backglass "><img src="https://www.ipdb.org/images/887/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 6695: Flight 2000 Backglass "><br>Backglass</span></a><br><font size="-2">700x621</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=6696" 
+><span title="Image # 6696: Flight 2000 Playfield "><img src="https://www.ipdb.org/images/887/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 6696: Flight 2000 Playfield "><br>Playfield</span></a><br><font size="-2">600x804</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=6697" 
+><span title="Image # 6697: Flight 2000 Inside Backbox "><img src="https://www.ipdb.org/images/887/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6697: Flight 2000 Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">700x528</font><br>[John Kirby]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15826" 
+><span title="Image # 15826: Flight 2000 Stripped Lower Playfield "><img src="https://www.ipdb.org/images/887/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15826: Flight 2000 Stripped Lower Playfield "><br>Stripped Lower Playfield</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15827" 
+><span title="Image # 15827: Flight 2000 Stripped Upper Playfield "><img src="https://www.ipdb.org/images/887/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15827: Flight 2000 Stripped Upper Playfield "><br>Stripped Upper Playfield</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15828" 
+><span title="Image # 15828: Flight 2000 Illuminated Front View "><img src="https://www.ipdb.org/images/887/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15828: Flight 2000 Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1000x1493</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15829" 
+><span title="Image # 15829: Flight 2000 Backglass "><img src="https://www.ipdb.org/images/887/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 15829: Flight 2000 Backglass "><br>Backglass</span></a><br><font size="-2">1000x928</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15830" 
+><span title="Image # 15830: Flight 2000 Illuminated Playfield "><img src="https://www.ipdb.org/images/887/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 15830: Flight 2000 Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1000x1531</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15831" 
+><span title="Image # 15831: Flight 2000 Playfield "><img src="https://www.ipdb.org/images/887/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 15831: Flight 2000 Playfield "><br>Playfield</span></a><br><font size="-2">1000x638</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15832" 
+><span title="Image # 15832: Flight 2000 Upper Right Playfield "><img src="https://www.ipdb.org/images/887/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15832: Flight 2000 Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15833" 
+><span title="Image # 15833: Flight 2000 Upper Left Playfield "><img src="https://www.ipdb.org/images/887/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15833: Flight 2000 Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15834" 
+><span title="Image # 15834: Flight 2000 Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/887/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 15834: Flight 2000 Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1000x764</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15835" 
+><span title="Image # 15835: Flight 2000 Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/887/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 15835: Flight 2000 Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1000x726</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15836" 
+><span title="Image # 15836: Flight 2000 Upper Left Playfield "><img src="https://www.ipdb.org/images/887/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 15836: Flight 2000 Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1000x1318</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15837" 
+><span title="Image # 15837: Flight 2000 Center Right Playfield "><img src="https://www.ipdb.org/images/887/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15837: Flight 2000 Center Right Playfield "><br>Center Right Playfield</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15838" 
+><span title="Image # 15838: Flight 2000 Flipper Area "><img src="https://www.ipdb.org/images/887/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15838: Flight 2000 Flipper Area "><br>Flipper Area</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15839" 
+><span title="Image # 15839: Flight 2000 Dual Inlanes "><img src="https://www.ipdb.org/images/887/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15839: Flight 2000 Dual Inlanes "><br>Dual Inlanes</span></a><br><font size="-2">900x1344</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15840" 
+><span title="Image # 15840: Flight 2000 Illuminated Pop Bumpers "><img src="https://www.ipdb.org/images/887/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15840: Flight 2000 Illuminated Pop Bumpers "><br>Illuminated Pop Bumpers</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15841" 
+><span title="Image # 15841: Flight 2000 Ball Lock Maze "><img src="https://www.ipdb.org/images/887/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15841: Flight 2000 Ball Lock Maze "><br>Ball Lock Maze</span></a><br><font size="-2">800x1195</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=15842" 
+><span title="Image # 15842: Flight 2000 Ball Lock Close-up "><img src="https://www.ipdb.org/images/887/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15842: Flight 2000 Ball Lock Close-up "><br>Ball Lock Close-up</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35585" 
+><span title="Image # 35585: Flight 2000 Cabinet - Right "><img src="https://www.ipdb.org/images/887/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 35585: Flight 2000 Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">679x750</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35586" 
+><span title="Image # 35586: Flight 2000 Backbox - Right "><img src="https://www.ipdb.org/images/887/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 35586: Flight 2000 Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">942x1191</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35587" 
+><span title="Image # 35587: Flight 2000 Backbox - Left "><img src="https://www.ipdb.org/images/887/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 35587: Flight 2000 Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">900x1218</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35588" 
+><span title="Image # 35588: Flight 2000 Cabinet - Left "><img src="https://www.ipdb.org/images/887/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 35588: Flight 2000 Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">755x703</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35589" 
+><span title="Image # 35589: Flight 2000 Playfield "><img src="https://www.ipdb.org/images/887/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35589: Flight 2000 Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35590" 
+><span title="Image # 35590: Flight 2000 Upper Playfield "><img src="https://www.ipdb.org/images/887/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35590: Flight 2000 Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35591" 
+><span title="Image # 35591: Flight 2000 Cabinet - Front View "><img src="https://www.ipdb.org/images/887/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 35591: Flight 2000 Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">740x1356</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35592" 
+><span title="Image # 35592: Flight 2000 Backglass "><img src="https://www.ipdb.org/images/887/tn_image-A23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35592: Flight 2000 Backglass "><br>Backglass</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35593" 
+><span title="Image # 35593: Flight 2000 Cabinet - Rear View "><img src="https://www.ipdb.org/images/887/tn_image-A24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 35593: Flight 2000 Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">918x1211</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35594" 
+><span title="Image # 35594: Flight 2000 Cabinet - Rear View "><img src="https://www.ipdb.org/images/887/tn_image-A25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35594: Flight 2000 Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">938x1253</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=35595" 
+><span title="Image # 35595: Flight 2000 Backglass "><img src="https://www.ipdb.org/images/887/tn_image-B21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 35595: Flight 2000 Backglass "><br>Backglass</span></a><br><font size="-2">820x745</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=49151" 
+><span title="Image # 49151: Flight 2000 Ball Serve Solenoid Below Playfield 
+(Serial number 6324. Playfield edge has no date.)"><img src="https://www.ipdb.org/images/887/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 49151: Flight 2000 Ball Serve Solenoid Below Playfield 
+(Serial number 6324. Playfield edge has no date.)"><br>Ball Serve Solenoid Below Playfield*</span></a><br><font size="-2">1024x576</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=49152" 
+><span title="Image # 49152: Flight 2000 Ball Serve Solenoid Below Playfield 
+(Serial number 6324. Playfield edge has no date.)"><img src="https://www.ipdb.org/images/887/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 49152: Flight 2000 Ball Serve Solenoid Below Playfield 
+(Serial number 6324. Playfield edge has no date.)"><br>Ball Serve Solenoid Below Playfield*</span></a><br><font size="-2">1024x576</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=49153" 
+><span title="Image # 49153: Flight 2000 Ball Serve Solenoid Above Playfield 
+(Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><img src="https://www.ipdb.org/images/887/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49153: Flight 2000 Ball Serve Solenoid Above Playfield 
+(Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><br>Ball Serve Solenoid Above Playfield*</span></a><br><font size="-2">1200x898</font><br>[Mike Long]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=49154" 
+><span title="Image # 49154: Flight 2000 Under Upper Playfield 
+(In this view, some hardware has been removed. Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><img src="https://www.ipdb.org/images/887/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49154: Flight 2000 Under Upper Playfield 
+(In this view, some hardware has been removed. Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><br>Under Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Mike Long]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=49155" 
+><span title="Image # 49155: Flight 2000 Under Middle Playfield 
+(In this view, some hardware has been removed. Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><img src="https://www.ipdb.org/images/887/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49155: Flight 2000 Under Middle Playfield 
+(In this view, some hardware has been removed. Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><br>Under Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>[Mike Long]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=887&amp;picno=49156" 
+><span title="Image # 49156: Flight 2000 Under Lower Playfield 
+(In this view, some hardware may have been removed. Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><img src="https://www.ipdb.org/images/887/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49156: Flight 2000 Under Lower Playfield 
+(In this view, some hardware may have been removed. Serial number 598. Edge of playfield dated 'June 12, 1980'.)"><br>Under Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Mike Long]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Pot 'O' Gold'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Pot 'O' Gold Pot-O-Gold Mechanical Backbox Animation Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (6), Rollunders (2). Bagatelle in backbox. Illuminated backglass marquee. Double match awards 2 or 5 replays (operator adjustable). Drop-down cabinet.  Jerry Kelley Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Pot 'O' Gold' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Pot 'O' Gold</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1857">Pot 'O' Gold</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1857">1857</a> <I>/ June 30, 1965 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1857" target="showrate1857"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1857" target="showrate1857">6 ratings/6 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1857" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=350">Williams Electronic Manufacturing Company (1958-1967) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June 30, 1965</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>313</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,800 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1857">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">Rollunders</a> (2). <a target="glossary" class="glossarylink" href="/glossary.php#Bagatelle">Bagatelle</a> in <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. Illuminated <a target="glossary" class="glossarylink" href="/glossary.php#Backglass_Marquee">backglass&nbsp;marquee</a>. Double <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> awards 2 or 5 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> (operator adjustable). <a target="glossary" class="glossarylink" href="/glossary.php#Drop-down_cabinet">Drop-down&nbsp;cabinet</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jerry&nbsp;Kelley' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jerry%20Kelley">Jerry&nbsp;Kelley</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0890091188/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0890091188&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Portfolio</a> pp. 36<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1857">http://www.pinballowners.com/owners/1857</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1857/Williams_1965_Pot_O_Gold_Schematic.pdf" onClick="return purchasemanual();">Schematic (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=1787" 
+><span title="Image # 1787: Pot 'O' Gold Backglass "><img src="https://www.ipdb.org/images/1857/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 1787: Pot 'O' Gold Backglass "><br>Backglass</span></a><br><font size="-2">474x440</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=4304" 
+><span title="Image # 4304: Pot 'O' Gold Flyer "><img src="https://www.ipdb.org/images/1857/tn_1857f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4304: Pot 'O' Gold Flyer "><br>Flyer</span></a><br><font size="-2">567x739</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=6851" 
+><span title="Image # 6851: Pot 'O' Gold Backglass with Marquee Plastic Removed "><img src="https://www.ipdb.org/images/1857/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 6851: Pot 'O' Gold Backglass with Marquee Plastic Removed "><br>Backglass with Marquee Plastic Removed</span></a><br><font size="-2">572x515</font><br>[Doug H.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=6853" 
+><span title="Image # 6853: Pot 'O' Gold Cabinet Side "><img src="https://www.ipdb.org/images/1857/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6853: Pot 'O' Gold Cabinet Side "><br>Cabinet Side</span></a><br><font size="-2">654x490</font><br>[Doug H.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=11685" 
+><span title="Image # 11685: Pot 'O' Gold Bagatelle - Front "><img src="https://www.ipdb.org/images/1857/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 11685: Pot 'O' Gold Bagatelle - Front "><br>Bagatelle - Front</span></a><br><font size="-2">800x533</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=11686" 
+><span title="Image # 11686: Pot 'O' Gold Bagatelle - Back "><img src="https://www.ipdb.org/images/1857/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 11686: Pot 'O' Gold Bagatelle - Back "><br>Bagatelle - Back</span></a><br><font size="-2">800x533</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=15579" 
+><span title="Image # 15579: Pot 'O' Gold Behind Backglass "><img src="https://www.ipdb.org/images/1857/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 15579: Pot 'O' Gold Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">794x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=21669" 
+><span title="Image # 21669: Pot 'O' Gold German Ad 
+(From the German operator magazine Automaten Markt, May 1966.)"><img src="https://www.ipdb.org/images/1857/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 21669: Pot 'O' Gold German Ad 
+(From the German operator magazine Automaten Markt, May 1966.)"><br>German Ad*</span></a><br><font size="-2">740x484</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=27602" 
+><span title="Image # 27602: Pot 'O' Gold Backglass "><img src="https://www.ipdb.org/images/1857/tn_image-A1115390650.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 27602: Pot 'O' Gold Backglass "><br>Backglass</span></a><br><font size="-2">954x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=27603" 
+><span title="Image # 27603: Pot 'O' Gold Playfield "><img src="https://www.ipdb.org/images/1857/tn_image-B1115390650.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 27603: Pot 'O' Gold Playfield "><br>Playfield</span></a><br><font size="-2">968x1364</font><br>[Philippe Thibault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=35212" 
+><span title="Image # 35212: Pot 'O' Gold Backglass Animation "><img src="https://www.ipdb.org/images/1857/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35212: Pot 'O' Gold Backglass Animation "><br>Backglass Animation</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=35213" 
+><span title="Image # 35213: Pot 'O' Gold Total Play Meter "><img src="https://www.ipdb.org/images/1857/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35213: Pot 'O' Gold Total Play Meter "><br>Total Play Meter</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1857&amp;picno=35214" 
+><span title="Image # 35214: Pot 'O' Gold Inside Backbox "><img src="https://www.ipdb.org/images/1857/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35214: Pot 'O' Gold Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

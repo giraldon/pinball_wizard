@@ -1,0 +1,356 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Joust'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Joust Head-to-Head Play Flippers (4), Kick-out holes (2), 3-bank drop targets (4), 2-in-line drop targets (2), Spinning targets (2). After both players have drained all balls, each has 30 seconds to play an unlimited number of balls.
+
+This is a head-to-head game where two players at opposite ends of the playfield compete in simultaneous play. Each player has flipper buttons which control only those flippers facing the opponent. Play begins by one player pressing the flipper buttons.  Constantino Mitchell Jeanine Mitchell Barry Oursler Cary Kolker ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Joust' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Joust</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1316">Joust</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1316">1316</a> <I>/ April, 1983 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">9.0 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1316" target="showrate1316">5 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1316" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1983</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>519</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=4">Williams System 7</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>402 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1316">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Head-to-Head Play&nbsp;<a href="glossary.php#Head-to-Head_Play" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (4), 2-in-line <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2). After both players have drained all balls, each has 30 seconds to play an unlimited number of balls.<br><br>This is a head-to-head game where two players at opposite ends of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> compete in simultaneous play. Each player has <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons which control only those <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> facing the opponent. Play begins by one player pressing the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Cary&nbsp;Kolker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Cary%20Kolker">Cary&nbsp;Kolker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Originally named 'Conflict'. The 'Joust' name was used for a video game released in 1981.<br><br>The game pictured in the flyer has an <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a> colored blue and red. The ends of its legs are squared off. We do not know how many games left the factory with these features, as most of the games we see have black and red <a target="glossary" class="glossarylink" href="/glossary.php#Apron">aprons</a>, with legs rounded at the ends.<br><br>Pictured in this listing is an Early Production game with serial number XP0223. It has the blue/red <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a> and squared legs.<br><br>Also included in this listing is a pictorial comparison of two games from Quebec, Canada having several production differences between them. For ease of comparison, we have arbitrarily assigned them as Game 'A' and Game 'B' without trying to suggest which game was made first.  Game play is slightly different from each other: Just before the last 30-second unlimited ball <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a> starts, one game has all lights go out (including GI's), while the other game has only the <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> lights going out for about 5 seconds before the unlimited ball <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a> starts.<br><br>We have labeled the images that accompany this list to correspond with each item listed.<br><br>Game 'A' has blue/red <a target="glossary" class="glossarylink" href="/glossary.php#Apron">aprons</a> with squared leg ends. Serial number 625510.<br>1a) Certain <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> are clear and faceted.<br>2a) The metal <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post">mini-post</a> next to the <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a> has a different size of screw thread and does not fit Game 'B'.<br>3a) Egg <a target="glossary" class="glossarylink" href="/glossary.php#Multiplier">Multiplier</a> uses four plastic posts.<br>4a) Lock-down hasps have wide handles.<br>5a) Three fuses inside front door.<br>6a) Sound board has unused connector pins.<br>7a) Power supply board has a fourth fuse.<br>8a) Screw <a target="glossary" class="glossarylink" href="/glossary.php#Head">heads</a> are visible on the wood-grain area of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>.<br>9a) The square bar under the <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> attaches to notches cut into the inside wall of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. The outside wall of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> is undisturbed.<br><br>Game 'B' has blue/red <a target="glossary" class="glossarylink" href="/glossary.php#Apron">aprons</a> with rounded leg ends. Serial number 623689.<br>1b) Certain <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> are <a target="glossary" class="glossarylink" href="/glossary.php#Opaque">opaque</a> and not faceted.<br>2b) The metal <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post">mini-post</a> next to the <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a> has a different size of screw thread and does not fit Game 'A'. (image not shown)<br>3b) Egg <a target="glossary" class="glossarylink" href="/glossary.php#Multiplier">Multiplier</a> uses three plastic posts and one metal one.<br>4b) Lock-down hasps have narrow handles.<br>5b) No fuses inside front door.<br>6b) Sound board does not have unused connector pins.<br>7b) Power supply board has a soldered wire, instead of a fourth fuse, that seems factory-original.<br>8b) Screw <a target="glossary" class="glossarylink" href="/glossary.php#Head">heads</a> are visible on the inside of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, not on the outside.<br>9b) The square bar under the <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> attaches to notches cut into the inside wall of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. However, the picture shows the notches were originally cut completely through the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> wall then pieces of the cut-out <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> were glued back in place to be flush with the outside <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> wall. Almost as if they goofed and never meant to cut completely through the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. This suggests experimentation.<br><P><br>There was suggestion that two production runs of Joust had occurred and with the same number of games produced in each run. We asked <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> Barry Oursler about that. He replies:<P style="padding-left:30px;"><I>There was NEVER a second Joust game. There would have been another Joust-type game if it had sold well enough. But as you know, nothing sold well between 1983-1985. We may have made some rule changes to the game after it was on test for a while, but I don’t recall any  physical changes, other that the colors, like you mentioned.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cash Box, Jul-2-1983, part 3 page 3<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 129<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.jameswest.com/pinball/ownerslists/ownerslist.php?joust">http://www.jameswest.com/pinball/ownerslists/ownerslist.php?joust</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 60 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1316/Williams_1983_Joust_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td> [Williams Electronics]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 57 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1316/jst_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1316/Williams_1983_Joust_Instruction_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 71 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1316/Williams_1983_Joust_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=1245" 
+><span title="Image # 1245: Joust Overall view "><img src="https://www.ipdb.org/images/1316/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 1245: Joust Overall view "><br>Overall view</span></a><br><font size="-2">521x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=3713" 
+><span title="Image # 3713: Joust Flyer, Front and Back "><img src="https://www.ipdb.org/images/1316/tn_joustfrontback.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 3713: Joust Flyer, Front and Back "><br>Flyer, Front and Back</span></a><br><font size="-2">758x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=3714" 
+><span title="Image # 3714: Joust Flyer, Inside "><img src="https://www.ipdb.org/images/1316/tn_joustinside.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 3714: Joust Flyer, Inside "><br>Flyer, Inside</span></a><br><font size="-2">760x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=4514" 
+><span title="Image # 4514: Joust Flyer, Front "><img src="https://www.ipdb.org/images/1316/tn_1316f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4514: Joust Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=4515" 
+><span title="Image # 4515: Joust Flyer, Page 2 "><img src="https://www.ipdb.org/images/1316/tn_1316f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4515: Joust Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=4516" 
+><span title="Image # 4516: Joust Flyer, Page 3 "><img src="https://www.ipdb.org/images/1316/tn_1316f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4516: Joust Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=4517" 
+><span title="Image # 4517: Joust Flyer, Back "><img src="https://www.ipdb.org/images/1316/tn_1316f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4517: Joust Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=14039" 
+><span title="Image # 14039: Joust Playfield - Player 1 "><img src="https://www.ipdb.org/images/1316/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14039: Joust Playfield - Player 1 "><br>Playfield - Player 1</span></a><br><font size="-2">800x535</font><br>[Chauvin Family]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=14040" 
+><span title="Image # 14040: Joust Playfield - Player 2 "><img src="https://www.ipdb.org/images/1316/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14040: Joust Playfield - Player 2 "><br>Playfield - Player 2</span></a><br><font size="-2">800x535</font><br>[Chauvin Family]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=14041" 
+><span title="Image # 14041: Joust Cabinet "><img src="https://www.ipdb.org/images/1316/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14041: Joust Cabinet "><br>Cabinet</span></a><br><font size="-2">800x535</font><br>[Chauvin Family]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=14042" 
+><span title="Image # 14042: Joust Cabinet "><img src="https://www.ipdb.org/images/1316/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14042: Joust Cabinet "><br>Cabinet</span></a><br><font size="-2">800x535</font><br>[Chauvin Family]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=14043" 
+><span title="Image # 14043: Joust Full View "><img src="https://www.ipdb.org/images/1316/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14043: Joust Full View "><br>Full View</span></a><br><font size="-2">800x535</font><br>[Chauvin Family]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=34387" 
+><span title="Image # 34387: Joust Playfield 
+(This is a regular production game.)"><img src="https://www.ipdb.org/images/1316/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 34387: Joust Playfield 
+(This is a regular production game.)"><br>Playfield*</span></a><br><font size="-2">1024x1076</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=34388" 
+><span title="Image # 34388: Joust Playfield - Player 1 
+(This is a regular production game.)"><img src="https://www.ipdb.org/images/1316/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 34388: Joust Playfield - Player 1 
+(This is a regular production game.)"><br>Playfield - Player 1*</span></a><br><font size="-2">1024x599</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=34389" 
+><span title="Image # 34389: Joust Playfield - Player 1 
+(This is a regular production game.)"><img src="https://www.ipdb.org/images/1316/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 34389: Joust Playfield - Player 1 
+(This is a regular production game.)"><br>Playfield - Player 1*</span></a><br><font size="-2">1024x556</font><br>[Vincent Giovannone]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58574" 
+><span title="Image # 58574: Joust Lockdown Bar Removed 
+(The three lockdown bar locking latches are visible.)"><img src="https://www.ipdb.org/images/1316/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 58574: Joust Lockdown Bar Removed 
+(The three lockdown bar locking latches are visible.)"><br>Lockdown Bar Removed*</span></a><br><font size="-2">1200x800</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58575" 
+><span title="Image # 58575: Joust Playfield Support Bar "><img src="https://www.ipdb.org/images/1316/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 58575: Joust Playfield Support Bar "><br>Playfield Support Bar</span></a><br><font size="-2">1200x1800</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58576" 
+><span title="Image # 58576: Joust Inside Player 1 Door Panel "><img src="https://www.ipdb.org/images/1316/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 58576: Joust Inside Player 1 Door Panel "><br>Inside Player 1 Door Panel</span></a><br><font size="-2">1067x1200</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58577" 
+><span title="Image # 58577: Joust Inside Player 2 Door Panel "><img src="https://www.ipdb.org/images/1316/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 58577: Joust Inside Player 2 Door Panel "><br>Inside Player 2 Door Panel</span></a><br><font size="-2">1200x788</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58578" 
+><span title="Image # 58578: Joust Inside Cabinet 
+(The support bar is in its stored position.)"><img src="https://www.ipdb.org/images/1316/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 58578: Joust Inside Cabinet 
+(The support bar is in its stored position.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1800</font><br>[Chris Hibler]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58579" 
+><span title="Image # 58579: Joust Transformer Board 
+(Viewed through the open Player 1 door.)"><img src="https://www.ipdb.org/images/1316/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 58579: Joust Transformer Board 
+(Viewed through the open Player 1 door.)"><br>Transformer Board*</span></a><br><font size="-2">1200x800</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=58580" 
+><span title="Image # 58580: Joust Transformer Board 
+(Viewed through the open Player 2 door.)"><img src="https://www.ipdb.org/images/1316/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 58580: Joust Transformer Board 
+(Viewed through the open Player 2 door.)"><br>Transformer Board*</span></a><br><font size="-2">1200x800</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60990" 
+><span title="Image # 60990: Joust Early Production - Player 1 Playfield 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 60990: Joust Early Production - Player 1 Playfield 
+(Serial number XP0223.)"><br>Early Production - Player 1 Playfield*</span></a><br><font size="-2">886x1101</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60991" 
+><span title="Image # 60991: Joust Early Production - Player 2 Playfield 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 60991: Joust Early Production - Player 2 Playfield 
+(Serial number XP0223.)"><br>Early Production - Player 2 Playfield*</span></a><br><font size="-2">901x1126</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60992" 
+><span title="Image # 60992: Joust Early Production - Player 1 Apron 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60992: Joust Early Production - Player 1 Apron 
+(Serial number XP0223.)"><br>Early Production - Player 1 Apron*</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60993" 
+><span title="Image # 60993: Joust Early Production - Player 2 Apron 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60993: Joust Early Production - Player 2 Apron 
+(Serial number XP0223.)"><br>Early Production - Player 2 Apron*</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60994" 
+><span title="Image # 60994: Joust Early Production - Jewel Inserts 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60994: Joust Early Production - Jewel Inserts 
+(Serial number XP0223.)"><br>Early Production - Jewel Inserts*</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60995" 
+><span title="Image # 60995: Joust Early Production - Jewel Inserts 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60995: Joust Early Production - Jewel Inserts 
+(Serial number XP0223.)"><br>Early Production - Jewel Inserts*</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60996" 
+><span title="Image # 60996: Joust Early Production - Jewel Inserts 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60996: Joust Early Production - Jewel Inserts 
+(Serial number XP0223.)"><br>Early Production - Jewel Inserts*</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60997" 
+><span title="Image # 60997: Joust Early Production - Spinner 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60997: Joust Early Production - Spinner 
+(Serial number XP0223.)"><br>Early Production - Spinner*</span></a><br><font size="-2">1200x900</font><br>[Steve Charland]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60998" 
+><span title="Image # 60998: Joust Early Production Cabinet - Full View 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 60998: Joust Early Production Cabinet - Full View 
+(Serial number XP0223.)"><br>Early Production Cabinet - Full View*</span></a><br><font size="-2">1005x834</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=60999" 
+><span title="Image # 60999: Joust Early Production Cabinet - Coin Door 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60999: Joust Early Production Cabinet - Coin Door 
+(Serial number XP0223.)"><br>Early Production Cabinet - Coin Door*</span></a><br><font size="-2">960x1280</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61000" 
+><span title="Image # 61000: Joust Early Production Cabinet - End Art 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 61000: Joust Early Production Cabinet - End Art 
+(Serial number XP0223.)"><br>Early Production Cabinet - End Art*</span></a><br><font size="-2">1200x785</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61001" 
+><span title="Image # 61001: Joust Early Production Cabinet - Squared Leg 
+(Serial number XP0223.)"><img src="https://www.ipdb.org/images/1316/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 61001: Joust Early Production Cabinet - Squared Leg 
+(Serial number XP0223.)"><br>Early Production Cabinet - Squared Leg*</span></a><br><font size="-2">984x816</font><br>[Steve Charland]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61002" 
+><span title="Image # 61002: Joust Comparison 1a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61002: Joust Comparison 1a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 1a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61003" 
+><span title="Image # 61003: Joust Comparison 1b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61003: Joust Comparison 1b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 1b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61004" 
+><span title="Image # 61004: Joust Comparison 2a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-A18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61004: Joust Comparison 2a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 2a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61005" 
+><span title="Image # 61005: Joust Comparison 3a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61005: Joust Comparison 3a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 3a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61006" 
+><span title="Image # 61006: Joust Comparison 3b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61006: Joust Comparison 3b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 3b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61007" 
+><span title="Image # 61007: Joust Comparison 4a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61007: Joust Comparison 4a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 4a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61008" 
+><span title="Image # 61008: Joust Comparison 4b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61008: Joust Comparison 4b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 4b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61009" 
+><span title="Image # 61009: Joust Comparison 5a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-A23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61009: Joust Comparison 5a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 5a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61010" 
+><span title="Image # 61010: Joust Comparison 5b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-A24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61010: Joust Comparison 5b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 5b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61011" 
+><span title="Image # 61011: Joust Comparison 6a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-A25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61011: Joust Comparison 6a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 6a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61012" 
+><span title="Image # 61012: Joust Comparison 6b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-A26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61012: Joust Comparison 6b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 6b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61013" 
+><span title="Image # 61013: Joust Comparison 7a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-A27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61013: Joust Comparison 7a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 7a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61014" 
+><span title="Image # 61014: Joust Comparison 7b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-A28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61014: Joust Comparison 7b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 7b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61015" 
+><span title="Image # 61015: Joust Comparison 8a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61015: Joust Comparison 8a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 8a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61016" 
+><span title="Image # 61016: Joust Comparison 8b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61016: Joust Comparison 8b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 8b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61017" 
+><span title="Image # 61017: Joust Comparison 9a 
+(See the listing Notes for explanation. Serial number 625510.)"><img src="https://www.ipdb.org/images/1316/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61017: Joust Comparison 9a 
+(See the listing Notes for explanation. Serial number 625510.)"><br>Comparison 9a*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=61018" 
+><span title="Image # 61018: Joust Comparison 9b 
+(See the listing Notes for explanation. Serial number 623689.)"><img src="https://www.ipdb.org/images/1316/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61018: Joust Comparison 9b 
+(See the listing Notes for explanation. Serial number 623689.)"><br>Comparison 9b*</span></a><br><font size="-2">1200x900</font><br>[Claude Veilleux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=63762" 
+><span title="Image # 63762: Joust Playfield "><img src="https://www.ipdb.org/images/1316/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 63762: Joust Playfield "><br>Playfield</span></a><br><font size="-2">1200x1565</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=63763" 
+><span title="Image # 63763: Joust Apron "><img src="https://www.ipdb.org/images/1316/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 63763: Joust Apron "><br>Apron</span></a><br><font size="-2">1600x1069</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=63764" 
+><span title="Image # 63764: Joust Cabinet Side "><img src="https://www.ipdb.org/images/1316/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 63764: Joust Cabinet Side "><br>Cabinet Side</span></a><br><font size="-2">1200x757</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1316&amp;picno=69552" 
+><span title="Image # 69552: Joust Original Apron Artwork 
+(Artist is Constantino Mitchell.Black-and-white inking on illustration board.Dimensions are 12 inches by 18 inches.)"><img src="https://www.ipdb.org/images/1316/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 69552: Joust Original Apron Artwork 
+(Artist is Constantino Mitchell.Black-and-white inking on illustration board.Dimensions are 12 inches by 18 inches.)"><br>Original Apron Artwork*</span></a><br><font size="-2">1200x1724</font><br>[Constantino Mitchell]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

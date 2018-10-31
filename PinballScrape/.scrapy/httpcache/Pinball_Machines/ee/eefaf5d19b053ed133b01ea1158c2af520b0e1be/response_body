@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Amusematic 'Lite-League'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Amusematic Lite-League Lite-A-League, Lite League Not A Pinball No pins, no balls, no plunger, no bat, no tilt mechanism. The pitcher, batter, base runners, and outfielders are all represented by lights. To launch the ball, an electric push-button is mounted where the plunger knob would be.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Amusematic 'Lite-League' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Lite-League</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5108">Lite-League</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5108">5108</a> <I>/ February, 1946 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5108" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Amusematic'"><a href="search.pl?searchtype=advanced&amp;mfgid=475">Amusematic Corporation, <font size="-1">of Chicago, Illinois</font></a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1946</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5108">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Baseball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline><span class="notapinballspec">Not A Pinball</span>&nbsp;<a href="glossary.php#Not_A_Pinball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>No pins, no balls, no <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plunger</a>, no bat, no <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a> mechanism. The pitcher, batter, base runners, and outfielders are all represented by lights. To launch the ball, an electric push-button is mounted where the <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plunger</a> knob would be.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> measured 31 inches high, 22 1/2 inches wide, 12 inches deep, and weighs approximately 50 lbs. The silkscreened <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> measured 42 inches long and 20 inches wide.<br><br>'Lite-League' is the first amusement game by this manufacturer.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Feb-02-1946, page 110<br>
+The Billboard, Feb-09-1946, page 99<br>
+Coin Machine Digest, July 1946, pages 11-12<br>
+The Billboard, Jul-27-1946, page 140<br>
+The Billboard, Aug-17-1946, page 132<br>
+The Billboard, Aug-24-1946, page 121<br>
+Mike Munves Corp. 1955 Catalog, page 15<br>
+Mike Munves Corp. 1956 Catalog, page 15<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=29110" 
+><span title="Image # 29110: Lite-League Mike Munves Ad 
+(Mike Munves Corp. 1956 Catalog, page 15)"><img src="https://www.ipdb.org/images/5108/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 29110: Lite-League Mike Munves Ad 
+(Mike Munves Corp. 1956 Catalog, page 15)"><br>Mike Munves Ad*</span></a><br><font size="-2">335x616</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=37957" 
+><span title="Image # 37957: Lite-League Billboard Ad 
+(The Billboard, Aug-24-1946, page 121)"><img src="https://www.ipdb.org/images/5108/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 37957: Lite-League Billboard Ad 
+(The Billboard, Aug-24-1946, page 121)"><br>Billboard Ad*</span></a><br><font size="-2">1024x751</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=42985" 
+><span title="Image # 42985: Lite-League New Game Announcement 
+(The Billboard, Feb-2-1946, page 99)"><img src="https://www.ipdb.org/images/5108/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=37 height=100 alt="Image # 42985: Lite-League New Game Announcement 
+(The Billboard, Feb-2-1946, page 99)"><br>New Game Announcement*</span></a><br><font size="-2">307x831</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45897" 
+><span title="Image # 45897: Lite-League Illuminated Backglass 
+(This backbox has no main cabinet body with it and has been illuminated for display.)"><img src="https://www.ipdb.org/images/5108/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 45897: Lite-League Illuminated Backglass 
+(This backbox has no main cabinet body with it and has been illuminated for display.)"><br>Illuminated Backglass*</span></a><br><font size="-2">469x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45898" 
+><span title="Image # 45898: Lite-League Upper Backglass "><img src="https://www.ipdb.org/images/5108/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45898: Lite-League Upper Backglass "><br>Upper Backglass</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45899" 
+><span title="Image # 45899: Lite-League Lower Backglass "><img src="https://www.ipdb.org/images/5108/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45899: Lite-League Lower Backglass "><br>Lower Backglass</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45900" 
+><span title="Image # 45900: Lite-League Backbox - Left 
+(This backbox has no main cabinet body with it and has been illuminated for display.)"><img src="https://www.ipdb.org/images/5108/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 45900: Lite-League Backbox - Left 
+(This backbox has no main cabinet body with it and has been illuminated for display.)"><br>Backbox - Left*</span></a><br><font size="-2">554x798</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45901" 
+><span title="Image # 45901: Lite-League Backbox - Right 
+(This backbox has no main cabinet body with it and has been illuminated for display.)"><img src="https://www.ipdb.org/images/5108/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 45901: Lite-League Backbox - Right 
+(This backbox has no main cabinet body with it and has been illuminated for display.)"><br>Backbox - Right*</span></a><br><font size="-2">444x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45902" 
+><span title="Image # 45902: Lite-League Inside Backbox 
+(The green and white jumper wires illuminate the backbox for display.)"><img src="https://www.ipdb.org/images/5108/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 45902: Lite-League Inside Backbox 
+(The green and white jumper wires illuminate the backbox for display.)"><br>Inside Backbox*</span></a><br><font size="-2">551x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=45903" 
+><span title="Image # 45903: Lite-League Inside Lower Backbox 
+(The green and white jumper wires illuminate the backbox for display.)"><img src="https://www.ipdb.org/images/5108/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45903: Lite-League Inside Lower Backbox 
+(The green and white jumper wires illuminate the backbox for display.)"><br>Inside Lower Backbox*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=52697" 
+><span title="Image # 52697: Lite-League Coin Machine Digest Ad - 1 of 2 
+(Coin Machine Digest, July 1946, page 11)"><img src="https://www.ipdb.org/images/5108/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 52697: Lite-League Coin Machine Digest Ad - 1 of 2 
+(Coin Machine Digest, July 1946, page 11)"><br>Coin Machine Digest Ad - 1 of 2*</span></a><br><font size="-2">1200x1626</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=52698" 
+><span title="Image # 52698: Lite-League Coin Machine Digest Ad - 2 of 2 
+(Coin Machine Digest, July 1946, page 12)"><img src="https://www.ipdb.org/images/5108/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 52698: Lite-League Coin Machine Digest Ad - 2 of 2 
+(Coin Machine Digest, July 1946, page 12)"><br>Coin Machine Digest Ad - 2 of 2*</span></a><br><font size="-2">1200x1636</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5108&amp;picno=64868" 
+><span title="Image # 64868: Lite-League Silkscreened Playfield Glass 
+(This glass measured 42 inches long and 20 inches wide.)"><img src="https://www.ipdb.org/images/5108/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 64868: Lite-League Silkscreened Playfield Glass 
+(This glass measured 42 inches long and 20 inches wide.)"><br>Silkscreened Playfield Glass*</span></a><br><font size="-2">315x420</font><br>&nbsp;</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Mike Munves 1956 Catalog&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

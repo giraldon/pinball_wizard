@@ -1,0 +1,340 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Star Wars Episode I'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Star Wars Episode I Star Wars Episode One 1  Dave Mueller Paul Barker Kevin O'Connor John Popadiuk John Popadiuk Alan Cruz Jack Liddon Jack Skalon Bob Brown Eric Pryzby Cameron Silver Duncan Brown Eric Pryzby ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Star Wars Episode I' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Star Wars Episode I</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4458">Star Wars Episode I</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4458">4458</a> <I>/ June, 1999 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=4458" target="showrate4458"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=4458" target="showrate4458">111 ratings/83 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4458" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1999</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50069</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SWE1, SWE:1, SWEP1</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=12">Williams Pinball 2000</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,525 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4458">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space - Licensed Theme</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Popadiuk' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Popadiuk">John&nbsp;Popadiuk</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Popadiuk' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Popadiuk">John&nbsp;Popadiuk</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Mueller' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Mueller">Dave&nbsp;Mueller</a></span>, <span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Barker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Barker">Paul&nbsp;Barker</a></span>, <span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Alan&nbsp;Cruz' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Alan%20Cruz">Alan&nbsp;Cruz</a></span>, <span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Liddon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Liddon">Jack&nbsp;Liddon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Skalon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Skalon">Jack&nbsp;Skalon</a></span>, <span title="Click here to perform a search for all pinball games that 'Bob&nbsp;Brown' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bob%20Brown">Bob&nbsp;Brown</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Eric&nbsp;Pryzby' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Eric%20Pryzby">Eric&nbsp;Pryzby</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Eric&nbsp;Pryzby' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Eric%20Pryzby">Eric&nbsp;Pryzby</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Cameron&nbsp;Silver' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Cameron%20Silver">Cameron&nbsp;Silver</a></span>, <span title="Click here to perform a search for all pinball games that 'Duncan&nbsp;Brown' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Duncan%20Brown">Duncan&nbsp;Brown</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>2nd game produced using the Pinball 2000 (PB2K) platform. Was also available as a <a target="glossary" class="glossarylink" href="/glossary.php#Conversion_Kit">conversion&nbsp;kit</a> for Revenge From Mars.<br><br>Last game manufactured by WMS industries (Williams and Bally labels) before the announcement to close their doors on October 25, 1999. The <a target="glossary" class="glossarylink" href="/glossary.php#Jet_bumper">jet&nbsp;bumper</a> rule of the 1.4 software reminds players of that date. (The number of points for spelling Jar Jar is 19,992,510; This is the date 25-10-1999, the same day WMS announced the closing of their pinball branch.)<br><br>Ted Estes, a former WMS employee has a story about buying and manufacturing the second to last Williams pinball machine built in the 20th century. Click <a href="https://web.archive.org/web/20080917035721/http://www.softwarecrafters.com/starwars/index.html" target="web.archive">here</a>.<br><br>According to Kevin O'Connor at the 2004 Texas Pinball Festival, the Darth Maul character in the video sequence is actually Kevin himself, who trained for several weeks in stick fighting so he could be filmed against a green screen and appear in the game.<br><br>A number of the final <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> made for this game had plaques affixed to them indicating sequentially numbered games up to a quantity of 5100. We do not know how many of these <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> had such plaques, but a number of 200 (unconfirmed to us) is floating around in general discussion. Other <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> had a different plaque for "The Final Collector's Series of 100". Duncan Brown tells us that these type of plaques were used to move the final inventory out the door at full price, and this was done by manufacturing facility people long after all of the engineering people were let go, the engineering people being the ones most likely to care about this sort of thing, therefore exact numbers for each plaque may not be known, in spite of what numbers the plaques might show. For instance, there could be two series of "100" plaques, for all we know. Perhaps the difficult task of locating and counting available plaques would be necessary to estimate their quantities. In contrast to our stated Production Run number of 3,525 units, Duncan believes they made 5100 units (plus <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> kits), but he remembers being told the number was more like 5,103.<br><br>Shown in this listing is a one-off game having a gold <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. Duncan tells us it was made just like any other game, but with a gold laminate on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> parts instead of the usual black, before the art was applied. It has serial number 5371, a number that he believes was fabricated and not indicative of the total number of games made. He thinks they merely added 200 to the serial number of the last game they saw, since they knew they were done with production and would never reach that number. If he is correct, a quick mathematical subtraction points to 5,171 games made, but Duncan allows that not all serial numbers may have been used to arrive at that number. For instance, if something as trivial as a serial number label printer jammed, they would just skip over the affected numbers and move on.<br><br>The Dupont Chromalin <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> laminate shown in this listing has pink outlines around the artwork. Production <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> had yellow. Other minor difference are that Anakin’s Hair is yellow and the letters JEDI are outlined in pink.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 253<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/4458/swe1rule.htm" target="rulesheet">Rules for Williams' &quot;Star Wars: Episode 1&quot; Version 1.2 ROM (Feb/03/200</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/4458/swe1tpm.txt" target="rulesheet">Star Wars Episode 1 Quick Take (Aug/23/1999), by Krellan</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinball2000.de/ep1_owners_list.html">http://www.pinball2000.de/ep1_owners_list.html</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#4458">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=92bdp3w9D00">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 32 MB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>Full Set of all 10 Game ROMs <!-- gid 4458 roms_rev1.zip -->(<a href="/pb2000_cease.html"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Williams Electronic Games Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;3&nbsp;</td><td align=left>rom set 1.3 <!-- gid 4458 Williams_1999_Star_Wars_Episode_I_Rom_set_1_3.3 -->(<a href="/pb2000_cease.html"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Williams Electronic Games Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;4&nbsp;</td><td align=left>rom set 1.4 <!-- gid 4458 Williams_1999_Star_Wars_Episode_I_Rom_set_1_4.4 -->(<a href="/pb2000_cease.html"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Williams Electronic Games Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4458/Williams_1999_Star_Wars_Episode_I_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 160 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4458/Williams_1999_Star_Wars_Episode_I_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 997 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4458/Williams_1999_Star_Wars_Episode_I_Pinball_2000_Schematic_Manual.pdf" onClick="return purchasemanual();">Pinball 2000 Schematic Manual</a></td><td> [Willams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4458/Williams_1999_Star_Wars_Episode_I_ROM_Revision_History.txt" >ROM Revision History</a></td><td> [Williams Electronic Games Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4458/PUB_SW_15.zip" >PUB Updater File For Starwars Episode I Version 1.5</a></td><td> [Williams Electronic Games Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=3143" 
+><span title="Image # 3143: Star Wars Episode I Translite "><img src="https://www.ipdb.org/images/4458/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 3143: Star Wars Episode I Translite "><br>Translite</span></a><br><font size="-2">486x368</font><br>[Todd George]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=3144" 
+><span title="Image # 3144: Star Wars Episode I Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 3144: Star Wars Episode I Playfield "><br>Playfield</span></a><br><font size="-2">896x1096</font><br>[Todd George]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=4599" 
+><span title="Image # 4599: Star Wars Episode I Flyer, Front "><img src="https://www.ipdb.org/images/4458/tn_4458f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4599: Star Wars Episode I Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">892x1159</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=4600" 
+><span title="Image # 4600: Star Wars Episode I Flyer, Back "><img src="https://www.ipdb.org/images/4458/tn_4458f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4600: Star Wars Episode I Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">892x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=9851" 
+><span title="Image # 9851: Star Wars Episode I Cabinet - Right "><img src="https://www.ipdb.org/images/4458/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9851: Star Wars Episode I Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=9852" 
+><span title="Image # 9852: Star Wars Episode I Backbox - Right "><img src="https://www.ipdb.org/images/4458/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 9852: Star Wars Episode I Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1024x1043</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=10196" 
+><span title="Image # 10196: Star Wars Episode I Tips & Tricks Pamphlet, Front "><img src="https://www.ipdb.org/images/4458/tn_front35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=33 alt="Image # 10196: Star Wars Episode I Tips & Tricks Pamphlet, Front "><br>"Tips & Tricks" Pamphlet, Front</span></a><br><font size="-2">1634x534</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=10197" 
+><span title="Image # 10197: Star Wars Episode I Tips & Tricks Pamphlet, Back "><img src="https://www.ipdb.org/images/4458/tn_back35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=32 alt="Image # 10197: Star Wars Episode I Tips & Tricks Pamphlet, Back "><br>"Tips & Tricks" Pamphlet, Back</span></a><br><font size="-2">1641x529</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=16733" 
+><span title="Image # 16733: Star Wars Episode I Illuminated Front View "><img src="https://www.ipdb.org/images/4458/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 16733: Star Wars Episode I Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">647x1019</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=16734" 
+><span title="Image # 16734: Star Wars Episode I Cabinet - Full View "><img src="https://www.ipdb.org/images/4458/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 16734: Star Wars Episode I Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">675x891</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=18133" 
+><span title="Image # 18133: Star Wars Episode I Collector's Series Plaque "><img src="https://www.ipdb.org/images/4458/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 18133: Star Wars Episode I Collector's Series Plaque "><br>Collector's Series Plaque</span></a><br><font size="-2">1024x556</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23327" 
+><span title="Image # 23327: Star Wars Episode I Cabinet - Front "><img src="https://www.ipdb.org/images/4458/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23327: Star Wars Episode I Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23328" 
+><span title="Image # 23328: Star Wars Episode I Cabinet - Left "><img src="https://www.ipdb.org/images/4458/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 23328: Star Wars Episode I Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23329" 
+><span title="Image # 23329: Star Wars Episode I Cabinet - Right "><img src="https://www.ipdb.org/images/4458/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 23329: Star Wars Episode I Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23330" 
+><span title="Image # 23330: Star Wars Episode I Cabinet - Rear View "><img src="https://www.ipdb.org/images/4458/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 23330: Star Wars Episode I Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23331" 
+><span title="Image # 23331: Star Wars Episode I Upper Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23331: Star Wars Episode I Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23332" 
+><span title="Image # 23332: Star Wars Episode I Lower Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23332: Star Wars Episode I Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23338" 
+><span title="Image # 23338: Star Wars Episode I Playfield Detail "><img src="https://www.ipdb.org/images/4458/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23338: Star Wars Episode I Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23340" 
+><span title="Image # 23340: Star Wars Episode I Under Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 23340: Star Wars Episode I Under Playfield "><br>Under Playfield</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23341" 
+><span title="Image # 23341: Star Wars Episode I Under Lower Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23341: Star Wars Episode I Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23342" 
+><span title="Image # 23342: Star Wars Episode I Under Middle Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23342: Star Wars Episode I Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23343" 
+><span title="Image # 23343: Star Wars Episode I Under Upper Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23343: Star Wars Episode I Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23344" 
+><span title="Image # 23344: Star Wars Episode I Inside Cabinet "><img src="https://www.ipdb.org/images/4458/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23344: Star Wars Episode I Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23345" 
+><span title="Image # 23345: Star Wars Episode I Inside Backbox "><img src="https://www.ipdb.org/images/4458/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 23345: Star Wars Episode I Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23346" 
+><span title="Image # 23346: Star Wars Episode I Backbox - Front "><img src="https://www.ipdb.org/images/4458/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 23346: Star Wars Episode I Backbox - Front "><br>Backbox - Front</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23347" 
+><span title="Image # 23347: Star Wars Episode I Monitor On Screen "><img src="https://www.ipdb.org/images/4458/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23347: Star Wars Episode I Monitor On Screen "><br>Monitor On Screen</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=23348" 
+><span title="Image # 23348: Star Wars Episode I Cabinet - Full View "><img src="https://www.ipdb.org/images/4458/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 23348: Star Wars Episode I Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=28125" 
+><span title="Image # 28125: Star Wars Episode I Blank Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 28125: Star Wars Episode I Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1024x1583</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=38792" 
+><span title="Image # 38792: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5091 of 5100.)"><img src="https://www.ipdb.org/images/4458/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 38792: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5091 of 5100.)"><br>Later Production Game - Serial Number Plaque*</span></a><br><font size="-2">646x514</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=38793" 
+><span title="Image # 38793: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5099 of 5100.)"><img src="https://www.ipdb.org/images/4458/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38793: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5099 of 5100.)"><br>Later Production Game - Serial Number Plaque*</span></a><br><font size="-2">800x533</font><br>[Duncan Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=38794" 
+><span title="Image # 38794: Star Wars Episode I Gold Laminate Cabinet 
+(Serial number 5371.)"><img src="https://www.ipdb.org/images/4458/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 38794: Star Wars Episode I Gold Laminate Cabinet 
+(Serial number 5371.)"><br>Gold Laminate Cabinet*</span></a><br><font size="-2">352x515</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=38795" 
+><span title="Image # 38795: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5027 of 5100.)"><img src="https://www.ipdb.org/images/4458/tn_image-A32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38795: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5027 of 5100.)"><br>Later Production Game - Serial Number Plaque*</span></a><br><font size="-2">1024x768</font><br>[Rich Huff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=41431" 
+><span title="Image # 41431: Star Wars Episode I Driver Board Cover "><img src="https://www.ipdb.org/images/4458/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41431: Star Wars Episode I Driver Board Cover "><br>Driver Board Cover</span></a><br><font size="-2">1200x900</font><br>[Benjamin D. Reed]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=41933" 
+><span title="Image # 41933: Star Wars Episode I Illuminated Translite "><img src="https://www.ipdb.org/images/4458/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 41933: Star Wars Episode I Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">552x616</font><br>[Marco Del Ry]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=41934" 
+><span title="Image # 41934: Star Wars Episode I Monitor In View "><img src="https://www.ipdb.org/images/4458/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41934: Star Wars Episode I Monitor In View "><br>Monitor In View</span></a><br><font size="-2">855x641</font><br>[Marco Del Ry]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44648" 
+><span title="Image # 44648: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5040 of 5100.)"><img src="https://www.ipdb.org/images/4458/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44648: Star Wars Episode I Later Production Game - Serial Number Plaque 
+(Plaque serial number 5040 of 5100.)"><br>Later Production Game - Serial Number Plaque*</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44649" 
+><span title="Image # 44649: Star Wars Episode I Later Production Game - Cabinet Front 
+(Plaque serial number 5040 of 5100. This game is shown here still in its box from the manufacturer.)"><img src="https://www.ipdb.org/images/4458/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44649: Star Wars Episode I Later Production Game - Cabinet Front 
+(Plaque serial number 5040 of 5100. This game is shown here still in its box from the manufacturer.)"><br>Later Production Game - Cabinet Front*</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44650" 
+><span title="Image # 44650: Star Wars Episode I Audit Screen "><img src="https://www.ipdb.org/images/4458/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44650: Star Wars Episode I Audit Screen "><br>Audit Screen</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44651" 
+><span title="Image # 44651: Star Wars Episode I Inside Backbox 
+(The view is from the front of the game with the translite removed.)"><img src="https://www.ipdb.org/images/4458/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44651: Star Wars Episode I Inside Backbox 
+(The view is from the front of the game with the translite removed.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44652" 
+><span title="Image # 44652: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44652: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44653" 
+><span title="Image # 44653: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44653: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44654" 
+><span title="Image # 44654: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44654: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44655" 
+><span title="Image # 44655: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44655: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44656" 
+><span title="Image # 44656: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44656: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44657" 
+><span title="Image # 44657: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44657: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44658" 
+><span title="Image # 44658: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44658: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44659" 
+><span title="Image # 44659: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44659: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44660" 
+><span title="Image # 44660: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44660: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44661" 
+><span title="Image # 44661: Star Wars Episode I Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44661: Star Wars Episode I Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44662" 
+><span title="Image # 44662: Star Wars Episode I Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44662: Star Wars Episode I Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44792" 
+><span title="Image # 44792: Star Wars Episode I Illuminated Translite "><img src="https://www.ipdb.org/images/4458/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 44792: Star Wars Episode I Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">1024x623</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=44793" 
+><span title="Image # 44793: Star Wars Episode I Illuminated Front View "><img src="https://www.ipdb.org/images/4458/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 44793: Star Wars Episode I Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">973x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=45166" 
+><span title="Image # 45166: Star Wars Episode I Playfield "><img src="https://www.ipdb.org/images/4458/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45166: Star Wars Episode I Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Mark Johnson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=49132" 
+><span title="Image # 49132: Star Wars Episode I Chromalin Laminate For Prototype Playfield 
+(Measures approximately 22 1/2 inches by 44 inches.)"><img src="https://www.ipdb.org/images/4458/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 49132: Star Wars Episode I Chromalin Laminate For Prototype Playfield 
+(Measures approximately 22 1/2 inches by 44 inches.)"><br>Chromalin Laminate For Prototype Playfield*</span></a><br><font size="-2">310x587</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=49133" 
+><span title="Image # 49133: Star Wars Episode I Chromalin Laminate For Prototype Playfield - Detail "><img src="https://www.ipdb.org/images/4458/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49133: Star Wars Episode I Chromalin Laminate For Prototype Playfield - Detail "><br>Chromalin Laminate For Prototype Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Harold Balde]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=51232" 
+><span title="Image # 51232: Star Wars Episode I Playfield - Ball View "><img src="https://www.ipdb.org/images/4458/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51232: Star Wars Episode I Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Rob Stog]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=51233" 
+><span title="Image # 51233: Star Wars Episode I Health Notice 
+(Located on the apron.)"><img src="https://www.ipdb.org/images/4458/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 51233: Star Wars Episode I Health Notice 
+(Located on the apron.)"><br>Health Notice*</span></a><br><font size="-2">1200x1600</font><br>[Rob Stog]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=54815" 
+><span title="Image # 54815: Star Wars Episode I Promotional Poster 
+(Provided by Williams. Measured 24 inches by 36 inches. Dated 1999.)"><img src="https://www.ipdb.org/images/4458/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 54815: Star Wars Episode I Promotional Poster 
+(Provided by Williams. Measured 24 inches by 36 inches. Dated 1999.)"><br>Promotional Poster*</span></a><br><font size="-2">451x713</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=63042" 
+><span title="Image # 63042: Star Wars Episode I Translite "><img src="https://www.ipdb.org/images/4458/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 63042: Star Wars Episode I Translite "><br>Translite</span></a><br><font size="-2">1200x771</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=66955" 
+><span title="Image # 66955: Star Wars Episode I Whitewood Playfield - Front 
+(The signatures were added much later.)"><img src="https://www.ipdb.org/images/4458/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 66955: Star Wars Episode I Whitewood Playfield - Front 
+(The signatures were added much later.)"><br>Whitewood Playfield - Front*</span></a><br><font size="-2">1200x2269</font><br>[Dave Slabiak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=66956" 
+><span title="Image # 66956: Star Wars Episode I Whitewood Playfield - Back "><img src="https://www.ipdb.org/images/4458/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 66956: Star Wars Episode I Whitewood Playfield - Back "><br>Whitewood Playfield - Back</span></a><br><font size="-2">1200x2283</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=66957" 
+><span title="Image # 66957: Star Wars Episode I Whitewood Playfield Top Edge "><img src="https://www.ipdb.org/images/4458/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 66957: Star Wars Episode I Whitewood Playfield Top Edge "><br>Whitewood Playfield Top Edge</span></a><br><font size="-2">1200x481</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=68335" 
+><span title="Image # 68335: Star Wars Episode I Inside Cabinet "><img src="https://www.ipdb.org/images/4458/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 68335: Star Wars Episode I Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x759</font><br>[Hansjoerg Reiter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4458&amp;picno=71773" 
+><span title="Image # 71773: Star Wars Episode I Illuminated Translite "><img src="https://www.ipdb.org/images/4458/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 71773: Star Wars Episode I Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">1200x764</font><br>[Francois Corthesy]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

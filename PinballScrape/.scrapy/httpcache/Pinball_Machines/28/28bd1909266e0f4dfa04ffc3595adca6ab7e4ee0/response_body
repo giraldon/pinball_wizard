@@ -1,0 +1,259 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'Corvette'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway Corvette Flippers (3), Ramps (2), Engine-shaped ball shaker. Maximum 1 buy-in ball per player (operator option). Matchbox car racetrack.  Dan Hughes George Gomez George Gomez Eugene Geer Scott Slomiany Tom Kopera Paul Heitsch Tom Uban Bill Grupp Paul Heitsch ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'Corvette' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Corvette</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="570">Corvette</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=570">570</a> <I>/ August, 1994 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=570" target="showrate570"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=570" target="showrate570">85 ratings/51 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=570" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1994</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50036</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=30">Williams WPC Security (WPC-S)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,001 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=570">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Car Culture</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), Engine-shaped ball shaker. Maximum 1 <a target="glossary" class="glossarylink" href="/glossary.php#Buy-In">buy-in</a> ball per player (operator option).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Matchbox car racetrack.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Hughes' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Hughes">Dan&nbsp;Hughes</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Eugene&nbsp;Geer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Eugene%20Geer">Eugene&nbsp;Geer</a></span>, <span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Slomiany' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Slomiany">Scott&nbsp;Slomiany</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Kopera' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Kopera">Tom&nbsp;Kopera</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Uban' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Uban">Tom&nbsp;Uban</a></span>, <span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Grupp' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Grupp">Bill&nbsp;Grupp</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Designer">Designer</a> George Gomez tells us about his original design for this game and of changes that were made prior to production:<P style="padding-left:30px;"><I>At the time Williams was making wide bodies and so my design began as a <a target="glossary" class="glossarylink" href="/glossary.php#Widebody">widebody</a>, but it didn't get very far. No <a target="glossary" class="glossarylink" href="/glossary.php#Widebody">widebody</a> whitewoods were ever built. I originally designed the game with <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> and the code for this is still in the game. The decals said B-2-K which was the Callaway Turbo option. A 4-Speed shifter was bolted to the side of the game and was used to shift gears in the dragstrip <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a>. That code also is still there. Some of the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a> were built with these features and somewhere I have photos. Numerous <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a> were built with the shifters and also I retrofitted one onto a production game. Numerous switches (ramp ends), flashers, and lights were removed, along with the targets and shifter, to get the game within the bill of materials budgets.</i></P><br><br>Pictured in this listing is an example of the so-called "NCM" games, made for the National Corvette Museum located in Bowling Green, Kentucky. We were unable to reach Tom Uban for input about them, but <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> George Gomez provided this information:<P style="padding-left:30px;"><I>Museum games were very early production games. They were not <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> that you refer to in the image is one of the 17 <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> games, several of these <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> went to the museum for display purposes. However, museum games did have the special NCM welcome message in the code, this may have been the only difference in those games, other than that they were very early in the production run. <br><br>I personally sold Chip Miller his game. At the time he was one of the key guys in the ZR1 registry and many of those guys bought games from us at the museum. I don’t remember the exact number of games that we took to the museum. I believe it was either 6 or 9. One went into the gift shop where I believe it still resides. I set up displays on the design of the game including drawings, the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a>, and many other development items such as models within the museum. One was in the display cases at the base of the Spire, the other was in a hallway display case near the Corvette toys exhibit in the museum.<br><br>During the grand opening weekend celebration the games were operated 24 hours a day at dollar play to benefit a charity. I worked the games with some of the other members of my team promoting and exposing people to the game. With me were Tom Kopera, mechanical engineer on the game; Bill Grupp, software engineer assisting Tom Uban; Roger Sharpe, director of licensing; and Barb Rosenthal, the Bally-Williams marketing director.<br><br>If memory serves, I took 3 <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> with me to the museum for the grand opening. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> were left in the care of the museum's curators. I was disappointed to learn that somehow they were let go from the museum's collection. Someone in Bowling Green ended up with one of them, he tells me that he bought it from a museum employee.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"A pinball worthy of the name CORVETTE."<br>
+"With this dream machine, there's no limit to the fun."<br>
+"Test drive it at the showroom nearest you. But be prepared.You don't take this CORVETTE for a spin. It takes you."<br>
+"CORVETTE is a tour de force for pinball and Corvette fans alike."<br>
+"Theres a new breed of dream machine loose on the streets. CORVETTE from Bally."<br>
+"One Great American Legend Deserves Another."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Corvette Quarterly 8(4), Winter 1995, pp. 34-6.<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/570/corvette.htm" target="rulesheet">Corvette Rulesheet Version L-3 (Oct/10/1994), by Cameron Silver</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?corvette">http://pinball.jameswest.com/ownerslists/ownerslist.php?corvette</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#570">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=xvI0Rtps4ho">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/corv_21.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 854 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/corv_lx1.zip" >PinMAME Romset (LX-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 374 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/corv_px4.zip" >PinMAME Romset (PX4)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 523 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Revision_L_1_Sound_ROM.zip" >Revision L-1 Sound ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 376 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Revision_LX_1_Export_Game_ROM.zip" >Revision LX-1 Export Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 373 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Revision_PX_4_Export_Game_ROM_Prototype_.zip" >Revision PX-4 Export Game ROM (Prototype)</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 393 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Manual_Amendment_16_9890.pdf" onClick="return purchasemanual();">Manual Amendment #16-9890</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 858 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Operators_Handbook.pdf" onClick="return purchasemanual();">Operators Handbook</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 233 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 95 KB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Instruction_Card.jpg" >Instruction Card</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 92 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Reproduction_Score_and_Instruction_Cards_including_French_and_German.zip" >Reproduction Score and Instruction Cards (including French and German)</a></td><td> [Inkochnito]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 188 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/570/Bally_1994_Corvette_Unit_Disassembly_For_Repair_16_9887.pdf" >Unit Disassembly For Repair #16-9887</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=539" 
+><span title="Image # 539: Corvette Playfield "><img src="https://www.ipdb.org/images/570/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 539: Corvette Playfield "><br>Playfield</span></a><br><font size="-2">352x533</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=540" 
+><span title="Image # 540: Corvette Backglass "><img src="https://www.ipdb.org/images/570/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 540: Corvette Backglass "><br>Backglass</span></a><br><font size="-2">466x431</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=4160" 
+><span title="Image # 4160: Corvette Flyer, Front "><img src="https://www.ipdb.org/images/570/tn_570f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4160: Corvette Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=4161" 
+><span title="Image # 4161: Corvette Flyer, Back "><img src="https://www.ipdb.org/images/570/tn_570f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4161: Corvette Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10416" 
+><span title="Image # 10416: Corvette Full Machine "><img src="https://www.ipdb.org/images/570/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10416: Corvette Full Machine "><br>Full Machine</span></a><br><font size="-2">550x733</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10417" 
+><span title="Image # 10417: Corvette Cabinet Right "><img src="https://www.ipdb.org/images/570/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 10417: Corvette Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">500x461</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10418" 
+><span title="Image # 10418: Corvette Cabinet Left "><img src="https://www.ipdb.org/images/570/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 10418: Corvette Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">500x476</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10419" 
+><span title="Image # 10419: Corvette BackBox Left "><img src="https://www.ipdb.org/images/570/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 10419: Corvette BackBox Left "><br>BackBox Left</span></a><br><font size="-2">350x860</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10420" 
+><span title="Image # 10420: Corvette BackBox Right "><img src="https://www.ipdb.org/images/570/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 10420: Corvette BackBox Right "><br>BackBox Right</span></a><br><font size="-2">350x848</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10421" 
+><span title="Image # 10421: Corvette BackBox "><img src="https://www.ipdb.org/images/570/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 10421: Corvette BackBox "><br>BackBox</span></a><br><font size="-2">500x548</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10422" 
+><span title="Image # 10422: Corvette Cabinet Front "><img src="https://www.ipdb.org/images/570/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 10422: Corvette Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">500x401</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10423" 
+><span title="Image # 10423: Corvette Cabinet Inside "><img src="https://www.ipdb.org/images/570/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10423: Corvette Cabinet Inside "><br>Cabinet Inside</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10424" 
+><span title="Image # 10424: Corvette Playfield "><img src="https://www.ipdb.org/images/570/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10424: Corvette Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10425" 
+><span title="Image # 10425: Corvette Playfield Underside "><img src="https://www.ipdb.org/images/570/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10425: Corvette Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10426" 
+><span title="Image # 10426: Corvette Backbox Electronics "><img src="https://www.ipdb.org/images/570/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10426: Corvette Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10427" 
+><span title="Image # 10427: Corvette Upper Right Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10427: Corvette Upper Right Playfield Detail "><br>Upper Right Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10428" 
+><span title="Image # 10428: Corvette Upper Left Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10428: Corvette Upper Left Playfield Detail "><br>Upper Left Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10429" 
+><span title="Image # 10429: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10429: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10430" 
+><span title="Image # 10430: Corvette Lower Right Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10430: Corvette Lower Right Playfield Detail "><br>Lower Right Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10431" 
+><span title="Image # 10431: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10431: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10432" 
+><span title="Image # 10432: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10432: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10433" 
+><span title="Image # 10433: Corvette Playfield Engine Detail "><img src="https://www.ipdb.org/images/570/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10433: Corvette Playfield Engine Detail "><br>Playfield Engine Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10434" 
+><span title="Image # 10434: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10434: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10435" 
+><span title="Image # 10435: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10435: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10436" 
+><span title="Image # 10436: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10436: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10437" 
+><span title="Image # 10437: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10437: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10438" 
+><span title="Image # 10438: Corvette Playfield Detail "><img src="https://www.ipdb.org/images/570/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10438: Corvette Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10439" 
+><span title="Image # 10439: Corvette Lower Playfield "><img src="https://www.ipdb.org/images/570/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10439: Corvette Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=10440" 
+><span title="Image # 10440: Corvette Upper Playfield "><img src="https://www.ipdb.org/images/570/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10440: Corvette Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=32528" 
+><span title="Image # 32528: Corvette Alternate Playfield Artwork "><img src="https://www.ipdb.org/images/570/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 32528: Corvette Alternate Playfield Artwork "><br>Alternate Playfield Artwork</span></a><br><font size="-2">800x587</font><br>[Bill Ung]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=53993" 
+><span title="Image # 53993: Corvette Promotional Poster 
+(Measures 24 inches by 36 inches.)"><img src="https://www.ipdb.org/images/570/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53993: Corvette Promotional Poster 
+(Measures 24 inches by 36 inches.)"><br>Promotional Poster*</span></a><br><font size="-2">862x575</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=60257" 
+><span title="Image # 60257: Corvette Early Production - NCM Version 
+(Factory serial number 53336300011. Museum number NCM-2.)"><img src="https://www.ipdb.org/images/570/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=41 alt="Image # 60257: Corvette Early Production - NCM Version 
+(Factory serial number 53336300011. Museum number NCM-2.)"><br>Early Production - NCM Version*</span></a><br><font size="-2">1200x491</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=60258" 
+><span title="Image # 60258: Corvette Early Production - NCM Version - Welcome Message 
+(Factory serial number 53336300011. Museum number NCM-2.)"><img src="https://www.ipdb.org/images/570/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 60258: Corvette Early Production - NCM Version - Welcome Message 
+(Factory serial number 53336300011. Museum number NCM-2.)"><br>Early Production - NCM Version - Welcome Message*</span></a><br><font size="-2">1168x1261</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=60259" 
+><span title="Image # 60259: Corvette Early Production - NCM Version - Playfield 
+(Factory serial number 53336300011. Museum number NSC-2.)"><img src="https://www.ipdb.org/images/570/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60259: Corvette Early Production - NCM Version - Playfield 
+(Factory serial number 53336300011. Museum number NSC-2.)"><br>Early Production - NCM Version - Playfield*</span></a><br><font size="-2">1200x1597</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=60260" 
+><span title="Image # 60260: Corvette Early Production - NCM Version - Serial Number 
+(Factory serial number 53336300011. Museum number NCM-2.)"><img src="https://www.ipdb.org/images/570/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 60260: Corvette Early Production - NCM Version - Serial Number 
+(Factory serial number 53336300011. Museum number NCM-2.)"><br>Early Production - NCM Version - Serial Number*</span></a><br><font size="-2">1113x663</font><br>[Jim Palson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=60261" 
+><span title="Image # 60261: Corvette Early Production - NCM Version - CPU Chip 
+(The CPU chip is labeled 'NCM L-2'. From the game with factory serial number 53336300011 and museum number NCM-2.)"><img src="https://www.ipdb.org/images/570/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 60261: Corvette Early Production - NCM Version - CPU Chip 
+(The CPU chip is labeled 'NCM L-2'. From the game with factory serial number 53336300011 and museum number NCM-2.)"><br>Early Production - NCM Version - CPU Chip*</span></a><br><font size="-2">1200x1244</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=570&amp;picno=60262" 
+><span title="Image # 60262: Corvette Illuminated Backglass 
+(In the lower right corner is a  gold tag marking this game as 'sold.')"><img src="https://www.ipdb.org/images/570/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 60262: Corvette Illuminated Backglass 
+(In the lower right corner is a  gold tag marking this game as 'sold.')"><br>Illuminated Backglass*</span></a><br><font size="-2">1200x784</font><br>[Jean-Pierre Renault]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,301 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: PMI/IPB 'Big Bang Bar'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game PMI/IPB Big Bang Bar Moving tube dancer, Alien ball lock.  Paul Mazur Stan Fukuoka Kevin Loza Mike Miller John Boydston Jeff Powell Steven King ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for PMI/IPB 'Big Bang Bar' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Big Bang Bar</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5244">Big Bang Bar</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5244">5244</a> <I>/ June, 2007 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=5244" target="showrate5244"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=5244" target="showrate5244">19 ratings/14 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5244" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'PMI/IPB'"><a href="search.pl?searchtype=advanced&amp;mfgid=511">Pinball Manufacturing Inc., a division of Illinois Pinball Inc. (2007-2007) <i>[Trade Name: PMI</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 2007</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>BBB</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=32">Capcom A0015405</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>191 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5244">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space - Reproduction</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Moving tube dancer, Alien ball lock.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Mazur' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Mazur">Paul&nbsp;Mazur</a></span>, <span title="Click here to perform a search for all pinball games that 'Stan&nbsp;Fukuoka' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Stan%20Fukuoka">Stan&nbsp;Fukuoka</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;Loza' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20Loza">Kevin&nbsp;Loza</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mike&nbsp;Miller' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mike%20Miller">Mike&nbsp;Miller</a></span>, <span title="Click here to perform a search for all pinball games that 'John&nbsp;Boydston' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Boydston">John&nbsp;Boydston</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jeff&nbsp;Powell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeff%20Powell">Jeff&nbsp;Powell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steven&nbsp;King' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steven%20King">Steven&nbsp;King</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Illinois Pinball's 'Big Bang Bar' is a remake of <span title="Click here to open a new window and display Capcom's 1996 'Big Bang Bar'"><a target="game4001" href="machine.cgi?id=4001">Capcom's 1996 'Big Bang Bar'</a></span>.<br><br>In 2004, Gene Cunningham of Illinois Pinball Inc. (IPB) declared plans to produce a "remake" of that 1996 game, initially announced to be a production of 101 machines but eventually increased to 183 units.  Despite reported substantial setbacks and cost overruns, in June 2006 approximately one dozen machines were delivered to European customers ahead of the <a target="glossary" class="glossarylink" href="/glossary.php#RoHS">RoHS</a> (Reduction of Hazardous Substances) laws due to go into force in Europe in July 2006.  The remaining machines were completed and shipped in June 2007.<br><br>The games were produced with the original "Capcom" name in numerous locations on the game and in documentation, and the game uses common Capcom circuit boards, but the still existing Capcom Co., Ltd. was not involved in its production.  Rather, IPB reportedly licensed the Capcom name along with the design.  A new company named "Pinball Manufacturing Inc." was reportedly formed by IPB to manufacture and sell the machines.  So the manufacturer could be thought of as "Pinball Manufacturing Inc., a division of Illinois Pinball Inc., doing business as Capcom".<br><br>Reportedly, the following differences exist in this remake as compared to the 1996 game:<br>• The electroluminescent lights on the plastic <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> use 12v on this remake while on the original Capcom game they work on 24v.<br>• The tube dancer is 13% smaller than the 1996 game - Gene Cunningham didn't have access to the original mold.<br>• All remakes came with numbered plaques for the cardholder (whether or not they may be mounted there).<br><br>At the 2010 Northwest Pinball and Gameroom Show, Gene Cunningham reported to us that additional units of this game were made using extra parts and <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a>. These new machines carried serial numbers with the letters "EXP" for Extra Parts. He guessed the additional quantity was approximately 10 or 11 games although he was firm in stating the new total quantity is 191 units. Our previous quantity reported in this listing was ~183 units.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/5244">http://www.pinballowners.com/owners/5244</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#5244">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 26 KB</td><td align=left nowrap width="5%">&nbsp;DOC&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/5244/IPB_Big_Bang_Bar_conversation.doc" >Information About Prototype Version</a></td><td> [Kim Mitchell]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35171" 
+><span title="Image # 35171: Big Bang Bar Cabinet - Front "><img src="https://www.ipdb.org/images/5244/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35171: Big Bang Bar Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35172" 
+><span title="Image # 35172: Big Bang Bar Cabinet - Right "><img src="https://www.ipdb.org/images/5244/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35172: Big Bang Bar Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35173" 
+><span title="Image # 35173: Big Bang Bar Playfield "><img src="https://www.ipdb.org/images/5244/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35173: Big Bang Bar Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35174" 
+><span title="Image # 35174: Big Bang Bar Tube Dancer "><img src="https://www.ipdb.org/images/5244/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35174: Big Bang Bar Tube Dancer "><br>Tube Dancer</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35175" 
+><span title="Image # 35175: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35175: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35176" 
+><span title="Image # 35176: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35176: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35177" 
+><span title="Image # 35177: Big Bang Bar Pop Bumpers "><img src="https://www.ipdb.org/images/5244/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35177: Big Bang Bar Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35178" 
+><span title="Image # 35178: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35178: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35179" 
+><span title="Image # 35179: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35179: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35180" 
+><span title="Image # 35180: Big Bang Bar Ball View "><img src="https://www.ipdb.org/images/5244/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35180: Big Bang Bar Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35181" 
+><span title="Image # 35181: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35181: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35182" 
+><span title="Image # 35182: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35182: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35183" 
+><span title="Image # 35183: Big Bang Bar Numbered Plaque "><img src="https://www.ipdb.org/images/5244/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35183: Big Bang Bar Numbered Plaque "><br>Numbered Plaque</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35184" 
+><span title="Image # 35184: Big Bang Bar Playfield Arch Detail "><img src="https://www.ipdb.org/images/5244/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35184: Big Bang Bar Playfield Arch Detail "><br>Playfield Arch Detail</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35185" 
+><span title="Image # 35185: Big Bang Bar Left Outlane "><img src="https://www.ipdb.org/images/5244/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35185: Big Bang Bar Left Outlane "><br>Left Outlane</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35186" 
+><span title="Image # 35186: Big Bang Bar Right Outlane "><img src="https://www.ipdb.org/images/5244/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35186: Big Bang Bar Right Outlane "><br>Right Outlane</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35187" 
+><span title="Image # 35187: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35187: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35188" 
+><span title="Image # 35188: Big Bang Bar Playfield Detail "><img src="https://www.ipdb.org/images/5244/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35188: Big Bang Bar Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35189" 
+><span title="Image # 35189: Big Bang Bar Drop Targets "><img src="https://www.ipdb.org/images/5244/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35189: Big Bang Bar Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35190" 
+><span title="Image # 35190: Big Bang Bar Lit Drop Targets "><img src="https://www.ipdb.org/images/5244/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35190: Big Bang Bar Lit Drop Targets "><br>Lit Drop Targets</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35191" 
+><span title="Image # 35191: Big Bang Bar DMD Logo "><img src="https://www.ipdb.org/images/5244/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35191: Big Bang Bar DMD Logo "><br>DMD Logo</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35192" 
+><span title="Image # 35192: Big Bang Bar Ball View "><img src="https://www.ipdb.org/images/5244/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35192: Big Bang Bar Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35193" 
+><span title="Image # 35193: Big Bang Bar Lit Ball View "><img src="https://www.ipdb.org/images/5244/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35193: Big Bang Bar Lit Ball View "><br>Lit Ball View</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=35194" 
+><span title="Image # 35194: Big Bang Bar Rollover Lanes "><img src="https://www.ipdb.org/images/5244/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35194: Big Bang Bar Rollover Lanes "><br>Rollover Lanes</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43272" 
+><span title="Image # 43272: Big Bang Bar Prototype - Illuminated Playfield 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43272: Big Bang Bar Prototype - Illuminated Playfield 
+(Serial number 013.)"><br>Prototype - Illuminated Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43273" 
+><span title="Image # 43273: Big Bang Bar Prototype - Upper Playfield 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43273: Big Bang Bar Prototype - Upper Playfield 
+(Serial number 013.)"><br>Prototype - Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43274" 
+><span title="Image # 43274: Big Bang Bar Prototype - Middle Playfield 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43274: Big Bang Bar Prototype - Middle Playfield 
+(Serial number 013.)"><br>Prototype - Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43275" 
+><span title="Image # 43275: Big Bang Bar Prototype - Lower Playfield 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 43275: Big Bang Bar Prototype - Lower Playfield 
+(Serial number 013.)"><br>Prototype - Lower Playfield*</span></a><br><font size="-2">1022x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43276" 
+><span title="Image # 43276: Big Bang Bar Prototype - Serial Number Plaque 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43276: Big Bang Bar Prototype - Serial Number Plaque 
+(Serial number 013.)"><br>Prototype - Serial Number Plaque*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43277" 
+><span title="Image # 43277: Big Bang Bar Prototype - Translite Reverse 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43277: Big Bang Bar Prototype - Translite Reverse 
+(Serial number 013.)"><br>Prototype - Translite Reverse*</span></a><br><font size="-2">1126x840</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43278" 
+><span title="Image # 43278: Big Bang Bar Prototype - Inside Backbox 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 43278: Big Bang Bar Prototype - Inside Backbox 
+(Serial number 013.)"><br>Prototype - Inside Backbox*</span></a><br><font size="-2">1058x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43279" 
+><span title="Image # 43279: Big Bang Bar Prototype - Under Playfield 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 43279: Big Bang Bar Prototype - Under Playfield 
+(Serial number 013.)"><br>Prototype - Under Playfield*</span></a><br><font size="-2">892x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43280" 
+><span title="Image # 43280: Big Bang Bar Prototype - Inside Cabinet 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43280: Big Bang Bar Prototype - Inside Cabinet 
+(Serial number 013.)"><br>Prototype - Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43281" 
+><span title="Image # 43281: Big Bang Bar Prototype - Cabinet Left 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 43281: Big Bang Bar Prototype - Cabinet Left 
+(Serial number 013.)"><br>Prototype - Cabinet Left*</span></a><br><font size="-2">838x894</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43282" 
+><span title="Image # 43282: Big Bang Bar Prototype - Cabinet Right 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-A23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 43282: Big Bang Bar Prototype - Cabinet Right 
+(Serial number 013.)"><br>Prototype - Cabinet Right*</span></a><br><font size="-2">848x900</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43283" 
+><span title="Image # 43283: Big Bang Bar Prototype - Cabinet Front 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 43283: Big Bang Bar Prototype - Cabinet Front 
+(Serial number 013.)"><br>Prototype - Cabinet Front*</span></a><br><font size="-2">736x1568</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43284" 
+><span title="Image # 43284: Big Bang Bar Prototype Backbox Back 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 43284: Big Bang Bar Prototype Backbox Back 
+(Serial number 013.)"><br>Prototype Backbox Back*</span></a><br><font size="-2">952x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43285" 
+><span title="Image # 43285: Big Bang Bar Prototype Cabinet Back 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43285: Big Bang Bar Prototype Cabinet Back 
+(Serial number 013.)"><br>Prototype Cabinet Back*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43286" 
+><span title="Image # 43286: Big Bang Bar Prototype Serial Number 
+(Serial number 013 Stamped on the back of the cabinet.)"><img src="https://www.ipdb.org/images/5244/tn_image-B22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43286: Big Bang Bar Prototype Serial Number 
+(Serial number 013 Stamped on the back of the cabinet.)"><br>Prototype Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43287" 
+><span title="Image # 43287: Big Bang Bar Prototype Serial Number 
+(Serial number 013 stamped on the playfield edge.)"><img src="https://www.ipdb.org/images/5244/tn_image-B23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43287: Big Bang Bar Prototype Serial Number 
+(Serial number 013 stamped on the playfield edge.)"><br>Prototype Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=43288" 
+><span title="Image # 43288: Big Bang Bar Prototype - Full View 
+(Serial number 013.)"><img src="https://www.ipdb.org/images/5244/tn_image-B4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 43288: Big Bang Bar Prototype - Full View 
+(Serial number 013.)"><br>Prototype - Full View*</span></a><br><font size="-2">880x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=54296" 
+><span title="Image # 54296: Big Bang Bar Flyer - Front "><img src="https://www.ipdb.org/images/5244/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 54296: Big Bang Bar Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">1180x1543</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=54297" 
+><span title="Image # 54297: Big Bang Bar Flyer - Back "><img src="https://www.ipdb.org/images/5244/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 54297: Big Bang Bar Flyer - Back "><br>Flyer - Back</span></a><br><font size="-2">1178x1541</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=64276" 
+><span title="Image # 64276: Big Bang Bar Illuminated Backglass 
+(Serial number 07.)"><img src="https://www.ipdb.org/images/5244/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 64276: Big Bang Bar Illuminated Backglass 
+(Serial number 07.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1024x812</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=64277" 
+><span title="Image # 64277: Big Bang Bar Illuminated Playfield 
+(Serial number 07.)"><img src="https://www.ipdb.org/images/5244/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 64277: Big Bang Bar Illuminated Playfield 
+(Serial number 07.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1024x1266</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=64278" 
+><span title="Image # 64278: Big Bang Bar Backbox - Left 
+(Serial number 07.)"><img src="https://www.ipdb.org/images/5244/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=36 height=100 alt="Image # 64278: Big Bang Bar Backbox - Left 
+(Serial number 07.)"><br>Backbox - Left*</span></a><br><font size="-2">907x2500</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=64279" 
+><span title="Image # 64279: Big Bang Bar Cabinet - Right 
+(Serial number 07.)"><img src="https://www.ipdb.org/images/5244/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 64279: Big Bang Bar Cabinet - Right 
+(Serial number 07.)"><br>Cabinet - Right*</span></a><br><font size="-2">1024x413</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=64280" 
+><span title="Image # 64280: Big Bang Bar Cabinet - Front 
+(Serial number 07.)"><img src="https://www.ipdb.org/images/5244/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 64280: Big Bang Bar Cabinet - Front 
+(Serial number 07.)"><br>Cabinet - Front*</span></a><br><font size="-2">1024x745</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5244&amp;picno=64281" 
+><span title="Image # 64281: Big Bang Bar Illuminated Front View 
+(Serial number 07.)"><img src="https://www.ipdb.org/images/5244/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 64281: Big Bang Bar Illuminated Front View 
+(Serial number 07.)"><br>Illuminated Front View*</span></a><br><font size="-2">695x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+photos&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

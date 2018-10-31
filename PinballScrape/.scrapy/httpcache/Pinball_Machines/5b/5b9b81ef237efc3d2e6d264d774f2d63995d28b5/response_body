@@ -1,0 +1,265 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Chicago Coin 'Sporty'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Chicago Coin Sporty Flipperless Spring bumpers (14). A red post in lower playfield lights from within and does not spin. Pressing a button on the bottom of the cabinet deletes any free plays. This allows the location to pay off the player.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Chicago Coin 'Sporty' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Sporty</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2310">Sporty</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2310">2310</a> <I>/ April 26, 1940 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2310" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Chicago Coin'"><a href="search.pl?searchtype=advanced&amp;mfgid=81">Chicago Coin Machine Manufacturing Company (1932-1977)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April 26, 1940</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>79</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,200 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2310">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Archery - Baseball - Golf - Sailing - Swimming - Tennis</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Spring <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> (14). A red post in lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> lights from within and does not spin. Pressing a button on the bottom of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> deletes any <a target="glossary" class="glossarylink" href="/glossary.php#Free_Play">free&nbsp;plays</a>. This allows the location to pay off the player.</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=2198" 
+><span title="Image # 2198: Sporty Backglass "><img src="https://www.ipdb.org/images/2310/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 2198: Sporty Backglass "><br>Backglass</span></a><br><font size="-2">358x435</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=2199" 
+><span title="Image # 2199: Sporty Playfield "><img src="https://www.ipdb.org/images/2310/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 2199: Sporty Playfield "><br>Playfield</span></a><br><font size="-2">270x588</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=10929" 
+><span title="Image # 10929: Sporty Backglass "><img src="https://www.ipdb.org/images/2310/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 10929: Sporty Backglass "><br>Backglass</span></a><br><font size="-2">725x784</font><br>[Bob Lico]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=33153" 
+><span title="Image # 33153: Sporty Playfield "><img src="https://www.ipdb.org/images/2310/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 33153: Sporty Playfield "><br>Playfield</span></a><br><font size="-2">512x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49903" 
+><span title="Image # 49903: Sporty Backglass 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 49903: Sporty Backglass 
+(Serial number 12112.)"><br>Backglass*</span></a><br><font size="-2">1200x1362</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49904" 
+><span title="Image # 49904: Sporty Playfield 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 49904: Sporty Playfield 
+(Serial number 12112.)"><br>Playfield*</span></a><br><font size="-2">848x1576</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49905" 
+><span title="Image # 49905: Sporty Upper Playfield 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49905: Sporty Upper Playfield 
+(Serial number 12112.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49906" 
+><span title="Image # 49906: Sporty Middle Playfield 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49906: Sporty Middle Playfield 
+(Serial number 12112.)"><br>Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49907" 
+><span title="Image # 49907: Sporty Middle Playfield 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49907: Sporty Middle Playfield 
+(Serial number 12112.)"><br>Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49908" 
+><span title="Image # 49908: Sporty Lower Playfield 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 49908: Sporty Lower Playfield 
+(Serial number 12112.)"><br>Lower Playfield*</span></a><br><font size="-2">1052x900</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49909" 
+><span title="Image # 49909: Sporty Backbox - Left 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 49909: Sporty Backbox - Left 
+(Serial number 12112.)"><br>Backbox - Left*</span></a><br><font size="-2">568x1428</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49910" 
+><span title="Image # 49910: Sporty Backbox - Right 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 49910: Sporty Backbox - Right 
+(Serial number 12112.)"><br>Backbox - Right*</span></a><br><font size="-2">732x1576</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49911" 
+><span title="Image # 49911: Sporty Cabinet - Left 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 49911: Sporty Cabinet - Left 
+(Serial number 12112.)"><br>Cabinet - Left*</span></a><br><font size="-2">1125x405</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49912" 
+><span title="Image # 49912: Sporty Cabinet - Right 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=38 alt="Image # 49912: Sporty Cabinet - Right 
+(Serial number 12112.)"><br>Cabinet - Right*</span></a><br><font size="-2">1119x429</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49913" 
+><span title="Image # 49913: Sporty Cabinet - Front 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 49913: Sporty Cabinet - Front 
+(Serial number 12112.)"><br>Cabinet - Front*</span></a><br><font size="-2">1177x713</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49914" 
+><span title="Image # 49914: Sporty Under Playfield 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 49914: Sporty Under Playfield 
+(Serial number 12112.)"><br>Under Playfield*</span></a><br><font size="-2">573x1200</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49915" 
+><span title="Image # 49915: Sporty Replay/Novelty Play Mode Adjustment 
+(Located under the playfield. Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49915: Sporty Replay/Novelty Play Mode Adjustment 
+(Located under the playfield. Serial number 12112.)"><br>Replay/Novelty Play Mode Adjustment*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49916" 
+><span title="Image # 49916: Sporty Super Score/Special Relay 
+(Located under the playfield. Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49916: Sporty Super Score/Special Relay 
+(Located under the playfield. Serial number 12112.)"><br>Super Score/Special Relay*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49917" 
+><span title="Image # 49917: Sporty Total Play Counter 
+(Located under the playfield. Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49917: Sporty Total Play Counter 
+(Located under the playfield. Serial number 12112.)"><br>Total Play Counter*</span></a><br><font size="-2">1200x1600</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49918" 
+><span title="Image # 49918: Sporty Inside Front Door 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49918: Sporty Inside Front Door 
+(Serial number 12112.)"><br>Inside Front Door*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49919" 
+><span title="Image # 49919: Sporty Coin Door - Reverse 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 49919: Sporty Coin Door - Reverse 
+(Serial number 12112.)"><br>Coin Door - Reverse*</span></a><br><font size="-2">1200x779</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49920" 
+><span title="Image # 49920: Sporty Inside Cabinet 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 49920: Sporty Inside Cabinet 
+(Serial number 12112.)"><br>Inside Cabinet*</span></a><br><font size="-2">597x1200</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49921" 
+><span title="Image # 49921: Sporty Coin Slide - Detail 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49921: Sporty Coin Slide - Detail 
+(Serial number 12112.)"><br>Coin Slide - Detail*</span></a><br><font size="-2">1200x900</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49922" 
+><span title="Image # 49922: Sporty Coin Slide - Detail 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49922: Sporty Coin Slide - Detail 
+(Serial number 12112.)"><br>Coin Slide - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49923" 
+><span title="Image # 49923: Sporty Inside Backbox 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 49923: Sporty Inside Backbox 
+(Serial number 12112.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1786</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49924" 
+><span title="Image # 49924: Sporty Super Score Adjustment Plugs 
+(Located inside the backbox. Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 49924: Sporty Super Score Adjustment Plugs 
+(Located inside the backbox. Serial number 12112.)"><br>Super Score Adjustment Plugs*</span></a><br><font size="-2">1200x2130</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49925" 
+><span title="Image # 49925: Sporty Free Play Adjustment Plugs 
+(Located inside the backbox. Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 49925: Sporty Free Play Adjustment Plugs 
+(Located inside the backbox. Serial number 12112.)"><br>Free Play Adjustment Plugs*</span></a><br><font size="-2">1200x676</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=49926" 
+><span title="Image # 49926: Sporty Backglass - Reverse 
+(Serial number 12112.)"><img src="https://www.ipdb.org/images/2310/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 49926: Sporty Backglass - Reverse 
+(Serial number 12112.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1200x2130</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59048" 
+><span title="Image # 59048: Sporty Backglass "><img src="https://www.ipdb.org/images/2310/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 59048: Sporty Backglass "><br>Backglass</span></a><br><font size="-2">845x899</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59049" 
+><span title="Image # 59049: Sporty Illuminated Backglass "><img src="https://www.ipdb.org/images/2310/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 59049: Sporty Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">861x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59050" 
+><span title="Image # 59050: Sporty Backglass - Detail "><img src="https://www.ipdb.org/images/2310/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59050: Sporty Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59051" 
+><span title="Image # 59051: Sporty Backglass - Detail "><img src="https://www.ipdb.org/images/2310/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59051: Sporty Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59052" 
+><span title="Image # 59052: Sporty Illuminated Playfield "><img src="https://www.ipdb.org/images/2310/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59052: Sporty Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59053" 
+><span title="Image # 59053: Sporty Upper Playfield "><img src="https://www.ipdb.org/images/2310/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59053: Sporty Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59054" 
+><span title="Image # 59054: Sporty Lower Playfield "><img src="https://www.ipdb.org/images/2310/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59054: Sporty Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59055" 
+><span title="Image # 59055: Sporty Playfield - Detail "><img src="https://www.ipdb.org/images/2310/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59055: Sporty Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59056" 
+><span title="Image # 59056: Sporty Ball Shooter Gauge "><img src="https://www.ipdb.org/images/2310/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59056: Sporty Ball Shooter Gauge "><br>Ball Shooter Gauge</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59057" 
+><span title="Image # 59057: Sporty Cabinet - Right 
+(The game shown here has a repainted cabinet and a brace has been added to support the backbox, but we include it to show its other features.)"><img src="https://www.ipdb.org/images/2310/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 59057: Sporty Cabinet - Right 
+(The game shown here has a repainted cabinet and a brace has been added to support the backbox, but we include it to show its other features.)"><br>Cabinet - Right*</span></a><br><font size="-2">1062x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2310&amp;picno=59058" 
+><span title="Image # 59058: Sporty Illuminated Front View "><img src="https://www.ipdb.org/images/2310/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 59058: Sporty Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">866x900</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

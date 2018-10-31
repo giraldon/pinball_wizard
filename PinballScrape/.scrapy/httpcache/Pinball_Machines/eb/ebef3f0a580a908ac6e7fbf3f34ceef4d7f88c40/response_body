@@ -1,0 +1,341 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Data East 'Adventures of Rocky and Bullwinkle and Friends'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Data East Adventures of Rocky and Bullwinkle and Friends Mechanical Backbox Animation Flippers (2), Pop bumpers (3). 3-ball multiball. Backglass animation (Bullwinkle pulls from his hat either Rocky, a rhino, or a lion).  Kevin O'Connor Tim Seckel Kurt Andersen Jack Liddon Norm Wurz Brian Schmidt Kristina Donofrio John Carpenter Lonnie D. Ropp Brian Schmidt ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Data East 'Adventures of Rocky and Bullwinkle and Friends' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Adventures of Rocky and Bullwinkle and Friends</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="23">Adventures of Rocky and Bullwinkle and Friends</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=23">23</a> <I>/ February 01, 1993 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=23" target="showrate23"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=23" target="showrate23">91 ratings/66 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=23" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Data East'"><a href="search.pl?searchtype=advanced&amp;mfgid=98">Data East Pinball, Incorporated (1986-1994)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February 01, 1993</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500-5522-01</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>R&B</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=24">DataEast/Sega Version 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,500 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=23">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cartoon</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3). 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (Bullwinkle pulls from his hat either Rocky, a rhino, or a lion).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tim&nbsp;Seckel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tim%20Seckel">Tim&nbsp;Seckel</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kurt&nbsp;Andersen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kurt%20Andersen">Kurt&nbsp;Andersen</a></span>, <span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Liddon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Liddon">Jack&nbsp;Liddon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Wurz' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Wurz">Norm&nbsp;Wurz</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kristina&nbsp;Donofrio' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kristina%20Donofrio">Kristina&nbsp;Donofrio</a></span>, <span title="Click here to perform a search for all pinball games that 'John&nbsp;Carpenter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Carpenter">John&nbsp;Carpenter</a></span>, <span title="Click here to perform a search for all pinball games that 'Lonnie&nbsp;D.&nbsp;Ropp' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lonnie%20D.%20Ropp">Lonnie&nbsp;D.&nbsp;Ropp</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>It was initially reported to us that, at the direct demand of a French distributor, games shipped to France had black <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> instead of the normal blue, and that some of these black <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> games were also sent to Canada and locations in the United States. We now have images in this listing showing the black <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> games exported to England. Reportedly, they exported to Italy, too.<br><br>We previously listed the Manufacture Date as February, 1993 (no day specified).<br>This game was produced from Feb-1-1993 to Apr-23-1993.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Here's Something You'll Really Like!"<br>
+"Presto! Change-O! Pinball!"<br>
+"Moose Up Your Collections at Locations Nationwide"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/23/ROCKY.HTM" target="rulesheet">The Adventures of Rocky and Bullwinkle and Friends Guide Version 1.2 (May/31/199</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/23">http://www.pinballowners.com/owners/23</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 900 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/RAB_103.zip" >PinMAME Romset (1.03 Spanish)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 232 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/rab_130.zip" >PinMAME Romset (1.30)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 888 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/rab_320.zip" >PinMAME Romset (3.2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 888 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/Data_East_1993_Adventures_of_Rocky_and_Bullwinkle_and_Friends_ROMs.zip" >ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 19 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/Data_East_1993_Adventures_of_Rocky_and_Bullwinkle_and_Friends_Full_Manual.pdf" onClick="return purchasemanual();">Full Manual</a></td><td> [Data East USA, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 50 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/Data_East_1993_Adventures_of_Rocky_and_Bullwinkle_and_Friends_Instruction_Card.pdf" >Instruction Card</a></td><td> [Data East (Stern)]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 190 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/23/Data_East_Rocky_and_Bullwinkle_instruction_cards.zip" >Reproduction Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=18" 
+><span title="Image # 18: Adventures of Rocky and Bullwinkle and Friends Playfield "><img src="https://www.ipdb.org/images/23/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 18: Adventures of Rocky and Bullwinkle and Friends Playfield "><br>Playfield</span></a><br><font size="-2">504x756</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19" 
+><span title="Image # 19: Adventures of Rocky and Bullwinkle and Friends Backglass "><img src="https://www.ipdb.org/images/23/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 19: Adventures of Rocky and Bullwinkle and Friends Backglass "><br>Backglass</span></a><br><font size="-2">473x465</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=3240" 
+><span title="Image # 3240: Adventures of Rocky and Bullwinkle and Friends Flyer, Front "><img src="https://www.ipdb.org/images/23/tn_23f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3240: Adventures of Rocky and Bullwinkle and Friends Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">609x791</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=3241" 
+><span title="Image # 3241: Adventures of Rocky and Bullwinkle and Friends Flyer, Back "><img src="https://www.ipdb.org/images/23/tn_23f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3241: Adventures of Rocky and Bullwinkle and Friends Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">609x788</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=7930" 
+><span title="Image # 7930: Adventures of Rocky and Bullwinkle and Friends Backbox and Topper "><img src="https://www.ipdb.org/images/23/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7930: Adventures of Rocky and Bullwinkle and Friends Backbox and Topper "><br>Backbox and Topper</span></a><br><font size="-2">610x809</font><br>[Steve Nordseth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=7931" 
+><span title="Image # 7931: Adventures of Rocky and Bullwinkle and Friends Cabinet - Full View "><img src="https://www.ipdb.org/images/23/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 7931: Adventures of Rocky and Bullwinkle and Friends Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">681x1068</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=7932" 
+><span title="Image # 7932: Adventures of Rocky and Bullwinkle and Friends Cabinet - Left "><img src="https://www.ipdb.org/images/23/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 7932: Adventures of Rocky and Bullwinkle and Friends Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">690x664</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=7933" 
+><span title="Image # 7933: Adventures of Rocky and Bullwinkle and Friends Cabinet - Front "><img src="https://www.ipdb.org/images/23/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 7933: Adventures of Rocky and Bullwinkle and Friends Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">687x521</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=7934" 
+><span title="Image # 7934: Adventures of Rocky and Bullwinkle and Friends Upper Playfield "><img src="https://www.ipdb.org/images/23/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 7934: Adventures of Rocky and Bullwinkle and Friends Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">688x556</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=7935" 
+><span title="Image # 7935: Adventures of Rocky and Bullwinkle and Friends Lower Playfield "><img src="https://www.ipdb.org/images/23/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 7935: Adventures of Rocky and Bullwinkle and Friends Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">684x613</font><br>[Steve Nordseth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=11788" 
+><span title="Image # 11788: Adventures of Rocky and Bullwinkle and Friends Black Cabinet "><img src="https://www.ipdb.org/images/23/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11788: Adventures of Rocky and Bullwinkle and Friends Black Cabinet "><br>Black Cabinet</span></a><br><font size="-2">800x600</font><br>[Joe Newhart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=11789" 
+><span title="Image # 11789: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Front - 3 Slots "><img src="https://www.ipdb.org/images/23/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 11789: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Front - 3 Slots "><br>Black Cabinet Front - 3 Slots</span></a><br><font size="-2">369x600</font><br>[Joe Newhart]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19682" 
+><span title="Image # 19682: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Left "><img src="https://www.ipdb.org/images/23/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 19682: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Left "><br>Black Cabinet - Left</span></a><br><font size="-2">595x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19683" 
+><span title="Image # 19683: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Right "><img src="https://www.ipdb.org/images/23/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 19683: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Right "><br>Black Cabinet - Right</span></a><br><font size="-2">621x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19684" 
+><span title="Image # 19684: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox - Left "><img src="https://www.ipdb.org/images/23/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 19684: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox - Left "><br>Black Cabinet Backbox - Left</span></a><br><font size="-2">317x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19685" 
+><span title="Image # 19685: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox - Right "><img src="https://www.ipdb.org/images/23/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 19685: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox - Right "><br>Black Cabinet Backbox - Right</span></a><br><font size="-2">422x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19686" 
+><span title="Image # 19686: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Front - 1 Slot "><img src="https://www.ipdb.org/images/23/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 19686: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Front - 1 Slot "><br>Black Cabinet Front - 1 Slot</span></a><br><font size="-2">455x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19687" 
+><span title="Image # 19687: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox "><img src="https://www.ipdb.org/images/23/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 19687: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox "><br>Black Cabinet Backbox</span></a><br><font size="-2">449x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19688" 
+><span title="Image # 19688: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19688: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19689" 
+><span title="Image # 19689: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19689: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19690" 
+><span title="Image # 19690: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19690: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19691" 
+><span title="Image # 19691: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19691: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19692" 
+><span title="Image # 19692: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19692: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19693" 
+><span title="Image # 19693: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19693: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19694" 
+><span title="Image # 19694: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 19694: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">612x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19695" 
+><span title="Image # 19695: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19695: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Playfield - Detail "><br>Black Cabinet Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=19696" 
+><span title="Image # 19696: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Lower Playfield "><img src="https://www.ipdb.org/images/23/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19696: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Lower Playfield "><br>Black Cabinet Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=27985" 
+><span title="Image # 27985: Adventures of Rocky and Bullwinkle and Friends Behind Backglass - Hat Trick Mechanism "><img src="https://www.ipdb.org/images/23/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27985: Adventures of Rocky and Bullwinkle and Friends Behind Backglass - Hat Trick Mechanism "><br>Behind Backglass - Hat Trick Mechanism</span></a><br><font size="-2">1024x768</font><br>[Tim Sampson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=27986" 
+><span title="Image # 27986: Adventures of Rocky and Bullwinkle and Friends Inside Backbox "><img src="https://www.ipdb.org/images/23/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 27986: Adventures of Rocky and Bullwinkle and Friends Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">963x960</font><br>[Tim Sampson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32123" 
+><span title="Image # 32123: Adventures of Rocky and Bullwinkle and Friends Cabinet - Front "><img src="https://www.ipdb.org/images/23/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 32123: Adventures of Rocky and Bullwinkle and Friends Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x782</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32124" 
+><span title="Image # 32124: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><img src="https://www.ipdb.org/images/23/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32124: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32125" 
+><span title="Image # 32125: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><img src="https://www.ipdb.org/images/23/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32125: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32126" 
+><span title="Image # 32126: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><img src="https://www.ipdb.org/images/23/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32126: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32127" 
+><span title="Image # 32127: Adventures of Rocky and Bullwinkle and Friends Backbox - Right "><img src="https://www.ipdb.org/images/23/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=39 height=100 alt="Image # 32127: Adventures of Rocky and Bullwinkle and Friends Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x1232</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32128" 
+><span title="Image # 32128: Adventures of Rocky and Bullwinkle and Friends Boris Button "><img src="https://www.ipdb.org/images/23/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32128: Adventures of Rocky and Bullwinkle and Friends Boris Button "><br>Boris Button</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32129" 
+><span title="Image # 32129: Adventures of Rocky and Bullwinkle and Friends Drop Target Bank "><img src="https://www.ipdb.org/images/23/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32129: Adventures of Rocky and Bullwinkle and Friends Drop Target Bank "><br>Drop Target Bank</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32130" 
+><span title="Image # 32130: Adventures of Rocky and Bullwinkle and Friends Nell on Buzz Saw "><img src="https://www.ipdb.org/images/23/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32130: Adventures of Rocky and Bullwinkle and Friends Nell on Buzz Saw "><br>Nell on Buzz Saw</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32131" 
+><span title="Image # 32131: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32131: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32132" 
+><span title="Image # 32132: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32132: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">960x1280</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32133" 
+><span title="Image # 32133: Adventures of Rocky and Bullwinkle and Friends Playfield Detail "><img src="https://www.ipdb.org/images/23/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32133: Adventures of Rocky and Bullwinkle and Friends Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32134" 
+><span title="Image # 32134: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32134: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32135" 
+><span title="Image # 32135: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32135: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32136" 
+><span title="Image # 32136: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32136: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">960x1280</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32137" 
+><span title="Image # 32137: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><img src="https://www.ipdb.org/images/23/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32137: Adventures of Rocky and Bullwinkle and Friends Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32138" 
+><span title="Image # 32138: Adventures of Rocky and Bullwinkle and Friends Backbox Animation - Rocky "><img src="https://www.ipdb.org/images/23/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32138: Adventures of Rocky and Bullwinkle and Friends Backbox Animation - Rocky "><br>Backbox Animation - Rocky</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32139" 
+><span title="Image # 32139: Adventures of Rocky and Bullwinkle and Friends Backbox Animation - Rhino "><img src="https://www.ipdb.org/images/23/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32139: Adventures of Rocky and Bullwinkle and Friends Backbox Animation - Rhino "><br>Backbox Animation - Rhino</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32140" 
+><span title="Image # 32140: Adventures of Rocky and Bullwinkle and Friends Speaker Grille - Left "><img src="https://www.ipdb.org/images/23/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 32140: Adventures of Rocky and Bullwinkle and Friends Speaker Grille - Left "><br>Speaker Grille - Left</span></a><br><font size="-2">718x708</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32141" 
+><span title="Image # 32141: Adventures of Rocky and Bullwinkle and Friends Speaker Grille - Right "><img src="https://www.ipdb.org/images/23/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32141: Adventures of Rocky and Bullwinkle and Friends Speaker Grille - Right "><br>Speaker Grille - Right</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32142" 
+><span title="Image # 32142: Adventures of Rocky and Bullwinkle and Friends Light Shields "><img src="https://www.ipdb.org/images/23/tn_image-A26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 32142: Adventures of Rocky and Bullwinkle and Friends Light Shields "><br>Light Shields</span></a><br><font size="-2">1024x674</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32143" 
+><span title="Image # 32143: Adventures of Rocky and Bullwinkle and Friends Light Shields "><img src="https://www.ipdb.org/images/23/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 32143: Adventures of Rocky and Bullwinkle and Friends Light Shields "><br>Light Shields</span></a><br><font size="-2">1024x1302</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32144" 
+><span title="Image # 32144: Adventures of Rocky and Bullwinkle and Friends Light Shields "><img src="https://www.ipdb.org/images/23/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 32144: Adventures of Rocky and Bullwinkle and Friends Light Shields "><br>Light Shields</span></a><br><font size="-2">1024x1150</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32145" 
+><span title="Image # 32145: Adventures of Rocky and Bullwinkle and Friends Backbox Animation Artwork "><img src="https://www.ipdb.org/images/23/tn_image-A29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 32145: Adventures of Rocky and Bullwinkle and Friends Backbox Animation Artwork "><br>Backbox Animation Artwork</span></a><br><font size="-2">792x1457</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32146" 
+><span title="Image # 32146: Adventures of Rocky and Bullwinkle and Friends Backbox Animation Artwork "><img src="https://www.ipdb.org/images/23/tn_image-A30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 32146: Adventures of Rocky and Bullwinkle and Friends Backbox Animation Artwork "><br>Backbox Animation Artwork</span></a><br><font size="-2">792x1457</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32147" 
+><span title="Image # 32147: Adventures of Rocky and Bullwinkle and Friends Backbox Animation Artwork "><img src="https://www.ipdb.org/images/23/tn_image-A31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 32147: Adventures of Rocky and Bullwinkle and Friends Backbox Animation Artwork "><br>Backbox Animation Artwork</span></a><br><font size="-2">792x1457</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32148" 
+><span title="Image # 32148: Adventures of Rocky and Bullwinkle and Friends Light Shield "><img src="https://www.ipdb.org/images/23/tn_image-A32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 32148: Adventures of Rocky and Bullwinkle and Friends Light Shield "><br>Light Shield</span></a><br><font size="-2">998x452</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=32149" 
+><span title="Image # 32149: Adventures of Rocky and Bullwinkle and Friends Art Detail "><img src="https://www.ipdb.org/images/23/tn_image-A33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 32149: Adventures of Rocky and Bullwinkle and Friends Art Detail "><br>Art Detail</span></a><br><font size="-2">742x744</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=33342" 
+><span title="Image # 33342: Adventures of Rocky and Bullwinkle and Friends Cabinet - Detail "><img src="https://www.ipdb.org/images/23/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33342: Adventures of Rocky and Bullwinkle and Friends Cabinet - Detail "><br>Cabinet - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=33343" 
+><span title="Image # 33343: Adventures of Rocky and Bullwinkle and Friends Cabinet - Detail "><img src="https://www.ipdb.org/images/23/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33343: Adventures of Rocky and Bullwinkle and Friends Cabinet - Detail "><br>Cabinet - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=33344" 
+><span title="Image # 33344: Adventures of Rocky and Bullwinkle and Friends Shooter Cover "><img src="https://www.ipdb.org/images/23/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33344: Adventures of Rocky and Bullwinkle and Friends Shooter Cover "><br>Shooter Cover</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=33345" 
+><span title="Image # 33345: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><img src="https://www.ipdb.org/images/23/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33345: Adventures of Rocky and Bullwinkle and Friends Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=37357" 
+><span title="Image # 37357: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Export to England 
+(Game was located in Italy. Serial number 83017.)"><img src="https://www.ipdb.org/images/23/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 37357: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Export to England 
+(Game was located in Italy. Serial number 83017.)"><br>Black Cabinet - Export to England*</span></a><br><font size="-2">1024x832</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=37358" 
+><span title="Image # 37358: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Game Sticker - Export to England 
+(Game was located in Italy. Serial number 83017.)"><img src="https://www.ipdb.org/images/23/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 37358: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Game Sticker - Export to England 
+(Game was located in Italy. Serial number 83017.)"><br>Black Cabinet Game Sticker - Export to England*</span></a><br><font size="-2">787x640</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=37359" 
+><span title="Image # 37359: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Manufacture Date - Export to England 
+(Game was located in Italy. Serial number 83017.)"><img src="https://www.ipdb.org/images/23/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 37359: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Manufacture Date - Export to England 
+(Game was located in Italy. Serial number 83017.)"><br>Black Cabinet Manufacture Date - Export to England*</span></a><br><font size="-2">787x640</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=55000" 
+><span title="Image # 55000: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox - Right "><img src="https://www.ipdb.org/images/23/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 55000: Adventures of Rocky and Bullwinkle and Friends Black Cabinet Backbox - Right "><br>Black Cabinet Backbox - Right</span></a><br><font size="-2">413x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=55001" 
+><span title="Image # 55001: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Right "><img src="https://www.ipdb.org/images/23/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 55001: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Right "><br>Black Cabinet - Right</span></a><br><font size="-2">1200x539</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=55002" 
+><span title="Image # 55002: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Front View "><img src="https://www.ipdb.org/images/23/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 55002: Adventures of Rocky and Bullwinkle and Friends Black Cabinet - Front View "><br>Black Cabinet - Front View</span></a><br><font size="-2">408x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=23&amp;picno=63422" 
+><span title="Image # 63422: Adventures of Rocky and Bullwinkle and Friends Backglass 
+(On this game, Bullwinkle's right arm is broken.)"><img src="https://www.ipdb.org/images/23/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 63422: Adventures of Rocky and Bullwinkle and Friends Backglass 
+(On this game, Bullwinkle's right arm is broken.)"><br>Backglass*</span></a><br><font size="-2">1200x988</font><br>[Jean-Pierre Renault]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

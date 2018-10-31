@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Red 'N' Go'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Red 'N' Go Red and Go, Red-N-Go Flippers (2), Pop bumpers (3), Passive bumpers (4), Standup targets (8), Kick-out hole (1), Swinging target (1). An 'auto-shooter' located between the flippers propels the ball towards the swinging target. 3 or 5-ball play. Double match feature can be set for 2, 5 or 10 replays. No slingshots.
+
+Maximum displayed point score is 9,999 points per player.
+
+Replay wheel maximum: 20  Art Stenholm Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Red 'N' Go' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Red 'N' Go</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="6143">Red 'N' Go</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=6143">6143</a> <I>/ 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=6143" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=350">Williams Electronic Manufacturing Company (1958-1967) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=6143">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Automobile Travel</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Swinging_Target">Swinging&nbsp;target</a> (1). An "auto-shooter" located between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> propels the ball towards the <a target="glossary" class="glossarylink" href="/glossary.php#Swinging_Target">swinging&nbsp;target</a>. 3 or 5-ball play. Double <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> feature can be set for 2, 5 or 10 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a>. No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>.<br><br>Maximum displayed point score is 9,999 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 20<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Art&nbsp;Stenholm' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Art%20Stenholm">Art&nbsp;Stenholm</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This game is the same as <span title="Click here to open a new window and display Williams' 1964 'Stop 'N' Go'"><a target="game2386" href="machine.cgi?id=2386">Williams' 1964 'Stop 'N' Go'</a></span> but with a different name on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> still shows the name Stop 'N' Go. The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> name is not found in a 1967 Williams parts catalog (covering games dating back to 1963) nor in any Williams documentation that we have. At first, we thought this game was a single instance of an <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> modification but Federico Croci, a collector in Italy, tells that he has seen several of these games in Europe, especially Switzerland and France. The game pictured here with serial number 8455 is located in Switzerland. We don't know the reason for the name change and the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> images we have seen look like a professional job of silk screening. <a target="glossary" class="glossarylink" href="/glossary.php#Manufacturers">Manufacturers</a> were known to make made name changes for exported games if the original name was problematic. Until we have more information, we will show this game as original manufacture by Williams.</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61925" 
+><span title="Image # 61925: Red 'N' Go Backglass 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 61925: Red 'N' Go Backglass 
+(Serial number 8455.)"><br>Backglass*</span></a><br><font size="-2">558x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61926" 
+><span title="Image # 61926: Red 'N' Go Playfield 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 61926: Red 'N' Go Playfield 
+(Serial number 8455.)"><br>Playfield*</span></a><br><font size="-2">406x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61927" 
+><span title="Image # 61927: Red 'N' Go Playfield 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 61927: Red 'N' Go Playfield 
+(Serial number 8455.)"><br>Playfield*</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61928" 
+><span title="Image # 61928: Red 'N' Go Flipper Area 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61928: Red 'N' Go Flipper Area 
+(Serial number 8455.)"><br>Flipper Area*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61929" 
+><span title="Image # 61929: Red 'N' Go Card Holder 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 61929: Red 'N' Go Card Holder 
+(Serial number 8455.)"><br>Card Holder*</span></a><br><font size="-2">640x412</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61930" 
+><span title="Image # 61930: Red 'N' Go Manufacturer 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61930: Red 'N' Go Manufacturer 
+(Serial number 8455.)"><br>Manufacturer*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61931" 
+><span title="Image # 61931: Red 'N' Go Cabinet - Left 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 61931: Red 'N' Go Cabinet - Left 
+(Serial number 8455.)"><br>Cabinet - Left*</span></a><br><font size="-2">491x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61932" 
+><span title="Image # 61932: Red 'N' Go Cabinet - Right 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 61932: Red 'N' Go Cabinet - Right 
+(Serial number 8455.)"><br>Cabinet - Right*</span></a><br><font size="-2">495x471</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61933" 
+><span title="Image # 61933: Red 'N' Go Cabinet - Front View 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 61933: Red 'N' Go Cabinet - Front View 
+(Serial number 8455.)"><br>Cabinet - Front View*</span></a><br><font size="-2">344x583</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61934" 
+><span title="Image # 61934: Red 'N' Go Serial Number 
+(The inside of this cabinet is tagged as serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 61934: Red 'N' Go Serial Number 
+(The inside of this cabinet is tagged as serial number 8455.)"><br>Serial Number*</span></a><br><font size="-2">411x294</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61935" 
+><span title="Image # 61935: Red 'N' Go Inside Front Door 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61935: Red 'N' Go Inside Front Door 
+(Serial number 8455.)"><br>Inside Front Door*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61936" 
+><span title="Image # 61936: Red 'N' Go Inside Cabinet 
+(The inside walls of this cabinet is lined with sound deadening panels, probably added by an operator. No bells are visible. Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61936: Red 'N' Go Inside Cabinet 
+(The inside walls of this cabinet is lined with sound deadening panels, probably added by an operator. No bells are visible. Serial number 8455.)"><br>Inside Cabinet*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61937" 
+><span title="Image # 61937: Red 'N' Go Inside Cabinet 
+(The inside walls of this cabinet is lined with sound deadening panels, probably added by an operator. Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61937: Red 'N' Go Inside Cabinet 
+(The inside walls of this cabinet is lined with sound deadening panels, probably added by an operator. Serial number 8455.)"><br>Inside Cabinet*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61938" 
+><span title="Image # 61938: Red 'N' Go Inside Cabinet - Serial Number 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61938: Red 'N' Go Inside Cabinet - Serial Number 
+(Serial number 8455.)"><br>Inside Cabinet - Serial Number*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61939" 
+><span title="Image # 61939: Red 'N' Go Inside Cabinet - Detail 
+(The inside walls of this cabinet is lined with sound deadening panels, probably added by an operator. Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61939: Red 'N' Go Inside Cabinet - Detail 
+(The inside walls of this cabinet is lined with sound deadening panels, probably added by an operator. Serial number 8455.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61940" 
+><span title="Image # 61940: Red 'N' Go Inside Backbox 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 61940: Red 'N' Go Inside Backbox 
+(Serial number 8455.)"><br>Inside Backbox*</span></a><br><font size="-2">519x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61941" 
+><span title="Image # 61941: Red 'N' Go Backglass - Reverse 
+(Serial number 8455.)"><img src="https://www.ipdb.org/images/6143/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 61941: Red 'N' Go Backglass - Reverse 
+(Serial number 8455.)"><br>Backglass - Reverse*</span></a><br><font size="-2">640x457</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6143&amp;picno=61942" 
+><span title="Image # 61942: Red 'N' Go Backglass "><img src="https://www.ipdb.org/images/6143/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 61942: Red 'N' Go Backglass "><br>Backglass</span></a><br><font size="-2">1024x1024</font><br>[Federico Croci]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

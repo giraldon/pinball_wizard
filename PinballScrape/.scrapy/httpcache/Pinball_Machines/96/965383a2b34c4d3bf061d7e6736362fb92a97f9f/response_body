@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'White Water'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams White Water WhiteWater Flippers (3), Pop bumpers (3), Upper mini-playfield, Left outlane kickback. Multiple ramps. 'Whirlpool' funnel. Interactive BigFoot figure that needs to be distracted in order to let the ball come into his cave.  Bigfoot turns and spins head for certain shots.  John Youssi Dennis Nordman Scott Slomiany Win Schilling Chris Granner Mike Boon Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'White Water' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>White Water</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2768">White Water</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2768">2768</a> <I>/ January, 1993 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2768" target="showrate2768"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2768" target="showrate2768">374 ratings/240 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2768" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1993</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50018</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>WW, WH20, WH2O</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=31">Williams WPC (Fliptronics 2)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,008 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2768">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Rafting, Water Sports, Myth and Legend</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), Upper mini-playfield, Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a>. Multiple <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>. "<a target="glossary" class="glossarylink" href="/glossary.php#Whirlpool">Whirlpool</a>" funnel.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Interactive BigFoot figure that needs to be distracted in order to let the ball come into his cave.  Bigfoot turns and spins <a target="glossary" class="glossarylink" href="/glossary.php#Head">head</a> for certain shots.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dennis&nbsp;Nordman' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dennis%20Nordman">Dennis&nbsp;Nordman</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Slomiany' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Slomiany">Scott&nbsp;Slomiany</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Win&nbsp;Schilling' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Win%20Schilling">Win&nbsp;Schilling</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mike&nbsp;Boon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mike%20Boon">Mike&nbsp;Boon</a></span></td></tr>
+<!-- 4446 == "Revenge From Mars" -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Needs to be kept clean as there are optical sensors on the outer sides of some plastic lanes, upper mini-playfield can be a bit hard to get off.<br><br>Dennis Nordman said his 1952 Dodge panel truck is shown on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and that Big Foot is based on his own countenance.<br><br>Pictured in this listing is a "negative" image of the back<ignore>box topper and in this image we see the Williams logo is at the center and not on the left side as found in production games, as well as the absence of the eagle on the right side. John Youssi thought it might be a "film separation" but referred us to Greg Freres who conceived this topper. We asked Greg to explain this negative image and its place in the manufacture of the topper artwork. Greg replies:<P style="padding-left:30px;"><I>This is is a film "continuous tone" negative of what was probably the "color comp" that John prepared before going to the final airbrushed painting. This is not yet a film separation - that would be the next step in the process (see below). We probably experimented with the rough color piece before getting too far into the project.<br><br>All of our full color work from paintings had an intermediate step in the process. After completing the full color illustration for a back<ignore>glass, we sent that to our color separator and they would shoot a 8x10 color transparency, first a negative, then a positive image. That transparency was then sent back to the color separator and it would be placed on a drum scanner for scanning into their system so they could output the necessary CMYK films for either silk-screen (backglasses printed on glass) or litho printing (translites on plastic). The color adjustments were very different for these two methods of printing including size of the dot patterns, angles of the dot patterns relative to each other, and density setting when creating the films to compensate for each of the printing methods.<br><br>Back when illustrators worked on illustration board, some separators would literally "peel" the top layer of illustration board off of the backing so they could roll the illustration onto a drum scanner for better color matching (think first generation). But we requested our separator NOT to peel the illustration so we could have the art intact without risk of damage. Since illustration for advertising was less "sacred" to the end user, illustrators were less finicky about the end of life for the illustration since the agency they did the work for probably didn't give the art back to the artist unless requested in the contract/agreement.<br><br>So the image that we used from the transparency was more 2nd generation since the original art was scaled down to 8x10 then enlarged back to full size for the back<ignore>glass (90% of pinball back<ignore>glasses were painted at same size as the printed piece but some were painted larger, and reduced down to the back<ignore>glass size to hold details better. One example of this for me was <a target="game4446" href="machine.cgi?id=4446">"Revenge From Mars"</a> - since the back<ignore>glass size was quite a bit smaller than what we did on standard pinball cab<ignore>inets I made the choice to paint the illustration larger, again to hold details better.)</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Go with the Flow"<br>
+"White Water is a ball is a ball is a ball..."<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2768/WHITEWAT.HTM" target="rulesheet">Whitewater Guide (Jul/26/1995), by Sigma</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/2768/WWATRTIP.TXT" target="rulesheet">Whitewater Tip Sheet (Mar/12/1993), by David Stewart</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.paisleypinball.com/ww.htm">http://www.paisleypinball.com/ww.htm</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2768">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=JsioseuXYAk">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 357 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_lh6.zip" >Home ROM LH6 </a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 348 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 572 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_p1.zip" >PinMAME Romset (L-2, P-1 sound)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 571 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_p2.zip" >PinMAME Romset (L-2, P-2 sound)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 349 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 349 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_l4.zip" >PinMAME Romset (L-4)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1024 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_l5.zip" >PinMAME Romset (L-5)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 357 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_lh5.zip" >PinMAME Romset (LH-5)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1023 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/ww_p8.zip" >PinMAME Romset (P-8, P-2 Sound)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 349 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/wwatr_l2.zip" >Revision LA-2 Game ROM</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 344 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/wwatr_p8.zip" >Revision P-8 Game ROM (Allows All 3 Gold Mine Awards)</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 726 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_Sound_ROMs.zip" >Sound ROMs</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 360 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_Whitewater_L5_rom_revision.zip" >Whitewater L5 rom revision</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_English_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_Operators_Handbook.pdf" onClick="return purchasemanual();">Operators Handbook</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 208 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 9 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_Service_Bulletin_50.pdf" >Service Bulletin #50</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 5 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2768/Williams_1993_White_Water_Service_Bulletin_51.pdf" >Service Bulletin #51</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=4578" 
+><span title="Image # 4578: White Water Flyer, Front "><img src="https://www.ipdb.org/images/2768/tn_2768f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4578: White Water Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=4579" 
+><span title="Image # 4579: White Water Flyer, Back "><img src="https://www.ipdb.org/images/2768/tn_2768f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4579: White Water Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5256" 
+><span title="Image # 5256: White Water Illuminated Front View "><img src="https://www.ipdb.org/images/2768/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 5256: White Water Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">640x853</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5257" 
+><span title="Image # 5257: White Water Illuminated Translite "><img src="https://www.ipdb.org/images/2768/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5257: White Water Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5258" 
+><span title="Image # 5258: White Water Waterfall Topper "><img src="https://www.ipdb.org/images/2768/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5258: White Water Waterfall Topper "><br>Waterfall Topper</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5259" 
+><span title="Image # 5259: White Water Illuminated Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 5259: White Water Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">640x853</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5260" 
+><span title="Image # 5260: White Water Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5260: White Water Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5261" 
+><span title="Image # 5261: White Water Insanity Falls "><img src="https://www.ipdb.org/images/2768/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5261: White Water Insanity Falls "><br>Insanity Falls</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5262" 
+><span title="Image # 5262: White Water Bigfoot Smiling "><img src="https://www.ipdb.org/images/2768/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5262: White Water Bigfoot Smiling "><br>Bigfoot Smiling</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5263" 
+><span title="Image # 5263: White Water Playfield - Ball View "><img src="https://www.ipdb.org/images/2768/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5263: White Water Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5264" 
+><span title="Image # 5264: White Water Lost Mine "><img src="https://www.ipdb.org/images/2768/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5264: White Water Lost Mine "><br>Lost Mine</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5265" 
+><span title="Image # 5265: White Water Boulder Garden "><img src="https://www.ipdb.org/images/2768/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5265: White Water Boulder Garden "><br>Boulder Garden</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5266" 
+><span title="Image # 5266: White Water Bigfoot's Cave "><img src="https://www.ipdb.org/images/2768/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5266: White Water Bigfoot's Cave "><br>Bigfoot's Cave</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=5267" 
+><span title="Image # 5267: White Water Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5267: White Water Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Jeff Ball]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=8618" 
+><span title="Image # 8618: White Water Backbox and Topper "><img src="https://www.ipdb.org/images/2768/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 8618: White Water Backbox and Topper "><br>Backbox and Topper</span></a><br><font size="-2">599x738</font><br>[Steve Nordseth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=8620" 
+><span title="Image # 8620: White Water Cabinet - Right "><img src="https://www.ipdb.org/images/2768/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 8620: White Water Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">652x787</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=8621" 
+><span title="Image # 8621: White Water Cabinet - Left "><img src="https://www.ipdb.org/images/2768/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 8621: White Water Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">658x801</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=8622" 
+><span title="Image # 8622: White Water Cabinet - Front "><img src="https://www.ipdb.org/images/2768/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 8622: White Water Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">574x560</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9339" 
+><span title="Image # 9339: White Water Cabinet - Full View "><img src="https://www.ipdb.org/images/2768/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 9339: White Water Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">550x862</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9340" 
+><span title="Image # 9340: White Water Cabinet - Left "><img src="https://www.ipdb.org/images/2768/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 9340: White Water Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">500x504</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9341" 
+><span title="Image # 9341: White Water Cabinet - Right "><img src="https://www.ipdb.org/images/2768/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 9341: White Water Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">500x487</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9342" 
+><span title="Image # 9342: White Water Cabinet - Front "><img src="https://www.ipdb.org/images/2768/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 9342: White Water Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">500x346</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9343" 
+><span title="Image # 9343: White Water Backbox and Topper "><img src="https://www.ipdb.org/images/2768/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9343: White Water Backbox and Topper "><br>Backbox and Topper</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9344" 
+><span title="Image # 9344: White Water Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9344: White Water Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9345" 
+><span title="Image # 9345: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9345: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9346" 
+><span title="Image # 9346: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9346: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9347" 
+><span title="Image # 9347: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9347: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9348" 
+><span title="Image # 9348: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9348: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9349" 
+><span title="Image # 9349: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9349: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9350" 
+><span title="Image # 9350: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9350: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9352" 
+><span title="Image # 9352: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9352: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9353" 
+><span title="Image # 9353: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9353: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9354" 
+><span title="Image # 9354: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9354: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9355" 
+><span title="Image # 9355: White Water Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9355: White Water Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9356" 
+><span title="Image # 9356: White Water Inside Cabinet "><img src="https://www.ipdb.org/images/2768/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9356: White Water Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9357" 
+><span title="Image # 9357: White Water Under Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9357: White Water Under Playfield "><br>Under Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=9358" 
+><span title="Image # 9358: White Water Inside Backbox "><img src="https://www.ipdb.org/images/2768/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9358: White Water Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=21911" 
+><span title="Image # 21911: White Water Partially Stripped Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21911: White Water Partially Stripped Playfield - Detail "><br>Partially Stripped Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=21912" 
+><span title="Image # 21912: White Water Partially Stripped Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21912: White Water Partially Stripped Playfield - Detail "><br>Partially Stripped Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=21913" 
+><span title="Image # 21913: White Water Partially Stripped Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21913: White Water Partially Stripped Playfield - Detail "><br>Partially Stripped Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=21914" 
+><span title="Image # 21914: White Water Partially Stripped Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21914: White Water Partially Stripped Playfield - Detail "><br>Partially Stripped Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=21915" 
+><span title="Image # 21915: White Water Partially Stripped Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21915: White Water Partially Stripped Playfield - Detail "><br>Partially Stripped Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=21916" 
+><span title="Image # 21916: White Water Partially Stripped Playfield - Detail "><img src="https://www.ipdb.org/images/2768/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21916: White Water Partially Stripped Playfield - Detail "><br>Partially Stripped Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=41872" 
+><span title="Image # 41872: White Water Illuminated Backglass and Topper "><img src="https://www.ipdb.org/images/2768/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 41872: White Water Illuminated Backglass and Topper "><br>Illuminated Backglass and Topper</span></a><br><font size="-2">836x1196</font><br>[Marco Del Ry]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=41873" 
+><span title="Image # 41873: White Water Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41873: White Water Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Marco Del Ry]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=41874" 
+><span title="Image # 41874: White Water Bigfoot "><img src="https://www.ipdb.org/images/2768/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41874: White Water Bigfoot "><br>Bigfoot</span></a><br><font size="-2">1200x900</font><br>[Marco Del Ry]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=43226" 
+><span title="Image # 43226: White Water Illuminated Translite "><img src="https://www.ipdb.org/images/2768/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 43226: White Water Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">1200x818</font><br>[John Abrahamian]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=45274" 
+><span title="Image # 45274: White Water Translite "><img src="https://www.ipdb.org/images/2768/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 45274: White Water Translite "><br>Translite</span></a><br><font size="-2">1024x681</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=45275" 
+><span title="Image # 45275: White Water Backbox - Right "><img src="https://www.ipdb.org/images/2768/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 45275: White Water Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">645x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=45276" 
+><span title="Image # 45276: White Water Cabinet - Right "><img src="https://www.ipdb.org/images/2768/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 45276: White Water Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x470</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=45277" 
+><span title="Image # 45277: White Water Cabinet - Front View "><img src="https://www.ipdb.org/images/2768/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 45277: White Water Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">865x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=47751" 
+><span title="Image # 47751: White Water Stripped Playfield "><img src="https://www.ipdb.org/images/2768/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 47751: White Water Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1200x2449</font><br>[Ari Sovijärvi]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=49251" 
+><span title="Image # 49251: White Water Sample Game - Playfield 
+(The artist signed this particular playfield.)"><img src="https://www.ipdb.org/images/2768/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 49251: White Water Sample Game - Playfield 
+(The artist signed this particular playfield.)"><br>Sample Game - Playfield*</span></a><br><font size="-2">1200x2465</font><br>[Scott Montesi]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=49431" 
+><span title="Image # 49431: White Water Early Production Upper Playfield - Detail 
+(Just like the game in the flyer, there is no playfield art behind the flipper. Serial number 100085.)"><img src="https://www.ipdb.org/images/2768/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49431: White Water Early Production Upper Playfield - Detail 
+(Just like the game in the flyer, there is no playfield art behind the flipper. Serial number 100085.)"><br>Early Production Upper Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Keith Elwin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=70977" 
+><span title="Image # 70977: White Water Factory Topper Negative 
+(Measured approximately 7 inches by 9 inches.)"><img src="https://www.ipdb.org/images/2768/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 70977: White Water Factory Topper Negative 
+(Measured approximately 7 inches by 9 inches.)"><br>Factory Topper Negative*</span></a><br><font size="-2">1200x959</font><br>[James Loflin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2768&amp;picno=70978" 
+><span title="Image # 70978: White Water Factory Topper Negative 
+(Measured approximately 7 inches by 9 inches)"><img src="https://www.ipdb.org/images/2768/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 70978: White Water Factory Topper Negative 
+(Measured approximately 7 inches by 9 inches)"><br>Factory Topper Negative*</span></a><br><font size="-2">1200x838</font><br>[James Loflin]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

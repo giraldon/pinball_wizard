@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Dancing Lady'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Dancing Lady Mechanical Backbox Animation Flippers (2), Pop bumpers (4), Slingshots (2), Carousel roto-targets (5), Standup targets (4), Kick-out holes (2), Backbox animation (ballerina spins when motor turns).
+
+Maximum displayed point score is 1,999 points per player.
+
+Tilt penalty: game over.  Art Stenholm Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Dancing Lady' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Dancing Lady</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="635">Dancing Lady</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=635">635</a> <I>/ November, 1966 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=635" target="showrate635"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=635" target="showrate635">36 ratings/22 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=635" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1966</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>232</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,675 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=635">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Ballet - Dancing - Nightlife</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Carousel_roto-target">Carousel&nbsp;roto-targets</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (ballerina spins when motor turns).<br><br>Maximum displayed point score is 1,999 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Tilt">Tilt</a> penalty: game over.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Art&nbsp;Stenholm' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Art%20Stenholm">Art&nbsp;Stenholm</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Dancing Lady was the first pinball machine to have these features:<br>1) decagon score reels<br>2) score <a target="glossary" class="glossarylink" href="/glossary.php#Card_Holder">card&nbsp;holder</a> with ball-in-play and game-over lights<br>3) <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> <a target="glossary" class="glossarylink" href="/glossary.php#Carousel_roto-target">carousel&nbsp;roto-targets</a><br><br>Dancing Lady was the first Gottlieb machine to adopt these features already in use by other manufacturers:<br>1) triple coin chutes<br>2) all-stainless steel front molding (lock-down bar)<br>3) automatic ball-lift, a feature already in use by Bally, Chicago Coin, and Williams. Keeney also used it right up to their last game <span title="Click here to open a new window and display Keeney's 1964 'Arrowhead'"><a target="game95" href="machine.cgi?id=95">Keeney's 1964 'Arrowhead'</a></span> in August 1964.<br><br>Sample games, like the one shown in the flyer, had a slightly shorter <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> than the production games. Additionally, the sample <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> had different colors around the score reels of each player, whereas the production <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> used a black color for all players. Most of the artwork appears to have been redrawn in the production glass. The A-B-C-D <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> artwork of the sample game were also changed and recolored for the production game.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cash Box, Nov-19-1966, page 80 (sample game)<br>
+The Billboard, Dec-31-1966, page 51<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 84<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 65 (sample game)<br>
+Mike Pacak's Pinball Flyer Reference Book A-F (sample game)<br>
+Pinball Trader, Vol 1 No. 3, 1989, page 14 (sample game)<br>
+The Pinball Compendium Electro-mechanical Era, page 158<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/635">http://www.pinballowners.com/owners/635</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=4978" 
+><span title="Image # 4978: Dancing Lady Flyer, Front "><img src="https://www.ipdb.org/images/635/tn_635f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4978: Dancing Lady Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">875x1117</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=4979" 
+><span title="Image # 4979: Dancing Lady Flyer, Back "><img src="https://www.ipdb.org/images/635/tn_635f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 4979: Dancing Lady Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">791x1108</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=6133" 
+><span title="Image # 6133: Dancing Lady Backglass "><img src="https://www.ipdb.org/images/635/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 6133: Dancing Lady Backglass "><br>Backglass</span></a><br><font size="-2">678x551</font><br>[Riffhard]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=6134" 
+><span title="Image # 6134: Dancing Lady Playfield "><img src="https://www.ipdb.org/images/635/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 6134: Dancing Lady Playfield "><br>Playfield</span></a><br><font size="-2">483x839</font><br>[Riffhard]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=6135" 
+><span title="Image # 6135: Dancing Lady Cabinet - Front View "><img src="https://www.ipdb.org/images/635/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 6135: Dancing Lady Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">546x839</font><br>[Riffhard]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=8719" 
+><span title="Image # 8719: Dancing Lady Backglass "><img src="https://www.ipdb.org/images/635/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 8719: Dancing Lady Backglass "><br>Backglass</span></a><br><font size="-2">800x593</font><br>[Stephen M  Schott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=8720" 
+><span title="Image # 8720: Dancing Lady Illuminated Backglass "><img src="https://www.ipdb.org/images/635/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 8720: Dancing Lady Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">697x599</font><br>[Stephen M  Schott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=8721" 
+><span title="Image # 8721: Dancing Lady Playfield "><img src="https://www.ipdb.org/images/635/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 8721: Dancing Lady Playfield "><br>Playfield</span></a><br><font size="-2">614x599</font><br>[Stephen M  Schott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=8722" 
+><span title="Image # 8722: Dancing Lady Instructions and Score Card "><img src="https://www.ipdb.org/images/635/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=38 alt="Image # 8722: Dancing Lady Instructions and Score Card "><br>Instructions and Score Card</span></a><br><font size="-2">800x301</font><br>[Stephen M  Schott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=8723" 
+><span title="Image # 8723: Dancing Lady Cabinet - Left "><img src="https://www.ipdb.org/images/635/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 8723: Dancing Lady Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">750x599</font><br>[Stephen M  Schott]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=8724" 
+><span title="Image # 8724: Dancing Lady Cabinet - Front "><img src="https://www.ipdb.org/images/635/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 8724: Dancing Lady Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">737x599</font><br>[Stephen M  Schott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=17827" 
+><span title="Image # 17827: Dancing Lady Sample Game -  Backglass 
+(Besides having multiple colors around the score reels, this glass, and the Sample backbox, were slightly shorter than the production version.)"><img src="https://www.ipdb.org/images/635/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 17827: Dancing Lady Sample Game -  Backglass 
+(Besides having multiple colors around the score reels, this glass, and the Sample backbox, were slightly shorter than the production version.)"><br>Sample Game -  Backglass*</span></a><br><font size="-2">704x508</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=18072" 
+><span title="Image # 18072: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18072: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">857x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=18073" 
+><span title="Image # 18073: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18073: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">857x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=18074" 
+><span title="Image # 18074: Dancing Lady Inside Backbox "><img src="https://www.ipdb.org/images/635/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18074: Dancing Lady Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">857x643</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=18075" 
+><span title="Image # 18075: Dancing Lady Backbox Animation Unit 
+(The animation unit is the silver cylindrical device mounted on the wood insert.)"><img src="https://www.ipdb.org/images/635/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18075: Dancing Lady Backbox Animation Unit 
+(The animation unit is the silver cylindrical device mounted on the wood insert.)"><br>Backbox Animation Unit*</span></a><br><font size="-2">857x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=18076" 
+><span title="Image # 18076: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18076: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">643x857</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=18077" 
+><span title="Image # 18077: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18077: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">857x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=20928" 
+><span title="Image # 20928: Dancing Lady German Flyer 
+(This flyer shows the slightly shorter backbox with the shorter and more colorful Early Production backglass.)"><img src="https://www.ipdb.org/images/635/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 20928: Dancing Lady German Flyer 
+(This flyer shows the slightly shorter backbox with the shorter and more colorful Early Production backglass.)"><br>German Flyer*</span></a><br><font size="-2">1024x1438</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=25048" 
+><span title="Image # 25048: Dancing Lady Sample Game - Shorter Backbox 
+(Serial number '01099 S'.)"><img src="https://www.ipdb.org/images/635/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 25048: Dancing Lady Sample Game - Shorter Backbox 
+(Serial number '01099 S'.)"><br>Sample Game - Shorter Backbox*</span></a><br><font size="-2">521x419</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=25049" 
+><span title="Image # 25049: Dancing Lady Sample Game - Backbox Left 
+(Serial number '01099 S'.)"><img src="https://www.ipdb.org/images/635/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 25049: Dancing Lady Sample Game - Backbox Left 
+(Serial number '01099 S'.)"><br>Sample Game - Backbox Left*</span></a><br><font size="-2">500x617</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=25050" 
+><span title="Image # 25050: Dancing Lady Sample Game - Serial Number 
+(Serial number '01099 S'.)"><img src="https://www.ipdb.org/images/635/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 25050: Dancing Lady Sample Game - Serial Number 
+(Serial number '01099 S'.)"><br>Sample Game - Serial Number*</span></a><br><font size="-2">600x564</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=25051" 
+><span title="Image # 25051: Dancing Lady Sample Game - German Pricing 
+(Serial number '01099 S'.)"><img src="https://www.ipdb.org/images/635/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25051: Dancing Lady Sample Game - German Pricing 
+(Serial number '01099 S'.)"><br>Sample Game - German Pricing*</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=30298" 
+><span title="Image # 30298: Dancing Lady Playfield - Downfield View "><img src="https://www.ipdb.org/images/635/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30298: Dancing Lady Playfield - Downfield View "><br>Playfield - Downfield View</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=30414" 
+><span title="Image # 30414: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30414: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=30415" 
+><span title="Image # 30415: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30415: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=30416" 
+><span title="Image # 30416: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30416: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=30417" 
+><span title="Image # 30417: Dancing Lady Playfield - Detail "><img src="https://www.ipdb.org/images/635/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30417: Dancing Lady Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=30418" 
+><span title="Image # 30418: Dancing Lady Carousel Roto-targets "><img src="https://www.ipdb.org/images/635/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30418: Dancing Lady Carousel Roto-targets "><br>Carousel Roto-targets</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=34722" 
+><span title="Image # 34722: Dancing Lady Sample Game -  Backglass 
+(Besides having multiple colors around the score reels, this glass, and the Sample backbox, were slightly shorter than the production version.)"><img src="https://www.ipdb.org/images/635/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 34722: Dancing Lady Sample Game -  Backglass 
+(Besides having multiple colors around the score reels, this glass, and the Sample backbox, were slightly shorter than the production version.)"><br>Sample Game -  Backglass*</span></a><br><font size="-2">982x768</font><br>[Marcel Roth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=34723" 
+><span title="Image # 34723: Dancing Lady Sample and Production Backboxes 
+(Besides having multiple colors around the score reels, the Sample backglass and backbox were slightly shorter than the production version. Most of the artwork appears to have been redrawn in the production glass.)"><img src="https://www.ipdb.org/images/635/tn_image-A28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 34723: Dancing Lady Sample and Production Backboxes 
+(Besides having multiple colors around the score reels, the Sample backglass and backbox were slightly shorter than the production version. Most of the artwork appears to have been redrawn in the production glass.)"><br>Sample and Production Backboxes*</span></a><br><font size="-2">1024x736</font><br>[Marcel Roth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=34770" 
+><span title="Image # 34770: Dancing Lady Sample Game - Outlane Detail 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><img src="https://www.ipdb.org/images/635/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34770: Dancing Lady Sample Game - Outlane Detail 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><br>Sample Game - Outlane Detail*</span></a><br><font size="-2">1024x1365</font><br>[Marcel Roth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=34771" 
+><span title="Image # 34771: Dancing Lady Production Game - Outlane Detail 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><img src="https://www.ipdb.org/images/635/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34771: Dancing Lady Production Game - Outlane Detail 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><br>Production Game - Outlane Detail*</span></a><br><font size="-2">1024x1365</font><br>[Marcel Roth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=34772" 
+><span title="Image # 34772: Dancing Lady Sample Game - Lower Playfield 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><img src="https://www.ipdb.org/images/635/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34772: Dancing Lady Sample Game - Lower Playfield 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><br>Sample Game - Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Marcel Roth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=34773" 
+><span title="Image # 34773: Dancing Lady Production Game - Lower Playfield 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><img src="https://www.ipdb.org/images/635/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34773: Dancing Lady Production Game - Lower Playfield 
+(The A-B-C-D playfield outlane artwork of the sample game were changed and recolored for the production game.)"><br>Production Game - Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Marcel Roth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=42823" 
+><span title="Image # 42823: Dancing Lady Illuminated Backglass "><img src="https://www.ipdb.org/images/635/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42823: Dancing Lady Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=42824" 
+><span title="Image # 42824: Dancing Lady Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/635/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42824: Dancing Lady Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69920" 
+><span title="Image # 69920: Dancing Lady Illuminated Backglass "><img src="https://www.ipdb.org/images/635/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 69920: Dancing Lady Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x941</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69921" 
+><span title="Image # 69921: Dancing Lady Backbox Animation "><img src="https://www.ipdb.org/images/635/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69921: Dancing Lady Backbox Animation "><br>Backbox Animation</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69922" 
+><span title="Image # 69922: Dancing Lady Illuminated Playfield "><img src="https://www.ipdb.org/images/635/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69922: Dancing Lady Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69923" 
+><span title="Image # 69923: Dancing Lady Cabinet - Front "><img src="https://www.ipdb.org/images/635/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 69923: Dancing Lady Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x1080</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69924" 
+><span title="Image # 69924: Dancing Lady Illuminated Front View "><img src="https://www.ipdb.org/images/635/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69924: Dancing Lady Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69925" 
+><span title="Image # 69925: Dancing Lady Cabinet - Full View "><img src="https://www.ipdb.org/images/635/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 69925: Dancing Lady Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1142x1489</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69926" 
+><span title="Image # 69926: Dancing Lady Cabinet - Bottom "><img src="https://www.ipdb.org/images/635/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69926: Dancing Lady Cabinet - Bottom "><br>Cabinet - Bottom</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69927" 
+><span title="Image # 69927: Dancing Lady Cabinet - Rear "><img src="https://www.ipdb.org/images/635/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 69927: Dancing Lady Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">850x1546</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69928" 
+><span title="Image # 69928: Dancing Lady Inside Coin Door "><img src="https://www.ipdb.org/images/635/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 69928: Dancing Lady Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">1200x928</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=635&amp;picno=69929" 
+><span title="Image # 69929: Dancing Lady Inside Cabinet - Front "><img src="https://www.ipdb.org/images/635/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69929: Dancing Lady Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Photo&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

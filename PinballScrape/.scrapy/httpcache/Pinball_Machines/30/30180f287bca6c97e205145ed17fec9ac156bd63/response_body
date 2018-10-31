@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'NBA Fastbreak'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway NBA Fastbreak Mechanical Backbox Animation The mechanical backbox animation consists of a flipper in the lower right part of the backbox and a basket on the far left side. The game controls the backbox flipper sometimes when points are scored. For instance, after a set amount of pop bumper hits, during multiball, and during the Egyptian Soda and Hot Dog Mania modes. The exception is Pizza Power Shots mode. In this mode, the player tries to score as many points as possible in the backbox basket. This is done by flipping the backbox flipper at the right moment. A basket shot can be worth 1, 2 or 3 points, depending on the amount shown in the score display at the moment of hitting the basket switch.  Kevin O'Connor George Gomez George Gomez Tom Kopera Kevin Quinn Tom Uban Kevin Quinn ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'NBA Fastbreak' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>NBA Fastbreak</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4023">NBA Fastbreak</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4023">4023</a> <I>/ March, 1997 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=4023" target="showrate4023"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=4023" target="showrate4023">95 ratings/64 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4023" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1997</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50053</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>NBAF</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=11">Williams WPC-95</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,414 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4023">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sport - Basketball - Licensed theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Mechanical_Backbox_Animation">mechanical&nbsp;backbox&nbsp;animation</a> consists of a <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> in the lower right part of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> and a basket on the far left side. The game controls the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> sometimes when points are scored. For instance, after a set amount of <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> hits, during <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>, and during the Egyptian Soda and Hot Dog Mania <a target="glossary" class="glossarylink" href="/glossary.php#Mode">modes</a>. The exception is Pizza Power Shots <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a>. In this <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a>, the player tries to score as many points as possible in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> basket. This is done by flipping the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> at the right moment. A basket shot can be worth 1, 2 or 3 points, depending on the amount shown in the score display at the moment of hitting the basket switch.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Kopera' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Kopera">Tom&nbsp;Kopera</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;Quinn' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20Quinn">Kevin&nbsp;Quinn</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;Quinn' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20Quinn">Kevin&nbsp;Quinn</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Uban' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Uban">Tom&nbsp;Uban</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Voice-over artist Tim Kitzrow provided the voice of the play-by-play announcer.<br><br>This game is equipped with four pinballs.<br><br>There are two versions of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Later versions of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> had two holes in the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> below the aerial basketball hoop, each in the shape of a "racetrack oval", each placed between two posts that support a <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubber</a> ring. One hole was used to route an <a target="glossary" class="glossarylink" href="/glossary.php#Opto">opto</a> wire through while the other one was unused as far as we know. Earlier versions of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> did not have these holes and instead routed the <a target="glossary" class="glossarylink" href="/glossary.php#Opto">opto</a> wire up and behind the scoreboard. The difference is explained <a href="https://www.youtube.com/watch?v=vkSA9SKxycQ&feature=youtu.be&t=150" target="youtube">here</a>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The Hottest Rookie of the Year!"<br>
+"They Shoot, You Score!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/4023/nbafast.htm" target="rulesheet">NBA Fastbreak Guide Version 1.1 (Mar/05/1998), by Jim N.</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?fastbreak">http://pinball.jameswest.com/ownerslists/ownerslist.php?fastbreak</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#4023">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=LFq2s8HuCHg">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=GHZPd9F7Spk">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 361 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Game_ROM_V3_1.zip" >Game ROM V3.1</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_11a.zip" >PinMAME Romset (1.1 - S2.0)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 821 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_11.zip" >PinMAME Romset (1.1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 824 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_115.zip" >PinMAME Romset (1.15)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 825 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_21.zip" >PinMAME Romset (2.1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 826 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_22.zip" >PinMAME Romset (2.2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 826 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_23.zip" >PinMAME Romset (2.3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 514 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_31a.zip" >PinMAME Romset (3.1-S1.0)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/nbaf_31.zip" >PinMAME Romset (3.1-S3.0)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 487 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Sound_Rom_SU2_0_4.0_4.zip" >Sound Rom SU2 0.4</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Sound_ROM_V1_0_S2_6_.zip" >Sound ROM V1.0 [S2-6]</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1020 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Sound_ROM_V3_0_German_S2_.zip" >Sound ROM V3.0 (German) [S2]</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Operations_Manual_Final_no_schematics.pdf" onClick="return purchasemanual();">Operations Manual (March 1997 Final, with schematics)</a></td><td> [Bally]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Operations_Manual_May_1997_Final_with_schematics.pdf" onClick="return purchasemanual();">Operations Manual (May 1997 Final, with schematics)</a></td><td> [Bally]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 209 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Service_Bulletin_99.pdf" >Service Bulletin #99</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 9 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Linking_Kit_Installation_Instructions_for_Linking_Kit_58030.pdf" >Linking Kit Installation Instructions (for Linking Kit #58030)</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 115 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Reproduction_Score_And_Instruction_Cards_Multi_Language.zip" >Reproduction Score And Instruction Cards (Multi Language)</a></td><td> [Inkochnito]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 216 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4023/Bally_1997_NBA_Fastbreak_Rubber_Ring_List.pdf" >Rubber Ring List </a></td><td> [Mike Gaspar and Williams Electronic Games]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=3804" 
+><span title="Image # 3804: NBA Fastbreak Flyer, Front "><img src="https://www.ipdb.org/images/4023/tn_4023f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3804: NBA Fastbreak Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">581x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=3805" 
+><span title="Image # 3805: NBA Fastbreak Flyer, Page 2 "><img src="https://www.ipdb.org/images/4023/tn_4023f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 3805: NBA Fastbreak Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">578x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=3806" 
+><span title="Image # 3806: NBA Fastbreak Flyer, Page 3 "><img src="https://www.ipdb.org/images/4023/tn_4023f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 3806: NBA Fastbreak Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">488x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=6889" 
+><span title="Image # 6889: NBA Fastbreak Backglass "><img src="https://www.ipdb.org/images/4023/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 6889: NBA Fastbreak Backglass "><br>Backglass</span></a><br><font size="-2">1024x702</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=7092" 
+><span title="Image # 7092: NBA Fastbreak Flyer, Front(Linked) "><img src="https://www.ipdb.org/images/4023/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 7092: NBA Fastbreak Flyer, Front(Linked) "><br>Flyer, Front<br>(Linked)</span></a><br><font size="-2">846x1093</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9483" 
+><span title="Image # 9483: NBA Fastbreak Full Machine "><img src="https://www.ipdb.org/images/4023/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 9483: NBA Fastbreak Full Machine "><br>Full Machine</span></a><br><font size="-2">550x877</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9484" 
+><span title="Image # 9484: NBA Fastbreak Cabinet Left "><img src="https://www.ipdb.org/images/4023/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 9484: NBA Fastbreak Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">500x542</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9485" 
+><span title="Image # 9485: NBA Fastbreak Cabinet Right "><img src="https://www.ipdb.org/images/4023/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 9485: NBA Fastbreak Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">500x530</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9486" 
+><span title="Image # 9486: NBA Fastbreak Cabinet Front "><img src="https://www.ipdb.org/images/4023/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 9486: NBA Fastbreak Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">500x337</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9487" 
+><span title="Image # 9487: NBA Fastbreak Cabinet Inside "><img src="https://www.ipdb.org/images/4023/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9487: NBA Fastbreak Cabinet Inside "><br>Cabinet Inside</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9488" 
+><span title="Image # 9488: NBA Fastbreak BackBox "><img src="https://www.ipdb.org/images/4023/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 9488: NBA Fastbreak BackBox "><br>BackBox</span></a><br><font size="-2">500x681</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9489" 
+><span title="Image # 9489: NBA Fastbreak Backbox Electronics "><img src="https://www.ipdb.org/images/4023/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9489: NBA Fastbreak Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9490" 
+><span title="Image # 9490: NBA Fastbreak Playfield "><img src="https://www.ipdb.org/images/4023/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9490: NBA Fastbreak Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9491" 
+><span title="Image # 9491: NBA Fastbreak Playfield Underside "><img src="https://www.ipdb.org/images/4023/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9491: NBA Fastbreak Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9492" 
+><span title="Image # 9492: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9492: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9493" 
+><span title="Image # 9493: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9493: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9494" 
+><span title="Image # 9494: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9494: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9495" 
+><span title="Image # 9495: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9495: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9496" 
+><span title="Image # 9496: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9496: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9497" 
+><span title="Image # 9497: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9497: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9498" 
+><span title="Image # 9498: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9498: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9499" 
+><span title="Image # 9499: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9499: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9500" 
+><span title="Image # 9500: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9500: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9501" 
+><span title="Image # 9501: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9501: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9502" 
+><span title="Image # 9502: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9502: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9503" 
+><span title="Image # 9503: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9503: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9504" 
+><span title="Image # 9504: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9504: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9505" 
+><span title="Image # 9505: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9505: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=9506" 
+><span title="Image # 9506: NBA Fastbreak Playfield Detail "><img src="https://www.ipdb.org/images/4023/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9506: NBA Fastbreak Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=32476" 
+><span title="Image # 32476: NBA Fastbreak Whitewood Drawing 
+(This is a paper photocopy.Dimensions are 11 inches by 17 inches.)"><img src="https://www.ipdb.org/images/4023/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 32476: NBA Fastbreak Whitewood Drawing 
+(This is a paper photocopy.Dimensions are 11 inches by 17 inches.)"><br>Whitewood Drawing*</span></a><br><font size="-2">663x1024</font><br>[Bill Ung]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=39568" 
+><span title="Image # 39568: NBA Fastbreak Upper Playfield "><img src="https://www.ipdb.org/images/4023/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39568: NBA Fastbreak Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=39569" 
+><span title="Image # 39569: NBA Fastbreak Lower Playfield "><img src="https://www.ipdb.org/images/4023/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39569: NBA Fastbreak Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=45959" 
+><span title="Image # 45959: NBA Fastbreak Upper Playfield "><img src="https://www.ipdb.org/images/4023/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45959: NBA Fastbreak Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=45960" 
+><span title="Image # 45960: NBA Fastbreak Instruction Card "><img src="https://www.ipdb.org/images/4023/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45960: NBA Fastbreak Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=45961" 
+><span title="Image # 45961: NBA Fastbreak Backbox Insert - Reverse 
+(The flipper unit is shown here.)"><img src="https://www.ipdb.org/images/4023/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45961: NBA Fastbreak Backbox Insert - Reverse 
+(The flipper unit is shown here.)"><br>Backbox Insert - Reverse*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54679" 
+><span title="Image # 54679: NBA Fastbreak Backglass "><img src="https://www.ipdb.org/images/4023/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 54679: NBA Fastbreak Backglass "><br>Backglass</span></a><br><font size="-2">1024x694</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54680" 
+><span title="Image # 54680: NBA Fastbreak Backbox - Right "><img src="https://www.ipdb.org/images/4023/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 54680: NBA Fastbreak Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">686x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54681" 
+><span title="Image # 54681: NBA Fastbreak Cabinet - Left "><img src="https://www.ipdb.org/images/4023/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 54681: NBA Fastbreak Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x451</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54682" 
+><span title="Image # 54682: NBA Fastbreak Cabinet - Front "><img src="https://www.ipdb.org/images/4023/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 54682: NBA Fastbreak Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x680</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54683" 
+><span title="Image # 54683: NBA Fastbreak Cabinet - Front View "><img src="https://www.ipdb.org/images/4023/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=42 height=100 alt="Image # 54683: NBA Fastbreak Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">674x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54684" 
+><span title="Image # 54684: NBA Fastbreak Linked Machines 
+(The manufacturer provides a Linking Kit that allows two NBA Fastbreak games to be connected in order to allow head-to-head competitive linked game play.)"><img src="https://www.ipdb.org/images/4023/tn_image-A33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54684: NBA Fastbreak Linked Machines 
+(The manufacturer provides a Linking Kit that allows two NBA Fastbreak games to be connected in order to allow head-to-head competitive linked game play.)"><br>Linked Machines*</span></a><br><font size="-2">1200x1600</font><br>[Julius Johnson, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54685" 
+><span title="Image # 54685: NBA Fastbreak Linked Audio/Visual Board Player 1 
+(The linking cable is the white connector on the left with the orange wires.)"><img src="https://www.ipdb.org/images/4023/tn_image-B33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 54685: NBA Fastbreak Linked Audio/Visual Board Player 1 
+(The linking cable is the white connector on the left with the orange wires.)"><br>Linked Audio/Visual Board Player 1*</span></a><br><font size="-2">1200x900</font><br>[Julius Johnson, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=54686" 
+><span title="Image # 54686: NBA Fastbreak Linked Audio/Visual Board Player 2 
+(The linking cable is the white connector on the left with the orange wires.)"><img src="https://www.ipdb.org/images/4023/tn_image-A34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 54686: NBA Fastbreak Linked Audio/Visual Board Player 2 
+(The linking cable is the white connector on the left with the orange wires.)"><br>Linked Audio/Visual Board Player 2*</span></a><br><font size="-2">1200x900</font><br>[Julius Johnson, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4023&amp;picno=61054" 
+><span title="Image # 61054: NBA Fastbreak Stripped Playfield - Later Production 
+(This playfield has two 'racetrack oval' holes above the curved slot in the upper playfield. Earlier playfields did not have these two holes.)"><img src="https://www.ipdb.org/images/4023/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 61054: NBA Fastbreak Stripped Playfield - Later Production 
+(This playfield has two 'racetrack oval' holes above the curved slot in the upper playfield. Earlier playfields did not have these two holes.)"><br>Stripped Playfield - Later Production*</span></a><br><font size="-2">690x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

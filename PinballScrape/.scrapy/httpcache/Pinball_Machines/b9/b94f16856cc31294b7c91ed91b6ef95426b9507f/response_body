@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Rowamet 'Heavy Metal'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Rowamet Heavy Metal Flippers (2), Pop bumpers (3), 3-bank drop targets (2), 5-bank drop targets (1), Rollunder spinners (3), Kick-out hole (1).  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Rowamet 'Heavy Metal' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Heavy Metal</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5175">Heavy Metal</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5175">5175</a> <I>/ 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5175" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Rowamet'"><a href="search.pl?searchtype=advanced&amp;mfgid=458">Rowamet Indústria Eletrometalúrgica LTDA, <font size="-1">of São Paulo, Brazil</font> (1980-1983)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5175">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder_Spinner">Rollunder&nbsp;spinners</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art are color variations of an original work created by artist Christos Achilléos for the 1981 movie "Heavy Metal". It shows the character Taarna flying on a giant bird. His original art appears on the movie poster and the September 1981 front cover of <i>Heavy Metal</i> magazine. <br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> layout is similar to <span title="Click here to open a new window and display Williams' 1980 'Blackout'"><a target="game317" href="machine.cgi?id=317">Williams' 1980 'Blackout'</a></span>.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 8 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/5175/heavymtl.zip" >PinMAME Romset</a></td><td> [Rowamet]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32553" 
+><span title="Image # 32553: Heavy Metal Flyer "><img src="https://www.ipdb.org/images/5175/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 32553: Heavy Metal Flyer "><br>Flyer</span></a><br><font size="-2">1024x1404</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32554" 
+><span title="Image # 32554: Heavy Metal Backglass "><img src="https://www.ipdb.org/images/5175/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 32554: Heavy Metal Backglass "><br>Backglass</span></a><br><font size="-2">1024x1024</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32555" 
+><span title="Image # 32555: Heavy Metal Lower Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32555: Heavy Metal Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32556" 
+><span title="Image # 32556: Heavy Metal Upper Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32556: Heavy Metal Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32557" 
+><span title="Image # 32557: Heavy Metal Upper Left Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32557: Heavy Metal Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32558" 
+><span title="Image # 32558: Heavy Metal Upper Right Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32558: Heavy Metal Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32559" 
+><span title="Image # 32559: Heavy Metal Center Playfield - Detail "><img src="https://www.ipdb.org/images/5175/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32559: Heavy Metal Center Playfield - Detail "><br>Center Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32560" 
+><span title="Image # 32560: Heavy Metal Middle Left Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32560: Heavy Metal Middle Left Playfield "><br>Middle Left Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32561" 
+><span title="Image # 32561: Heavy Metal Middle Right Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32561: Heavy Metal Middle Right Playfield "><br>Middle Right Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32562" 
+><span title="Image # 32562: Heavy Metal Lower Left Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32562: Heavy Metal Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32563" 
+><span title="Image # 32563: Heavy Metal Lower Right Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32563: Heavy Metal Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32564" 
+><span title="Image # 32564: Heavy Metal Card Holder Removed "><img src="https://www.ipdb.org/images/5175/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32564: Heavy Metal Card Holder Removed "><br>Card Holder Removed</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32565" 
+><span title="Image # 32565: Heavy Metal Raised Playfield Glass 
+(The card holder is part of this assembly.)"><img src="https://www.ipdb.org/images/5175/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32565: Heavy Metal Raised Playfield Glass 
+(The card holder is part of this assembly.)"><br>Raised Playfield Glass*</span></a><br><font size="-2">992x1320</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32566" 
+><span title="Image # 32566: Heavy Metal Ball Shooter "><img src="https://www.ipdb.org/images/5175/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 32566: Heavy Metal Ball Shooter "><br>Ball Shooter</span></a><br><font size="-2">920x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32567" 
+><span title="Image # 32567: Heavy Metal Cabinet - Left "><img src="https://www.ipdb.org/images/5175/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 32567: Heavy Metal Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x546</font><br>[Victor Trucco]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32568" 
+><span title="Image # 32568: Heavy Metal Front "><img src="https://www.ipdb.org/images/5175/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 32568: Heavy Metal Front "><br>Front</span></a><br><font size="-2">912x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32569" 
+><span title="Image # 32569: Heavy Metal Backglass "><img src="https://www.ipdb.org/images/5175/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 32569: Heavy Metal Backglass "><br>Backglass</span></a><br><font size="-2">904x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32570" 
+><span title="Image # 32570: Heavy Metal Front View "><img src="https://www.ipdb.org/images/5175/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 32570: Heavy Metal Front View "><br>Front View</span></a><br><font size="-2">868x1360</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32571" 
+><span title="Image # 32571: Heavy Metal Playfield 
+(Playfield glass is raised on its hinged frame.)"><img src="https://www.ipdb.org/images/5175/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 32571: Heavy Metal Playfield 
+(Playfield glass is raised on its hinged frame.)"><br>Playfield*</span></a><br><font size="-2">912x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32572" 
+><span title="Image # 32572: Heavy Metal Full View "><img src="https://www.ipdb.org/images/5175/tn_image-A1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 32572: Heavy Metal Full View "><br>Full View</span></a><br><font size="-2">948x1360</font><br>[Victor Trucco]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32573" 
+><span title="Image # 32573: Heavy Metal Under Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32573: Heavy Metal Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32574" 
+><span title="Image # 32574: Heavy Metal Inside Cabinet "><img src="https://www.ipdb.org/images/5175/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32574: Heavy Metal Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32575" 
+><span title="Image # 32575: Heavy Metal Inside Cabinet "><img src="https://www.ipdb.org/images/5175/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32575: Heavy Metal Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32576" 
+><span title="Image # 32576: Heavy Metal Inside Cabinet 
+(Playfield glass is raised on its hinged frame.)"><img src="https://www.ipdb.org/images/5175/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32576: Heavy Metal Inside Cabinet 
+(Playfield glass is raised on its hinged frame.)"><br>Inside Cabinet*</span></a><br><font size="-2">1024x1365</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32577" 
+><span title="Image # 32577: Heavy Metal Inside Backbox "><img src="https://www.ipdb.org/images/5175/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 32577: Heavy Metal Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1000x768</font><br>[Victor Trucco]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32578" 
+><span title="Image # 32578: Heavy Metal Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5175/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 32578: Heavy Metal Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">1024x1365</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32579" 
+><span title="Image # 32579: Heavy Metal Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5175/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32579: Heavy Metal Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32580" 
+><span title="Image # 32580: Heavy Metal Instructions "><img src="https://www.ipdb.org/images/5175/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32580: Heavy Metal Instructions "><br>Instructions</span></a><br><font size="-2">1024x768</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32581" 
+><span title="Image # 32581: Heavy Metal Key To Open The Machine "><img src="https://www.ipdb.org/images/5175/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 32581: Heavy Metal Key To Open The Machine "><br>Key To Open The Machine</span></a><br><font size="-2">356x414</font><br>[Victor Trucco]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5175&amp;picno=32617" 
+><span title="Image # 32617: Heavy Metal Playfield "><img src="https://www.ipdb.org/images/5175/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 32617: Heavy Metal Playfield "><br>Playfield</span></a><br><font size="-2">708x1024</font><br>[Victor Trucco]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

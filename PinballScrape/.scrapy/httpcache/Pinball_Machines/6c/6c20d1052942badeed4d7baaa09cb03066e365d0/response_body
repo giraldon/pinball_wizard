@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Cactus Jack's'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Cactus Jack's Cactus Jacks Flippers (2), Pop bumpers (3), 4-bank drop targets (2), Standup targets (3), Vertical up-kicker (1). Mechanical Cacti which 'dance' during multiballs and special events  David Moore Constantino Mitchell Jeanine Mitchell Reinhard Bangerter Jon Norris Allen Edwall Dave Zabriskie ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Cactus Jack's' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Cactus Jack's</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="416">Cactus Jack's</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=416">416</a> <I>/ April, 1991 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=416" target="showrate416"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=416" target="showrate416">32 ratings/25 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=416" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>729</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>CJ</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,900 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=416">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Music - Singing - Dancing - Comedy - Country and Western</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Vertical_Up-Kicker">Vertical&nbsp;up-kicker</a> (1).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Mechanical Cacti which 'dance' during <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiballs</a> and special events</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Reinhard&nbsp;Bangerter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Reinhard%20Bangerter">Reinhard&nbsp;Bangerter</a></span>, <span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Norris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Norris">Jon&nbsp;Norris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Zabriskie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Zabriskie">Dave&nbsp;Zabriskie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Allen&nbsp;Edwall' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Allen%20Edwall">Allen&nbsp;Edwall</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>New sound board design.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Yee-Hah! Let's Party!!!"<br>
+"Let's Have a Boot-Stompin Good Time!"<br>
+"You Ready for a Good Old Time?--Welcome to Cactus JACK'S"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 140<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/416">http://www.pinballowners.com/owners/416</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 284 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 416 cactjack.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Multimedia Files: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;MP3&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/416/cactus_jack_s_main_play_tune.mp3" >Main Play Tune</a></td><td> [Dave Zabriskie]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;MP3&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/416/cactus_jack_s_multiball_tune.mp3" >Multiball Tune</a></td><td> [Dave Zabriskie]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 267 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/416/Gottlieb_1991_Cactus_Jack_s_Reproduction_Score_and_Instruction_Cards_Including_French.zip" >Reproduction Score and Instruction Cards (Including French)</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=5178" 
+><span title="Image # 5178: Cactus Jack's Flyer, Front "><img src="https://www.ipdb.org/images/416/tn_416f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5178: Cactus Jack's Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=5179" 
+><span title="Image # 5179: Cactus Jack's Flyer, Back "><img src="https://www.ipdb.org/images/416/tn_416f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5179: Cactus Jack's Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=11482" 
+><span title="Image # 11482: Cactus Jack's Playfield "><img src="https://www.ipdb.org/images/416/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 11482: Cactus Jack's Playfield "><br>Playfield</span></a><br><font size="-2">604x714</font><br>[Ron  Clemins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=28129" 
+><span title="Image # 28129: Cactus Jack's Backbox "><img src="https://www.ipdb.org/images/416/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 28129: Cactus Jack's Backbox "><br>Backbox</span></a><br><font size="-2">1024x872</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=28224" 
+><span title="Image # 28224: Cactus Jack's Whitewood "><img src="https://www.ipdb.org/images/416/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 28224: Cactus Jack's Whitewood "><br>Whitewood</span></a><br><font size="-2">1024x1446</font><br>[Philippe Thibault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=33899" 
+><span title="Image # 33899: Cactus Jack's Upper Playfield "><img src="https://www.ipdb.org/images/416/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 33899: Cactus Jack's Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x533</font><br>[Jean Marc Arago]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=33900" 
+><span title="Image # 33900: Cactus Jack's Lower Playfield "><img src="https://www.ipdb.org/images/416/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 33900: Cactus Jack's Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x533</font><br>[Jean Marc Arago]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=33901" 
+><span title="Image # 33901: Cactus Jack's Upper Playfield - Detail "><img src="https://www.ipdb.org/images/416/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 33901: Cactus Jack's Upper Playfield - Detail "><br>Upper Playfield - Detail</span></a><br><font size="-2">800x533</font><br>[Jean Marc Arago]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=33902" 
+><span title="Image # 33902: Cactus Jack's Animation "><img src="https://www.ipdb.org/images/416/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 33902: Cactus Jack's Animation "><br>Animation</span></a><br><font size="-2">800x533</font><br>[Jean Marc Arago]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=33903" 
+><span title="Image # 33903: Cactus Jack's Drop Targets "><img src="https://www.ipdb.org/images/416/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 33903: Cactus Jack's Drop Targets "><br>Drop Targets</span></a><br><font size="-2">800x533</font><br>[Jean Marc Arago]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=33904" 
+><span title="Image # 33904: Cactus Jack's Illuminated Front View "><img src="https://www.ipdb.org/images/416/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 33904: Cactus Jack's Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">424x792</font><br>[Jean Marc Arago]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37400" 
+><span title="Image # 37400: Cactus Jack's Illuminated Backglass "><img src="https://www.ipdb.org/images/416/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 37400: Cactus Jack's Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">433x527</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37401" 
+><span title="Image # 37401: Cactus Jack's Playfield "><img src="https://www.ipdb.org/images/416/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37401: Cactus Jack's Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37402" 
+><span title="Image # 37402: Cactus Jack's Illuminated Playfield "><img src="https://www.ipdb.org/images/416/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37402: Cactus Jack's Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37403" 
+><span title="Image # 37403: Cactus Jack's Upper Playfield "><img src="https://www.ipdb.org/images/416/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37403: Cactus Jack's Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37404" 
+><span title="Image # 37404: Cactus Jack's Playfield Animation "><img src="https://www.ipdb.org/images/416/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37404: Cactus Jack's Playfield Animation "><br>Playfield Animation</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37405" 
+><span title="Image # 37405: Cactus Jack's Playfield - Detail "><img src="https://www.ipdb.org/images/416/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37405: Cactus Jack's Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37406" 
+><span title="Image # 37406: Cactus Jack's Playfield - Detail "><img src="https://www.ipdb.org/images/416/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37406: Cactus Jack's Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37407" 
+><span title="Image # 37407: Cactus Jack's Backbox - Left "><img src="https://www.ipdb.org/images/416/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 37407: Cactus Jack's Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">319x568</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37408" 
+><span title="Image # 37408: Cactus Jack's Backbox - Right "><img src="https://www.ipdb.org/images/416/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 37408: Cactus Jack's Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">372x640</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37409" 
+><span title="Image # 37409: Cactus Jack's Cabinet - Left "><img src="https://www.ipdb.org/images/416/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 37409: Cactus Jack's Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">610x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37410" 
+><span title="Image # 37410: Cactus Jack's Cabinet - Left "><img src="https://www.ipdb.org/images/416/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37410: Cactus Jack's Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37411" 
+><span title="Image # 37411: Cactus Jack's Cabinet - Left "><img src="https://www.ipdb.org/images/416/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37411: Cactus Jack's Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37412" 
+><span title="Image # 37412: Cactus Jack's Cabinet - Right "><img src="https://www.ipdb.org/images/416/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 37412: Cactus Jack's Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">553x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=37413" 
+><span title="Image # 37413: Cactus Jack's Cabinet - Front "><img src="https://www.ipdb.org/images/416/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 37413: Cactus Jack's Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">439x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=57198" 
+><span title="Image # 57198: Cactus Jack's Backglass "><img src="https://www.ipdb.org/images/416/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 57198: Cactus Jack's Backglass "><br>Backglass</span></a><br><font size="-2">1200x1113</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=57199" 
+><span title="Image # 57199: Cactus Jack's Illuminated Backglass "><img src="https://www.ipdb.org/images/416/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 57199: Cactus Jack's Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1113</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=57200" 
+><span title="Image # 57200: Cactus Jack's Backbox - Left "><img src="https://www.ipdb.org/images/416/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=39 height=100 alt="Image # 57200: Cactus Jack's Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">625x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=57201" 
+><span title="Image # 57201: Cactus Jack's Cabinet - Left "><img src="https://www.ipdb.org/images/416/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 57201: Cactus Jack's Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x647</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=57202" 
+><span title="Image # 57202: Cactus Jack's Cabinet - Front "><img src="https://www.ipdb.org/images/416/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57202: Cactus Jack's Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x895</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=416&amp;picno=57203" 
+><span title="Image # 57203: Cactus Jack's Cabinet - Front View "><img src="https://www.ipdb.org/images/416/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 57203: Cactus Jack's Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">696x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

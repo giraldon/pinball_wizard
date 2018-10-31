@@ -1,0 +1,243 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally Midway 'Spy Hunter'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Midway Spy Hunter Flippers (4), Pop bumper (1), Slingshot (1), Standup targets (12), 4-bank drop targets (1), Kick-out hole (1), Captive ball (1), Spinning target (1). Left dual outlanes, one has a detour gate. Mini-bagatelle in upper-left playfield.  Tony Ramunni Greg Kmiec ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally Midway 'Spy Hunter' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Spy Hunter</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2328">Spy Hunter</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2328">2328</a> <I>/ October, 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2328" target="showrate2328"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2328" target="showrate2328">25 ratings/21 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2328" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=48">Bally Midway Manufacturing Company (1983-1988) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>October, 1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>0A17</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,300 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2328">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Adventure</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumper</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshot</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (12), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;ball</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1). Left <a target="glossary" class="glossarylink" href="/glossary.php#Dual_Outlanes">dual&nbsp;outlanes</a>, one has a detour <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Mini-bagatelle in upper-left <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Kmiec' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Kmiec">Greg&nbsp;Kmiec</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tony&nbsp;Ramunni' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tony%20Ramunni">Tony&nbsp;Ramunni</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Bally used the same name for a video game released in 1983.<br><br>"AGENT GK" on targets refer to the game's <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a>, Greg Kmiec.<br><br>Uses the AS-2518-45 "Cheap Squeak" sound board.<br><br>Included in this listing are images of original <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> artwork for this game, titled "Blowout". Collector Bill Kurtz indicated it was obtained direct from artist Tony Ramunni and that the name of this game was changed to 'Spy Hunter' to cash in on the popularity of the video game having that name. We contacted Ramunni but it was simply too long ago for him to remember that his original artwork became Spy Hunter.<br><br>We have seen one undated photo showing a Spy Hunter at a public show. This game is reportedly made by Maibesa of Spain. The photo was taken at a distance from the game and is out-of-focus. We can barely see the name Bally/Midway on the right side of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> but we know that Bally's name has been found on other Maibesa games. We find insufficient information about this possible Maibesa version to make a listing on this site. One Spanish database with this photo reports a date of 1985 with an "Approval Number" (<i>Número de homologación</i>) of A/00/00947 but has no other information.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 137<br>
+Pinball The Lure of the Silverball, page 92<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2328">http://www.pinballowners.com/owners/2328</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2328">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 56 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2328/spyhuntr.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2328/Bally_1984_Spy_Hunter_ROMs.zip" >ROMs</a></td><td> [Bally Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2328/Bally_1984_Spy_Hunter_Operations_Manual.pdf" onClick="return purchasemanual();">Operations Manual</a></td><td> [Bally Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2328/Bally_1984_Spy_Hunter_Schematics.pdf" onClick="return purchasemanual();">Schematics</a></td><td> [Bally Midway Mfg&#46; Co&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=3892" 
+><span title="Image # 3892: Spy Hunter Flyer, Front "><img src="https://www.ipdb.org/images/2328/tn_2328f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3892: Spy Hunter Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">606x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=3893" 
+><span title="Image # 3893: Spy Hunter Flyer, Back "><img src="https://www.ipdb.org/images/2328/tn_2328f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3893: Spy Hunter Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">606x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=15689" 
+><span title="Image # 15689: Spy Hunter Backglass "><img src="https://www.ipdb.org/images/2328/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15689: Spy Hunter Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=17899" 
+><span title="Image # 17899: Spy Hunter Illuminated Backglass "><img src="https://www.ipdb.org/images/2328/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 17899: Spy Hunter Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">805x765</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=17900" 
+><span title="Image # 17900: Spy Hunter Playfield "><img src="https://www.ipdb.org/images/2328/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17900: Spy Hunter Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=17901" 
+><span title="Image # 17901: Spy Hunter Upper Playfield "><img src="https://www.ipdb.org/images/2328/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17901: Spy Hunter Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=17902" 
+><span title="Image # 17902: Spy Hunter Lower Playfield "><img src="https://www.ipdb.org/images/2328/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17902: Spy Hunter Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=17903" 
+><span title="Image # 17903: Spy Hunter Cabinet - Left "><img src="https://www.ipdb.org/images/2328/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 17903: Spy Hunter Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1021x661</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23985" 
+><span title="Image # 23985: Spy Hunter Illuminated Backglass "><img src="https://www.ipdb.org/images/2328/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 23985: Spy Hunter Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">675x638</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23986" 
+><span title="Image # 23986: Spy Hunter Backglass - Reverse "><img src="https://www.ipdb.org/images/2328/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 23986: Spy Hunter Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">649x622</font><br>[Dan Gutchess]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23987" 
+><span title="Image # 23987: Spy Hunter Cabinet - Right "><img src="https://www.ipdb.org/images/2328/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 23987: Spy Hunter Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">677x247</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23988" 
+><span title="Image # 23988: Spy Hunter Backbox - Left "><img src="https://www.ipdb.org/images/2328/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 23988: Spy Hunter Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">342x636</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23989" 
+><span title="Image # 23989: Spy Hunter Backbox - Right "><img src="https://www.ipdb.org/images/2328/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 23989: Spy Hunter Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">356x666</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23990" 
+><span title="Image # 23990: Spy Hunter Front "><img src="https://www.ipdb.org/images/2328/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 23990: Spy Hunter Front "><br>Front</span></a><br><font size="-2">650x525</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23991" 
+><span title="Image # 23991: Spy Hunter Playfield - Detail "><img src="https://www.ipdb.org/images/2328/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 23991: Spy Hunter Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">648x451</font><br>[Dan Gutchess]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23992" 
+><span title="Image # 23992: Spy Hunter Ball View "><img src="https://www.ipdb.org/images/2328/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 23992: Spy Hunter Ball View "><br>Ball View</span></a><br><font size="-2">645x394</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23993" 
+><span title="Image # 23993: Spy Hunter Ball View "><img src="https://www.ipdb.org/images/2328/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 23993: Spy Hunter Ball View "><br>Ball View</span></a><br><font size="-2">649x343</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23994" 
+><span title="Image # 23994: Spy Hunter Ball View "><img src="https://www.ipdb.org/images/2328/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=49 alt="Image # 23994: Spy Hunter Ball View "><br>Ball View</span></a><br><font size="-2">645x315</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=23995" 
+><span title="Image # 23995: Spy Hunter Full View "><img src="https://www.ipdb.org/images/2328/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 23995: Spy Hunter Full View "><br>Full View</span></a><br><font size="-2">685x1193</font><br>[Dan Gutchess]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=26310" 
+><span title="Image # 26310: Spy Hunter Instruction Card "><img src="https://www.ipdb.org/images/2328/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26310: Spy Hunter Instruction Card "><br>Instruction Card</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=29249" 
+><span title="Image # 29249: Spy Hunter Behind Backglass "><img src="https://www.ipdb.org/images/2328/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29249: Spy Hunter Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=29250" 
+><span title="Image # 29250: Spy Hunter Inside Backbox "><img src="https://www.ipdb.org/images/2328/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29250: Spy Hunter Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=29251" 
+><span title="Image # 29251: Spy Hunter Inside Cabinet "><img src="https://www.ipdb.org/images/2328/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 29251: Spy Hunter Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=29252" 
+><span title="Image # 29252: Spy Hunter Under Lower Playfield "><img src="https://www.ipdb.org/images/2328/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29252: Spy Hunter Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=29253" 
+><span title="Image # 29253: Spy Hunter Under Upper Playfield "><img src="https://www.ipdb.org/images/2328/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 29253: Spy Hunter Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46243" 
+><span title="Image # 46243: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 46243: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1200x843</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46244" 
+><span title="Image # 46244: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 46244: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1200x1408</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46245" 
+><span title="Image # 46245: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=27 height=100 alt="Image # 46245: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">578x2172</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46246" 
+><span title="Image # 46246: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 46246: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1200x1650</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46247" 
+><span title="Image # 46247: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 46247: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1200x1651</font><br>[Jeffrey L. Winters]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46248" 
+><span title="Image # 46248: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=26 height=100 alt="Image # 46248: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">430x1626</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46249" 
+><span title="Image # 46249: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 46249: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">817x1977</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46250" 
+><span title="Image # 46250: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=29 height=100 alt="Image # 46250: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">448x1527</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46251" 
+><span title="Image # 46251: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 46251: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">527x1035</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46252" 
+><span title="Image # 46252: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 46252: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">459x409</font><br>[Jeffrey L. Winters]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46253" 
+><span title="Image # 46253: Spy Hunter Playfield Plastic "><img src="https://www.ipdb.org/images/2328/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 46253: Spy Hunter Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">627x1020</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=46254" 
+><span title="Image # 46254: Spy Hunter Promo Key Fob 
+(A key fob was included with each sheet of original playfield plastics. It measures 3.5 cm in diameter by 2 mm in thickness. The hole measures 5 mm in diameter.)"><img src="https://www.ipdb.org/images/2328/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 46254: Spy Hunter Promo Key Fob 
+(A key fob was included with each sheet of original playfield plastics. It measures 3.5 cm in diameter by 2 mm in thickness. The hole measures 5 mm in diameter.)"><br>Promo Key Fob*</span></a><br><font size="-2">360x357</font><br>[Jeffrey L. Winters]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=64072" 
+><span title="Image # 64072: Spy Hunter Original Backglass Artwork 
+(Artist is Tony Ramunni.Color markers were used.Dimensions 13 inches by 14 1/4 inches excluding frame and matte border. Metal frame is 16 1/2 by 20 1/2 inches.)"><img src="https://www.ipdb.org/images/2328/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 64072: Spy Hunter Original Backglass Artwork 
+(Artist is Tony Ramunni.Color markers were used.Dimensions 13 inches by 14 1/4 inches excluding frame and matte border. Metal frame is 16 1/2 by 20 1/2 inches.)"><br>Original Backglass Artwork*</span></a><br><font size="-2">526x400</font><br>[Bill Kurtz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=64073" 
+><span title="Image # 64073: Spy Hunter Original Backglass Artwork - Detail 
+(Artist is Tony Ramunni.Color markers were used.Dimensions 13 inches by 14 1/4 inches excluding frame and matte border. Metal frame is 16 1/2 by 20 1/2 inches.)"><img src="https://www.ipdb.org/images/2328/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 64073: Spy Hunter Original Backglass Artwork - Detail 
+(Artist is Tony Ramunni.Color markers were used.Dimensions 13 inches by 14 1/4 inches excluding frame and matte border. Metal frame is 16 1/2 by 20 1/2 inches.)"><br>Original Backglass Artwork - Detail*</span></a><br><font size="-2">592x400</font><br>[Bill Kurtz]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=71178" 
+><span title="Image # 71178: Spy Hunter Original Backglass Artwork 
+(Artist is Tony Ramunni. Watercolor on posterboard.Dimensions 25 1/2 inches by 26 1/2 inches. Metal frame is 29 by 31 inches.)"><img src="https://www.ipdb.org/images/2328/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 71178: Spy Hunter Original Backglass Artwork 
+(Artist is Tony Ramunni. Watercolor on posterboard.Dimensions 25 1/2 inches by 26 1/2 inches. Metal frame is 29 by 31 inches.)"><br>Original Backglass Artwork*</span></a><br><font size="-2">452x400</font><br>[Bill Kurtz]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2328&amp;picno=71179" 
+><span title="Image # 71179: Spy Hunter Original Backglass Artwork - Detail 
+(Artist is Tony Ramunni. Watercolor on posterboard.Dimensions 25 1/2 inches by 26 1/2 inches. Metal frame is 29 by 31 inches.)"><img src="https://www.ipdb.org/images/2328/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 71179: Spy Hunter Original Backglass Artwork - Detail 
+(Artist is Tony Ramunni. Watercolor on posterboard.Dimensions 25 1/2 inches by 26 1/2 inches. Metal frame is 29 by 31 inches.)"><br>Original Backglass Artwork - Detail*</span></a><br><font size="-2">592x400</font><br>[Bill Kurtz]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

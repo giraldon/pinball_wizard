@@ -1,0 +1,259 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Data East 'Hook'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Data East Hook Multiball (2 or 3), Short Ball Return, Drop Targets (4), Flippers (2)  Paul Faris Tim Seckel Brian Schmidt Neil Falconer Brian Schmidt ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Data East 'Hook' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Hook</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1233">Hook</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1233">1233</a> <I>/ January 30, 1992 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1233" target="showrate1233"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1233" target="showrate1233">63 ratings/47 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1233" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Data East'"><a href="search.pl?searchtype=advanced&amp;mfgid=98">Data East Pinball, Incorporated (1986-1994)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January 30, 1992</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500-5519-01</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=24">DataEast/Sega Version 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>6,705 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1233">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Licensed Theme - Pirates - Fictional</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (2 or 3), Short Ball Return, <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;Targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2)</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tim&nbsp;Seckel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tim%20Seckel">Tim&nbsp;Seckel</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Neil&nbsp;Falconer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Neil%20Falconer">Neil&nbsp;Falconer</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Fred Young did voice characterizations on this game.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Designer">Designer</a> Tim Seckel states that 'Hook' started out as 'Universal Studios Theme Park', <i>"a game that was only in drawing/concept/ideation stage. It never made it very far. Hook opportunity came up and it quickly took on that name and game development."</i><br><br>Included in this listing is a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> game with a polarizing <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Disk">spinning&nbsp;disk</a> behind the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> meant to provide a visual effect to the Tinkerball hologram affixed to the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Tim Seckel states the hologram was handmade and guesses that between 25 and 100 games were made with this <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Disk">spinning&nbsp;disk</a> effect. A link in this listing provides a video of this effect. The <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> game shown here has serial number 48243 and was built for export to Belgium. Its <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> <a target="glossary" class="glossarylink" href="/glossary.php#ROM">ROMs</a> have an original label with date 11/11/1991 and are described as being basically the same as the final production version except some sound effects are missing.<br><br>We previously listed the Manufacture Date as May-3-1992.<br>This game was produced from Jan-30-1992 to Jun-2-1992.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"A Treasure Chest o Collections!"<br>
+"Revenues that will Shiver Your Timbers!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 145<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.hookpinball.nl">http://www.hookpinball.nl</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=YMluBAetA-4">Prototype Backglass Tinkerbell Visual Effect (at YouTube) [00:17]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 29 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/hook_401.zip" >PinMAME Romset (4.01)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 29 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/hook_404.zip" >PinMAME Romset (4.04)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 497 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/hook_408.zip" >PinMAME Romset (4.08)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 353 KB</td><td align=left nowrap width="5%">&nbsp;7Z&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/Data_East_1992_Hook_Prototype_ROMS_Dated_11_11_1991_From_Prototype_Game_SN_48243.7z" >Prototype ROMS Dated 11-11-1991 From Prototype Game SN 48243</a></td><td> [Data East]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 499 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/Data_East_1992_Hook_ROMs.zip" >ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/Data_East_1992_Hook_Manual.pdf" onClick="return purchasemanual();">English Manual (missing page 18)</a></td><td> [Data East USA]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 93 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1233/Data_East_1992_Hook_Instruction_Card.pdf" >Instruction Card</a></td><td> [Data East (Stern)]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=1173" 
+><span title="Image # 1173: Hook Backglass "><img src="https://www.ipdb.org/images/1233/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 1173: Hook Backglass "><br>Backglass</span></a><br><font size="-2">308x351</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=3206" 
+><span title="Image # 3206: Hook Flyer, Front "><img src="https://www.ipdb.org/images/1233/tn_1233f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3206: Hook Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">606x794</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=3207" 
+><span title="Image # 3207: Hook Flyer, Back "><img src="https://www.ipdb.org/images/1233/tn_1233f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3207: Hook Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">606x794</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=25171" 
+><span title="Image # 25171: Hook Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 25171: Hook Playfield "><br>Playfield</span></a><br><font size="-2">288x384</font><br>[Melanie van den ijssel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=25172" 
+><span title="Image # 25172: Hook Topper "><img src="https://www.ipdb.org/images/1233/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 25172: Hook Topper "><br>Topper</span></a><br><font size="-2">133x72</font><br>[Melanie van den ijssel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=25173" 
+><span title="Image # 25173: Hook Playfield - Right "><img src="https://www.ipdb.org/images/1233/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25173: Hook Playfield - Right "><br>Playfield - Right</span></a><br><font size="-2">308x231</font><br>[Melanie van den ijssel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=25174" 
+><span title="Image # 25174: Hook Playfield - Left "><img src="https://www.ipdb.org/images/1233/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25174: Hook Playfield - Left "><br>Playfield - Left</span></a><br><font size="-2">308x231</font><br>[Melanie van den ijssel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=25175" 
+><span title="Image # 25175: Hook Dot Matrix Display "><img src="https://www.ipdb.org/images/1233/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25175: Hook Dot Matrix Display "><br>Dot Matrix Display</span></a><br><font size="-2">320x240</font><br>[Melanie van den ijssel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=30758" 
+><span title="Image # 30758: Hook Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30758: Hook Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=30759" 
+><span title="Image # 30759: Hook Cabinet - Full View "><img src="https://www.ipdb.org/images/1233/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 30759: Hook Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">844x1236</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=30760" 
+><span title="Image # 30760: Hook Cabinet - Left "><img src="https://www.ipdb.org/images/1233/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 30760: Hook Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">845x1335</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=30761" 
+><span title="Image # 30761: Hook Cabinet - Front View "><img src="https://www.ipdb.org/images/1233/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=36 height=100 alt="Image # 30761: Hook Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">441x1226</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=40533" 
+><span title="Image # 40533: Hook Illuminated Backglass "><img src="https://www.ipdb.org/images/1233/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 40533: Hook Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">444x601</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=40534" 
+><span title="Image # 40534: Hook Backbox - Right "><img src="https://www.ipdb.org/images/1233/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 40534: Hook Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">433x632</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=40535" 
+><span title="Image # 40535: Hook Inside Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40535: Hook Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=40536" 
+><span title="Image # 40536: Hook Under Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40536: Hook Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=40537" 
+><span title="Image # 40537: Hook Under Lower Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40537: Hook Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=40538" 
+><span title="Image # 40538: Hook Inside Backbox "><img src="https://www.ipdb.org/images/1233/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40538: Hook Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=43757" 
+><span title="Image # 43757: Hook Stripped Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43757: Hook Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=43821" 
+><span title="Image # 43821: Hook Prototype Game - Handmade Tinkerbell Hologram 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><img src="https://www.ipdb.org/images/1233/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43821: Hook Prototype Game - Handmade Tinkerbell Hologram 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><br>Prototype Game - Handmade Tinkerbell Hologram*</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=43822" 
+><span title="Image # 43822: Hook Prototype Game - Spinning Disk 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><img src="https://www.ipdb.org/images/1233/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43822: Hook Prototype Game - Spinning Disk 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><br>Prototype Game - Spinning Disk*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=43823" 
+><span title="Image # 43823: Hook Prototype Game - Spinning Disk Assembly 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><img src="https://www.ipdb.org/images/1233/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43823: Hook Prototype Game - Spinning Disk Assembly 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><br>Prototype Game - Spinning Disk Assembly*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=43824" 
+><span title="Image # 43824: Hook Prototype Game - Serial Number 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><img src="https://www.ipdb.org/images/1233/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43824: Hook Prototype Game - Serial Number 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><br>Prototype Game - Serial Number*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=43825" 
+><span title="Image # 43825: Hook Prototype Game - Date Of Manufacture 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><img src="https://www.ipdb.org/images/1233/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43825: Hook Prototype Game - Date Of Manufacture 
+(Serial number 48243. Manufacture date Nov-24-1991. Exported to Belgium.)"><br>Prototype Game - Date Of Manufacture*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=50280" 
+><span title="Image # 50280: Hook Cabinet - Right "><img src="https://www.ipdb.org/images/1233/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 50280: Hook Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">802x900</font><br>[Sean Casey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=54185" 
+><span title="Image # 54185: Hook Middle Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 54185: Hook Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=54186" 
+><span title="Image # 54186: Hook Middle Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 54186: Hook Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=54187" 
+><span title="Image # 54187: Hook Lower Playfield "><img src="https://www.ipdb.org/images/1233/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 54187: Hook Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=54188" 
+><span title="Image # 54188: Hook Instruction Card "><img src="https://www.ipdb.org/images/1233/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 54188: Hook Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x685</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=61356" 
+><span title="Image # 61356: Hook Backglass "><img src="https://www.ipdb.org/images/1233/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 61356: Hook Backglass "><br>Backglass</span></a><br><font size="-2">1200x1070</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=61357" 
+><span title="Image # 61357: Hook Topper "><img src="https://www.ipdb.org/images/1233/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 61357: Hook Topper "><br>Topper</span></a><br><font size="-2">1200x721</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=61358" 
+><span title="Image # 61358: Hook Backbox - Left "><img src="https://www.ipdb.org/images/1233/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=36 height=100 alt="Image # 61358: Hook Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">579x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=61359" 
+><span title="Image # 61359: Hook Cabinet - Left "><img src="https://www.ipdb.org/images/1233/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 61359: Hook Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x602</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=61360" 
+><span title="Image # 61360: Hook Cabinet - Front "><img src="https://www.ipdb.org/images/1233/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 61360: Hook Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x832</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=61361" 
+><span title="Image # 61361: Hook Cabinet - Front View "><img src="https://www.ipdb.org/images/1233/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=42 height=100 alt="Image # 61361: Hook Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">678x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=71930" 
+><span title="Image # 71930: Hook Rufio Ramp Decals 
+(These are from a production game.)"><img src="https://www.ipdb.org/images/1233/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 71930: Hook Rufio Ramp Decals 
+(These are from a production game.)"><br>Rufio Ramp Decals*</span></a><br><font size="-2">1200x1260</font><br>[Corey Cooke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=72219" 
+><span title="Image # 72219: Hook Right Side Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-A18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 72219: Hook Right Side Cabinet "><br>Right Side Cabinet</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=72220" 
+><span title="Image # 72220: Hook Left Side Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 72220: Hook Left Side Cabinet "><br>Left Side Cabinet</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=72221" 
+><span title="Image # 72221: Hook Right Side Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-B18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" alt="Image # 72221: Hook Right Side Cabinet "><br>Right Side Cabinet</span></a><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=72222" 
+><span title="Image # 72222: Hook Left Side Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-B20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" alt="Image # 72222: Hook Left Side Cabinet "><br>Left Side Cabinet</span></a><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=72223" 
+><span title="Image # 72223: Hook Right Side Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-B18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" alt="Image # 72223: Hook Right Side Cabinet "><br>Right Side Cabinet</span></a><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1233&amp;picno=72224" 
+><span title="Image # 72224: Hook Left Side Cabinet "><img src="https://www.ipdb.org/images/1233/tn_image-B20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" alt="Image # 72224: Hook Left Side Cabinet "><br>Left Side Cabinet</span></a><br>[Mark Culbert]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Flyer&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

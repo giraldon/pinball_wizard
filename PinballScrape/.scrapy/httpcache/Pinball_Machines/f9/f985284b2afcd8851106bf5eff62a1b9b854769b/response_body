@@ -1,0 +1,235 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Street Fighter II'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Street Fighter II Flippers (5, one is below playfield, one rotates 360 degrees). Three level playfield. Two ramps, each with an elevating entrance to allow ball access to a target underneath. Multiball (2-ball and 3-ball). Smashable car in the lower playfield.  David Moore Constantino Mitchell Jeanine Mitchell Ray Tanzer Mike Vettros Bill Parker Jon Norris Rand Paulin Rand Paulin ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Street Fighter II' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Street Fighter II</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2403">Street Fighter II</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2403">2403</a> <I>/ March, 1993 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2403" target="showrate2403"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2403" target="showrate2403">63 ratings/50 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2403" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1993</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>735</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SF2, SFII</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,550 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2403">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Martial Arts</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (5, one is below <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, one rotates 360 degrees). Three level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Two <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>, each with an elevating entrance to allow ball access to a target underneath. <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (2-ball and 3-ball).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Smashable car in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ray&nbsp;Tanzer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ray%20Tanzer">Ray&nbsp;Tanzer</a></span>, <span title="Click here to perform a search for all pinball games that 'Mike&nbsp;Vettros' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mike%20Vettros">Mike&nbsp;Vettros</a></span>, <span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Parker">Bill&nbsp;Parker</a></span>, <span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Norris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Norris">Jon&nbsp;Norris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Rand&nbsp;Paulin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rand%20Paulin">Rand&nbsp;Paulin</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Rand&nbsp;Paulin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rand%20Paulin">Rand&nbsp;Paulin</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>An earlier example of a 360-degree rotating <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> can be found on <span title="Click here to open a new window and display Stern's 1979 'Hot Hand'"><a target="game1244" href="machine.cgi?id=1244">Stern's 1979 'Hot Hand'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"No Location is Complete WITH-OUT this Pair! (SFII Vid & SFII Pin)"<br>
+"We Challenge you to Fight on Our Playfield!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 174<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2403/SF2.HTM" target="rulesheet">Street Fighter II Guide (Oct/11/1993), by Dave Stewart</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2403">http://www.pinballowners.com/owners/2403</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 611 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 2403 sfight2.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 135 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (Rev. 1) <!-- gid 2403 sfight2a.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 135 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset (Rev. 2) <!-- gid 2403 sfight2b.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 638 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 2403 Premier_1993_Street_Fighter_II_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 2403 Premier_1993_Street_Fighter_II_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 115 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2403/Gottlieb_1993_Street_Fighter_II_Reproduction_Score_and_Instruction_Cards_Including_French.zip" >Reproduction Score and Instruction Cards (Including French)</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=5135" 
+><span title="Image # 5135: Street Fighter II Flyer, Front "><img src="https://www.ipdb.org/images/2403/tn_2403f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5135: Street Fighter II Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=5136" 
+><span title="Image # 5136: Street Fighter II Flyer, Back "><img src="https://www.ipdb.org/images/2403/tn_2403f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5136: Street Fighter II Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=11566" 
+><span title="Image # 11566: Street Fighter II Backglass "><img src="https://www.ipdb.org/images/2403/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 11566: Street Fighter II Backglass "><br>Backglass</span></a><br><font size="-2">445x475</font><br>[Ron  Clemins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=11567" 
+><span title="Image # 11567: Street Fighter II Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 11567: Street Fighter II Playfield "><br>Playfield</span></a><br><font size="-2">603x678</font><br>[Ron  Clemins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=15421" 
+><span title="Image # 15421: Street Fighter II Cabinet "><img src="https://www.ipdb.org/images/2403/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 15421: Street Fighter II Cabinet "><br>Cabinet</span></a><br><font size="-2">588x750</font><br>[HighwayGames]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=15422" 
+><span title="Image # 15422: Street Fighter II Lower Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15422: Street Fighter II Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">749x559</font><br>[HighwayGames]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=15423" 
+><span title="Image # 15423: Street Fighter II Upper Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 15423: Street Fighter II Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">750x497</font><br>[HighwayGames]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34925" 
+><span title="Image # 34925: Street Fighter II Playfield Plastics "><img src="https://www.ipdb.org/images/2403/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 34925: Street Fighter II Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1154</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34926" 
+><span title="Image # 34926: Street Fighter II Playfield Plastics "><img src="https://www.ipdb.org/images/2403/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 34926: Street Fighter II Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x730</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34927" 
+><span title="Image # 34927: Street Fighter II Playfield Plastics "><img src="https://www.ipdb.org/images/2403/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 34927: Street Fighter II Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1397</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34928" 
+><span title="Image # 34928: Street Fighter II Playfield Plastic "><img src="https://www.ipdb.org/images/2403/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 34928: Street Fighter II Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1024x619</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34944" 
+><span title="Image # 34944: Street Fighter II Flipper Area "><img src="https://www.ipdb.org/images/2403/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34944: Street Fighter II Flipper Area "><br>Flipper Area</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34945" 
+><span title="Image # 34945: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34945: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34946" 
+><span title="Image # 34946: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34946: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34947" 
+><span title="Image # 34947: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34947: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34948" 
+><span title="Image # 34948: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34948: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34949" 
+><span title="Image # 34949: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34949: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34950" 
+><span title="Image # 34950: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34950: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34951" 
+><span title="Image # 34951: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34951: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34952" 
+><span title="Image # 34952: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34952: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34953" 
+><span title="Image # 34953: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34953: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34954" 
+><span title="Image # 34954: Street Fighter II Playfield - Detail "><img src="https://www.ipdb.org/images/2403/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34954: Street Fighter II Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=34955" 
+><span title="Image # 34955: Street Fighter II Cabinet - Front "><img src="https://www.ipdb.org/images/2403/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34955: Street Fighter II Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35125" 
+><span title="Image # 35125: Street Fighter II Car Crunch Flipper "><img src="https://www.ipdb.org/images/2403/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35125: Street Fighter II Car Crunch Flipper "><br>Car Crunch Flipper</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35126" 
+><span title="Image # 35126: Street Fighter II Car and Graduation Mechanism "><img src="https://www.ipdb.org/images/2403/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35126: Street Fighter II Car and Graduation Mechanism "><br>Car and Graduation Mechanism</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35127" 
+><span title="Image # 35127: Street Fighter II Car Crunch Artwork "><img src="https://www.ipdb.org/images/2403/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=47 alt="Image # 35127: Street Fighter II Car Crunch Artwork "><br>Car Crunch Artwork</span></a><br><font size="-2">1024x480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35128" 
+><span title="Image # 35128: Street Fighter II Graduation Mechanism and Switch Detail "><img src="https://www.ipdb.org/images/2403/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35128: Street Fighter II Graduation Mechanism and Switch Detail "><br>Graduation Mechanism and Switch Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35129" 
+><span title="Image # 35129: Street Fighter II Car Crunch Flipper Assembly "><img src="https://www.ipdb.org/images/2403/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 35129: Street Fighter II Car Crunch Flipper Assembly "><br>Car Crunch Flipper Assembly</span></a><br><font size="-2">1024x641</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35130" 
+><span title="Image # 35130: Street Fighter II Car Crunch Circuit Boards "><img src="https://www.ipdb.org/images/2403/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 35130: Street Fighter II Car Crunch Circuit Boards "><br>Car Crunch Circuit Boards</span></a><br><font size="-2">1024x448</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=35131" 
+><span title="Image # 35131: Street Fighter II Maximum Travel Optics for Car "><img src="https://www.ipdb.org/images/2403/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 35131: Street Fighter II Maximum Travel Optics for Car "><br>Maximum Travel Optics for Car</span></a><br><font size="-2">1024x813</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=43598" 
+><span title="Image # 43598: Street Fighter II Illuminated Backglass "><img src="https://www.ipdb.org/images/2403/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43598: Street Fighter II Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1600</font><br>[Ronald Blom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67671" 
+><span title="Image # 67671: Street Fighter II Backbox Insert - Reverse "><img src="https://www.ipdb.org/images/2403/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 67671: Street Fighter II Backbox Insert - Reverse "><br>Backbox Insert - Reverse</span></a><br><font size="-2">1051x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67672" 
+><span title="Image # 67672: Street Fighter II Inside Backbox "><img src="https://www.ipdb.org/images/2403/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 67672: Street Fighter II Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x743</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67673" 
+><span title="Image # 67673: Street Fighter II Under Upper Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 67673: Street Fighter II Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67674" 
+><span title="Image # 67674: Street Fighter II Under Middle Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 67674: Street Fighter II Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67675" 
+><span title="Image # 67675: Street Fighter II Under Middle Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 67675: Street Fighter II Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67676" 
+><span title="Image # 67676: Street Fighter II Under Lower Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 67676: Street Fighter II Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2403&amp;picno=67677" 
+><span title="Image # 67677: Street Fighter II Under Lower Playfield "><img src="https://www.ipdb.org/images/2403/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 67677: Street Fighter II Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,221 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams '1962 World Series'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams 1962 World Series Bat Game Ramps (3). The ramps are red in color.
+
+Scoring a Super Home Run in backbox adds 1 extra inning to the game and awards 3 or 5 replays (operator option).  Beating the previous high score awards 5 replays (operator enabled). The high score feature resets to 20 runs when a certain high score level is hit (operator adjustable). A Grand Slam Home Run adds 1 letter to the name WORLD SERIES on the backglass. This is a carry-over feature from game to game and awards 5 replays upon completion (operator enabled). 
+
+The match feature is operator adjustable for either of these two modes:
+
+Mystery Match - this is the traditional operation where a random match number lights up at the end of the game, awarding a replay if it matches the last digit of the score.
+
+Skill Match - the match number is illuminated throughout game play, changing constantly as the 0-9 unit advances. This changing number gives no award during play, but its visibility allows the player an additional strategy if the game play is on the last inning with 2 outs. Then, once the changing match number agrees with the last digit of the score, the player can purposely try to score the 3rd out to end the game in order to win the match award. However, the player might not want to end the game in this way if the scores are close to winning replays for runs or for beating high score.
+
+Sound: 2 bells, knocker.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams '1962 World Series' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>1962 World Series</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2814">1962 World Series</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2814">2814</a> <I>/ January, 1962 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.5 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2814" target="showrate2814">4 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2814" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=350">Williams Electronic Manufacturing Company (1958-1967) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1962</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>275</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2814">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Baseball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Bat Game&nbsp;<a href="glossary.php#Bat_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (3). The <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> are red in color.<br><br>Scoring a Super Home Run in <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> adds 1 extra inning to the game and awards 3 or 5 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> (operator option).  Beating the previous high score awards 5 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> (operator enabled). The high score feature resets to 20 runs when a certain high score level is hit (operator adjustable). A Grand Slam Home Run adds 1 letter to the name WORLD SERIES on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. This is a <a target="glossary" class="glossarylink" href="/glossary.php#Carry-over">carry-over</a> feature from game to game and awards 5 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> upon completion (operator enabled). <br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> feature is <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> adjustable for either of these two modes:<br><br>Mystery <a target="glossary" class="glossarylink" href="/glossary.php#Match">Match</a> - this is the traditional operation where a random <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> number lights up at the end of the game, awarding a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> if it <a target="glossary" class="glossarylink" href="/glossary.php#Match">matches</a> the last digit of the score.<br><br>Skill <a target="glossary" class="glossarylink" href="/glossary.php#Match">Match</a> - the <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> number is illuminated throughout game play, changing constantly as the 0-9 unit advances. This changing number gives no award during play, but its visibility allows the player an additional strategy if the game play is on the last inning with 2 outs. Then, once the changing <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> number agrees with the last digit of the score, the player can purposely try to score the 3rd out to end the game in order to win the <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> award. However, the player might not want to end the game in this way if the scores are close to winning <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> for runs or for beating high score.<br><br>Sound: 2 bells, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cash Box, Mar-17-1962, page 49<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 161 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2814/Williams_1962_1962_World_Series_Changing_Coin_Intake_Plates_Instructions.pdf" >Changing Coin Intake Plates Instructions</a></td><td> [Williams Electronic Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2814/Williams_1962_1962_World_Series_Man_Running_Unit_Relay_Chart.pdf" >Man Running Unit - Relay Chart</a></td><td> [Williams Electronic Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 181 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2814/Williams_1962_1962_World_Series_Pitcher_Speed_Adjustment_and_Diagram.pdf" >Pitcher Speed Adjustment and Diagram</a></td><td> [Williams Electronic Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2814/Williams_1962_1962_World_Series_Promotional_Photo_Large_Size.pdf" >Promotional Photo - Large Size</a></td><td> [Williams Electronic Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 106 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2814/Williams_1962_1962_World_Series_Slug_Rejector_Adjustment_Instructions.pdf" >Slug Rejector Adjustment Instructions</a></td><td> [Williams Electronic Mfg&#46; Co&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=2693" 
+><span title="Image # 2693: 1962 World Series Backglass "><img src="https://www.ipdb.org/images/2814/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 2693: 1962 World Series Backglass "><br>Backglass</span></a><br><font size="-2">342x430</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=2694" 
+><span title="Image # 2694: 1962 World Series Playfield "><img src="https://www.ipdb.org/images/2814/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 2694: 1962 World Series Playfield "><br>Playfield</span></a><br><font size="-2">386x439</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=11520" 
+><span title="Image # 11520: 1962 World Series Flyer "><img src="https://www.ipdb.org/images/2814/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 11520: 1962 World Series Flyer "><br>Flyer</span></a><br><font size="-2">784x620</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=11842" 
+><span title="Image # 11842: 1962 World Series Cabinet - Left "><img src="https://www.ipdb.org/images/2814/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 11842: 1962 World Series Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">583x474</font><br>[John Robertson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12088" 
+><span title="Image # 12088: 1962 World Series Backglass "><img src="https://www.ipdb.org/images/2814/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 12088: 1962 World Series Backglass "><br>Backglass</span></a><br><font size="-2">265x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12089" 
+><span title="Image # 12089: 1962 World Series Backbox Animation "><img src="https://www.ipdb.org/images/2814/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 12089: 1962 World Series Backbox Animation "><br>Backbox Animation</span></a><br><font size="-2">495x323</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12090" 
+><span title="Image # 12090: 1962 World Series Playfield "><img src="https://www.ipdb.org/images/2814/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 12090: 1962 World Series Playfield "><br>Playfield</span></a><br><font size="-2">450x372</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12091" 
+><span title="Image # 12091: 1962 World Series Cabinet - Front "><img src="https://www.ipdb.org/images/2814/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12091: 1962 World Series Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">495x331</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12092" 
+><span title="Image # 12092: 1962 World Series Inside Backbox "><img src="https://www.ipdb.org/images/2814/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 12092: 1962 World Series Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">378x433</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12093" 
+><span title="Image # 12093: 1962 World Series Inside Backbox "><img src="https://www.ipdb.org/images/2814/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 12093: 1962 World Series Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">503x303</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12094" 
+><span title="Image # 12094: 1962 World Series Cabinet - Rear "><img src="https://www.ipdb.org/images/2814/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 12094: 1962 World Series Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">315x516</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12277" 
+><span title="Image # 12277: 1962 World Series Backbox Animation "><img src="https://www.ipdb.org/images/2814/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 12277: 1962 World Series Backbox Animation "><br>Backbox Animation</span></a><br><font size="-2">500x305</font><br>[Randy Donathan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12278" 
+><span title="Image # 12278: 1962 World Series Lower Playfield "><img src="https://www.ipdb.org/images/2814/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12278: 1962 World Series Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x375</font><br>[Randy Donathan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=12279" 
+><span title="Image # 12279: 1962 World Series Inside Backbox "><img src="https://www.ipdb.org/images/2814/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 12279: 1962 World Series Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">500x610</font><br>[Randy Donathan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=46585" 
+><span title="Image # 46585: 1962 World Series Upper Playfield "><img src="https://www.ipdb.org/images/2814/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46585: 1962 World Series Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Robertson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=46586" 
+><span title="Image # 46586: 1962 World Series Cabinet - Right "><img src="https://www.ipdb.org/images/2814/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 46586: 1962 World Series Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">569x449</font><br>[John Robertson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=56433" 
+><span title="Image # 56433: 1962 World Series Cash Box Ad 
+(Cash Box, Mar-17-1962, page 49)"><img src="https://www.ipdb.org/images/2814/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 56433: 1962 World Series Cash Box Ad 
+(Cash Box, Mar-17-1962, page 49)"><br>Cash Box Ad*</span></a><br><font size="-2">1200x850</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60943" 
+><span title="Image # 60943: 1962 World Series Backglass "><img src="https://www.ipdb.org/images/2814/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60943: 1962 World Series Backglass "><br>Backglass</span></a><br><font size="-2">1072x1602</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60944" 
+><span title="Image # 60944: 1962 World Series Super Home Run Plastic "><img src="https://www.ipdb.org/images/2814/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60944: 1962 World Series Super Home Run Plastic "><br>Super Home Run Plastic</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60945" 
+><span title="Image # 60945: 1962 World Series Running Man Unit "><img src="https://www.ipdb.org/images/2814/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60945: 1962 World Series Running Man Unit "><br>Running Man Unit</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60946" 
+><span title="Image # 60946: 1962 World Series Backglass - Reverse "><img src="https://www.ipdb.org/images/2814/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60946: 1962 World Series Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60947" 
+><span title="Image # 60947: 1962 World Series Inside Backbox "><img src="https://www.ipdb.org/images/2814/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 60947: 1962 World Series Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x1025</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60948" 
+><span title="Image # 60948: 1962 World Series Man Running Relays "><img src="https://www.ipdb.org/images/2814/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60948: 1962 World Series Man Running Relays "><br>Man Running Relays</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60949" 
+><span title="Image # 60949: 1962 World Series Motor And Pitch Unit "><img src="https://www.ipdb.org/images/2814/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60949: 1962 World Series Motor And Pitch Unit "><br>Motor And Pitch Unit</span></a><br><font size="-2">1200x1607</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60950" 
+><span title="Image # 60950: 1962 World Series Pitch Motor "><img src="https://www.ipdb.org/images/2814/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60950: 1962 World Series Pitch Motor "><br>Pitch Motor</span></a><br><font size="-2">1200x1607</font><br>[Joe Rossman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60951" 
+><span title="Image # 60951: 1962 World Series Pitch Motor "><img src="https://www.ipdb.org/images/2814/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60951: 1962 World Series Pitch Motor "><br>Pitch Motor</span></a><br><font size="-2">1200x1607</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60952" 
+><span title="Image # 60952: 1962 World Series Pitch Motor Mechanism "><img src="https://www.ipdb.org/images/2814/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60952: 1962 World Series Pitch Motor Mechanism "><br>Pitch Motor Mechanism</span></a><br><font size="-2">1200x1607</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60953" 
+><span title="Image # 60953: 1962 World Series Pitch Motor Bracket "><img src="https://www.ipdb.org/images/2814/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60953: 1962 World Series Pitch Motor Bracket "><br>Pitch Motor Bracket</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60954" 
+><span title="Image # 60954: 1962 World Series Inside Cabinet "><img src="https://www.ipdb.org/images/2814/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60954: 1962 World Series Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60955" 
+><span title="Image # 60955: 1962 World Series Motor Board "><img src="https://www.ipdb.org/images/2814/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60955: 1962 World Series Motor Board "><br>Motor Board</span></a><br><font size="-2">1200x1607</font><br>[Joe Rossman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60956" 
+><span title="Image # 60956: 1962 World Series Stepper Unit "><img src="https://www.ipdb.org/images/2814/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60956: 1962 World Series Stepper Unit "><br>Stepper Unit</span></a><br><font size="-2">1200x1607</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60957" 
+><span title="Image # 60957: 1962 World Series Play Meters "><img src="https://www.ipdb.org/images/2814/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60957: 1962 World Series Play Meters "><br>Play Meters</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=60958" 
+><span title="Image # 60958: 1962 World Series Knocker and Bells 
+(Large bell is for Runs Scored and for Home Runs. Small bell is for Hits.)"><img src="https://www.ipdb.org/images/2814/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60958: 1962 World Series Knocker and Bells 
+(Large bell is for Runs Scored and for Home Runs. Small bell is for Hits.)"><br>Knocker and Bells*</span></a><br><font size="-2">1200x896</font><br>[Joe Rossman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2814&amp;picno=68048" 
+><span title="Image # 68048: 1962 World Series Promotional Photo "><img src="https://www.ipdb.org/images/2814/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 68048: 1962 World Series Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">1200x1546</font><br>[Duncan Brown]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

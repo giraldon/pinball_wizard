@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Rollergames'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Rollergames Roller Games Flippers (3), Multiball, ball-catching magnet near upper flipper, two-stage kickback in left outlane (shoots the ball straight up a little ramp, onto another kicker that is not otherwise in play, and finally around the orbit to the upper right flipper).  Pat McMahon Steve Ritchie Carl Biagi Dan Forden Mark Penacho Dan Forden ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Rollergames' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Rollergames</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2006">Rollergames</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2006">2006</a> <I>/ June, 1990 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2006" target="showrate2006"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2006" target="showrate2006">51 ratings/34 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2006" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1990</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>576</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>RG</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=9">Williams System 11C</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2006">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Roller Derby  - Roller Skating - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>, ball-catching <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnet</a> near upper <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>, two-stage <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a> in left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> (shoots the ball straight up a little <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a>, onto another <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> that is not otherwise in play, and finally around the orbit to the upper right flipper).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Ritchie">Steve&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pat&nbsp;McMahon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20McMahon">Pat&nbsp;McMahon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Carl&nbsp;Biagi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Carl%20Biagi">Carl&nbsp;Biagi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Penacho' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Penacho">Mark&nbsp;Penacho</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Rollergames was a short-lived roller derby TV show.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnet</a> on this game is at the end of the upper (right) <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>.  There's a "<a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnet</a>' shot just to the left of center that leaves the ball in a <a target="glossary" class="glossarylink" href="/glossary.php#Saucer">saucer</a>.  When hit (when lit), the game says, "Don't Flip!", a <a target="glossary" class="glossarylink" href="/glossary.php#VUK">VUK</a> fires the ball up, through a <a target="glossary" class="glossarylink" href="/glossary.php#Wireform">wireform</a>, and right in front of the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>, where it sticks on the <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnet</a>.  The game says, "Flip!", and the ball goes right up the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a>.<br><br>The "wall" <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> shot, when "ball lock" is lit, leads the ball down a <a target="glossary" class="glossarylink" href="/glossary.php#Wireform">wireform</a> <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> to a capture area. When 2 balls have been captured and the ball lock is lit, the two balls in the lock area will eject, travel around a circular <a target="glossary" class="glossarylink" href="/glossary.php#Wireform">wireform</a> <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> over the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and return to the capture area.  Making the third ball lock begins multi-ball.<br><br>This game has very addictive background music, with separate tunes for the standard game, 2 ball lock, multi-ball, "go for the wall", and jackpot <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a>.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> game shown here, serial number 576X360003, has five <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> instead of five <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a>. Reportedly, a few production games were made with these <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> before they were changed to <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a> for the remainder of the production run. In our Files Section is the original <a target="glossary" class="glossarylink" href="/glossary.php#ROM">ROMs</a> for these <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (AD2, for American Drops) from Williams. This <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> game also has the expected red lamp boards under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>Also shown here are pictures of an Early Production <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, serial number 576I365026, showing a different speaker panel and providing for fifteen flasher bulbs. Very early machines had fifteen #906 flashers in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;inserts</a>. They were removed after the samples were made, but Williams used up the harnesses and <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> that they had left. Because of this, there were games with flashers, games with holes for flashers but no sockets and harnesses, and games that didn't have the holes.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Stay on Track with another Williams Winner!"<br>
+"Let the Good Times Roll!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Chicago Tribune May 21, 1990, pp. Sect. 4, p. 1:4. pp. (Game, PF-detail of advertising)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 124<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 33<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2006/ROLLERGA.HTM" target="rulesheet">Rollergames Rulesheet Version 2.0 (Jan/08/1994), by Michael Dunn</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2006">http://www.pinballowners.com/owners/2006</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 241 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Williams_1990_Rollergames_Complete_ROM_Set_European_Prototype_1_.zip" >Complete Romset (European Prototype 1)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 236 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Williams_1990_Rollergames_Complete_ROM_Set_Prototype_US_ROMS_CPU_Sound_PA1_Speech_PA2_.zip" >Complete Romset (Prototype US ROMS, CPU + Sound PA1, Speech PA2)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Rollergames_AD2_AMERICAN_DROPS_2.zip" >Game ROM AD2 (for games with SKATE drop targets)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 262 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Williams_1990_Rollergames_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 82 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Williams_1990_Rollergames_Game_ROMS_EA_3_.zip" >Game ROMS (EA-3)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Rollergames_F2_FRENCH_LEVEL_2.zip" >Game ROMS French Level 2</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Rollergames_F3_FRENCH_LEVEL_3.zip" >Game ROMS French Level 3</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Rollergames_G3_GERMAN_LEVEL_3.zip" >Game ROMS German Level 3 CPU</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Rollergames_LA2_AMERICAN_LEVEL_2.zip" >Game ROMS LA2 CPU (see Service Bulletin dated 23 May 1990)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/rollr_ex.zip" >PinMAME Romset (experimental)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 239 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/rollr_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/rollr_g3.zip" >PinMAME Romset (LG-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/rollr_l3.zip" >PinMAME Romset (LU-3) Europe</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 236 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/rollr_p2.zip" >PinMAME Romset (PA-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 241 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/rollr_e1.zip" >PinMAME Romset (PU-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Rollerball_Switch_15_Anomaly_in_Early_Game_ROMs.pdf" >Switch 15 Causing Test Report in Early Game ROMs</a></td><td> [John Wart, Jr&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/Williams_1990_Rollergames_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 529 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/RG_ADDENDUMS.pdf" onClick="return purchasemanual();">Manual Addendum (dated April 1990 and stapled to page 59 of Manual)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/SS63.pdf" >Service Bulletin SS63 (dated 15 May 1990 - "Deep Freeze" Magnet Performance Adju</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/SS64.pdf" >WMS Service Bulletin SS64 (dated 15 May 1990 - Upper Diverter Assembly Improveme</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 710 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2006/RG_DIVERT_SPRING.pdf" >WMS Service Bulletin Unnumbered (dated 23 May 1990 - Diverter Gate Spring Breaka</a></td><td> [Williams Electronic Games]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=4543" 
+><span title="Image # 4543: Rollergames Flyer, Front "><img src="https://www.ipdb.org/images/2006/tn_2006f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4543: Rollergames Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=4544" 
+><span title="Image # 4544: Rollergames Flyer, Back "><img src="https://www.ipdb.org/images/2006/tn_2006f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4544: Rollergames Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=8601" 
+><span title="Image # 8601: Rollergames Full Machine "><img src="https://www.ipdb.org/images/2006/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 8601: Rollergames Full Machine "><br>Full Machine</span></a><br><font size="-2">649x1086</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=8602" 
+><span title="Image # 8602: Rollergames Cabinet Right "><img src="https://www.ipdb.org/images/2006/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 8602: Rollergames Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">650x683</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=8603" 
+><span title="Image # 8603: Rollergames Cabinet Left "><img src="https://www.ipdb.org/images/2006/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 8603: Rollergames Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">658x697</font><br>[Steve Nordseth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=8604" 
+><span title="Image # 8604: Rollergames Playfield "><img src="https://www.ipdb.org/images/2006/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8604: Rollergames Playfield "><br>Playfield</span></a><br><font size="-2">654x872</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=23855" 
+><span title="Image # 23855: Rollergames Backbox "><img src="https://www.ipdb.org/images/2006/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 23855: Rollergames Backbox "><br>Backbox</span></a><br><font size="-2">1024x757</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=28972" 
+><span title="Image # 28972: Rollergames Playfield "><img src="https://www.ipdb.org/images/2006/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28972: Rollergames Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=28973" 
+><span title="Image # 28973: Rollergames Playfield Detail "><img src="https://www.ipdb.org/images/2006/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28973: Rollergames Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=28974" 
+><span title="Image # 28974: Rollergames Playfield Detail "><img src="https://www.ipdb.org/images/2006/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28974: Rollergames Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[Federico Ravagnati]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=30750" 
+><span title="Image # 30750: Rollergames Under Playfield "><img src="https://www.ipdb.org/images/2006/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30750: Rollergames Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=30751" 
+><span title="Image # 30751: Rollergames Stripped Upper Playfield "><img src="https://www.ipdb.org/images/2006/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30751: Rollergames Stripped Upper Playfield "><br>Stripped Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=34189" 
+><span title="Image # 34189: Rollergames Illuminated Playfield 
+(This is a regular production game.)"><img src="https://www.ipdb.org/images/2006/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34189: Rollergames Illuminated Playfield 
+(This is a regular production game.)"><br>Illuminated Playfield*</span></a><br><font size="-2">768x1024</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38881" 
+><span title="Image # 38881: Rollergames Upper Playfield 
+(The rose-colored plastic above the green drop targets is not original to this game.)"><img src="https://www.ipdb.org/images/2006/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38881: Rollergames Upper Playfield 
+(The rose-colored plastic above the green drop targets is not original to this game.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38882" 
+><span title="Image # 38882: Rollergames Roller Teams "><img src="https://www.ipdb.org/images/2006/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38882: Rollergames Roller Teams "><br>Roller Teams</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38883" 
+><span title="Image # 38883: Rollergames Skate Targets "><img src="https://www.ipdb.org/images/2006/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38883: Rollergames Skate Targets "><br>Skate Targets</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38884" 
+><span title="Image # 38884: Rollergames Right Jetway "><img src="https://www.ipdb.org/images/2006/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38884: Rollergames Right Jetway "><br>Right Jetway</span></a><br><font size="-2">826x1100</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38885" 
+><span title="Image # 38885: Rollergames Atomic Whip Targets 
+(The rose-colored plastic above the green drop targets is not original to this game.)"><img src="https://www.ipdb.org/images/2006/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38885: Rollergames Atomic Whip Targets 
+(The rose-colored plastic above the green drop targets is not original to this game.)"><br>Atomic Whip Targets*</span></a><br><font size="-2">1000x751</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38886" 
+><span title="Image # 38886: Rollergames Ball View 
+(The rose-colored plastic above the green drop targets and below the pop bumper cap is not original to this game.)"><img src="https://www.ipdb.org/images/2006/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38886: Rollergames Ball View 
+(The rose-colored plastic above the green drop targets and below the pop bumper cap is not original to this game.)"><br>Ball View*</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38887" 
+><span title="Image # 38887: Rollergames Playfield 
+(The rose-colored plastic above the green drop targets is not original to this game.)"><img src="https://www.ipdb.org/images/2006/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38887: Rollergames Playfield 
+(The rose-colored plastic above the green drop targets is not original to this game.)"><br>Playfield*</span></a><br><font size="-2">900x1198</font><br>[Matteo Virdis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38888" 
+><span title="Image # 38888: Rollergames Illuminated Ball View 
+(The rose-colored plastic above the green drop targets and below the pop bumper cap is not original to this game.)"><img src="https://www.ipdb.org/images/2006/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38888: Rollergames Illuminated Ball View 
+(The rose-colored plastic above the green drop targets and below the pop bumper cap is not original to this game.)"><br>Illuminated Ball View*</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38889" 
+><span title="Image # 38889: Rollergames Diamond Plate Logo "><img src="https://www.ipdb.org/images/2006/tn_image-A18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 38889: Rollergames Diamond Plate Logo "><br>Diamond Plate Logo</span></a><br><font size="-2">1000x956</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38890" 
+><span title="Image # 38890: Rollergames Outhole "><img src="https://www.ipdb.org/images/2006/tn_image-B17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38890: Rollergames Outhole "><br>Outhole</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=38891" 
+><span title="Image # 38891: Rollergames The Pit "><img src="https://www.ipdb.org/images/2006/tn_image-B18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38891: Rollergames The Pit "><br>The Pit</span></a><br><font size="-2">1024x769</font><br>[Matteo Virdis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=45037" 
+><span title="Image # 45037: Rollergames Inside Backbox "><img src="https://www.ipdb.org/images/2006/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45037: Rollergames Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=45038" 
+><span title="Image # 45038: Rollergames Inside Backbox "><img src="https://www.ipdb.org/images/2006/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45038: Rollergames Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=45261" 
+><span title="Image # 45261: Rollergames Backglass "><img src="https://www.ipdb.org/images/2006/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 45261: Rollergames Backglass "><br>Backglass</span></a><br><font size="-2">1024x689</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63825" 
+><span title="Image # 63825: Rollergames Prototype Game - Drop Target Bank 
+(Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63825: Rollergames Prototype Game - Drop Target Bank 
+(Serial number 576 X360003.)"><br>Prototype Game - Drop Target Bank*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63826" 
+><span title="Image # 63826: Rollergames Prototype Game - Different Skater Plastic 
+(Colors of skater plastic on left are different than production games. Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63826: Rollergames Prototype Game - Different Skater Plastic 
+(Colors of skater plastic on left are different than production games. Serial number 576 X360003.)"><br>Prototype Game - Different Skater Plastic*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63827" 
+><span title="Image # 63827: Rollergames Prototype Game - Different Artwork 
+(Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63827: Rollergames Prototype Game - Different Artwork 
+(Serial number 576 X360003.)"><br>Prototype Game - Different Artwork*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63828" 
+><span title="Image # 63828: Rollergames Prototype Game - Different Artwork 
+(Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63828: Rollergames Prototype Game - Different Artwork 
+(Serial number 576 X360003.)"><br>Prototype Game - Different Artwork*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63829" 
+><span title="Image # 63829: Rollergames Prototype Game - Serial Number 
+(Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63829: Rollergames Prototype Game - Serial Number 
+(Serial number 576 X360003.)"><br>Prototype Game - Serial Number*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63830" 
+><span title="Image # 63830: Rollergames Prototype Game - Under Playfield 
+(Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 63830: Rollergames Prototype Game - Under Playfield 
+(Serial number 576 X360003.)"><br>Prototype Game - Under Playfield*</span></a><br><font size="-2">1026x1806</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63831" 
+><span title="Image # 63831: Rollergames Prototype Game - Extra Switch 
+(Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 63831: Rollergames Prototype Game - Extra Switch 
+(Serial number 576 X360003.)"><br>Prototype Game - Extra Switch*</span></a><br><font size="-2">1200x1807</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63832" 
+><span title="Image # 63832: Rollergames Prototype Game - XR7 Designation 
+(The code 'XR7' indicated this playfield was coated with an experimental urethane playfield clear coating, later produced as 'Diamond Plate'. Serial number 576 X360003.)"><img src="https://www.ipdb.org/images/2006/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63832: Rollergames Prototype Game - XR7 Designation 
+(The code 'XR7' indicated this playfield was coated with an experimental urethane playfield clear coating, later produced as 'Diamond Plate'. Serial number 576 X360003.)"><br>Prototype Game - XR7 Designation*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63833" 
+><span title="Image # 63833: Rollergames Early Production Speaker Panel 
+(Serial number 576 I365026.)"><img src="https://www.ipdb.org/images/2006/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 63833: Rollergames Early Production Speaker Panel 
+(Serial number 576 I365026.)"><br>Early Production Speaker Panel*</span></a><br><font size="-2">804x797</font><br>[John Wart, Jr.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2006&amp;picno=63834" 
+><span title="Image # 63834: Rollergames Early Production Backbox Insert - 15 Flash Lamps 
+(Serial number 576 I365026.)"><img src="https://www.ipdb.org/images/2006/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 63834: Rollergames Early Production Backbox Insert - 15 Flash Lamps 
+(Serial number 576 I365026.)"><br>Early Production Backbox Insert - 15 Flash Lamps*</span></a><br><font size="-2">1200x797</font><br>[John Wart, Jr.]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

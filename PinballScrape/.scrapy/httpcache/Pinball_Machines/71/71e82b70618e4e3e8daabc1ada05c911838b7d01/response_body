@@ -1,0 +1,224 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Catacomb'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Catacomb Catacombs Mechanical Backbox Animation Flippers (3), Pop bumpers (2), Slingshots (3), 3-bank drop targets (4), Kick-out holes (2), Spinning target (1), Standup target (1), Star rollover (1), Multiball. Has Speech. Backbox bagatelle has the third flipper.  Larry Day Joe Joos Jr. ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Catacomb' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Catacomb</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="469">Catacomb</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=469">469</a> <I>/ October, 1981 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=469" target="showrate469"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=469" target="showrate469">21 ratings/16 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=469" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=302">Stern Electronics, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1977-1984) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>October, 1981</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>147</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=34">Stern M-200 MPU</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=469">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (3), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>. Has Speech. <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Bagatelle">bagatelle</a> has the third <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Joos&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Joos%20Jr.">Joe&nbsp;Joos&nbsp;Jr.</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Larry&nbsp;Day' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Larry%20Day">Larry&nbsp;Day</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>One of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> pictured in this listing is different from the other ones shown and from the game in the flyer because none of its <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> are numbered and the center <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> are lettered A-B-C-D instead of numbered. We don't know the reason for this difference. The game manual references the version with the numbered <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"A chilling game of skill."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 203<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/469">http://www.pinballowners.com/owners/469</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/469/catacomb.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/469/Stern_1981_Catacomb_ROMs.zip" >ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/469/Stern_1981_Catacomb_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/469/Stern_1981_Catacomb_Schematics.pdf" onClick="return purchasemanual();">Schematics</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 103 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/469/Stern_1981_Catacomb_Reproduction_Score_And_Instruction_Cards.zip" >Reproduction Score And Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=448" 
+><span title="Image # 448: Catacomb Playfield "><img src="https://www.ipdb.org/images/469/tn_Playfield2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 448: Catacomb Playfield "><br>Playfield</span></a><br><font size="-2">482x709</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=449" 
+><span title="Image # 449: Catacomb Playfield "><img src="https://www.ipdb.org/images/469/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 449: Catacomb Playfield "><br>Playfield</span></a><br><font size="-2">542x320</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=450" 
+><span title="Image # 450: Catacomb Backglass "><img src="https://www.ipdb.org/images/469/tn_Backglass2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 450: Catacomb Backglass "><br>Backglass</span></a><br><font size="-2">473x405</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=451" 
+><span title="Image # 451: Catacomb Backglass "><img src="https://www.ipdb.org/images/469/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 451: Catacomb Backglass "><br>Backglass</span></a><br><font size="-2">396x437</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=3664" 
+><span title="Image # 3664: Catacomb Flyer, Back "><img src="https://www.ipdb.org/images/469/tn_469f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3664: Catacomb Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">588x764</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=7453" 
+><span title="Image # 7453: Catacomb Playfield - ABCD Center Inserts "><img src="https://www.ipdb.org/images/469/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 7453: Catacomb Playfield - ABCD Center Inserts "><br>Playfield - ABCD Center Inserts</span></a><br><font size="-2">400x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=7454" 
+><span title="Image # 7454: Catacomb Upper Playfield - ABCD Center Inserts "><img src="https://www.ipdb.org/images/469/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 7454: Catacomb Upper Playfield - ABCD Center Inserts "><br>Upper Playfield - ABCD Center Inserts</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=7455" 
+><span title="Image # 7455: Catacomb Lower Playfield - ABCD Center Inserts "><img src="https://www.ipdb.org/images/469/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 7455: Catacomb Lower Playfield - ABCD Center Inserts "><br>Lower Playfield - ABCD Center Inserts</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=7456" 
+><span title="Image # 7456: Catacomb Front View - ABCD Center Inserts "><img src="https://www.ipdb.org/images/469/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 7456: Catacomb Front View - ABCD Center Inserts "><br>Front View - ABCD Center Inserts</span></a><br><font size="-2">318x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=15261" 
+><span title="Image # 15261: Catacomb Illuminated Full View "><img src="https://www.ipdb.org/images/469/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 15261: Catacomb Illuminated Full View "><br>Illuminated Full View</span></a><br><font size="-2">764x766</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=15262" 
+><span title="Image # 15262: Catacomb Illuminated Backglass "><img src="https://www.ipdb.org/images/469/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 15262: Catacomb Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">787x776</font><br>[Pascal Villedieu]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=20430" 
+><span title="Image # 20430: Catacomb German Instruction Card "><img src="https://www.ipdb.org/images/469/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 20430: Catacomb German Instruction Card "><br>German Instruction Card</span></a><br><font size="-2">1024x564</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=33212" 
+><span title="Image # 33212: Catacomb English Instruction Card "><img src="https://www.ipdb.org/images/469/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 33212: Catacomb English Instruction Card "><br>English Instruction Card</span></a><br><font size="-2">972x523</font><br>[Ken Ostromek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=33213" 
+><span title="Image # 33213: Catacomb 3 Ball Card "><img src="https://www.ipdb.org/images/469/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 33213: Catacomb 3 Ball Card "><br>3 Ball Card</span></a><br><font size="-2">969x513</font><br>[Ken Ostromek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=33214" 
+><span title="Image # 33214: Catacomb 5 Ball Card "><img src="https://www.ipdb.org/images/469/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 33214: Catacomb 5 Ball Card "><br>5 Ball Card</span></a><br><font size="-2">966x514</font><br>[Ken Ostromek]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=43763" 
+><span title="Image # 43763: Catacomb Flyer, Front "><img src="https://www.ipdb.org/images/469/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 43763: Catacomb Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">843x1094</font><br>[Errol Klein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=43764" 
+><span title="Image # 43764: Catacomb Flyer, Back "><img src="https://www.ipdb.org/images/469/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 43764: Catacomb Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">842x1090</font><br>[Errol Klein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=46694" 
+><span title="Image # 46694: Catacomb Upper Playfield "><img src="https://www.ipdb.org/images/469/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46694: Catacomb Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Robertson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=46695" 
+><span title="Image # 46695: Catacomb Lower Playfield "><img src="https://www.ipdb.org/images/469/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46695: Catacomb Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Robertson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47820" 
+><span title="Image # 47820: Catacomb Illuminated Backglass "><img src="https://www.ipdb.org/images/469/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 47820: Catacomb Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">918x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47821" 
+><span title="Image # 47821: Catacomb Illuminated Backglass "><img src="https://www.ipdb.org/images/469/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47821: Catacomb Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47822" 
+><span title="Image # 47822: Catacomb Playfield "><img src="https://www.ipdb.org/images/469/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47822: Catacomb Playfield "><br>Playfield</span></a><br><font size="-2">1200x1599</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47823" 
+><span title="Image # 47823: Catacomb Upper Playfield "><img src="https://www.ipdb.org/images/469/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47823: Catacomb Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47824" 
+><span title="Image # 47824: Catacomb Middle Playfield "><img src="https://www.ipdb.org/images/469/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47824: Catacomb Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47825" 
+><span title="Image # 47825: Catacomb Lower Playfield "><img src="https://www.ipdb.org/images/469/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47825: Catacomb Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47826" 
+><span title="Image # 47826: Catacomb Backbox - Left "><img src="https://www.ipdb.org/images/469/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47826: Catacomb Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1200x1599</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47827" 
+><span title="Image # 47827: Catacomb Backbox - Right "><img src="https://www.ipdb.org/images/469/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 47827: Catacomb Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1048x1580</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47828" 
+><span title="Image # 47828: Catacomb Cabinet - Left "><img src="https://www.ipdb.org/images/469/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47828: Catacomb Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47829" 
+><span title="Image # 47829: Catacomb Cabinet - Left "><img src="https://www.ipdb.org/images/469/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47829: Catacomb Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47830" 
+><span title="Image # 47830: Catacomb Cabinet - Right "><img src="https://www.ipdb.org/images/469/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47830: Catacomb Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47831" 
+><span title="Image # 47831: Catacomb Cabinet - Front "><img src="https://www.ipdb.org/images/469/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47831: Catacomb Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47832" 
+><span title="Image # 47832: Catacomb Backglass - Reverse "><img src="https://www.ipdb.org/images/469/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47832: Catacomb Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47833" 
+><span title="Image # 47833: Catacomb Behind Backglass "><img src="https://www.ipdb.org/images/469/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 47833: Catacomb Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">962x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=47834" 
+><span title="Image # 47834: Catacomb Inside Backbox "><img src="https://www.ipdb.org/images/469/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47834: Catacomb Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=49161" 
+><span title="Image # 49161: Catacomb Bagatelle Gate 
+(This wireform gate is referenced in the manufacturer's manual.)"><img src="https://www.ipdb.org/images/469/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49161: Catacomb Bagatelle Gate 
+(This wireform gate is referenced in the manufacturer's manual.)"><br>Bagatelle Gate*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=469&amp;picno=58171" 
+><span title="Image # 58171: Catacomb Promotional Photo 
+(This is a black-and-white photograph made from one of the negatives resulting from a photo session that produced the Stern advertising flyer. Measures 8 inches by 10 inches.)"><img src="https://www.ipdb.org/images/469/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 58171: Catacomb Promotional Photo 
+(This is a black-and-white photograph made from one of the negatives resulting from a photo session that produced the Stern advertising flyer. Measures 8 inches by 10 inches.)"><br>Promotional Photo*</span></a><br><font size="-2">760x798</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

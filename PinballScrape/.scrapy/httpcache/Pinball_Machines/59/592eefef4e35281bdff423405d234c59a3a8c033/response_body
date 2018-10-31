@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Keeney 'Old Plantation'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Keeney Old Plantation Flipperless One or two balls per play. Panascope slot windows (3), Pop bumpers (3), Passive bumpers (6).
+
+Game has a plumb-bob tilt and a slam-switch tilt.
+
+Tilt penalty: game over, no subtraction of credits.  Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Keeney 'Old Plantation' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Old Plantation</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1708">Old Plantation</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1708">1708</a> <I>/ February, 1961 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.6 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1708" target="showrate1708">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1708" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Keeney'"><a href="search.pl?searchtype=advanced&amp;mfgid=162">J. H. Keeney and Company Incorporated, <font size="-1">of Chicago, Illinois, USA</font> (1934-1964)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1961</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1708">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Confederate American South - Historical</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>One or two balls per play. Panascope slot windows (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (6).<br><br>Game has a plumb-bob <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a> and a slam-switch <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a>.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Tilt">Tilt</a> penalty: game over, no subtraction of credits.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Old Plantation' is a thinly-veiled (but serious) gambling device.  It's essentially a slot machine with a <a target="glossary" class="glossarylink" href="/glossary.php#Flipperless">flipperless</a> pinball <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> attached.  When a coin is inserted (or the credit button is pressed), a ball is loaded into the shooter lane, and the three Panascope slot windows on the <a target="glossary" class="glossarylink" href="/glossary.php#Head">head</a> unit "roll" out a sequence of three symbols. The frequency in which the roll of the Panascope results in a "winning" sequence is operator-adjustable via a ten-position dial located to the right just inside the coin door. If a winning sequence appears, the player must shoot the ball to obtain a minimum score to collect the winning credits.  Higher pinball scores advance the value of the winning combination (illuminated columns on the backglass) -- up to 460 credits per game.  Plus, additional credits can be obtained via the pinball portion of the game alone, but this is purposely a near-impossible feat -- the pinball portion of the game is almost a formality, designed to fall within a very narrow score range.  As it is, one-ball mo<ignore>de restricts slot winnings to 93 credits, and two-ball mo<ignore>de awards credits during the second ball, either at the first advance of winning column or at end of ball, whichever occurs first.  So, while it's feasible to reach the highest credit award column in a two-ball game, it verges on the impossible.<br><br>The player's credits are managed on two sets of reels on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, "Total Score" (on left side) and "Sub Total" (on right side), while the "Hi Score" reels (in the center) are for the pinball <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> scoring.  The number of playable credits is the Total Score minus the Sub Total.  When a credit is used, the Sub Total increments by one.  When credits are awarded, the Total Score is incremented by the appropriate amount as determined by the winning combination of symbols and score level.  Once the two scores are equal, the player is out of credits, and coins must be used again.<br><br>This machine does not have a payout mechanism to dispense coins or <a target="glossary" class="glossarylink" href="/glossary.php#Token">tokens</a>, but <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a> typically wired in a "reset" switch to allow the location to zero out the credit reels after "cashing out" the player's credits.  <br><br>There are no chimes or bells in this machine.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Feb-20-1961, page 62<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 141<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=3314" 
+><span title="Image # 3314: Old Plantation Flyer "><img src="https://www.ipdb.org/images/1708/tn_1708f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3314: Old Plantation Flyer "><br>Flyer</span></a><br><font size="-2">609x791</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=7381" 
+><span title="Image # 7381: Old Plantation Backglass "><img src="https://www.ipdb.org/images/1708/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7381: Old Plantation Backglass "><br>Backglass</span></a><br><font size="-2">700x934</font><br>[Alan Tate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=7382" 
+><span title="Image # 7382: Old Plantation Playfield "><img src="https://www.ipdb.org/images/1708/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 7382: Old Plantation Playfield "><br>Playfield</span></a><br><font size="-2">725x1175</font><br>[Alan Tate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49252" 
+><span title="Image # 49252: Old Plantation Playfield "><img src="https://www.ipdb.org/images/1708/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49252: Old Plantation Playfield "><br>Playfield</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49253" 
+><span title="Image # 49253: Old Plantation Lower Playfield "><img src="https://www.ipdb.org/images/1708/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49253: Old Plantation Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49254" 
+><span title="Image # 49254: Old Plantation Lower Playfield "><img src="https://www.ipdb.org/images/1708/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49254: Old Plantation Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49255" 
+><span title="Image # 49255: Old Plantation Cabinet - Left 
+(This cabinet has been repainted but is presented here to show its other features.)"><img src="https://www.ipdb.org/images/1708/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 49255: Old Plantation Cabinet - Left 
+(This cabinet has been repainted but is presented here to show its other features.)"><br>Cabinet - Left*</span></a><br><font size="-2">587x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49256" 
+><span title="Image # 49256: Old Plantation Cabinet - Right 
+(This cabinet has been repainted but is presented here to show its other features.)"><img src="https://www.ipdb.org/images/1708/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49256: Old Plantation Cabinet - Right 
+(This cabinet has been repainted but is presented here to show its other features.)"><br>Cabinet - Right*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49257" 
+><span title="Image # 49257: Old Plantation Cabinet - Front 
+(This cabinet has been repainted but is presented here to show its other features.)"><img src="https://www.ipdb.org/images/1708/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 49257: Old Plantation Cabinet - Front 
+(This cabinet has been repainted but is presented here to show its other features.)"><br>Cabinet - Front*</span></a><br><font size="-2">725x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49258" 
+><span title="Image # 49258: Old Plantation Cabinet - Full View 
+(This game had its backbox score reels removed and in their place was mounted a bingo-style replay counter. The cabinet has been repainted as well. The game is presented here to show its other features.)"><img src="https://www.ipdb.org/images/1708/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 49258: Old Plantation Cabinet - Full View 
+(This game had its backbox score reels removed and in their place was mounted a bingo-style replay counter. The cabinet has been repainted as well. The game is presented here to show its other features.)"><br>Cabinet - Full View*</span></a><br><font size="-2">513x708</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49259" 
+><span title="Image # 49259: Old Plantation Inside Backbox 
+(The backbox score reels on this game have been removed, cabling is cut, and in their place was mounted a bingo-style replay counter. The outside cabinet has been repainted as well. This image is presented to show the cabinet’s other inside details.)"><img src="https://www.ipdb.org/images/1708/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49259: Old Plantation Inside Backbox 
+(The backbox score reels on this game have been removed, cabling is cut, and in their place was mounted a bingo-style replay counter. The outside cabinet has been repainted as well. This image is presented to show the cabinet’s other inside details.)"><br>Inside Backbox*</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49260" 
+><span title="Image # 49260: Old Plantation Inside Back Door "><img src="https://www.ipdb.org/images/1708/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 49260: Old Plantation Inside Back Door "><br>Inside Back Door</span></a><br><font size="-2">524x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49261" 
+><span title="Image # 49261: Old Plantation Inside Back Door "><img src="https://www.ipdb.org/images/1708/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 49261: Old Plantation Inside Back Door "><br>Inside Back Door</span></a><br><font size="-2">749x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49262" 
+><span title="Image # 49262: Old Plantation Inside Back Door "><img src="https://www.ipdb.org/images/1708/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 49262: Old Plantation Inside Back Door "><br>Inside Back Door</span></a><br><font size="-2">723x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1708&amp;picno=49263" 
+><span title="Image # 49263: Old Plantation Inside Back Door "><img src="https://www.ipdb.org/images/1708/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 49263: Old Plantation Inside Back Door "><br>Inside Back Door</span></a><br><font size="-2">700x600</font><br>&nbsp;</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

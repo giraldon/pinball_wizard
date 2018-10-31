@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Unknown Manufacturer 'Unknown'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Unknown Manufacturer Unknown Payout Machine 10 balls for 5 cents. The balls are steel, one of them is anodized in a red color. All playfield scoring pockets are trap holes except for the 100-point hole in center playfield which allows the ball to fall through. This hole is the only way to score a payout.
+
+Every fifth nickel from the coin slide does not go into the cashbox but instead goes into the jackpot of the payout mechanism (the 'Profit Sharer') located on the front of the cabinet and visible through a small window. This jackpot must be manually dispensed to the payout cup by pressing the button to the left of the coin slide. However, the button does not work until the jackpot is earned by dropping a ball through the 100-point hole in the center playfield. This is because pushing the button on the jackpot mechanism pushes a rod inside the game. The addition of the ball in this sequence provides the additional extension needed for this rod to make contact with another button under the playfield to release all of the jackpot coins to the payout cup. When the button is released, the ball is returned to the player to shoot again, although at this point there is no jackpot to win.
+
+The cabinet appears to be made of mahogany or cherry wood. The trim around the top edges framing the playfield are not original as they were added by a previous owner.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Unknown Manufacturer 'Unknown' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Unknown</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5487">Unknown</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5487">5487</a> <I>/ 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5487" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Unknown Manufacturer'"><a href="search.pl?searchtype=advanced&amp;mfgid=328">Unknown Manufacturer</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Pure Mechanical (PM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=PM#PM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5487">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Payout Machine&nbsp;<a href="glossary.php#Payout_Machine" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>10 balls for 5 cents. The balls are steel, one of them is anodized in a red color. All <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> scoring pockets are <a target="glossary" class="glossarylink" href="/glossary.php#Trap_Hole">trap&nbsp;holes</a> except for the 100-point hole in center <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> which allows the ball to fall through. This hole is the only way to score a payout.<br><br>Every fifth nickel from the coin slide does not go into the cashbox but instead goes into the jackpot of the payout mechanism (the 'Profit Sharer') located on the front of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> and visible through a small window. This jackpot must be manually dispensed to the payout cup by pressing the button to the left of the coin slide. However, the button does not work until the jackpot is earned by dropping a ball through the 100-point hole in the center <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. This is because pushing the button on the jackpot mechanism pushes a rod inside the game. The addition of the ball in this sequence provides the additional extension needed for this rod to make contact with another button under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to release all of the jackpot coins to the payout cup. When the button is released, the ball is returned to the player to shoot again, although at this point there is no jackpot to win.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> appears to be made of mahogany or cherry wood. The trim around the top edges framing the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> are not original as they were added by a previous owner.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This game is missing the panel that covers the lower part of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> where the ball serve alley and payout mechanism are now visible. An instruction card likely would have been on this panel to identify the name of this game. Without instructions, the significance of the red steel ball is unclear when any ball in play can score the jackpot.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> has slots where legs would <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a>. The legs may have been joined in pairs for sturdiness. The metal box underneath allows for a cashbox to slide in and be locked into place. We make note of one image of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> side that may help with identification of this game or its manufacturer. It shows a diamond-shaped area of the wood where an applique had once been attached. There are five small nail holes, one at each point of the diamond and one at its center.<br><br>The shipping notice found inside the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> was a Railroad Express Agency (REA) shipping label sending the game to New London, Wisconsin. The name of the exact recipient and the name and address of the sender are no longer legible. Other than this notice and the serial number, there are no other numbers or patent numbers on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>.<br><br>The <a href="http://www.ipdb.org/search.pl?name=profit+sharer&sortby=date&searchtype=advanced" target=>Profit Sharer</a> was an attachment offered for sale to <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Jobber">jobbers</a> to allow a non-payout game to be converted to a payout game. It was also advertised to principal <a target="glossary" class="glossarylink" href="/glossary.php#Manufacturers">manufacturers</a> for new games. Therefore, its presence on a game does not determine who made the game or if the game was originally produced with this device.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42609" 
+><span title="Image # 42609: Unknown Upper Playfield 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42609: Unknown Upper Playfield 
+(Serial number 898.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42610" 
+><span title="Image # 42610: Unknown Lower Playfield 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42610: Unknown Lower Playfield 
+(Serial number 898.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42611" 
+><span title="Image # 42611: Unknown 100-Point Payout Hole 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42611: Unknown 100-Point Payout Hole 
+(Serial number 898.)"><br>100-Point Payout Hole*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42612" 
+><span title="Image # 42612: Unknown Serial Number 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42612: Unknown Serial Number 
+(Serial number 898.)"><br>Serial Number*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42613" 
+><span title="Image # 42613: Unknown Cabinet - Left 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42613: Unknown Cabinet - Left 
+(Serial number 898.)"><br>Cabinet - Left*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42614" 
+><span title="Image # 42614: Unknown Cabinet - Right 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42614: Unknown Cabinet - Right 
+(Serial number 898.)"><br>Cabinet - Right*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42615" 
+><span title="Image # 42615: Unknown Cabinet - Front 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42615: Unknown Cabinet - Front 
+(Serial number 898.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42616" 
+><span title="Image # 42616: Unknown Payout Cup 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42616: Unknown Payout Cup 
+(Serial number 898.)"><br>Payout Cup*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42617" 
+><span title="Image # 42617: Unknown Ball Lift Knob 
+(The ball lift is on the right side of the cabinet.The shooter rod is the knob on the left in ths image, on the front of the cabinet. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42617: Unknown Ball Lift Knob 
+(The ball lift is on the right side of the cabinet.The shooter rod is the knob on the left in ths image, on the front of the cabinet. Serial number 898.)"><br>Ball Lift Knob*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42618" 
+><span title="Image # 42618: Unknown Shipping Notice 
+(This notice is affixed to the underside of the cabinet. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42618: Unknown Shipping Notice 
+(This notice is affixed to the underside of the cabinet. Serial number 898.)"><br>Shipping Notice*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42619" 
+><span title="Image # 42619: Unknown Rear Cabinet Bottom 
+(The shipping notice is evident  on the left side of this image. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42619: Unknown Rear Cabinet Bottom 
+(The shipping notice is evident  on the left side of this image. Serial number 898.)"><br>Rear Cabinet Bottom*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42620" 
+><span title="Image # 42620: Unknown Cabinet Bottom - Access Door 
+(A cashbox can slide in and be locked into place. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42620: Unknown Cabinet Bottom - Access Door 
+(A cashbox can slide in and be locked into place. Serial number 898.)"><br>Cabinet Bottom - Access Door*</span></a><br><font size="-2">900x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42621" 
+><span title="Image # 42621: Unknown Front Cabinet Bottom 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42621: Unknown Front Cabinet Bottom 
+(Serial number 898.)"><br>Front Cabinet Bottom*</span></a><br><font size="-2">900x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42623" 
+><span title="Image # 42623: Unknown Baffle Board 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42623: Unknown Baffle Board 
+(Serial number 898.)"><br>Baffle Board*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42624" 
+><span title="Image # 42624: Unknown Inside Cabinet 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42624: Unknown Inside Cabinet 
+(Serial number 898.)"><br>Inside Cabinet*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42625" 
+><span title="Image # 42625: Unknown Coin Slide - Detail 
+(Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42625: Unknown Coin Slide - Detail 
+(Serial number 898.)"><br>Coin Slide - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42626" 
+><span title="Image # 42626: Unknown Payout Mechanism - Detail 
+(This image shows how the ball that falls through the Payout Hole enables the payout mechanism. There is an opening for the ball to exit after payout. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42626: Unknown Payout Mechanism - Detail 
+(This image shows how the ball that falls through the Payout Hole enables the payout mechanism. There is an opening for the ball to exit after payout. Serial number 898.)"><br>Payout Mechanism - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42627" 
+><span title="Image # 42627: Unknown Payout Mechanism - Detail 
+(This image shows how the ball that falls through the Payout Hole enables the payout mechanism. There is an opening for the ball to exit after payout. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42627: Unknown Payout Mechanism - Detail 
+(This image shows how the ball that falls through the Payout Hole enables the payout mechanism. There is an opening for the ball to exit after payout. Serial number 898.)"><br>Payout Mechanism - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5487&amp;picno=42628" 
+><span title="Image # 42628: Unknown Cabinet - Diamond Design 
+(The cabinet shows a diamond applique had been attached. There are five small nail holes,  one at each point of the diamond and one at its center. Serial number 898.)"><img src="https://www.ipdb.org/images/5487/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 42628: Unknown Cabinet - Diamond Design 
+(The cabinet shows a diamond applique had been attached. There are five small nail holes,  one at each point of the diamond and one at its center. Serial number 898.)"><br>Cabinet - Diamond Design*</span></a><br><font size="-2">914x768</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

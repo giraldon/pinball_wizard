@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'El Dorado City of Gold'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier El Dorado City of Gold Flippers (4), Pop bumpers (2), Slingshots (2), 5-bank drop targets (1), 10-bank drop targets (1), Standup targets (2).  Larry Day Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'El Dorado City of Gold' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>El Dorado City of Gold</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="767">El Dorado City of Gold</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=767">767</a> <I>/ September, 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=767" target="showrate767"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=767" target="showrate767">13 ratings/11 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=767" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>692</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=16">Gottlieb System 80A</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>905 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=767">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Adventure - Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 10-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Larry&nbsp;Day' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Larry%20Day">Larry&nbsp;Day</a></span></td></tr>
+<!-- 766 == 'El Dorado' -->
+<!-- 1042 == 'Gold Strike' -->
+<!-- 1497 == 'Lucky Strike' -->
+<!-- 2500 == 'Target Alpha' -->
+<!-- 426 == 'Canada Dry' -->
+<!-- 2237 == 'Solar City' -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This was the last pin produced by Mylstar and production was continued by Premier.  It is also the last game designed by Ed Krynski for Gottlieb/Mylstar. The models for the explorers on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> were two Gottlieb employees, Jeri Knighton and Jeff Lee (Gottlieb video game artist).<br><br>In the 1970's, this <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> layout was produced by Gottlieb as a 1 player <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> version called <a target="game766" href="machine.cgi?id=766">'El Dorado'</a>, an <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-A-Ball</a> version called <a target="game1042" href="machine.cgi?id=1042">'Gold Strike'</a>, an <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-A-Ball</a> version for Italy called <a target="game1497" href="machine.cgi?id=1497">'Lucky Strike'</a>, a 4 player <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> called <a target="game2500" href="machine.cgi?id=2500">'Target Alpha'</a>, a 4 player <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> game made only for France called <a target="game426" href="machine.cgi?id=426">'Canada Dry'</a>, and a 2 player <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> called <a target="game2237" href="machine.cgi?id=2237">'Solar City'</a>.<br><br>Unlike the above list of <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> games, this <a target="glossary" class="glossarylink" href="/glossary.php#SS">SS</a> version used a 3-inch <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> bat for its upper left <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> instead of a 2-inch <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> bat.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 144<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 46<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 9 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 767 eldorado.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 9 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 767 Premier_1984_El_Dorado_City_of_Gold_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=5190" 
+><span title="Image # 5190: El Dorado City of Gold Flyer, Front "><img src="https://www.ipdb.org/images/767/tn_767f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5190: El Dorado City of Gold Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">824x1066</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=5191" 
+><span title="Image # 5191: El Dorado City of Gold Flyer, Back "><img src="https://www.ipdb.org/images/767/tn_767f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 5191: El Dorado City of Gold Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">824x1063</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=11142" 
+><span title="Image # 11142: El Dorado City of Gold Flyer "><img src="https://www.ipdb.org/images/767/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 11142: El Dorado City of Gold Flyer "><br>Flyer</span></a><br><font size="-2">620x795</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=27038" 
+><span title="Image # 27038: El Dorado City of Gold Backglass "><img src="https://www.ipdb.org/images/767/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 27038: El Dorado City of Gold Backglass "><br>Backglass</span></a><br><font size="-2">800x815</font><br>[Doug Fox]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=27501" 
+><span title="Image # 27501: El Dorado City of Gold Backglass - Detail "><img src="https://www.ipdb.org/images/767/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27501: El Dorado City of Gold Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">984x738</font><br>[Doug Fox]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=27907" 
+><span title="Image # 27907: El Dorado City of Gold Playfield "><img src="https://www.ipdb.org/images/767/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 27907: El Dorado City of Gold Playfield "><br>Playfield</span></a><br><font size="-2">471x597</font><br>[Doug Fox]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=38364" 
+><span title="Image # 38364: El Dorado City of Gold Illuminated Backglass "><img src="https://www.ipdb.org/images/767/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38364: El Dorado City of Gold Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">800x600</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=38365" 
+><span title="Image # 38365: El Dorado City of Gold Cabinet - Left "><img src="https://www.ipdb.org/images/767/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38365: El Dorado City of Gold Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x600</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=38366" 
+><span title="Image # 38366: El Dorado City of Gold Cabinet - Right "><img src="https://www.ipdb.org/images/767/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38366: El Dorado City of Gold Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x600</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=38367" 
+><span title="Image # 38367: El Dorado City of Gold Backbox - Left "><img src="https://www.ipdb.org/images/767/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 38367: El Dorado City of Gold Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">436x730</font><br>[Federico Ravagnati]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=38368" 
+><span title="Image # 38368: El Dorado City of Gold Backbox - Right "><img src="https://www.ipdb.org/images/767/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 38368: El Dorado City of Gold Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">476x798</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=38369" 
+><span title="Image # 38369: El Dorado City of Gold Cabinet - Front "><img src="https://www.ipdb.org/images/767/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 38369: El Dorado City of Gold Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">496x600</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=42494" 
+><span title="Image # 42494: El Dorado City of Gold Playfield "><img src="https://www.ipdb.org/images/767/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42494: El Dorado City of Gold Playfield "><br>Playfield</span></a><br><font size="-2">1200x900</font><br>[Rick Exner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=42495" 
+><span title="Image # 42495: El Dorado City of Gold Playfield "><img src="https://www.ipdb.org/images/767/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42495: El Dorado City of Gold Playfield "><br>Playfield</span></a><br><font size="-2">1200x900</font><br>[Rick Exner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=42496" 
+><span title="Image # 42496: El Dorado City of Gold Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/767/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42496: El Dorado City of Gold Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Rick Exner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=42497" 
+><span title="Image # 42497: El Dorado City of Gold Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/767/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42497: El Dorado City of Gold Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Rick Exner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=58186" 
+><span title="Image # 58186: El Dorado City of Gold Backglass "><img src="https://www.ipdb.org/images/767/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 58186: El Dorado City of Gold Backglass "><br>Backglass</span></a><br><font size="-2">1200x1179</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=58187" 
+><span title="Image # 58187: El Dorado City of Gold Backglass - Reverse 
+(The glass shown here is in a metal frame.)"><img src="https://www.ipdb.org/images/767/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 58187: El Dorado City of Gold Backglass - Reverse 
+(The glass shown here is in a metal frame.)"><br>Backglass - Reverse*</span></a><br><font size="-2">750x750</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=58188" 
+><span title="Image # 58188: El Dorado City of Gold Backglass - Reverse - Detail 
+(The glass shown here is in a metal frame.)"><img src="https://www.ipdb.org/images/767/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 58188: El Dorado City of Gold Backglass - Reverse - Detail 
+(The glass shown here is in a metal frame.)"><br>Backglass - Reverse - Detail*</span></a><br><font size="-2">862x1646</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=58189" 
+><span title="Image # 58189: El Dorado City of Gold Backglass - Reverse - Detail "><img src="https://www.ipdb.org/images/767/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 58189: El Dorado City of Gold Backglass - Reverse - Detail "><br>Backglass - Reverse - Detail</span></a><br><font size="-2">1200x800</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=65128" 
+><span title="Image # 65128: El Dorado City of Gold Illuminated Backglass "><img src="https://www.ipdb.org/images/767/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 65128: El Dorado City of Gold Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1177</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=65129" 
+><span title="Image # 65129: El Dorado City of Gold Upper Playfield "><img src="https://www.ipdb.org/images/767/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 65129: El Dorado City of Gold Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x789</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=65130" 
+><span title="Image # 65130: El Dorado City of Gold Playfield - Detail "><img src="https://www.ipdb.org/images/767/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 65130: El Dorado City of Gold Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1076x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=65131" 
+><span title="Image # 65131: El Dorado City of Gold Cabinet - Front "><img src="https://www.ipdb.org/images/767/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 65131: El Dorado City of Gold Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x830</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=767&amp;picno=65132" 
+><span title="Image # 65132: El Dorado City of Gold Cabinet - Front View "><img src="https://www.ipdb.org/images/767/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 65132: El Dorado City of Gold Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">820x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

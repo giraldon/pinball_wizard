@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Daval 'Odd Ball Junior'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Daval Odd Ball Junior Flipperless 5 balls per play. Spring bumpers (11). The center bumper scores 1000 points. All other bumpers score 100 points. None of these bumpers light up. Every time the player’s score reaches a multiple of 1000 (up to 20,000), the bottom rollover lights for extra ball and two small non-scoring posts light up nearby to indicate this. The center backglass also lights to indicate this rollover is lit. Making this lit rollover scores an extra ball by releasing the right-most ball from the outhole trough back to the player to shoot into play.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Daval 'Odd Ball Junior' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Odd Ball Junior</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3441">Odd Ball Junior</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3441">3441</a> <I>/ December, 1938 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3441" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Daval'"><a href="search.pl?searchtype=advanced&amp;mfgid=99">Daval Mfg Company Incorporated, G.B., <font size="-1">of Chicago, Illinois, USA</font> (1934-1939)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1938</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3441">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 balls per play. Spring <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> (11). The center <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> scores 1000 points. All other <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> score 100 points. None of these <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> light up. Every time the player’s score reaches a multiple of 1000 (up to 20,000), the bottom <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> lights for extra ball and two small non-scoring posts light up nearby to indicate this. The center <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> also lights to indicate this <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> is lit. Making this lit <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> scores an extra ball by releasing the right-most ball from the <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a> trough back to the player to shoot into play.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Another game that awards extra balls at the bottom <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> is <span title="Click here to open a new window and display Daval's 1939 'Side Kick'"><a target="game2140" href="machine.cgi?id=2140">Daval's 1939 'Side Kick'</a></span>.<br><br>The images #16995 to 17000 were submitted to us in 2004 and show a game with a <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> repainted brown. This particular game operates on old English pennies and its <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> has serial number 3319 stamped on its bottom edge in the front. The images #56963 to 56979 were submitted to us in 2013 and show the same game after the brown paint had been stripped away, revealing the original artwork. The artwork on its lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> does not ma<ignore>tch that of the other <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> shown here (images #64140 and 64141) but has the same design as that of <span title="Click here to open a new window and display Daval's 1939 'Box Score'"><a target="game370" href="machine.cgi?id=370">Daval's 1939 'Box Score'</a></span> and <span title="Click here to open a new window and display Daval's 1939 'Rajah'"><a target="game5036" href="machine.cgi?id=5036">Daval's 1939 'Rajah'</a></span>, although the latter game seems more likely as its colors are a better m<ignore>atch and it has the same short <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> and similar <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> design. <br><br>Additional examples of this Junior game are welcome.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 187<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3441/Daval_1938_Odd_Ball_Junior_Homemade_Schematic.pdf" onClick="return purchasemanual();">Homemade Schematic</a></td><td> [Jost Berger]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=2859" 
+><span title="Image # 2859: Odd Ball Junior Backglass "><img src="https://www.ipdb.org/images/3441/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 2859: Odd Ball Junior Backglass "><br>Backglass</span></a><br><font size="-2">578x409</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=2860" 
+><span title="Image # 2860: Odd Ball Junior Playfield "><img src="https://www.ipdb.org/images/3441/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 2860: Odd Ball Junior Playfield "><br>Playfield</span></a><br><font size="-2">416x560</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=16995" 
+><span title="Image # 16995: Odd Ball Junior Backglass 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16995: Odd Ball Junior Backglass 
+(Cabinet serial number 3319.)"><br>Backglass*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=16996" 
+><span title="Image # 16996: Odd Ball Junior Playfield 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16996: Odd Ball Junior Playfield 
+(Cabinet serial number 3319.)"><br>Playfield*</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=16997" 
+><span title="Image # 16997: Odd Ball Junior Cabinet - Front View 
+(The cabinet has been repainted. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16997: Odd Ball Junior Cabinet - Front View 
+(The cabinet has been repainted. Cabinet serial number 3319.)"><br>Cabinet - Front View*</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=16998" 
+><span title="Image # 16998: Odd Ball Junior Under Lower Playfield 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16998: Odd Ball Junior Under Lower Playfield 
+(Cabinet serial number 3319.)"><br>Under Lower Playfield*</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=16999" 
+><span title="Image # 16999: Odd Ball Junior Inside Backbox 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16999: Odd Ball Junior Inside Backbox 
+(Cabinet serial number 3319.)"><br>Inside Backbox*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=17000" 
+><span title="Image # 17000: Odd Ball Junior Cabinet - Aerial View 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17000: Odd Ball Junior Cabinet - Aerial View 
+(Cabinet serial number 3319.)"><br>Cabinet - Aerial View*</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56963" 
+><span title="Image # 56963: Odd Ball Junior Illuminated Backglass 
+(A large area of missing blue paint in the lower right corner has been filled in by an owner. The rest of the backglass is original. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56963: Odd Ball Junior Illuminated Backglass 
+(A large area of missing blue paint in the lower right corner has been filled in by an owner. The rest of the backglass is original. Cabinet serial number 3319.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56964" 
+><span title="Image # 56964: Odd Ball Junior Cabinet - Right 
+(After-factory brown paint has been stripped from this cabinet to reveal the original manufacturer art design. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 56964: Odd Ball Junior Cabinet - Right 
+(After-factory brown paint has been stripped from this cabinet to reveal the original manufacturer art design. Cabinet serial number 3319.)"><br>Cabinet - Right*</span></a><br><font size="-2">1011x743</font><br>[Jost Berger]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56965" 
+><span title="Image # 56965: Odd Ball Junior Cabinet - Right 
+(After-factory brown paint has been stripped from this cabinet to reveal the original manufacturer art design. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 56965: Odd Ball Junior Cabinet - Right 
+(After-factory brown paint has been stripped from this cabinet to reveal the original manufacturer art design. Cabinet serial number 3319.)"><br>Cabinet - Right*</span></a><br><font size="-2">1200x463</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56966" 
+><span title="Image # 56966: Odd Ball Junior Cabinet - Front 
+(After-factory brown paint has been stripped from this cabinet to reveal the original manufacturer art design. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 56966: Odd Ball Junior Cabinet - Front 
+(After-factory brown paint has been stripped from this cabinet to reveal the original manufacturer art design. Cabinet serial number 3319.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x733</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56967" 
+><span title="Image # 56967: Odd Ball Junior Coin Slide 
+(The cabinet shown here has been repainted. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56967: Odd Ball Junior Coin Slide 
+(The cabinet shown here has been repainted. Cabinet serial number 3319.)"><br>Coin Slide*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56968" 
+><span title="Image # 56968: Odd Ball Junior Serial Number 
+(Cabinet serial number 3319 is located under the front edge of the cabinet, in the middle.)"><img src="https://www.ipdb.org/images/3441/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 56968: Odd Ball Junior Serial Number 
+(Cabinet serial number 3319 is located under the front edge of the cabinet, in the middle.)"><br>Serial Number*</span></a><br><font size="-2">1200x604</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56969" 
+><span title="Image # 56969: Odd Ball Junior Backglass - Reverse 
+(A large area of missing blue paint in the lower left corner in this image has been filled in by an owner. The frowning face was certainly the owner's whimsical choice for the tilt light. The rest of the backglass is original. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56969: Odd Ball Junior Backglass - Reverse 
+(A large area of missing blue paint in the lower left corner in this image has been filled in by an owner. The frowning face was certainly the owner's whimsical choice for the tilt light. The rest of the backglass is original. Cabinet serial number 3319.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56970" 
+><span title="Image # 56970: Odd Ball Junior Backbox Insert - Front - Annotated 
+(The left-side bulb and bottom center bulb, both lit in this image, operate on 12v and are marked as such. All other bulbs operate on 6v. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56970: Odd Ball Junior Backbox Insert - Front - Annotated 
+(The left-side bulb and bottom center bulb, both lit in this image, operate on 12v and are marked as such. All other bulbs operate on 6v. Cabinet serial number 3319.)"><br>Backbox Insert - Front - Annotated*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56971" 
+><span title="Image # 56971: Odd Ball Junior Backbox Insert - Front 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56971: Odd Ball Junior Backbox Insert - Front 
+(Cabinet serial number 3319.)"><br>Backbox Insert - Front*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56972" 
+><span title="Image # 56972: Odd Ball Junior Inside Backbox 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56972: Odd Ball Junior Inside Backbox 
+(Cabinet serial number 3319.)"><br>Inside Backbox*</span></a><br><font size="-2">1024x768</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56973" 
+><span title="Image # 56973: Odd Ball Junior Inside Backbox - Annotated 
+(The game owner has labeled some components. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 56973: Odd Ball Junior Inside Backbox - Annotated 
+(The game owner has labeled some components. Cabinet serial number 3319.)"><br>Inside Backbox - Annotated*</span></a><br><font size="-2">1200x1514</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56974" 
+><span title="Image # 56974: Odd Ball Junior Backbox Insert - Back - Annotated 
+(The game owner has labeled some components. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56974: Odd Ball Junior Backbox Insert - Back - Annotated 
+(The game owner has labeled some components. Cabinet serial number 3319.)"><br>Backbox Insert - Back - Annotated*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56975" 
+><span title="Image # 56975: Odd Ball Junior Under Playfield - Annotated 
+(The game owner has labeled some components. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 56975: Odd Ball Junior Under Playfield - Annotated 
+(The game owner has labeled some components. Cabinet serial number 3319.)"><br>Under Playfield - Annotated*</span></a><br><font size="-2">1031x1600</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56976" 
+><span title="Image # 56976: Odd Ball Junior Ball Trough Assembly 
+(The walls of the drain board had been damaged and reinforced with heavy paper which the owner described as a dampener. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56976: Odd Ball Junior Ball Trough Assembly 
+(The walls of the drain board had been damaged and reinforced with heavy paper which the owner described as a dampener. Cabinet serial number 3319.)"><br>Ball Trough Assembly*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56977" 
+><span title="Image # 56977: Odd Ball Junior Ball Trough Assembly - Detail 
+(The heavy paper that was folded and screwed to the top edges of the small drain board was likely placed by an operator.  Here, it has been removed to show its origin. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56977: Odd Ball Junior Ball Trough Assembly - Detail 
+(The heavy paper that was folded and screwed to the top edges of the small drain board was likely placed by an operator.  Here, it has been removed to show its origin. Cabinet serial number 3319.)"><br>Ball Trough Assembly - Detail*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56978" 
+><span title="Image # 56978: Odd Ball Junior Inside Cabinet - Front 
+(Two walls of the small drain board are not original to this game. Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56978: Odd Ball Junior Inside Cabinet - Front 
+(Two walls of the small drain board are not original to this game. Cabinet serial number 3319.)"><br>Inside Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=56979" 
+><span title="Image # 56979: Odd Ball Junior Inside Cabinet - Detail 
+(Cabinet serial number 3319.)"><img src="https://www.ipdb.org/images/3441/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56979: Odd Ball Junior Inside Cabinet - Detail 
+(Cabinet serial number 3319.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1200x900</font><br>[Jost Berger]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=64140" 
+><span title="Image # 64140: Odd Ball Junior Cabinet - Left 
+(The lower cabinet measures 33 1/8 inches long and 17 1/16 inches wide (excluding woodrails). The rear of the backbox measures 18 1/2 inches high and 17 1/8 inches wide.)"><img src="https://www.ipdb.org/images/3441/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 64140: Odd Ball Junior Cabinet - Left 
+(The lower cabinet measures 33 1/8 inches long and 17 1/16 inches wide (excluding woodrails). The rear of the backbox measures 18 1/2 inches high and 17 1/8 inches wide.)"><br>Cabinet - Left*</span></a><br><font size="-2">896x1200</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3441&amp;picno=64141" 
+><span title="Image # 64141: Odd Ball Junior Cabinet - Right 
+(The lower cabinet measures 33 1/8 inches long and 17 1/16 inches wide (excluding woodrails). The rear of the backbox measures 18 1/2 inches high and 17 1/8 inches wide.)"><img src="https://www.ipdb.org/images/3441/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 64141: Odd Ball Junior Cabinet - Right 
+(The lower cabinet measures 33 1/8 inches long and 17 1/16 inches wide (excluding woodrails). The rear of the backbox measures 18 1/2 inches high and 17 1/8 inches wide.)"><br>Cabinet - Right*</span></a><br><font size="-2">1001x814</font><br>[Steve Barker]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

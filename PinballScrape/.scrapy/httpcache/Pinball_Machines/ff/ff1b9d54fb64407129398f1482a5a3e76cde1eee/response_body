@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Nudgy'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Nudgy Flipperless 5 balls for 5 cents. Passive bumpers (9), Kick-out holes (4). A manual control on right side of cabinet simulates 'nudging' by jerking the playfield towards the rear of cabinet.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Nudgy' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Nudgy</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1686">Nudgy</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1686">1686</a> <I>/ September 17, 1947 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">4.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1686" target="showrate1686">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1686" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>September 17, 1947</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>503</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1686">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+Rolldown Game&nbsp;<a href="glossary.php#Rolldown_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (9), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (4). A manual control on right side of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> simulates "nudging" by jerking the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> towards the rear of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The first <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> game by Bally was <span title="Click here to open a new window and display Bally's 1948 'Melody'"><a target="game1567" href="machine.cgi?id=1567">Bally's 1948 'Melody'</a></span> in November 1947. <a target="glossary" class="glossarylink" href="/glossary.php#Operator">Operators</a> of this period would soon retrofit <a target="glossary" class="glossarylink" href="/glossary.php#Flipperless">flipperless</a> games, like Nudgy, and these new <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> often ended up in unusual places on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>This game was made in two versions: A standard <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> version and a rolldown <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> version. Both were made by the manufacturer without <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. The rolldown version has a ball dispenser instead of a <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plunger</a>.<br><br>The rolldown version shown in this listing has different wording on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> than the standard version. It reads "Special Reserve" in most places. At the bottom of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, the paint is mostly worn away to reveal the original wording "All Scores Double". This artful repainting could have been done by either the manufacturer or an <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> to further distinguish it from a payoff type of machine. The Instruction card appears to have had its text crudely edited by adhesive tape.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a> page 181<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=11719" 
+><span title="Image # 11719: Nudgy Illuminated Backglass "><img src="https://www.ipdb.org/images/1686/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 11719: Nudgy Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">500x564</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=11720" 
+><span title="Image # 11720: Nudgy Upper Playfield "><img src="https://www.ipdb.org/images/1686/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 11720: Nudgy Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">406x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=11721" 
+><span title="Image # 11721: Nudgy Playfield "><img src="https://www.ipdb.org/images/1686/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11721: Nudgy Playfield "><br>Playfield</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=11722" 
+><span title="Image # 11722: Nudgy Under Playfield "><img src="https://www.ipdb.org/images/1686/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11722: Nudgy Under Playfield "><br>Under Playfield</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=11723" 
+><span title="Image # 11723: Nudgy Inside Backbox "><img src="https://www.ipdb.org/images/1686/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 11723: Nudgy Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">407x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=11724" 
+><span title="Image # 11724: Nudgy Cabinet - Right "><img src="https://www.ipdb.org/images/1686/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11724: Nudgy Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">500x375</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=17475" 
+><span title="Image # 17475: Nudgy Backglass "><img src="https://www.ipdb.org/images/1686/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17475: Nudgy Backglass "><br>Backglass</span></a><br><font size="-2">450x600</font><br>[Damien Costello]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=17476" 
+><span title="Image # 17476: Nudgy Playfield (with retrofit flippers) "><img src="https://www.ipdb.org/images/1686/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17476: Nudgy Playfield (with retrofit flippers) "><br>Playfield (with retrofit flippers)</span></a><br><font size="-2">450x600</font><br>[Damien Costello]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=17477" 
+><span title="Image # 17477: Nudgy Cabinet (with retrofit flippers) "><img src="https://www.ipdb.org/images/1686/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17477: Nudgy Cabinet (with retrofit flippers) "><br>Cabinet (with retrofit flippers)</span></a><br><font size="-2">450x600</font><br>[Damien Costello]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=17478" 
+><span title="Image # 17478: Nudgy Under Playfield (with retrofit flippers) "><img src="https://www.ipdb.org/images/1686/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17478: Nudgy Under Playfield (with retrofit flippers) "><br>Under Playfield (with retrofit flippers)</span></a><br><font size="-2">450x600</font><br>[Damien Costello]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=17479" 
+><span title="Image # 17479: Nudgy Inside Cabinet (with retrofit flippers) 
+(There are additional wires in this cabinet because of the after-factory addition of flippers.)"><img src="https://www.ipdb.org/images/1686/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17479: Nudgy Inside Cabinet (with retrofit flippers) 
+(There are additional wires in this cabinet because of the after-factory addition of flippers.)"><br>Inside Cabinet (with retrofit flippers)*</span></a><br><font size="-2">480x640</font><br>[Damien Costello]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=17480" 
+><span title="Image # 17480: Nudgy Inside Backbox "><img src="https://www.ipdb.org/images/1686/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17480: Nudgy Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">450x600</font><br>[Damien Costello]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25247" 
+><span title="Image # 25247: Nudgy Backglass 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 25247: Nudgy Backglass 
+(Serial number 2027.)"><br>Backglass*</span></a><br><font size="-2">445x461</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25248" 
+><span title="Image # 25248: Nudgy Playfield 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 25248: Nudgy Playfield 
+(Serial number 2027.)"><br>Playfield*</span></a><br><font size="-2">403x537</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25249" 
+><span title="Image # 25249: Nudgy Cabinet - Left 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 25249: Nudgy Cabinet - Left 
+(Serial number 2027.)"><br>Cabinet - Left*</span></a><br><font size="-2">476x437</font><br>[Marty Wilke]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25250" 
+><span title="Image # 25250: Nudgy Cabinet - Left 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 25250: Nudgy Cabinet - Left 
+(Serial number 2027.)"><br>Cabinet - Left*</span></a><br><font size="-2">637x345</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25251" 
+><span title="Image # 25251: Nudgy Cabinet - Right 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25251: Nudgy Cabinet - Right 
+(Serial number 2027.)"><br>Cabinet - Right*</span></a><br><font size="-2">623x413</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25252" 
+><span title="Image # 25252: Nudgy Front 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 25252: Nudgy Front 
+(Serial number 2027.)"><br>Front*</span></a><br><font size="-2">605x422</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25253" 
+><span title="Image # 25253: Nudgy Nudging Simulator 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25253: Nudgy Nudging Simulator 
+(Serial number 2027.)"><br>Nudging Simulator*</span></a><br><font size="-2">460x345</font><br>[Marty Wilke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=25254" 
+><span title="Image # 25254: Nudgy Score Card 
+(Serial number 2027.)"><img src="https://www.ipdb.org/images/1686/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 25254: Nudgy Score Card 
+(Serial number 2027.)"><br>Score Card*</span></a><br><font size="-2">487x335</font><br>[Marty Wilke]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38281" 
+><span title="Image # 38281: Nudgy Backglass - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 38281: Nudgy Backglass - Rolldown Version 
+(Serial number 2552.)"><br>Backglass - Rolldown Version*</span></a><br><font size="-2">771x814</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38282" 
+><span title="Image # 38282: Nudgy Playfield - Rolldown Version (with retrofit flippers) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38282: Nudgy Playfield - Rolldown Version (with retrofit flippers) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><br>Playfield - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38283" 
+><span title="Image # 38283: Nudgy Playfield - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 38283: Nudgy Playfield - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><br>Playfield - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">818x537</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38284" 
+><span title="Image # 38284: Nudgy Upper Playfield - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38284: Nudgy Upper Playfield - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><br>Upper Playfield - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38285" 
+><span title="Image # 38285: Nudgy Lower Playfield - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38285: Nudgy Lower Playfield - Rolldown Version 
+(Serial number 2552.)"><br>Lower Playfield - Rolldown Version*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38286" 
+><span title="Image # 38286: Nudgy Playfield With Both Glasses Removed - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 38286: Nudgy Playfield With Both Glasses Removed - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><br>Playfield With Both Glasses Removed - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">812x753</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38287" 
+><span title="Image # 38287: Nudgy Instructions - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38287: Nudgy Instructions - Rolldown Version 
+(Serial number 2552.)"><br>Instructions - Rolldown Version*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38288" 
+><span title="Image # 38288: Nudgy Cabinet - Left - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 38288: Nudgy Cabinet - Left - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><br>Cabinet - Left - Rolldown Version (with retrofit flipper buttons)*</span></a><br><font size="-2">809x768</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38289" 
+><span title="Image # 38289: Nudgy Cabinet - Left Detail - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38289: Nudgy Cabinet - Left Detail - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><br>Cabinet - Left Detail - Rolldown Version (with retrofit flipper buttons)*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38290" 
+><span title="Image # 38290: Nudgy Cabinet - Right - Rolldown Version (with retrofit flipper buttons) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 38290: Nudgy Cabinet - Right - Rolldown Version (with retrofit flipper buttons) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><br>Cabinet - Right - Rolldown Version (with retrofit flipper buttons)*</span></a><br><font size="-2">800x695</font><br>[Karl Marsicek]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38291" 
+><span title="Image # 38291: Nudgy Cabinet - Right - Detail - Rolldown Version (with retrofit flipper buttons) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38291: Nudgy Cabinet - Right - Detail - Rolldown Version (with retrofit flipper buttons) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><br>Cabinet - Right - Detail - Rolldown Version (with retrofit flipper buttons)*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38292" 
+><span title="Image # 38292: Nudgy Cabinet - Front - Rolldown Version (with retrofit flippers) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 38292: Nudgy Cabinet - Front - Rolldown Version (with retrofit flippers) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><br>Cabinet - Front - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">808x590</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38293" 
+><span title="Image # 38293: Nudgy Cabinet - Front - Rolldown Version (with retrofit flippers) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 38293: Nudgy Cabinet - Front - Rolldown Version (with retrofit flippers) 
+(The Nudging Simulator knob has been removed from this game. Serial number 2552.)"><br>Cabinet - Front - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">848x1364</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38294" 
+><span title="Image # 38294: Nudgy Coin Box Compartment - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 38294: Nudgy Coin Box Compartment - Rolldown Version 
+(Serial number 2552.)"><br>Coin Box Compartment - Rolldown Version*</span></a><br><font size="-2">1024x652</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38295" 
+><span title="Image # 38295: Nudgy Inside Coin Box Door - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38295: Nudgy Inside Coin Box Door - Rolldown Version 
+(Serial number 2552.)"><br>Inside Coin Box Door - Rolldown Version*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38296" 
+><span title="Image # 38296: Nudgy Coin Box Installed - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 38296: Nudgy Coin Box Installed - Rolldown Version 
+(Serial number 2552.)"><br>Coin Box Installed - Rolldown Version*</span></a><br><font size="-2">1024x572</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38297" 
+><span title="Image # 38297: Nudgy Coin Box - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 38297: Nudgy Coin Box - Rolldown Version 
+(Serial number 2552.)"><br>Coin Box - Rolldown Version*</span></a><br><font size="-2">840x742</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38298" 
+><span title="Image # 38298: Nudgy Ball Dispenser - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38298: Nudgy Ball Dispenser - Rolldown Version 
+(Serial number 2552.)"><br>Ball Dispenser - Rolldown Version*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38299" 
+><span title="Image # 38299: Nudgy Cabinet - Rear - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 38299: Nudgy Cabinet - Rear - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><br>Cabinet - Rear - Rolldown Version (with retrofit flipper buttons)*</span></a><br><font size="-2">588x811</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38300" 
+><span title="Image # 38300: Nudgy Cabinet - Rear - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38300: Nudgy Cabinet - Rear - Rolldown Version 
+(Serial number 2552.)"><br>Cabinet - Rear - Rolldown Version*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38301" 
+><span title="Image # 38301: Nudgy Inside Cabinet - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38301: Nudgy Inside Cabinet - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><br>Inside Cabinet - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">818x613</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38302" 
+><span title="Image # 38302: Nudgy Inside Backbox - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 38302: Nudgy Inside Backbox - Rolldown Version 
+(Serial number 2552.)"><br>Inside Backbox - Rolldown Version*</span></a><br><font size="-2">468x813</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38303" 
+><span title="Image # 38303: Nudgy Replay Projection Unit - Rolldown Version 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 38303: Nudgy Replay Projection Unit - Rolldown Version 
+(Serial number 2552.)"><br>Replay Projection Unit - Rolldown Version*</span></a><br><font size="-2">771x811</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38304" 
+><span title="Image # 38304: Nudgy Front View - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 38304: Nudgy Front View - Rolldown Version (with retrofit flippers) 
+(Serial number 2552.)"><br>Front View - Rolldown Version (with retrofit flippers)*</span></a><br><font size="-2">648x814</font><br>[Karl Marsicek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1686&amp;picno=38305" 
+><span title="Image # 38305: Nudgy Full View - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><img src="https://www.ipdb.org/images/1686/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 38305: Nudgy Full View - Rolldown Version (with retrofit flipper buttons) 
+(Serial number 2552.)"><br>Full View - Rolldown Version (with retrofit flipper buttons)*</span></a><br><font size="-2">668x758</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

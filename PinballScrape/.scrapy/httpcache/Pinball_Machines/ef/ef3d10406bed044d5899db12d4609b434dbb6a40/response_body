@@ -1,0 +1,464 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Data East 'Guns N' Roses'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Data East Guns N' Roses Guns and Roses Widebody Flippers (3), Pop bumpers (3), Ramps (2), Multiball (6), Captive Ball (1), Automatic Plunger, Manual plungers (2, one gun-shaped, one rose-shaped], Game-controlled magnets. The captive ball area is delineated in part by one side of a pop bumper. The guns ramp has a diverter that can route the ball into the Snake ramp (to be served by the Rose-shaped plunger) or to the left flipper.  Markus Rothkranz Joe Kaminkow John Borg Lyman F. Sheats Jr. Slash Kurt Andersen Jack Liddon Scott Melchionda Axl Rose Slash Gilby Clarke Brian Schmidt Lonnie D. Ropp Orin Day Lyman F. Sheats Jr. Brian Schmidt ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Data East 'Guns N' Roses' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Guns N' Roses</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1100">Guns N' Roses</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1100">1100</a> <I>/ June 20, 1994 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1100" target="showrate1100"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1100" target="showrate1100">130 ratings/101 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1100" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Data East'"><a href="search.pl?searchtype=advanced&amp;mfgid=98">Data East Pinball, Incorporated (1986-1994)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June 20, 1994</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500-5529-01</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>GnR</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=24">DataEast/Sega Version 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1100">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Licensed - Music</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;Ball</a> (1), Automatic <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">Plunger</a>, Manual <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plungers</a> (2, one gun-shaped, one rose-shaped], Game-controlled <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnets</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">captive&nbsp;ball</a> area is delineated in part by one side of a <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a>. The guns <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> has a <a target="glossary" class="glossarylink" href="/glossary.php#Diverter">diverter</a> that can route the ball into the Snake <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> (to be served by the Rose-shaped plunger) or to the left <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Kaminkow' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Kaminkow">Joe&nbsp;Kaminkow</a></span>, <span title="Click here to perform a search for all pinball games that 'John&nbsp;Borg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Borg">John&nbsp;Borg</a></span>, <span title="Click here to perform a search for all pinball games that 'Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lyman%20F.%20Sheats%20Jr.">Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.</a></span>, <span title="Click here to perform a search for all pinball games that 'Slash' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Slash">Slash</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Markus&nbsp;Rothkranz' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Markus%20Rothkranz">Markus&nbsp;Rothkranz</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kurt&nbsp;Andersen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kurt%20Andersen">Kurt&nbsp;Andersen</a></span>, <span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Liddon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Liddon">Jack&nbsp;Liddon</a></span>, <span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Melchionda' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Melchionda">Scott&nbsp;Melchionda</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Axl&nbsp;Rose' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Axl%20Rose">Axl&nbsp;Rose</a></span>, <span title="Click here to perform a search for all pinball games that 'Slash' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Slash">Slash</a></span>, <span title="Click here to perform a search for all pinball games that 'Gilby&nbsp;Clarke' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gilby%20Clarke">Gilby&nbsp;Clarke</a></span>, <span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Lonnie&nbsp;D.&nbsp;Ropp' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lonnie%20D.%20Ropp">Lonnie&nbsp;D.&nbsp;Ropp</a></span>, <span title="Click here to perform a search for all pinball games that 'Orin&nbsp;Day' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Orin%20Day">Orin&nbsp;Day</a></span>, <span title="Click here to perform a search for all pinball games that 'Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lyman%20F.%20Sheats%20Jr.">Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Lyman Sheats programmed the <a target="glossary" class="glossarylink" href="/glossary.php#Video_Mode">video&nbsp;mode</a> for GnR, it was subsequently recycled in <span title="Click here to open a new window and display Sega's 1997 'Star Wars Trilogy'"><a target="game4054" href="machine.cgi?id=4054">Sega's 1997 'Star Wars Trilogy'</a></span> (with different art) and in <span title="Click here to open a new window and display Stern's 1999 'Harley-Davidson® (1st Edition)'"><a target="game4455" href="machine.cgi?id=4455">Stern's 1999 'Harley-Davidson® (1st Edition)'</a></span>.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Prototype">Prototype</a> software is missing the <a target="glossary" class="glossarylink" href="/glossary.php#Video_Mode">video&nbsp;mode</a>. It is replaced by the following DMD text: "Under construction 5 million awarded". Many quotes and sounds are missing in the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> software but no significant mistakes or problems seem to exist in it.<br><br>According to Brian Schmidt, the GnR song <i>Ain't Going Down</i> can be heard only on this pinball machine.<br><br>In an online interview, <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> John Borg stated some games in the production run had he<ignore>ad phone jacks, located on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> front. An example of this is pictured in this listing.<br><br>We previously listed the Manufacture Date as July, 1994.<br>This game was produced from June-20-1994 to Aug-19-1994.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Guns N' Roses + Data East Pinball = PLATINUM PROFIT!! During Riot play, all switches award platinum points!"<br>
+"Guns N Roses leaps off the stage and into your location with non-stop head-banging hard rock, in-your-face. screaming pinball action!"<br>
+"This Pinballs got ATTITUDE!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 194-198<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 183<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1100/gunsrose.htm" target="rulesheet">Guns 'n Roses Rulesheet Version 2.0 (Aug/21/1994), by Michael Dunn</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.habosarcade.com/Guns%20N'%20Roses%20Owners.htm">http://www.habosarcade.com/Guns%20N'%20Roses%20Owners.htm</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#1100">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Video:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=nt_hj0gLpZw">Slash introducing the pinball machine (youtube.com)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 227 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Dutch_Game_and_Display_ROMs_D_3_00.zip" >Dutch Game and Display ROMs D 3.00</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 229 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Game_ROMS_French_3_00.zip" >Game ROMS French 3.00</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/gnr_300.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_ROMs.zip" >ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 13 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_English_Manual_Addendum_and_Revised_Page_31.pdf" onClick="return purchasemanual();">English Manual Addendum and Revised Page 31</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 42 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Head_Phone_Schematic.pdf" onClick="return purchasemanual();">Head Phone Schematic</a></td><td> [Don Weingarden]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Schematics_paginated.pdf" onClick="return purchasemanual();">Schematics (paginated)</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 282 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Service_Bulletin_63_Auto_Launch_Failures_dated_October_4_1994.pdf" >Service Bulletin #63 - Auto Launch Failures (dated October 4, 1994)</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 493 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Service_Bulletin_64_Shooter_Lane_Ramp_Mounting_Modification_dated_November_1_1994.pdf" >Service Bulletin #64 - Shooter Lane Ramp Mounting Modification (dated Nov 1</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 60 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Instruction_Card.pdf" >Instruction Card</a></td><td> [Data East (Stern)]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 28 KB</td><td align=left nowrap width="5%">&nbsp;DOC&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Pinball_Guns_N_Roses_Comparison_between_prototype_and_sample_playfields.doc" >Prototype, Sample, and Production Differences - Descriptive Text</a></td><td> [David Nelson / Orin Day]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 289 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1100/Data_East_1994_Guns_N_Roses_Reproduction_Score_and_Instruction_Cards_Including_French.zip" >Reproduction Score and Instruction Cards (Including French)</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=3258" 
+><span title="Image # 3258: Guns N' Roses Flyer, Back "><img src="https://www.ipdb.org/images/1100/tn_1100f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3258: Guns N' Roses Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">609x803</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=3265" 
+><span title="Image # 3265: Guns N' Roses Flyer, Front "><img src="https://www.ipdb.org/images/1100/tn_1100f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3265: Guns N' Roses Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">609x804</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=6846" 
+><span title="Image # 6846: Guns N' Roses Backglass "><img src="https://www.ipdb.org/images/1100/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 6846: Guns N' Roses Backglass "><br>Backglass</span></a><br><font size="-2">600x423</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10169" 
+><span title="Image # 10169: Guns N' Roses Full Machine "><img src="https://www.ipdb.org/images/1100/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 10169: Guns N' Roses Full Machine "><br>Full Machine</span></a><br><font size="-2">550x745</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10170" 
+><span title="Image # 10170: Guns N' Roses Cabinet Left "><img src="https://www.ipdb.org/images/1100/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 10170: Guns N' Roses Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">500x530</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10171" 
+><span title="Image # 10171: Guns N' Roses Cabinet Right "><img src="https://www.ipdb.org/images/1100/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 10171: Guns N' Roses Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">500x495</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10172" 
+><span title="Image # 10172: Guns N' Roses Cabinet Front "><img src="https://www.ipdb.org/images/1100/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 10172: Guns N' Roses Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">500x361</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10173" 
+><span title="Image # 10173: Guns N' Roses BackBox "><img src="https://www.ipdb.org/images/1100/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 10173: Guns N' Roses BackBox "><br>BackBox</span></a><br><font size="-2">500x614</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10174" 
+><span title="Image # 10174: Guns N' Roses Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 10174: Guns N' Roses Playfield "><br>Playfield</span></a><br><font size="-2">500x755</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10175" 
+><span title="Image # 10175: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10175: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10176" 
+><span title="Image # 10176: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10176: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10177" 
+><span title="Image # 10177: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10177: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10178" 
+><span title="Image # 10178: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10178: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10179" 
+><span title="Image # 10179: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10179: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10180" 
+><span title="Image # 10180: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10180: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10181" 
+><span title="Image # 10181: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10181: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10182" 
+><span title="Image # 10182: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10182: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10183" 
+><span title="Image # 10183: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10183: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10184" 
+><span title="Image # 10184: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10184: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10185" 
+><span title="Image # 10185: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10185: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10186" 
+><span title="Image # 10186: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10186: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10187" 
+><span title="Image # 10187: Guns N' Roses Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10187: Guns N' Roses Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=10188" 
+><span title="Image # 10188: Guns N' Roses Playfield Underside "><img src="https://www.ipdb.org/images/1100/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10188: Guns N' Roses Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=16304" 
+><span title="Image # 16304: Guns N' Roses Original Painting For Production Backglass 
+(Artist is Markus Rothkranz.Acrylic paint on canvas board.Dimensions 38 1/2 inches by 30 inches.)"><img src="https://www.ipdb.org/images/1100/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 16304: Guns N' Roses Original Painting For Production Backglass 
+(Artist is Markus Rothkranz.Acrylic paint on canvas board.Dimensions 38 1/2 inches by 30 inches.)"><br>Original Painting For Production Backglass*</span></a><br><font size="-2">573x445</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=16323" 
+><span title="Image # 16323: Guns N' Roses Original Painting For Prototype Backglass 
+(Artist is Markus Rothkranz.Acrylic paint on canvas board.Dimensions 34 1/2 inches by 30 inches.)"><img src="https://www.ipdb.org/images/1100/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 16323: Guns N' Roses Original Painting For Prototype Backglass 
+(Artist is Markus Rothkranz.Acrylic paint on canvas board.Dimensions 34 1/2 inches by 30 inches.)"><br>Original Painting For Prototype Backglass*</span></a><br><font size="-2">557x466</font><br>[Harold Balde]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33077" 
+><span title="Image # 33077: Guns N' Roses Lower Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33077: Guns N' Roses Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33078" 
+><span title="Image # 33078: Guns N' Roses Playfield - Detail "><img src="https://www.ipdb.org/images/1100/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33078: Guns N' Roses Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33079" 
+><span title="Image # 33079: Guns N' Roses Playfield - Detail "><img src="https://www.ipdb.org/images/1100/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33079: Guns N' Roses Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">960x1280</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33080" 
+><span title="Image # 33080: Guns N' Roses Playfield - Detail "><img src="https://www.ipdb.org/images/1100/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33080: Guns N' Roses Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33081" 
+><span title="Image # 33081: Guns N' Roses Backbox - left "><img src="https://www.ipdb.org/images/1100/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 33081: Guns N' Roses Backbox - left "><br>Backbox - left</span></a><br><font size="-2">556x1280</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33082" 
+><span title="Image # 33082: Guns N' Roses Cabinet Front - Detail "><img src="https://www.ipdb.org/images/1100/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 33082: Guns N' Roses Cabinet Front - Detail "><br>Cabinet Front - Detail</span></a><br><font size="-2">880x1280</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33083" 
+><span title="Image # 33083: Guns N' Roses Sample Game - 'Lite Lock' Insert 
+(This left inlane insert indicates 'Lite Roses' in production games. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-A26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33083: Guns N' Roses Sample Game - 'Lite Lock' Insert 
+(This left inlane insert indicates 'Lite Roses' in production games. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - 'Lite Lock' Insert*</span></a><br><font size="-2">1024x768</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33084" 
+><span title="Image # 33084: Guns N' Roses Sample Game - 'Lite Guitar' Insert 
+(This right inlane insert indicates 'Lite Guns' in production games. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33084: Guns N' Roses Sample Game - 'Lite Guitar' Insert 
+(This right inlane insert indicates 'Lite Guns' in production games. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - 'Lite Guitar' Insert*</span></a><br><font size="-2">1024x768</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33085" 
+><span title="Image # 33085: Guns N' Roses Sample Game - Snake Pit And Skill Shot Bulbs 
+(Here, the bulb lights from underneath the plastic. On production games, the bulb protrudes and has a colored bulb cover. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 33085: Guns N' Roses Sample Game - Snake Pit And Skill Shot Bulbs 
+(Here, the bulb lights from underneath the plastic. On production games, the bulb protrudes and has a colored bulb cover. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Snake Pit And Skill Shot Bulbs*</span></a><br><font size="-2">556x1076</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33086" 
+><span title="Image # 33086: Guns N' Roses Sample Game - Left Apron Sticker 
+(On production games, the words 'Shoot Again' are printed to the left of the red bulb, and 'Magnets On' to the left of the white bulb. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 33086: Guns N' Roses Sample Game - Left Apron Sticker 
+(On production games, the words 'Shoot Again' are printed to the left of the red bulb, and 'Magnets On' to the left of the white bulb. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Left Apron Sticker*</span></a><br><font size="-2">1024x781</font><br>[Gary Marks]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33087" 
+><span title="Image # 33087: Guns N' Roses Sample Game - Speaker Grill 
+(On production games, the background is black, not gray. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 33087: Guns N' Roses Sample Game - Speaker Grill 
+(On production games, the background is black, not gray. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Speaker Grill*</span></a><br><font size="-2">1024x672</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33088" 
+><span title="Image # 33088: Guns N' Roses Sample Game - Snake Ramp Cut 
+(On production games, this ramp has no cut. The yellow ramp simply rests on it. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-A32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 33088: Guns N' Roses Sample Game - Snake Ramp Cut 
+(On production games, this ramp has no cut. The yellow ramp simply rests on it. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Snake Ramp Cut*</span></a><br><font size="-2">594x1200</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33089" 
+><span title="Image # 33089: Guns N' Roses Sample Game - Gray Posts 
+(On production games, black posts are used. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 33089: Guns N' Roses Sample Game - Gray Posts 
+(On production games, black posts are used. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Gray Posts*</span></a><br><font size="-2">1024x629</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33090" 
+><span title="Image # 33090: Guns N' Roses Sample Game - Gun-Metal Habitrails 
+(On production games, habitrails are powder-coated black. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33090: Guns N' Roses Sample Game - Gun-Metal Habitrails 
+(On production games, habitrails are powder-coated black. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Gun-Metal Habitrails*</span></a><br><font size="-2">1024x768</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33091" 
+><span title="Image # 33091: Guns N' Roses Sample Game - Start Button 
+(Here, the red button contains the word 'Start'. On production games, it has the words 'Start Rockin''. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 33091: Guns N' Roses Sample Game - Start Button 
+(Here, the red button contains the word 'Start'. On production games, it has the words 'Start Rockin''. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Start Button*</span></a><br><font size="-2">855x881</font><br>[Gary Marks]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33092" 
+><span title="Image # 33092: Guns N' Roses Sample Game - Inserts 
+(On production games, the round insert indicates 'Multiball' while the rectangular one contains a cross design and indicates 'Add Band Member'. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 33092: Guns N' Roses Sample Game - Inserts 
+(On production games, the round insert indicates 'Multiball' while the rectangular one contains a cross design and indicates 'Add Band Member'. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Inserts*</span></a><br><font size="-2">922x1064</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33093" 
+><span title="Image # 33093: Guns N' Roses Sample Game - Snake 
+(Snake is solid flexible rubber, screwed onto a plate. On production games, snakes are molded thin plastic, much greener and shinier, have a different look, and have their tails. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-A28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 33093: Guns N' Roses Sample Game - Snake 
+(Snake is solid flexible rubber, screwed onto a plate. On production games, snakes are molded thin plastic, much greener and shinier, have a different look, and have their tails. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Snake*</span></a><br><font size="-2">621x1122</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33094" 
+><span title="Image # 33094: Guns N' Roses Sample Game - Snake Tail Cut Off 
+(Snake is solid flexible rubber, screwed onto a plate. On production games, snakes are molded thin plastic, much greener and shinier, have a different look, and have their tails. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 33094: Guns N' Roses Sample Game - Snake Tail Cut Off 
+(Snake is solid flexible rubber, screwed onto a plate. On production games, snakes are molded thin plastic, much greener and shinier, have a different look, and have their tails. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Snake Tail Cut Off*</span></a><br><font size="-2">800x1200</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33095" 
+><span title="Image # 33095: Guns N' Roses Sample Game - Axl Plastic 
+(The lower half of the plastic covering the scoop has the word 'Jackpot' barely evident. Production games instead have the words 'Mystery when lit' in this area. Game has serial number 110878 manufactured May 23, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 33095: Guns N' Roses Sample Game - Axl Plastic 
+(The lower half of the plastic covering the scoop has the word 'Jackpot' barely evident. Production games instead have the words 'Mystery when lit' in this area. Game has serial number 110878 manufactured May 23, 1994.)"><br>Sample Game - Axl Plastic*</span></a><br><font size="-2">1000x900</font><br>[Gary Marks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33179" 
+><span title="Image # 33179: Guns N' Roses Instruction Card "><img src="https://www.ipdb.org/images/1100/tn_image-A39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 33179: Guns N' Roses Instruction Card "><br>Instruction Card</span></a><br><font size="-2">835x445</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33413" 
+><span title="Image # 33413: Guns N' Roses Cabinet - Right "><img src="https://www.ipdb.org/images/1100/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33413: Guns N' Roses Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33414" 
+><span title="Image # 33414: Guns N' Roses Artwork "><img src="https://www.ipdb.org/images/1100/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33414: Guns N' Roses Artwork "><br>Artwork</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33415" 
+><span title="Image # 33415: Guns N' Roses Snake Pit Plastic 
+(Note the bulb with yellow cover protruding from under the top of the plastic.)"><img src="https://www.ipdb.org/images/1100/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33415: Guns N' Roses Snake Pit Plastic 
+(Note the bulb with yellow cover protruding from under the top of the plastic.)"><br>Snake Pit Plastic*</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33416" 
+><span title="Image # 33416: Guns N' Roses Drop Target Design "><img src="https://www.ipdb.org/images/1100/tn_image-A40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 33416: Guns N' Roses Drop Target Design "><br>Drop Target Design</span></a><br><font size="-2">283x325</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33417" 
+><span title="Image # 33417: Guns N' Roses Drop Targets 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-A41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33417: Guns N' Roses Drop Targets 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Drop Targets*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33418" 
+><span title="Image # 33418: Guns N' Roses Left Inlane and Outlane 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33418: Guns N' Roses Left Inlane and Outlane 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Left Inlane and Outlane*</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33419" 
+><span title="Image # 33419: Guns N' Roses Right Inlane and Outlane 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33419: Guns N' Roses Right Inlane and Outlane 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Right Inlane and Outlane*</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33420" 
+><span title="Image # 33420: Guns N' Roses Playfield - Detail 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33420: Guns N' Roses Playfield - Detail 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Playfield - Detail*</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33421" 
+><span title="Image # 33421: Guns N' Roses Right Speaker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33421: Guns N' Roses Right Speaker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Right Speaker*</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33422" 
+><span title="Image # 33422: Guns N' Roses Left Apron Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33422: Guns N' Roses Left Apron Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Left Apron Sticker*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33423" 
+><span title="Image # 33423: Guns N' Roses Center Apron Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33423: Guns N' Roses Center Apron Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Center Apron Sticker*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33424" 
+><span title="Image # 33424: Guns N' Roses Right Apron Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33424: Guns N' Roses Right Apron Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Right Apron Sticker*</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=33425" 
+><span title="Image # 33425: Guns N' Roses Game Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><img src="https://www.ipdb.org/images/1100/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33425: Guns N' Roses Game Sticker 
+(Game has serial number 113655 dated Aug 9, 1994.)"><br>Game Sticker*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=35562" 
+><span title="Image # 35562: Guns N' Roses Backbox Topper "><img src="https://www.ipdb.org/images/1100/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 35562: Guns N' Roses Backbox Topper "><br>Backbox Topper</span></a><br><font size="-2">1024x823</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=38216" 
+><span title="Image # 38216: Guns N' Roses Magnet Control Board Schematic "><img src="https://www.ipdb.org/images/1100/tn_image-82.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=43 alt="Image # 38216: Guns N' Roses Magnet Control Board Schematic "><br>Magnet Control Board Schematic</span></a><br><font size="-2">1024x439</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=38217" 
+><span title="Image # 38217: Guns N' Roses Magnet Control Board Schematic "><img src="https://www.ipdb.org/images/1100/tn_image-83.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38217: Guns N' Roses Magnet Control Board Schematic "><br>Magnet Control Board Schematic</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40473" 
+><span title="Image # 40473: Guns N' Roses Prototype - Upper Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-B41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40473: Guns N' Roses Prototype - Upper Playfield "><br>Prototype - Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40474" 
+><span title="Image # 40474: Guns N' Roses Prototype - Middle Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-B40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40474: Guns N' Roses Prototype - Middle Playfield "><br>Prototype - Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40475" 
+><span title="Image # 40475: Guns N' Roses Prototype - Lower Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-B39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40475: Guns N' Roses Prototype - Lower Playfield "><br>Prototype - Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40476" 
+><span title="Image # 40476: Guns N' Roses Prototype - Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-A42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40476: Guns N' Roses Prototype - Playfield Detail "><br>Prototype - Playfield Detail</span></a><br><font size="-2">960x1280</font><br>[David Nelson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40477" 
+><span title="Image # 40477: Guns N' Roses Prototype - Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-A43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40477: Guns N' Roses Prototype - Playfield Detail "><br>Prototype - Playfield Detail</span></a><br><font size="-2">960x1280</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40478" 
+><span title="Image # 40478: Guns N' Roses Prototype - Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-A44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40478: Guns N' Roses Prototype - Playfield Detail "><br>Prototype - Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40479" 
+><span title="Image # 40479: Guns N' Roses Prototype - Playfield Detail "><img src="https://www.ipdb.org/images/1100/tn_image-A45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40479: Guns N' Roses Prototype - Playfield Detail "><br>Prototype - Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=40480" 
+><span title="Image # 40480: Guns N' Roses Prototype - Playfield Reverse "><img src="https://www.ipdb.org/images/1100/tn_image-A46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40480: Guns N' Roses Prototype - Playfield Reverse "><br>Prototype - Playfield Reverse</span></a><br><font size="-2">960x1280</font><br>[David Nelson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=41454" 
+><span title="Image # 41454: Guns N' Roses Iluminated Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41454: Guns N' Roses Iluminated Playfield "><br>Iluminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=41455" 
+><span title="Image # 41455: Guns N' Roses Inside Backbox "><img src="https://www.ipdb.org/images/1100/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41455: Guns N' Roses Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=41456" 
+><span title="Image # 41456: Guns N' Roses Backbox Insert "><img src="https://www.ipdb.org/images/1100/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41456: Guns N' Roses Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=41457" 
+><span title="Image # 41457: Guns N' Roses Under Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41457: Guns N' Roses Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=41458" 
+><span title="Image # 41458: Guns N' Roses Inside Cabinet "><img src="https://www.ipdb.org/images/1100/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41458: Guns N' Roses Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=50274" 
+><span title="Image # 50274: Guns N' Roses Playfield - Ball View "><img src="https://www.ipdb.org/images/1100/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50274: Guns N' Roses Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Sean Casey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60577" 
+><span title="Image # 60577: Guns N' Roses Backglass "><img src="https://www.ipdb.org/images/1100/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 60577: Guns N' Roses Backglass "><br>Backglass</span></a><br><font size="-2">1200x944</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60578" 
+><span title="Image # 60578: Guns N' Roses Center Playfield "><img src="https://www.ipdb.org/images/1100/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60578: Guns N' Roses Center Playfield "><br>Center Playfield</span></a><br><font size="-2">1067x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60579" 
+><span title="Image # 60579: Guns N' Roses Backbox - Right "><img src="https://www.ipdb.org/images/1100/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=38 height=100 alt="Image # 60579: Guns N' Roses Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">606x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60580" 
+><span title="Image # 60580: Guns N' Roses Cabinet - Right "><img src="https://www.ipdb.org/images/1100/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 60580: Guns N' Roses Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x551</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60581" 
+><span title="Image # 60581: Guns N' Roses Cabinet - Front "><img src="https://www.ipdb.org/images/1100/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 60581: Guns N' Roses Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x761</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60582" 
+><span title="Image # 60582: Guns N' Roses Cabinet - Front View "><img src="https://www.ipdb.org/images/1100/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 60582: Guns N' Roses Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">769x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60592" 
+><span title="Image # 60592: Guns N' Roses Original Cabinet Artwork 
+(Artist is Markus Rothkranz.Media: information unavailableDimensions estimated 24 inches by 18 inches.)"><img src="https://www.ipdb.org/images/1100/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 60592: Guns N' Roses Original Cabinet Artwork 
+(Artist is Markus Rothkranz.Media: information unavailableDimensions estimated 24 inches by 18 inches.)"><br>Original Cabinet Artwork*</span></a><br><font size="-2">630x422</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60593" 
+><span title="Image # 60593: Guns N' Roses Original Cabinet Artwork 
+(Artist is Markus Rothkranz.Media: information unavailableDimensions estimated 12 inches by 18 inches.)"><img src="https://www.ipdb.org/images/1100/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 60593: Guns N' Roses Original Cabinet Artwork 
+(Artist is Markus Rothkranz.Media: information unavailableDimensions estimated 12 inches by 18 inches.)"><br>Original Cabinet Artwork*</span></a><br><font size="-2">336x588</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60594" 
+><span title="Image # 60594: Guns N' Roses Original Cabinet Artwork - Signature 
+(This shows the artist's signature.)"><img src="https://www.ipdb.org/images/1100/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 60594: Guns N' Roses Original Cabinet Artwork - Signature 
+(This shows the artist's signature.)"><br>Original Cabinet Artwork - Signature*</span></a><br><font size="-2">377x447</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=60595" 
+><span title="Image # 60595: Guns N' Roses Promotional Plastic 
+(The estimated size of this plastic is that of a USA half dollar.)"><img src="https://www.ipdb.org/images/1100/tn_image-66.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 60595: Guns N' Roses Promotional Plastic 
+(The estimated size of this plastic is that of a USA half dollar.)"><br>Promotional Plastic*</span></a><br><font size="-2">325x297</font><br>[Harold Balde]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=67794" 
+><span title="Image # 67794: Guns N' Roses Prototype Translite "><img src="https://www.ipdb.org/images/1100/tn_image-67.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 67794: Guns N' Roses Prototype Translite "><br>Prototype Translite</span></a><br><font size="-2">1200x1048</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1100&amp;picno=69339" 
+><span title="Image # 69339: Guns N' Roses Cabinet with Factory Headphone Jack 
+(Serial number 111809.)"><img src="https://www.ipdb.org/images/1100/tn_image-68.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 69339: Guns N' Roses Cabinet with Factory Headphone Jack 
+(Serial number 111809.)"><br>Cabinet with Factory Headphone Jack*</span></a><br><font size="-2">1200x685</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

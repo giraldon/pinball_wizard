@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Sorcerer'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Sorcerer Sorceror Flippers (3), Pop bumpers (3), Slingshots (2), Standup targets (6), Spinning targets (2), Kick-out hole (1), 3-bank drop targets (1), Ramp (1), 2-ball multiball, speech and background sounds, Mini-post between flippers. Glowing/flashing Sorcerer's eyes in back panel. The Demon bonus lamp lights upon completion of spelling 'Sorcerer'. Completing the drop target bank at the top right of the playfield when Demon is lit activates the bonus hold for the next ball.  Pam Erickson Mark Ritchie Dave Rzepka Ed Suchocki ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Sorcerer' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Sorcerer</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2242">Sorcerer</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2242">2242</a> <I>/ March, 1985 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2242" target="showrate2242"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2242" target="showrate2242">53 ratings/44 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2242" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1985</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>532</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=5">Williams System 9</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,700 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2242">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Wizard - Magic - Dragons</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramp</a> (1), 2-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>, speech and background sounds, <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post">Mini-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. Glowing/flashing Sorcerer's eyes in back panel. The Demon bonus lamp lights upon completion of spelling 'Sorcerer'. Completing the <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> bank at the top right of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> when Demon is lit activates the bonus hold for the next ball.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Ritchie">Mark&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pam&nbsp;Erickson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pam%20Erickson">Pam&nbsp;Erickson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Rzepka' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Rzepka">Dave&nbsp;Rzepka</a></span>, <span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Suchocki' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Suchocki">Ed&nbsp;Suchocki</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Dave Rzepka told us that he started the programming for this game but it was finished by someone else after he left Williams. Later, Ed Suchocki told us that he was the programmer for this game.<br><br>Two different <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> color schemes have been identified for this game. The differences are found in the color of the sorcerer’s robe and trim, the colors of the feathers on the skull located just above the upper <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>, and the colors of the feathers on the skull located below the upper <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>. We have viewed several <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> and find the two versions can be defined as follows:<br><br>• Royal purple robe with pink trim. Both skulls have green and red feathers.<br>• Blue robe with red trim. Upper skull has red and white feathers. Lower skull has green, red, and white feathers. <br><br>We do not know if this represents a change of colors made during the production run or is evidence of two different companies screening the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The sorcerer’s robe extends onto the plastic light shield that covers the center target bank and in all instances this plastic appears to be a dark blue (or <i>han purple</i>) color. Perhaps this suggests the robe was originally blue and then was changed to purple. Our images of an Early Production game are not clear enough to assist this theory. The flyer game shows the royal purple version.<br><br>Ed Suchocki told us this anecdote about the Demon feature:<P style="padding-left:30px;"><I>During the design of Sorcerer, Steve Kordek, the he<ignore>ad of design, came into the room while Mark Ritchie and I were discussing the rules of the game. We were telling Steve about a new feature that we had added to the game. Steve responded back to us, "What are you calling the feature?" Mark and I looked at each other a bit puzzled. Steve then said to us, "You have to give the feature a name! I don't care if you call it Yahootie! Just give it a name." With that said, Steve turned and walked out. Both Mark and I looked at each other and said, "Wow he's right. How did we miss that?</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 160-163<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?sorcerer">http://pinball.jameswest.com/ownerslists/ownerslist.php?sorcerer</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 86 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2242/Williams_1985_Sorcerer_Game_ROM_L_1.zip" >Game ROM L-1</a></td><td> [Williams Electronics]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 83 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2242/sorcr_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 83 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2242/sorcr_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 163 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2242/Williams_1985_Sorcerer_Revision_L_2_ROMs.zip" >Revision L-2 ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2242/Williams_1985_Sorcerer_Instruction_Manual_with_schematics.pdf" onClick="return purchasemanual();">Instruction Manual (with schematics)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;AVI&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2242/Williams_1985_Sorcerer_Sorcerer_s_Eyes_on_Playfield_Back_Panel.avi" >Sorcerer's Eyes on Playfield Back Panel</a></td><td> [Brian Smith]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=4547" 
+><span title="Image # 4547: Sorcerer Flyer, Front "><img src="https://www.ipdb.org/images/2242/tn_2242f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4547: Sorcerer Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=4548" 
+><span title="Image # 4548: Sorcerer Flyer, Back "><img src="https://www.ipdb.org/images/2242/tn_2242f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4548: Sorcerer Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=7676" 
+><span title="Image # 7676: Sorcerer Backglass "><img src="https://www.ipdb.org/images/2242/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 7676: Sorcerer Backglass "><br>Backglass</span></a><br><font size="-2">436x456</font><br>[Jeremy Wilson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=7677" 
+><span title="Image # 7677: Sorcerer Playfield "><img src="https://www.ipdb.org/images/2242/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7677: Sorcerer Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Jeremy Wilson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=7678" 
+><span title="Image # 7678: Sorcerer Playfield Detail "><img src="https://www.ipdb.org/images/2242/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 7678: Sorcerer Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Jeremy Wilson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=7679" 
+><span title="Image # 7679: Sorcerer Backbox "><img src="https://www.ipdb.org/images/2242/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 7679: Sorcerer Backbox "><br>Backbox</span></a><br><font size="-2">360x585</font><br>[Jeremy Wilson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=7680" 
+><span title="Image # 7680: Sorcerer Cabinet "><img src="https://www.ipdb.org/images/2242/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 7680: Sorcerer Cabinet "><br>Cabinet</span></a><br><font size="-2">387x413</font><br>[Jeremy Wilson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=21256" 
+><span title="Image # 21256: Sorcerer Early Production Backglass 
+(This game has serial number 53220015.)"><img src="https://www.ipdb.org/images/2242/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 21256: Sorcerer Early Production Backglass 
+(This game has serial number 53220015.)"><br>Early Production Backglass*</span></a><br><font size="-2">595x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=21257" 
+><span title="Image # 21257: Sorcerer Early Production Cabinet - Left 
+(This game has serial number 53220015.)"><img src="https://www.ipdb.org/images/2242/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 21257: Sorcerer Early Production Cabinet - Left 
+(This game has serial number 53220015.)"><br>Early Production Cabinet - Left*</span></a><br><font size="-2">597x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=21258" 
+><span title="Image # 21258: Sorcerer Early Production Backbox - Left 
+(This game has serial number 53220015.)"><img src="https://www.ipdb.org/images/2242/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 21258: Sorcerer Early Production Backbox - Left 
+(This game has serial number 53220015.)"><br>Early Production Backbox - Left*</span></a><br><font size="-2">414x640</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=21259" 
+><span title="Image # 21259: Sorcerer Early Production Cabinet - Right 
+(This game has serial number 53220015.)"><img src="https://www.ipdb.org/images/2242/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 21259: Sorcerer Early Production Cabinet - Right 
+(This game has serial number 53220015.)"><br>Early Production Cabinet - Right*</span></a><br><font size="-2">640x380</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=21260" 
+><span title="Image # 21260: Sorcerer Early Production Backbox - Right 
+(This game has serial number 53220015.)"><img src="https://www.ipdb.org/images/2242/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 21260: Sorcerer Early Production Backbox - Right 
+(This game has serial number 53220015.)"><br>Early Production Backbox - Right*</span></a><br><font size="-2">438x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=21261" 
+><span title="Image # 21261: Sorcerer Early Production Front 
+(This game has serial number 53220015.)"><img src="https://www.ipdb.org/images/2242/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 21261: Sorcerer Early Production Front 
+(This game has serial number 53220015.)"><br>Early Production Front*</span></a><br><font size="-2">550x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=26882" 
+><span title="Image # 26882: Sorcerer Backglass "><img src="https://www.ipdb.org/images/2242/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 26882: Sorcerer Backglass "><br>Backglass</span></a><br><font size="-2">674x478</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=26883" 
+><span title="Image # 26883: Sorcerer Backglass - Reverse "><img src="https://www.ipdb.org/images/2242/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 26883: Sorcerer Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">631x470</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=37567" 
+><span title="Image # 37567: Sorcerer Backglass "><img src="https://www.ipdb.org/images/2242/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 37567: Sorcerer Backglass "><br>Backglass</span></a><br><font size="-2">1024x990</font><br>[Jesse Kujawa]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=37568" 
+><span title="Image # 37568: Sorcerer Cabinet - Right "><img src="https://www.ipdb.org/images/2242/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 37568: Sorcerer Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x675</font><br>[Jesse Kujawa]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53136" 
+><span title="Image # 53136: Sorcerer Illuminated Backglass "><img src="https://www.ipdb.org/images/2242/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53136: Sorcerer Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1016x762</font><br>[Harald Wolfert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53358" 
+><span title="Image # 53358: Sorcerer Backglass "><img src="https://www.ipdb.org/images/2242/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 53358: Sorcerer Backglass "><br>Backglass</span></a><br><font size="-2">1000x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53359" 
+><span title="Image # 53359: Sorcerer Upper Playfield 
+(Sorcerer's robe is royal purple with pink trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53359: Sorcerer Upper Playfield 
+(Sorcerer's robe is royal purple with pink trim.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53360" 
+><span title="Image # 53360: Sorcerer Lower Playfield "><img src="https://www.ipdb.org/images/2242/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53360: Sorcerer Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53361" 
+><span title="Image # 53361: Sorcerer Playfield Art - Purple Robe 
+(Robe is royal purple with pink trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53361: Sorcerer Playfield Art - Purple Robe 
+(Robe is royal purple with pink trim.)"><br>Playfield Art - Purple Robe*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53362" 
+><span title="Image # 53362: Sorcerer Playfield Art - Blue Robe 
+(Robe is blue with red trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53362: Sorcerer Playfield Art - Blue Robe 
+(Robe is blue with red trim.)"><br>Playfield Art - Blue Robe*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53363" 
+><span title="Image # 53363: Sorcerer Upper Skull - Red and Green Feathers 
+(Robe is royal purple with pink trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53363: Sorcerer Upper Skull - Red and Green Feathers 
+(Robe is royal purple with pink trim.)"><br>Upper Skull - Red and Green Feathers*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53364" 
+><span title="Image # 53364: Sorcerer Upper Skull - Red and White Feathers 
+(Robe is blue with red trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53364: Sorcerer Upper Skull - Red and White Feathers 
+(Robe is blue with red trim.)"><br>Upper Skull - Red and White Feathers*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53365" 
+><span title="Image # 53365: Sorcerer Lower Skull - Red and Green Feathers 
+(Robe is royal purple with pink trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53365: Sorcerer Lower Skull - Red and Green Feathers 
+(Robe is royal purple with pink trim.)"><br>Lower Skull - Red and Green Feathers*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53366" 
+><span title="Image # 53366: Sorcerer Lower Skull - Red, Green, and White Feathers 
+(Robe is blue with red trim.)"><img src="https://www.ipdb.org/images/2242/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53366: Sorcerer Lower Skull - Red, Green, and White Feathers 
+(Robe is blue with red trim.)"><br>Lower Skull - Red, Green, and White Feathers*</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53367" 
+><span title="Image # 53367: Sorcerer Drop Target "><img src="https://www.ipdb.org/images/2242/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53367: Sorcerer Drop Target "><br>Drop Target</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53368" 
+><span title="Image # 53368: Sorcerer Cabinet - Left "><img src="https://www.ipdb.org/images/2242/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53368: Sorcerer Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53369" 
+><span title="Image # 53369: Sorcerer Cabinet - Front "><img src="https://www.ipdb.org/images/2242/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 53369: Sorcerer Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1131x900</font><br>[Kevin Hilty]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53370" 
+><span title="Image # 53370: Sorcerer Inside Backbox "><img src="https://www.ipdb.org/images/2242/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53370: Sorcerer Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Kevin Hilty]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2242&amp;picno=53371" 
+><span title="Image # 53371: Sorcerer Artist and Playfield 
+(Artist Pam Erickson at Chicago Pinball Expo 2004.)"><img src="https://www.ipdb.org/images/2242/tn_image-B16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 53371: Sorcerer Artist and Playfield 
+(Artist Pam Erickson at Chicago Pinball Expo 2004.)"><br>Artist and Playfield*</span></a><br><font size="-2">312x623</font><br>[Kevin Hilty]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

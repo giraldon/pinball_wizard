@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Retro Pinball LLC 'King of Diamonds'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Retro Pinball LLC King of Diamonds Mechanical Backbox Animation Flippers (2), Pop bumpers (3), Slingshots (2), Carousel roto-targets, Backbox animation (playing cards drop down). One set of score reels serves up to four players. Player Up is indicated on playfield back panel. As each player is served the ball, the score reels smoothly and silently rotate to show that player's accumulated score from the previous ball. The playfield art is a mylar overlay, not silkscreened onto the wood itself.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Retro Pinball LLC 'King of Diamonds' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>King of Diamonds</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5239">King of Diamonds</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5239">5239</a> <I>/ 2010 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.1 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=5239" target="showrate5239">7 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5239" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Retro Pinball LLC'"><a href="search.pl?searchtype=advanced&amp;mfgid=610">Retro Pinball LLC, <font size="-1">of York, Pennsylvania</font> (2010-2012)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>2010</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>KOD</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>55 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5239">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cards/Gambling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Carousel_roto-target">Carousel&nbsp;roto-targets</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (playing cards drop down). One set of score reels serves up to four players. Player Up is indicated on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> back panel. As each player is served the ball, the score reels smoothly and silently rotate to show that player's accumulated score from the previous ball. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art is a mylar overlay, not silkscreened onto the wood itself.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This is a 4-player solid-state "retro" version of <span title="Click here to open a new window and display Gottlieb's 1967 'King of Diamonds'"><a target="game1372" href="machine.cgi?id=1372">Gottlieb's 1967 'King of Diamonds'</a></span>.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> game pictured here (with the black <a target="glossary" class="glossarylink" href="/glossary.php#Card_Holder">card&nbsp;holder</a> and black trim) is the sole <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> from 2006, produced by Fabulous Fantasies of Tarzana, California. It was hand-built as a proposal to Stern to build a line of retro games. That arrangement did not happen, so Gottlieb was approached for a license to make this game. A <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> Gottlieb game complete with ticket vender and a brand new board system was hand-built for Gottlieb approval. Licensing was approved in 2009 and Retro Pinball LLC was formed to manufacture 100 numbered games and 200 regular models in Taiwan (all would have a white Gottlieb <a target="glossary" class="glossarylink" href="/glossary.php#Card_Holder">card&nbsp;holder</a> and chrome trim). The first ten production games were produced and sold in 2010 but <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> carried a 2009 copyright as that is when parts production had begun. Production ended in 2012 after 5 sample production games and 50 regular production games were built. (The two hand-built <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a> are not included in our Production Run quantity of 55. The 5 sample production games were built individually and not in a factory setting by a group of people.) The 50 regular production games carried a numbered plaque (1 of 100, etc.) and only the first nine games off of the production line have a number that corresponds to its actual place in the production line. Beyond that, buyers were allowed to select from any remaining number in that range to be on their plaques, regardless of the actual place in production that each game occurred. Therefore, some of the 50 games produced may carry a plaque numbered between 51 and 100. Parts are in existence for an additional 50 games.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34665" 
+><span title="Image # 34665: King of Diamonds Stern Prototype - Backglass 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34665: King of Diamonds Stern Prototype - Backglass 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Backglass*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34666" 
+><span title="Image # 34666: King of Diamonds Stern Prototype - Illuminated Backglass 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34666: King of Diamonds Stern Prototype - Illuminated Backglass 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Illuminated Backglass*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34667" 
+><span title="Image # 34667: King of Diamonds Stern Prototype - Playfield 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34667: King of Diamonds Stern Prototype - Playfield 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34668" 
+><span title="Image # 34668: King of Diamonds Stern Prototype - Illuminated Playfield 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 34668: King of Diamonds Stern Prototype - Illuminated Playfield 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Illuminated Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34669" 
+><span title="Image # 34669: King of Diamonds Stern Prototype - Cabinet - Left 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 34669: King of Diamonds Stern Prototype - Cabinet - Left 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Cabinet - Left*</span></a><br><font size="-2">732x767</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34670" 
+><span title="Image # 34670: King of Diamonds Stern Prototype - Cabinet - Right 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 34670: King of Diamonds Stern Prototype - Cabinet - Right 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Cabinet - Right*</span></a><br><font size="-2">747x749</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=34671" 
+><span title="Image # 34671: King of Diamonds Stern Prototype - Full View 
+(Photographed at Chicago Pinball Expo 2006.)"><img src="https://www.ipdb.org/images/5239/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 34671: King of Diamonds Stern Prototype - Full View 
+(Photographed at Chicago Pinball Expo 2006.)"><br>Stern Prototype - Full View*</span></a><br><font size="-2">792x1360</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=44334" 
+><span title="Image # 44334: King of Diamonds Flyer - Stern Prototype Game "><img src="https://www.ipdb.org/images/5239/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 44334: King of Diamonds Flyer - Stern Prototype Game "><br>Flyer - Stern Prototype Game</span></a><br><font size="-2">400x520</font><br>[Herb Silvers]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=55491" 
+><span title="Image # 55491: King of Diamonds Flyer - Production Game - Front "><img src="https://www.ipdb.org/images/5239/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 55491: King of Diamonds Flyer - Production Game - Front "><br>Flyer - Production Game - Front</span></a><br><font size="-2">1024x1325</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=55492" 
+><span title="Image # 55492: King of Diamonds Flyer - Production Game - Back "><img src="https://www.ipdb.org/images/5239/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 55492: King of Diamonds Flyer - Production Game - Back "><br>Flyer - Production Game - Back</span></a><br><font size="-2">1024x1325</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60421" 
+><span title="Image # 60421: King of Diamonds Gottlieb Licensing Prototype - Backglass 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><img src="https://www.ipdb.org/images/5239/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 60421: King of Diamonds Gottlieb Licensing Prototype - Backglass 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><br>Gottlieb Licensing Prototype - Backglass*</span></a><br><font size="-2">1200x1366</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60422" 
+><span title="Image # 60422: King of Diamonds Gottlieb Licensing Prototype - Playfield 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><img src="https://www.ipdb.org/images/5239/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60422: King of Diamonds Gottlieb Licensing Prototype - Playfield 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><br>Gottlieb Licensing Prototype - Playfield*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60423" 
+><span title="Image # 60423: King of Diamonds Gottlieb Licensing Prototype - Full View 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><img src="https://www.ipdb.org/images/5239/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60423: King of Diamonds Gottlieb Licensing Prototype - Full View 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><br>Gottlieb Licensing Prototype - Full View*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60424" 
+><span title="Image # 60424: King of Diamonds Gottlieb Licensing Prototype - Ticket Vender 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><img src="https://www.ipdb.org/images/5239/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60424: King of Diamonds Gottlieb Licensing Prototype - Ticket Vender 
+(This game was hand-built and presented to Gottlieb in request for a license. )"><br>Gottlieb Licensing Prototype - Ticket Vender*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60425" 
+><span title="Image # 60425: King of Diamonds Cabinets for Production "><img src="https://www.ipdb.org/images/5239/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60425: King of Diamonds Cabinets for Production "><br>Cabinets for Production</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60426" 
+><span title="Image # 60426: King of Diamonds Production Samples "><img src="https://www.ipdb.org/images/5239/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60426: King of Diamonds Production Samples "><br>Production Samples</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60427" 
+><span title="Image # 60427: King of Diamonds In Production "><img src="https://www.ipdb.org/images/5239/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60427: King of Diamonds In Production "><br>In Production</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60428" 
+><span title="Image # 60428: King of Diamonds In Production "><img src="https://www.ipdb.org/images/5239/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60428: King of Diamonds In Production "><br>In Production</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60429" 
+><span title="Image # 60429: King of Diamonds Production Game 
+(The numbered plaque is affixed to the front of the cabinet.)"><img src="https://www.ipdb.org/images/5239/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60429: King of Diamonds Production Game 
+(The numbered plaque is affixed to the front of the cabinet.)"><br>Production Game*</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5239&amp;picno=60430" 
+><span title="Image # 60430: King of Diamonds Production Game 
+(The numbered plaque is affixed to the front of the cabinet.)"><img src="https://www.ipdb.org/images/5239/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60430: King of Diamonds Production Game 
+(The numbered plaque is affixed to the front of the cabinet.)"><br>Production Game*</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

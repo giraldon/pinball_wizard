@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Precision Automatics, Ltd. 'Round The World'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Precision Automatics, Ltd. Round The World Around The World Cast aluminum flippers (2), Standup targets (4). No slingshots. Woodrail cabinet. Coin slot takes old English threepenny pieces.
+
+Without the backbox to fully confirm, game play has been analyzed by the owner as follows: the object of the game is to score (to 'light up' on the backbox, presumably) numbers 1 through 8 in both yellow and orange. Numbers need not be scored in sequence. The two rollovers hidden beneath the center '?' plastic determine whether a visible rollover scores for yellow or for orange. Once all the numbers are scored for both colors, power is then applied to a wire which, unfortunately, was found not connected to anything but ends close to the wires which went up to the backbox. 
+
+Three multi-pin connectors join the playfield to the relay board, and two other connectors connect the relays presumably to the missing backbox. There is no evidence in the lower cabinet to suggest any form of numerical scoring was used in the backbox.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Precision Automatics, Ltd. 'Round The World' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Round The World</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="6208">Round The World</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=6208">6208</a> <I></I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=6208" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Precision Automatics, Ltd.'"><a href="search.pl?searchtype=advanced&amp;mfgid=682">Precision Automatics, Ltd.</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=6208">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Travel - World Places</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Cast aluminum <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4). No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Woodrail">Woodrail</a> <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. Coin slot takes old English threepenny pieces.<br><br>Without the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> to fully confirm, game play has been analyzed by the owner as follows: the object of the game is to score (to 'light up' on the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, presumably) numbers 1 through 8 in both yellow and orange. Numbers need not be scored in sequence. The two <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> hidden beneath the center "?" plastic determine whether a visible <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> scores for yellow or for orange. Once all the numbers are scored for both colors, power is then applied to a wire which, unfortunately, was found not connected to anything but ends close to the wires which went up to the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. <br><br>Three multi-pin connectors join the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to the relay board, and two other connectors connect the relays presumably to the missing <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. There is no evidence in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> to suggest any form of numerical scoring was used in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This game was located in England when we saw it. It is likely a one-player game but we cannot know because the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> was missing in the pictures that we saw. The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> may contain player-up mechanisms. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> front has a ball lift knob and a beehive shooter escutcheon. The name of the game is displayed in an arc in the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> following the curve of the upper ball arch. The manufacturer name is displayed on the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, highlighting the initials <b>P A L</b>. The lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a> is wood and has no paper attachments on it. It is a solid piece of wood with no viewing window to see any below-playfield ball trough. No picture of the underside of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> was made available to us.<br><br>No date for this UK game but electrical <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> were first used in 1947 and <a target="glossary" class="glossarylink" href="/glossary.php#Woodrail">woodrail</a> <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> were phased out in the USA by 1961. There are eighteen relays and some or all of them had dates stamped on them. The owner stated the latest date on these relays is <b>JUL 19 1956</b> and we include a picture of it.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63710" 
+><span title="Image # 63710: Round The World Playfield "><img src="https://www.ipdb.org/images/6208/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63710: Round The World Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63711" 
+><span title="Image # 63711: Round The World Upper Playfield "><img src="https://www.ipdb.org/images/6208/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63711: Round The World Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x1600</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63712" 
+><span title="Image # 63712: Round The World Lower Playfield "><img src="https://www.ipdb.org/images/6208/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63712: Round The World Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x1600</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63713" 
+><span title="Image # 63713: Round The World Manufacturer "><img src="https://www.ipdb.org/images/6208/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63713: Round The World Manufacturer "><br>Manufacturer</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63714" 
+><span title="Image # 63714: Round The World Cabinet - Left "><img src="https://www.ipdb.org/images/6208/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 63714: Round The World Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x697</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63715" 
+><span title="Image # 63715: Round The World Cabinet - Front View "><img src="https://www.ipdb.org/images/6208/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 63715: Round The World Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x1083</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63716" 
+><span title="Image # 63716: Round The World Coin Slide - Detail 
+(The coin opening measured 22.5 mm in diameter.)"><img src="https://www.ipdb.org/images/6208/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 63716: Round The World Coin Slide - Detail 
+(The coin opening measured 22.5 mm in diameter.)"><br>Coin Slide - Detail*</span></a><br><font size="-2">1200x987</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63717" 
+><span title="Image # 63717: Round The World Cabinet - Front Door "><img src="https://www.ipdb.org/images/6208/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 63717: Round The World Cabinet - Front Door "><br>Cabinet - Front Door</span></a><br><font size="-2">1200x677</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63718" 
+><span title="Image # 63718: Round The World Cabinet - Rear "><img src="https://www.ipdb.org/images/6208/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 63718: Round The World Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">863x1317</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63719" 
+><span title="Image # 63719: Round The World Under Playfield 
+(Viewed through the missing cabinet bottom. The tilt bob might be installed upside down.)"><img src="https://www.ipdb.org/images/6208/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63719: Round The World Under Playfield 
+(Viewed through the missing cabinet bottom. The tilt bob might be installed upside down.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63720" 
+><span title="Image # 63720: Round The World Under Playfield 
+(Viewed through the missing cabinet bottom. The tilt bob might be installed upside down.)"><img src="https://www.ipdb.org/images/6208/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63720: Round The World Under Playfield 
+(Viewed through the missing cabinet bottom. The tilt bob might be installed upside down.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63721" 
+><span title="Image # 63721: Round The World Inside Cabinet 
+(The bottom of the cabinet is missing and the relay board is positioned in this image near where it would likely belong inside the cabinet.)"><img src="https://www.ipdb.org/images/6208/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 63721: Round The World Inside Cabinet 
+(The bottom of the cabinet is missing and the relay board is positioned in this image near where it would likely belong inside the cabinet.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63722" 
+><span title="Image # 63722: Round The World Relay Board 
+(There are eighteen relays. The board is shown here removed from the cabinet.)"><img src="https://www.ipdb.org/images/6208/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63722: Round The World Relay Board 
+(There are eighteen relays. The board is shown here removed from the cabinet.)"><br>Relay Board*</span></a><br><font size="-2">1200x1600</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63723" 
+><span title="Image # 63723: Round The World Relay Board 
+(The board is shown here removed from the cabinet.)"><img src="https://www.ipdb.org/images/6208/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 63723: Round The World Relay Board 
+(The board is shown here removed from the cabinet.)"><br>Relay Board*</span></a><br><font size="-2">1200x784</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63724" 
+><span title="Image # 63724: Round The World Relay Board - Connectors 
+(The board is shown here removed from the cabinet.)"><img src="https://www.ipdb.org/images/6208/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 63724: Round The World Relay Board - Connectors 
+(The board is shown here removed from the cabinet.)"><br>Relay Board - Connectors*</span></a><br><font size="-2">1200x836</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63725" 
+><span title="Image # 63725: Round The World Relay Board - Relay Wiring 
+(The board is shown here removed from the cabinet.)"><img src="https://www.ipdb.org/images/6208/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 63725: Round The World Relay Board - Relay Wiring 
+(The board is shown here removed from the cabinet.)"><br>Relay Board - Relay Wiring*</span></a><br><font size="-2">1200x1600</font><br>[Steve Barker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6208&amp;picno=63726" 
+><span title="Image # 63726: Round The World Relay with Date Stamp 
+(This relay has been removed from its base to show its stamped date. Of the eighteen relays, this one had the latest date.)"><img src="https://www.ipdb.org/images/6208/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 63726: Round The World Relay with Date Stamp 
+(This relay has been removed from its base to show its stamped date. Of the eighteen relays, this one had the latest date.)"><br>Relay with Date Stamp*</span></a><br><font size="-2">1200x1200</font><br>[Steve Barker]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+ebay.co.uk Dec 2014&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'On Beam'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally On Beam Flippers (2), Pop bumpers (4), Mushroom bumpers (4), Kick-out hole (1). Backglass light animation shows space station and space ship traveling on any of 4 Beams. Getting space ship to dock with space station on same Beam awards points and lights center target for Special. The playfield Beam-O-Meter allows player to track this progress without watching backglass. Extra balls are kicked up into play from the outhole.  Christian Marche Bob Jonesi ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'On Beam' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>On Beam</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1715">On Beam</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1715">1715</a> <I>/ August, 1969 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1715" target="showrate1715"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1715" target="showrate1715">12 ratings/10 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1715" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>September 05, 1968</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1969</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>840</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,150 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1715">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">Mushroom&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> shows space station and space ship traveling on any of 4 Beams. Getting space ship to dock with space station on same Beam awards points and lights center target for Special. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> Beam-O-Meter allows player to track this progress without watching <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Extra balls are kicked up into play from the <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bob&nbsp;Jonesi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bob%20Jonesi">Bob&nbsp;Jonesi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The manufacturer produced the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> in both crystal glass and Plexiglas.<br><br>The geometric <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> design was used previously on <span title="Click here to open a new window and display Bally's 1969 'Cosmos'"><a target="game572" href="machine.cgi?id=572">Bally's 1969 'Cosmos'</a></span> although the colors were different.<br><br>Bally Production Run data indicates that 1,150 units were produced of this game. Their typical serial numbering scheme would mean that their last 'On Beam' game would have serial #2150. It appears that the majority were produced having the <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumpers</a> shown in the flyer. However, game owners and hobbyists have reported eleven games in the USA and Canada with later-production serial numbers of 2133, 2148, 2178, 2214, 2221, 2225, 2271, 2272, 2273, 2285, and 2334, where each <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has stationary targets instead of the <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumpers</a>. These serial numbers suggest a single, continuous production run of a quantity greater than previously believed, with a changeover from <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumpers</a> to targets somewhere during the run. The reason for this change in design is unknown to us. An example of these "Later Production" games is featured below. Several views of it are included for comparative purposes, although the only difference may be the targets.<br><br>A unique game having serial number #2012 is owned by Federico Croci, a collector in Italy, and its <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is pictured here. Besides having stationary targets, it's also an <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> version, having no credit unit or credit window in the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. The left and right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlanes</a> each have a unique <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a> to block the ball from draining by diverting it towards the <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlane</a>. The game is in storage so we are unable to show <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> pictures, or show close-up pictures of these <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a> mechanisms to clarify if/that they were factory-installed. This is the only 'On Beam' that Federico has ever found in Italy.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Pinball Machines for Italy - Senza Ripetizione Della Partita, page 62<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0890091188/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0890091188&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Portfolio</a>, page 70<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1715">http://www.pinballowners.com/owners/1715</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 673 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1715/On_Beam.pdf" onClick="return purchasemanual();">Playfield Chart from 1973 Parts Catalog</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1715/Bally_1969_On_Beam_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=1663" 
+><span title="Image # 1663: On Beam Backglass "><img src="https://www.ipdb.org/images/1715/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 1663: On Beam Backglass "><br>Backglass</span></a><br><font size="-2">364x435</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=1664" 
+><span title="Image # 1664: On Beam Playfield "><img src="https://www.ipdb.org/images/1715/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 1664: On Beam Playfield "><br>Playfield</span></a><br><font size="-2">408x547</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=3844" 
+><span title="Image # 3844: On Beam Flyer "><img src="https://www.ipdb.org/images/1715/tn_1715f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 3844: On Beam Flyer "><br>Flyer</span></a><br><font size="-2">612x840</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=18949" 
+><span title="Image # 18949: On Beam Backglass "><img src="https://www.ipdb.org/images/1715/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18949: On Beam Backglass "><br>Backglass</span></a><br><font size="-2">720x540</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=18950" 
+><span title="Image # 18950: On Beam Ball View "><img src="https://www.ipdb.org/images/1715/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18950: On Beam Ball View "><br>Ball View</span></a><br><font size="-2">720x540</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=18951" 
+><span title="Image # 18951: On Beam Playfield - Detail "><img src="https://www.ipdb.org/images/1715/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18951: On Beam Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">720x540</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=18952" 
+><span title="Image # 18952: On Beam Pop Bumpers "><img src="https://www.ipdb.org/images/1715/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18952: On Beam Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">720x540</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=18953" 
+><span title="Image # 18953: On Beam Beam-O-Meter "><img src="https://www.ipdb.org/images/1715/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18953: On Beam Beam-O-Meter "><br>Beam-O-Meter</span></a><br><font size="-2">720x540</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=18954" 
+><span title="Image # 18954: On Beam Cabinet - Left "><img src="https://www.ipdb.org/images/1715/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18954: On Beam Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">720x540</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23060" 
+><span title="Image # 23060: On Beam Later Production Backglass 
+(Serial number 2214)"><img src="https://www.ipdb.org/images/1715/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 23060: On Beam Later Production Backglass 
+(Serial number 2214)"><br>Later Production Backglass*</span></a><br><font size="-2">960x1194</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23061" 
+><span title="Image # 23061: On Beam Later Production Upper Playfield 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><img src="https://www.ipdb.org/images/1715/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 23061: On Beam Later Production Upper Playfield 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><br>Later Production Upper Playfield*</span></a><br><font size="-2">1024x780</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23062" 
+><span title="Image # 23062: On Beam Later Production Lower Playfield 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><img src="https://www.ipdb.org/images/1715/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 23062: On Beam Later Production Lower Playfield 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><br>Later Production Lower Playfield*</span></a><br><font size="-2">1024x781</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23063" 
+><span title="Image # 23063: On Beam Later Production Cabinet - Left 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><img src="https://www.ipdb.org/images/1715/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 23063: On Beam Later Production Cabinet - Left 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><br>Later Production Cabinet - Left*</span></a><br><font size="-2">1024x738</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23064" 
+><span title="Image # 23064: On Beam Later Production Cabinet - Right 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><img src="https://www.ipdb.org/images/1715/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 23064: On Beam Later Production Cabinet - Right 
+(Serial number 2214. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><br>Later Production Cabinet - Right*</span></a><br><font size="-2">1024x876</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23065" 
+><span title="Image # 23065: On Beam Later Production Backbox - Left 
+(Serial number 2214)"><img src="https://www.ipdb.org/images/1715/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 23065: On Beam Later Production Backbox - Left 
+(Serial number 2214)"><br>Later Production Backbox - Left*</span></a><br><font size="-2">694x1194</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23066" 
+><span title="Image # 23066: On Beam Later Production Backbox - Right 
+(Serial number 2214)"><img src="https://www.ipdb.org/images/1715/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 23066: On Beam Later Production Backbox - Right 
+(Serial number 2214)"><br>Later Production Backbox - Right*</span></a><br><font size="-2">736x1280</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23067" 
+><span title="Image # 23067: On Beam Later Production Cabinet - Front 
+(Serial number 2214)"><img src="https://www.ipdb.org/images/1715/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 23067: On Beam Later Production Cabinet - Front 
+(Serial number 2214)"><br>Later Production Cabinet - Front*</span></a><br><font size="-2">1024x693</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23068" 
+><span title="Image # 23068: On Beam Later Production Backglass - Reverse 
+(Serial number 2214)"><img src="https://www.ipdb.org/images/1715/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23068: On Beam Later Production Backglass - Reverse 
+(Serial number 2214)"><br>Later Production Backglass - Reverse*</span></a><br><font size="-2">960x1280</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23708" 
+><span title="Image # 23708: On Beam Backglass - Detail "><img src="https://www.ipdb.org/images/1715/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23708: On Beam Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23709" 
+><span title="Image # 23709: On Beam Playfield - Detail "><img src="https://www.ipdb.org/images/1715/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23709: On Beam Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23710" 
+><span title="Image # 23710: On Beam Playfield - Detail "><img src="https://www.ipdb.org/images/1715/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23710: On Beam Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23711" 
+><span title="Image # 23711: On Beam Playfield - Detail "><img src="https://www.ipdb.org/images/1715/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23711: On Beam Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=23712" 
+><span title="Image # 23712: On Beam Playfield - Detail "><img src="https://www.ipdb.org/images/1715/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23712: On Beam Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Robert Fitzgerald]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=25002" 
+><span title="Image # 25002: On Beam Playfield "><img src="https://www.ipdb.org/images/1715/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 25002: On Beam Playfield "><br>Playfield</span></a><br><font size="-2">817x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=25003" 
+><span title="Image # 25003: On Beam Upper Playfield "><img src="https://www.ipdb.org/images/1715/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 25003: On Beam Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x1365</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=25004" 
+><span title="Image # 25004: On Beam Lower Playfield "><img src="https://www.ipdb.org/images/1715/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 25004: On Beam Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x1365</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46699" 
+><span title="Image # 46699: On Beam Dual-kick Outhole Assembly "><img src="https://www.ipdb.org/images/1715/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 46699: On Beam Dual-kick Outhole Assembly "><br>Dual-kick Outhole Assembly</span></a><br><font size="-2">1200x798</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46807" 
+><span title="Image # 46807: On Beam Add-A-Ball Playfield with Outlane Gates 
+(This game was produced with stationary targets in place of mushroom bumpers. Each outlane has a gate to divert the ball to the inlane. Serial number 2012.)"><img src="https://www.ipdb.org/images/1715/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 46807: On Beam Add-A-Ball Playfield with Outlane Gates 
+(This game was produced with stationary targets in place of mushroom bumpers. Each outlane has a gate to divert the ball to the inlane. Serial number 2012.)"><br>Add-A-Ball Playfield with Outlane Gates*</span></a><br><font size="-2">932x1600</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46808" 
+><span title="Image # 46808: On Beam Add-A-Ball Lower Playfield with Outlane Gates 
+(This game was produced with stationary targets in place of mushroom bumpers. Each outlane has a gate to divert the ball to the inlane. Serial number 2012.)"><img src="https://www.ipdb.org/images/1715/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46808: On Beam Add-A-Ball Lower Playfield with Outlane Gates 
+(This game was produced with stationary targets in place of mushroom bumpers. Each outlane has a gate to divert the ball to the inlane. Serial number 2012.)"><br>Add-A-Ball Lower Playfield with Outlane Gates*</span></a><br><font size="-2">1024x768</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46809" 
+><span title="Image # 46809: On Beam Add-A-Ball Playfield - Left Outlane Gate 
+(Each outlane has a gate to divert the ball to the inlane. Serial number 2012.)"><img src="https://www.ipdb.org/images/1715/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 46809: On Beam Add-A-Ball Playfield - Left Outlane Gate 
+(Each outlane has a gate to divert the ball to the inlane. Serial number 2012.)"><br>Add-A-Ball Playfield - Left Outlane Gate*</span></a><br><font size="-2">524x655</font><br>[Federico Croci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46810" 
+><span title="Image # 46810: On Beam Add-A-Ball Playfield - Stationary Target 
+(This game was produced with stationary targets in place of mushroom bumpers. Serial number 2012.)"><img src="https://www.ipdb.org/images/1715/tn_image-A24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46810: On Beam Add-A-Ball Playfield - Stationary Target 
+(This game was produced with stationary targets in place of mushroom bumpers. Serial number 2012.)"><br>Add-A-Ball Playfield - Stationary Target*</span></a><br><font size="-2">768x1024</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46811" 
+><span title="Image # 46811: On Beam Under Add-A-Ball Playfield - Stationary Target 
+(This game was produced with stationary targets in place of mushroom bumpers. Serial number 2012.)"><img src="https://www.ipdb.org/images/1715/tn_image-A25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46811: On Beam Under Add-A-Ball Playfield - Stationary Target 
+(This game was produced with stationary targets in place of mushroom bumpers. Serial number 2012.)"><br>Under Add-A-Ball Playfield - Stationary Target*</span></a><br><font size="-2">768x1024</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46812" 
+><span title="Image # 46812: On Beam Later Production Illuminated Backglass 
+(This game was photographed in an old church, thus two stained-glass windows are reflected in the backglass. Serial number 2178.)"><img src="https://www.ipdb.org/images/1715/tn_image-B25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 46812: On Beam Later Production Illuminated Backglass 
+(This game was photographed in an old church, thus two stained-glass windows are reflected in the backglass. Serial number 2178.)"><br>Later Production Illuminated Backglass*</span></a><br><font size="-2">1006x1152</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=46813" 
+><span title="Image # 46813: On Beam Later Production Illuminated Playfield 
+(Serial number 2178. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><img src="https://www.ipdb.org/images/1715/tn_image-B24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46813: On Beam Later Production Illuminated Playfield 
+(Serial number 2178. Note: this game was produced with stationary targets in place of mushroom bumpers.)"><br>Later Production Illuminated Playfield*</span></a><br><font size="-2">1152x864</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1715&amp;picno=58884" 
+><span title="Image # 58884: On Beam Inside Cabinet - Service Position 
+(The bottom relay board lifted up and pivoted forward for easy access.)"><img src="https://www.ipdb.org/images/1715/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 58884: On Beam Inside Cabinet - Service Position 
+(The bottom relay board lifted up and pivoted forward for easy access.)"><br>Inside Cabinet - Service Position*</span></a><br><font size="-2">845x613</font><br>[Chas Gantz]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

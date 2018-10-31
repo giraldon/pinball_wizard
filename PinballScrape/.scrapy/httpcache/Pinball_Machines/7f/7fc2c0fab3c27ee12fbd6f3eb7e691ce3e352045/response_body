@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Space Invaders'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Space Invaders Widebody Flippers (4), Pop bumpers (3), Passive bumpers (4), Slingshots (2), Standup targets (6), 3-bank drop targets (1), Solitary drop target (1), Spinning target (1), Captive ball (1), Horseshoe lane (1). Animated infinity lights are behind a specially-mirrored backglass. Electronic sound. 3 or 5 ball play.
+
+Maximum displayed point score is 999,950 points per player.  
+
+The lowest scoring switches on the playfield award 50 points or 100 points, making the player's final score always ending in 00 or 50 <I>if the player never ti<ignore>lts</I>. However, the passive bumpers at the top of playfield score 50 points each, in 10 point increments, with the full 50 points taking a second or two to be awarded. If the play tilts before the full 50 points are awarded, the score stops accumulating immediately, and a score ending in something other than 00 or 50 is then possible. The match number is always selected from 00 to 90.
+
+Credit display maximum is selectable up to 40.  Paul Faris Jim Patla ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Space Invaders' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Space Invaders</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2252">Space Invaders</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2252">2252</a> <I>/ April, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2252" target="showrate2252"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2252" target="showrate2252">74 ratings/64 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2252" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>May 08, 1979</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1178-E</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SI</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>11,400 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2252">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space - Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), Solitary <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;ball</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">Horseshoe&nbsp;lane</a> (1). Animated infinity lights are behind a specially-mirrored <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Electronic sound. 3 or 5 ball play.<br><br>Maximum displayed point score is 999,950 points per player.  <br><br>The lowest scoring switches on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> award 50 points or 100 points, making the player's final score always ending in 00 or 50 <I>if the player never ti<ignore>lts</I>. However, the <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">passive&nbsp;bumpers</a> at the top of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> score 50 points each, in 10 point increments, with the full 50 points taking a second or two to be awarded. If the play <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilts</a> before the full 50 points are awarded, the score stops accumulating immediately, and a score ending in something other than 00 or 50 is then possible. The <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> number is always selected from 00 to 90.<br><br>Credit display maximum is selectable up to 40.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Patla' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Patla">Jim&nbsp;Patla</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The alien depicted on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> was deemed an unlicensed use of the one used in the 1979 Hollywood movie <i>Alien</i>. Some <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art elements and game sounds were borrowed from the 1978 'Space Invaders' video game which was still popular at the time that this pinball machine came out.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 117<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 50<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, pages 28 and 155<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 173<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 142, 269 and 270<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764321099/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764321099&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Snapshots</a>, page 181<br>
+Pinball The Lure of the Silverball, page 78<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2252">http://www.pinballowners.com/owners/2252</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/spaceinv.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 51 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/spaceinb.zip" >PinMAME Romset (7-digit bootleg)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 10 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/Bally_1980_Space_Invaders_ROMs.zip" >ROMs</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/Bally_1980_Space_Invaders_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 19 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/Bally_1980_Space_Invaders_Manual_no_schematics.pdf" onClick="return purchasemanual();">Manual (no schematics)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 22 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/Bally_1980_Space_Invaders_Manual_with_schematics.pdf" onClick="return purchasemanual();">Manual (with schematics)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/Bally_1980_Space_Invaders_Schematic_Diagrams_paginated.pdf" onClick="return purchasemanual();">Schematic Diagrams (paginated)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Multimedia Files: </b></td><td align=right nowrap> 344 KB</td><td align=left nowrap width="5%">&nbsp;MPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2252/Bally_1980_Space_Invaders_15_sec_Space_Invaders_Movie.mpg" >15 sec Space Invaders Movie</a></td><td> [Craig Hassell]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=3175" 
+><span title="Image # 3175: Space Invaders Playfield "><img src="https://www.ipdb.org/images/2252/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 3175: Space Invaders Playfield "><br>Playfield</span></a><br><font size="-2">450x527</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=3176" 
+><span title="Image # 3176: Space Invaders Backglass "><img src="https://www.ipdb.org/images/2252/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 3176: Space Invaders Backglass "><br>Backglass</span></a><br><font size="-2">550x413</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=3177" 
+><span title="Image # 3177: Space Invaders Overall View "><img src="https://www.ipdb.org/images/2252/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 3177: Space Invaders Overall View "><br>Overall View</span></a><br><font size="-2">600x867</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=3178" 
+><span title="Image # 3178: Space Invaders Side of Cabinet "><img src="https://www.ipdb.org/images/2252/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 3178: Space Invaders Side of Cabinet "><br>Side of Cabinet</span></a><br><font size="-2">550x325</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=3179" 
+><span title="Image # 3179: Space Invaders Closeup of pop bumpers "><img src="https://www.ipdb.org/images/2252/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 3179: Space Invaders Closeup of pop bumpers "><br>Closeup of pop bumpers</span></a><br><font size="-2">550x413</font><br>[Craig Hassell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=4101" 
+><span title="Image # 4101: Space Invaders Flyer, Front "><img src="https://www.ipdb.org/images/2252/tn_2252f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 4101: Space Invaders Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">812x805</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=4102" 
+><span title="Image # 4102: Space Invaders Flyer, Page 2 "><img src="https://www.ipdb.org/images/2252/tn_2252f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4102: Space Invaders Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">849x1132</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=4103" 
+><span title="Image # 4103: Space Invaders Flyer, Page 3 "><img src="https://www.ipdb.org/images/2252/tn_2252f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 4103: Space Invaders Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">849x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=4104" 
+><span title="Image # 4104: Space Invaders Flyer, Back "><img src="https://www.ipdb.org/images/2252/tn_2252f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 4104: Space Invaders Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">851x1132</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=6615" 
+><span title="Image # 6615: Space Invaders Backglass "><img src="https://www.ipdb.org/images/2252/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 6615: Space Invaders Backglass "><br>Backglass</span></a><br><font size="-2">700x615</font><br>[John Kirby]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=6616" 
+><span title="Image # 6616: Space Invaders Playfield "><img src="https://www.ipdb.org/images/2252/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 6616: Space Invaders Playfield "><br>Playfield</span></a><br><font size="-2">400x653</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21388" 
+><span title="Image # 21388: Space Invaders Blank Playfield "><img src="https://www.ipdb.org/images/2252/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 21388: Space Invaders Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1024x1578</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21389" 
+><span title="Image # 21389: Space Invaders Blank Playfield - Left Side "><img src="https://www.ipdb.org/images/2252/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21389: Space Invaders Blank Playfield - Left Side "><br>Blank Playfield - Left Side</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21390" 
+><span title="Image # 21390: Space Invaders Blank Playfield - Loop Close-Up "><img src="https://www.ipdb.org/images/2252/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21390: Space Invaders Blank Playfield - Loop Close-Up "><br>Blank Playfield - Loop Close-Up</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21391" 
+><span title="Image # 21391: Space Invaders Blank Playfield - Flipper Area "><img src="https://www.ipdb.org/images/2252/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21391: Space Invaders Blank Playfield - Flipper Area "><br>Blank Playfield - Flipper Area</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21392" 
+><span title="Image # 21392: Space Invaders Blank Playfield - Center "><img src="https://www.ipdb.org/images/2252/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21392: Space Invaders Blank Playfield - Center "><br>Blank Playfield - Center</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21393" 
+><span title="Image # 21393: Space Invaders Blank Playfield - Pop Bumper Area "><img src="https://www.ipdb.org/images/2252/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 21393: Space Invaders Blank Playfield - Pop Bumper Area "><br>Blank Playfield - Pop Bumper Area</span></a><br><font size="-2">1024x758</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=21394" 
+><span title="Image # 21394: Space Invaders Blank Playfield - Right Side "><img src="https://www.ipdb.org/images/2252/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21394: Space Invaders Blank Playfield - Right Side "><br>Blank Playfield - Right Side</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=38004" 
+><span title="Image # 38004: Space Invaders Manufacturer Advisory "><img src="https://www.ipdb.org/images/2252/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 38004: Space Invaders Manufacturer Advisory "><br>Manufacturer Advisory</span></a><br><font size="-2">980x1224</font><br>[Ron Johnson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=40889" 
+><span title="Image # 40889: Space Invaders Illuminated Backglass "><img src="https://www.ipdb.org/images/2252/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 40889: Space Invaders Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">810x768</font><br>[Sascha Werner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=40890" 
+><span title="Image # 40890: Space Invaders Illuminated Playfield "><img src="https://www.ipdb.org/images/2252/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40890: Space Invaders Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x768</font><br>[Sascha Werner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=40891" 
+><span title="Image # 40891: Space Invaders Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/2252/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40891: Space Invaders Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Sascha Werner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=40892" 
+><span title="Image # 40892: Space Invaders Illuminated Front View "><img src="https://www.ipdb.org/images/2252/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 40892: Space Invaders Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">612x1024</font><br>[Sascha Werner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=40893" 
+><span title="Image # 40893: Space Invaders Illuminated Full View "><img src="https://www.ipdb.org/images/2252/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 40893: Space Invaders Illuminated Full View "><br>Illuminated Full View</span></a><br><font size="-2">473x591</font><br>[Sascha Werner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43652" 
+><span title="Image # 43652: Space Invaders Promotional Poster 
+(The poster inside the frame measures 10 cm by 23 cm.)"><img src="https://www.ipdb.org/images/2252/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43652: Space Invaders Promotional Poster 
+(The poster inside the frame measures 10 cm by 23 cm.)"><br>Promotional Poster*</span></a><br><font size="-2">900x1200</font><br>[Federico Croci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43947" 
+><span title="Image # 43947: Space Invaders Advertisement - Page 1 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43947: Space Invaders Advertisement - Page 1 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 1 of 8*</span></a><br><font size="-2">1200x1621</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43948" 
+><span title="Image # 43948: Space Invaders Advertisement - Page 2 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43948: Space Invaders Advertisement - Page 2 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 2 of 8*</span></a><br><font size="-2">1200x1600</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43949" 
+><span title="Image # 43949: Space Invaders Advertisement - Page 3 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43949: Space Invaders Advertisement - Page 3 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 3 of 8*</span></a><br><font size="-2">1200x1628</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43950" 
+><span title="Image # 43950: Space Invaders Advertisement - Page 4 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43950: Space Invaders Advertisement - Page 4 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 4 of 8*</span></a><br><font size="-2">1200x1616</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43951" 
+><span title="Image # 43951: Space Invaders Advertisement - Page 5 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43951: Space Invaders Advertisement - Page 5 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 5 of 8*</span></a><br><font size="-2">1200x1621</font><br>[Jasper van Eeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43952" 
+><span title="Image # 43952: Space Invaders Advertisement - Page 6 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43952: Space Invaders Advertisement - Page 6 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 6 of 8*</span></a><br><font size="-2">1200x1623</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43953" 
+><span title="Image # 43953: Space Invaders Advertisement - Page 7 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><img src="https://www.ipdb.org/images/2252/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43953: Space Invaders Advertisement - Page 7 of 8 
+(Artist is Paul Faris.Transparent watercolor.)"><br>Advertisement - Page 7 of 8*</span></a><br><font size="-2">1200x1619</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=43954" 
+><span title="Image # 43954: Space Invaders Advertisement - Page 8 of 8 "><img src="https://www.ipdb.org/images/2252/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 43954: Space Invaders Advertisement - Page 8 of 8 "><br>Advertisement - Page 8 of 8</span></a><br><font size="-2">1200x1614</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=54797" 
+><span title="Image # 54797: Space Invaders Backglass - Reverse "><img src="https://www.ipdb.org/images/2252/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 54797: Space Invaders Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x1007</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=57722" 
+><span title="Image # 57722: Space Invaders Illuminated Playfield 
+(The two silver flippers are not original to this game.)"><img src="https://www.ipdb.org/images/2252/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 57722: Space Invaders Illuminated Playfield 
+(The two silver flippers are not original to this game.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1390</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=57723" 
+><span title="Image # 57723: Space Invaders Backbox - Right "><img src="https://www.ipdb.org/images/2252/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=42 height=100 alt="Image # 57723: Space Invaders Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">672x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=57724" 
+><span title="Image # 57724: Space Invaders Cabinet - Right "><img src="https://www.ipdb.org/images/2252/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=37 alt="Image # 57724: Space Invaders Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x438</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=57725" 
+><span title="Image # 57725: Space Invaders Cabinet - Front "><img src="https://www.ipdb.org/images/2252/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 57725: Space Invaders Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x632</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=64335" 
+><span title="Image # 64335: Space Invaders Illuminated Backglass "><img src="https://www.ipdb.org/images/2252/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 64335: Space Invaders Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1536</font><br>[Don Lee]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=64336" 
+><span title="Image # 64336: Space Invaders Horseshoe Lane "><img src="https://www.ipdb.org/images/2252/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 64336: Space Invaders Horseshoe Lane "><br>Horseshoe Lane</span></a><br><font size="-2">1024x683</font><br>[Don Lee]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=70456" 
+><span title="Image # 70456: Space Invaders Preliminary Promotional Art 
+(Artist Paul Faris identified this for us as his artwork that someone else in his department pasted up for a manual cover.)"><img src="https://www.ipdb.org/images/2252/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 70456: Space Invaders Preliminary Promotional Art 
+(Artist Paul Faris identified this for us as his artwork that someone else in his department pasted up for a manual cover.)"><br>Preliminary Promotional Art*</span></a><br><font size="-2">1200x842</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=70457" 
+><span title="Image # 70457: Space Invaders Preliminary Backglass Artwork 
+(This was the special mirror screen front  glass to createthe infinity effect on the backglass.Artist is Paul Faris.Airbrush Ink on Mylar.Dimensions: same size as production glass.)"><img src="https://www.ipdb.org/images/2252/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 70457: Space Invaders Preliminary Backglass Artwork 
+(This was the special mirror screen front  glass to createthe infinity effect on the backglass.Artist is Paul Faris.Airbrush Ink on Mylar.Dimensions: same size as production glass.)"><br>Preliminary Backglass Artwork*</span></a><br><font size="-2">1200x962</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=70458" 
+><span title="Image # 70458: Space Invaders Original Artwork Painting 
+(This was done to print plastics using a 4-color process.This was the first industry use of 4-color printing for plastics.Artist is Paul Faris.Acrylic on illustration board.Dimensions: artwork is the same size as the production pieces.)"><img src="https://www.ipdb.org/images/2252/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 70458: Space Invaders Original Artwork Painting 
+(This was done to print plastics using a 4-color process.This was the first industry use of 4-color printing for plastics.Artist is Paul Faris.Acrylic on illustration board.Dimensions: artwork is the same size as the production pieces.)"><br>Original Artwork Painting*</span></a><br><font size="-2">1200x720</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2252&amp;picno=70459" 
+><span title="Image # 70459: Space Invaders Blackline Advertisement Artwork - Page 3 of 8 
+(Artist: Paul Faris.India ink on Mylar.)"><img src="https://www.ipdb.org/images/2252/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 70459: Space Invaders Blackline Advertisement Artwork - Page 3 of 8 
+(Artist: Paul Faris.India ink on Mylar.)"><br>Blackline Advertisement Artwork - Page 3 of 8*</span></a><br><font size="-2">1200x1283</font><br>[Jay Stafford]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

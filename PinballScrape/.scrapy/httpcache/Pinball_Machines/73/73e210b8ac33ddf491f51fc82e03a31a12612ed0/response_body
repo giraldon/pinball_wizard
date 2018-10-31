@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Dealer's Choice'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Dealer's Choice Dealers Choice Flippers (4), Pop bumpers (3), Slingshots (2), Standup targets (8). An array of 9 rollover buttons in center of playfield.
+
+Maximum displayed point score is 99,990 points per player.  Christian Marche Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Dealer's Choice' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Dealer's Choice</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="649">Dealer's Choice</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=649">649</a> <I>/ March 13, 1974 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=649" target="showrate649"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=649" target="showrate649">18 ratings/13 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=649" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March 13, 1974</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>433</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>8,850 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=649">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cards/Gambling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (8). An array of 9 <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> buttons in center of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>Maximum displayed point score is 99,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 1-player version is <span title="Click here to open a new window and display Williams' 1974 'Lucky Ace'"><a target="game1483" href="machine.cgi?id=1483">Williams' 1974 'Lucky Ace'</a></span>.  Has the same <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> as <span title="Click here to open a new window and display Williams' 1974 'High Ace'"><a target="game1168" href="machine.cgi?id=1168">Williams' 1974 'High Ace'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 39<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a> page 82<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 36<br>
+Pinball The Lure of the Silverball, page 66<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/649">http://www.pinballowners.com/owners/649</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/649/Williams_Dealers_Choice.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronics]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 928 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/649/Williams_Dealer_s_Choice_manual.pdf" onClick="return purchasemanual();">Manual (Clearer Scan)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/649/Dealers_Choice_Schematic_01.JPG" >Schematic Diagram Part 1 of 3</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/649/Dealers_Choice_Schematic_02.JPG" >Schematic Diagram Part 2 of 3</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/649/Dealers_Choice_Schematic_03.JPG" >Schematic Diagram Part 3 of 3</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 77 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/649/Williams_1974_Dealer_s_Choice_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=623" 
+><span title="Image # 623: Dealer's Choice Playfield "><img src="https://www.ipdb.org/images/649/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 623: Dealer's Choice Playfield "><br>Playfield</span></a><br><font size="-2">428x553</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=624" 
+><span title="Image # 624: Dealer's Choice Backglass "><img src="https://www.ipdb.org/images/649/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 624: Dealer's Choice Backglass "><br>Backglass</span></a><br><font size="-2">487x419</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=4455" 
+><span title="Image # 4455: Dealer's Choice Flyer "><img src="https://www.ipdb.org/images/649/tn_649f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 4455: Dealer's Choice Flyer "><br>Flyer</span></a><br><font size="-2">859x1078</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=6309" 
+><span title="Image # 6309: Dealer's Choice Instruction Card "><img src="https://www.ipdb.org/images/649/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 6309: Dealer's Choice Instruction Card "><br>Instruction Card</span></a><br><font size="-2">523x326</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=16919" 
+><span title="Image # 16919: Dealer's Choice Backglass "><img src="https://www.ipdb.org/images/649/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 16919: Dealer's Choice Backglass "><br>Backglass</span></a><br><font size="-2">760x554</font><br>[Kendrick Reed]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=16920" 
+><span title="Image # 16920: Dealer's Choice Backglass - Reverse "><img src="https://www.ipdb.org/images/649/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 16920: Dealer's Choice Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">703x504</font><br>[Kendrick Reed]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=38083" 
+><span title="Image # 38083: Dealer's Choice Upper Playfield "><img src="https://www.ipdb.org/images/649/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38083: Dealer's Choice Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mauro Costa]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=38084" 
+><span title="Image # 38084: Dealer's Choice Lower Playfield "><img src="https://www.ipdb.org/images/649/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38084: Dealer's Choice Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Mauro Costa]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46470" 
+><span title="Image # 46470: Dealer's Choice Backglass "><img src="https://www.ipdb.org/images/649/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 46470: Dealer's Choice Backglass "><br>Backglass</span></a><br><font size="-2">1024x900</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46471" 
+><span title="Image # 46471: Dealer's Choice Backglass - Detail "><img src="https://www.ipdb.org/images/649/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 46471: Dealer's Choice Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x683</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46472" 
+><span title="Image # 46472: Dealer's Choice Playfield "><img src="https://www.ipdb.org/images/649/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 46472: Dealer's Choice Playfield "><br>Playfield</span></a><br><font size="-2">891x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46473" 
+><span title="Image # 46473: Dealer's Choice Upper Playfield "><img src="https://www.ipdb.org/images/649/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 46473: Dealer's Choice Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x865</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46474" 
+><span title="Image # 46474: Dealer's Choice Playfield - Detail "><img src="https://www.ipdb.org/images/649/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 46474: Dealer's Choice Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1536</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46475" 
+><span title="Image # 46475: Dealer's Choice Playfield - Detail "><img src="https://www.ipdb.org/images/649/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 46475: Dealer's Choice Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1536</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46476" 
+><span title="Image # 46476: Dealer's Choice Instruction Card "><img src="https://www.ipdb.org/images/649/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 46476: Dealer's Choice Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x582</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=46477" 
+><span title="Image # 46477: Dealer's Choice Cabinet - Right "><img src="https://www.ipdb.org/images/649/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=41 alt="Image # 46477: Dealer's Choice Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1600x654</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=58475" 
+><span title="Image # 58475: Dealer's Choice Illuminated Backglass 
+(Same Player Shoots Again is lit.)"><img src="https://www.ipdb.org/images/649/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 58475: Dealer's Choice Illuminated Backglass 
+(Same Player Shoots Again is lit.)"><br>Illuminated Backglass*</span></a><br><font size="-2">796x800</font><br>[Ronald Blom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=58476" 
+><span title="Image # 58476: Dealer's Choice Illuminated Playfield 
+(Center rollovers Special is lit. Right lane Special is lit. Same Player Shoots Again is lit.)"><img src="https://www.ipdb.org/images/649/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 58476: Dealer's Choice Illuminated Playfield 
+(Center rollovers Special is lit. Right lane Special is lit. Same Player Shoots Again is lit.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1800</font><br>[Ronald Blom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=58477" 
+><span title="Image # 58477: Dealer's Choice Cabinet - Left "><img src="https://www.ipdb.org/images/649/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 58477: Dealer's Choice Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x800</font><br>[Ronald Blom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=649&amp;picno=58478" 
+><span title="Image # 58478: Dealer's Choice Cabinet - Right "><img src="https://www.ipdb.org/images/649/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 58478: Dealer's Choice Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">943x800</font><br>[Ronald Blom]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

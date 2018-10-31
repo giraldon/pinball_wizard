@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Capcom 'Airborne'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Capcom Airborne Flippers (2), Pop bumpers (3), Slingshots (2), Left outlane kickback, Right outlane ball return gate. Many ramps and habitrails. 'Injector' to push ball down ramps. Maximum 99 buy-in balls per player (operator option). An 'Injector' at the top of the ramp system to help you choose the ball's path.  An airport tower that you can buzz with the ball.  Hugh Van Zanten Claude Fernandez Chris Granner Dan Markham Jeff Marshall Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Capcom 'Airborne' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Airborne</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3783">Airborne</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3783">3783</a> <I>/ March, 1996 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=3783" target="showrate3783"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=3783" target="showrate3783">28 ratings/19 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3783" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Capcom Coin-Op, Incorporated'"><a href="search.pl?searchtype=advanced&amp;mfgid=76">Capcom Coin-Op, Incorporated (1995-1996) <i>[Trade Name: Capcom</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1996</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>AB</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=32">Capcom A0015405</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,350 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3783">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Aviation</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a>, Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Many <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Habitrail">habitrails</a>. "Injector" to push ball down <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>. Maximum 99 <a target="glossary" class="glossarylink" href="/glossary.php#Buy-In">buy-in</a> balls per player (operator option).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>An "Injector" at the top of the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> system to help you choose the ball's path.  An airport tower that you can buzz with the ball.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Claude&nbsp;Fernandez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Claude%20Fernandez">Claude&nbsp;Fernandez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Hugh&nbsp;Van&nbsp;Zanten' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Hugh%20Van%20Zanten">Hugh&nbsp;Van&nbsp;Zanten</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Markham' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Markham">Dan&nbsp;Markham</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeff&nbsp;Marshall' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeff%20Marshall">Jeff&nbsp;Marshall</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Pilot, You're Cleared for Takeoff!!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/3783">http://www.pinballowners.com/owners/3783</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/abv106.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 108 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/abv106r.zip" >PinMAME Romset (redemption)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 16 KB</td><td align=left nowrap width="5%">&nbsp;4_NOTES&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/Capcom_1996_Airborne_ROM_V1_4_Service_Notes.4_notes" >ROM V1.4 Service Notes</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;6&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/Capcom_1996_Airborne_ROM_V1_6.6" >ROM V1.6</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 31 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/Capcom_1996_Airborne_Operators_Manual_no_schematics.pdf" onClick="return purchasemanual();">Operators Manual (Issue Date 03/28/96, no schematics)</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/Capcom_1996_Airborne_Manual.pdf" onClick="return purchasemanual();">Preliminary Operators Manual (Issue Date 2/12/96, no schematics)</a></td><td> [Capcom Coin-Op, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 323 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3783/Capcom_1996_Airborne_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=2973" 
+><span title="Image # 2973: Airborne Backglass "><img src="https://www.ipdb.org/images/3783/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 2973: Airborne Backglass "><br>Backglass</span></a><br><font size="-2">975x732</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=3135" 
+><span title="Image # 3135: Airborne Playfield "><img src="https://www.ipdb.org/images/3783/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 3135: Airborne Playfield "><br>Playfield</span></a><br><font size="-2">805x979</font><br>[Todd George]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=3136" 
+><span title="Image # 3136: Airborne Cabinet - Full View "><img src="https://www.ipdb.org/images/3783/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 3136: Airborne Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">548x856</font><br>[Todd George]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8152" 
+><span title="Image # 8152: Airborne Cabinet - Full View "><img src="https://www.ipdb.org/images/3783/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 8152: Airborne Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">550x708</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8153" 
+><span title="Image # 8153: Airborne Cabinet - Left "><img src="https://www.ipdb.org/images/3783/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 8153: Airborne Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">500x541</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8154" 
+><span title="Image # 8154: Airborne Cabinet - Front "><img src="https://www.ipdb.org/images/3783/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 8154: Airborne Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">500x346</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8155" 
+><span title="Image # 8155: Airborne Backglass "><img src="https://www.ipdb.org/images/3783/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 8155: Airborne Backglass "><br>Backglass</span></a><br><font size="-2">500x627</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8156" 
+><span title="Image # 8156: Airborne Playfield - Detail "><img src="https://www.ipdb.org/images/3783/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8156: Airborne Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8157" 
+><span title="Image # 8157: Airborne Playfield - Detail "><img src="https://www.ipdb.org/images/3783/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8157: Airborne Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8158" 
+><span title="Image # 8158: Airborne Playfield - Detail "><img src="https://www.ipdb.org/images/3783/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8158: Airborne Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8159" 
+><span title="Image # 8159: Airborne Playfield - Detail "><img src="https://www.ipdb.org/images/3783/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8159: Airborne Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8160" 
+><span title="Image # 8160: Airborne Playfield - Detail "><img src="https://www.ipdb.org/images/3783/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8160: Airborne Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8161" 
+><span title="Image # 8161: Airborne Playfield - Detail "><img src="https://www.ipdb.org/images/3783/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8161: Airborne Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=8162" 
+><span title="Image # 8162: Airborne Playfield "><img src="https://www.ipdb.org/images/3783/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8162: Airborne Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=10735" 
+><span title="Image # 10735: Airborne Promotional Photo "><img src="https://www.ipdb.org/images/3783/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 10735: Airborne Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">579x717</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=10736" 
+><span title="Image # 10736: Airborne Press Release "><img src="https://www.ipdb.org/images/3783/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 10736: Airborne Press Release "><br>Press Release</span></a><br><font size="-2">615x790</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=10737" 
+><span title="Image # 10737: Airborne Flyer, Front "><img src="https://www.ipdb.org/images/3783/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 10737: Airborne Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">413x540</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=10738" 
+><span title="Image # 10738: Airborne Flyer, Back (German) "><img src="https://www.ipdb.org/images/3783/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 10738: Airborne Flyer, Back (German) "><br>Flyer, Back (German)</span></a><br><font size="-2">403x572</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=54329" 
+><span title="Image # 54329: Airborne Backglass "><img src="https://www.ipdb.org/images/3783/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 54329: Airborne Backglass "><br>Backglass</span></a><br><font size="-2">738x874</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=54330" 
+><span title="Image # 54330: Airborne Cabinet - Rear View "><img src="https://www.ipdb.org/images/3783/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54330: Airborne Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=66644" 
+><span title="Image # 66644: Airborne Whitewood - Front 
+(Signed by game designer Claude Fernandez.)"><img src="https://www.ipdb.org/images/3783/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 66644: Airborne Whitewood - Front 
+(Signed by game designer Claude Fernandez.)"><br>Whitewood - Front*</span></a><br><font size="-2">1200x2362</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=66645" 
+><span title="Image # 66645: Airborne Whitewood - Detail 
+(Signed by game designer Claude Fernandez.)"><img src="https://www.ipdb.org/images/3783/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 66645: Airborne Whitewood - Detail 
+(Signed by game designer Claude Fernandez.)"><br>Whitewood - Detail*</span></a><br><font size="-2">1200x728</font><br>[Dave Slabiak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3783&amp;picno=66646" 
+><span title="Image # 66646: Airborne Whitewood - Back "><img src="https://www.ipdb.org/images/3783/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 66646: Airborne Whitewood - Back "><br>Whitewood - Back</span></a><br><font size="-2">1200x2301</font><br>[Dave Slabiak]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Playmatic 'Fiesta'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Playmatic Fiesta Flippers (2), Pop bumpers (2), Mushroom bumper (1), Slingshots (2), Standup targets (6), Vari-target (1), Kick-out hole (1).
+
+Maximum displayed point score is 999,990 points per player.
+
+Sound: 3 chimes and a knocker, all in one assembly.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Playmatic 'Fiesta' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Fiesta</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="837">Fiesta</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=837">837</a> <I>/ June, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.3 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=837" target="showrate837">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=837" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Playmatic'"><a href="search.pl?searchtype=advanced&amp;mfgid=255">Playmatic, <font size="-1">of Barcelona, Spain</font> (1968-1987)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=837">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Music - Dancing - World Places</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">Mushroom&nbsp;bumper</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1).<br><br>Maximum displayed point score is 999,990 points per player.<br><br>Sound: 3 chimes and a <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>, all in one assembly.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 1-player version of this game is <span title="Click here to open a new window and display Playmatic's 1976 'Fandango'"><a target="game818" href="machine.cgi?id=818">Playmatic's 1976 'Fandango'</a></span>.<br><br>All hardware in this machine uses the metric standard.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 78 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/837/Playmatic_1976_Fiesta_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=793" 
+><span title="Image # 793: Fiesta Playfield "><img src="https://www.ipdb.org/images/837/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 793: Fiesta Playfield "><br>Playfield</span></a><br><font size="-2">550x542</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=794" 
+><span title="Image # 794: Fiesta Front View "><img src="https://www.ipdb.org/images/837/tn_Full_View.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 794: Fiesta Front View "><br>Front View</span></a><br><font size="-2">246x527</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=3350" 
+><span title="Image # 3350: Fiesta Flyer "><img src="https://www.ipdb.org/images/837/tn_837f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3350: Fiesta Flyer "><br>Flyer</span></a><br><font size="-2">574x779</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=12807" 
+><span title="Image # 12807: Fiesta Backglass - Reverse "><img src="https://www.ipdb.org/images/837/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 12807: Fiesta Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">402x406</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=14412" 
+><span title="Image # 14412: Fiesta Backglass "><img src="https://www.ipdb.org/images/837/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14412: Fiesta Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=39456" 
+><span title="Image # 39456: Fiesta Stripped Playfield "><img src="https://www.ipdb.org/images/837/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 39456: Fiesta Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1000x1631</font><br>[Tullio Trianni]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57254" 
+><span title="Image # 57254: Fiesta Playfield "><img src="https://www.ipdb.org/images/837/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 57254: Fiesta Playfield "><br>Playfield</span></a><br><font size="-2">1163x1800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57255" 
+><span title="Image # 57255: Fiesta Upper Playfield "><img src="https://www.ipdb.org/images/837/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57255: Fiesta Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57256" 
+><span title="Image # 57256: Fiesta Middle Playfield "><img src="https://www.ipdb.org/images/837/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57256: Fiesta Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57257" 
+><span title="Image # 57257: Fiesta Flipper Area "><img src="https://www.ipdb.org/images/837/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57257: Fiesta Flipper Area "><br>Flipper Area</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57258" 
+><span title="Image # 57258: Fiesta Pop Bumper "><img src="https://www.ipdb.org/images/837/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57258: Fiesta Pop Bumper "><br>Pop Bumper</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57259" 
+><span title="Image # 57259: Fiesta Lower Green Target "><img src="https://www.ipdb.org/images/837/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57259: Fiesta Lower Green Target "><br>Lower Green Target</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57260" 
+><span title="Image # 57260: Fiesta Red Targets "><img src="https://www.ipdb.org/images/837/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57260: Fiesta Red Targets "><br>Red Targets</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57261" 
+><span title="Image # 57261: Fiesta Instruction Card "><img src="https://www.ipdb.org/images/837/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 57261: Fiesta Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1116x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57262" 
+><span title="Image # 57262: Fiesta Manufacturer Logo "><img src="https://www.ipdb.org/images/837/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57262: Fiesta Manufacturer Logo "><br>Manufacturer Logo</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57263" 
+><span title="Image # 57263: Fiesta Price Card "><img src="https://www.ipdb.org/images/837/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57263: Fiesta Price Card "><br>Price Card</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57264" 
+><span title="Image # 57264: Fiesta Backbox - Left "><img src="https://www.ipdb.org/images/837/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 57264: Fiesta Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">998x1800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57265" 
+><span title="Image # 57265: Fiesta Cabinet - Left "><img src="https://www.ipdb.org/images/837/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57265: Fiesta Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57266" 
+><span title="Image # 57266: Fiesta Cabinet - Rear "><img src="https://www.ipdb.org/images/837/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 57266: Fiesta Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">967x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57267" 
+><span title="Image # 57267: Fiesta Coin Entry Housing "><img src="https://www.ipdb.org/images/837/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57267: Fiesta Coin Entry Housing "><br>Coin Entry Housing</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57268" 
+><span title="Image # 57268: Fiesta Inside Coin Door "><img src="https://www.ipdb.org/images/837/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57268: Fiesta Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57269" 
+><span title="Image # 57269: Fiesta Under Playfield "><img src="https://www.ipdb.org/images/837/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 57269: Fiesta Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57270" 
+><span title="Image # 57270: Fiesta Left Flipper Unit "><img src="https://www.ipdb.org/images/837/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57270: Fiesta Left Flipper Unit "><br>Left Flipper Unit</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57271" 
+><span title="Image # 57271: Fiesta Inside Cabinet "><img src="https://www.ipdb.org/images/837/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 57271: Fiesta Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57272" 
+><span title="Image # 57272: Fiesta Backbox Insert - Front "><img src="https://www.ipdb.org/images/837/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 57272: Fiesta Backbox Insert - Front "><br>Backbox Insert - Front</span></a><br><font size="-2">1009x800</font><br>[Ken Layton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57273" 
+><span title="Image # 57273: Fiesta Match Number Not Displayed 
+(A metal shield covers the number window in the backglass until it is time to display the match number to the player.)"><img src="https://www.ipdb.org/images/837/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57273: Fiesta Match Number Not Displayed 
+(A metal shield covers the number window in the backglass until it is time to display the match number to the player.)"><br>Match Number Not Displayed*</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57274" 
+><span title="Image # 57274: Fiesta Match Number Displayed "><img src="https://www.ipdb.org/images/837/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 57274: Fiesta Match Number Displayed "><br>Match Number Displayed</span></a><br><font size="-2">1200x800</font><br>[Ken Layton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=837&amp;picno=57275" 
+><span title="Image # 57275: Fiesta Inside Backbox "><img src="https://www.ipdb.org/images/837/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 57275: Fiesta Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">865x800</font><br>[Ken Layton]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

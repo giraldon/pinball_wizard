@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Sega Enterprises 'Monte Rosa'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Sega Enterprises Monte Rosa Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (5), 4-bank drop targets (1), Kick-out hole (1), Ramp skill shot. Has Your Number match feature.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Sega Enterprises 'Monte Rosa' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Monte Rosa</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3416">Monte Rosa</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3416">3416</a> <I>/ August, 1978 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3416" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Sega Enterprises'"><a href="search.pl?searchtype=advanced&amp;mfgid=279">Sega Enterprises, Ltd., <font size="-1">of Tokyo, Japan</font> (1971-1979)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=57">Sega 96054</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3416">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Mountain Climbing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramp</a> <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Shot">skill&nbsp;shot</a>. Has <a target="glossary" class="glossarylink" href="/glossary.php#YOUR_NUMBER_match">Your&nbsp;Number&nbsp;match</a> feature.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Release date is 8-1978.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Shot">skill&nbsp;shot</a> is similar to the one on <span title="Click here to open a new window and display Bally's 1971 'Four Million B.C.'"><a target="game935" href="machine.cgi?id=935">Bally's 1971 'Four Million B.C.'</a></span>.<br><br>The Monte Rosa is a group of 22 peaks in the Alps between Italy and Switzerland.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3416/Sega_Monte_Rosa_Manual.pdf" onClick="return purchasemanual();">English Service Manual</a></td><td> [Sega Enterprises LTD]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=10550" 
+><span title="Image # 10550: Monte Rosa Front View "><img src="https://www.ipdb.org/images/3416/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 10550: Monte Rosa Front View "><br>Front View</span></a><br><font size="-2">684x980</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=51017" 
+><span title="Image # 51017: Monte Rosa Cabinet - Front View "><img src="https://www.ipdb.org/images/3416/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 51017: Monte Rosa Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">344x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=51018" 
+><span title="Image # 51018: Monte Rosa Cabinet - Right "><img src="https://www.ipdb.org/images/3416/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 51018: Monte Rosa Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">360x421</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58857" 
+><span title="Image # 58857: Monte Rosa Playfield 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58857: Monte Rosa Playfield 
+(Serial number 7428.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58858" 
+><span title="Image # 58858: Monte Rosa Pop Bumpers 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58858: Monte Rosa Pop Bumpers 
+(Serial number 7428.)"><br>Pop Bumpers*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58859" 
+><span title="Image # 58859: Monte Rosa Playfield - Skill Shot 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58859: Monte Rosa Playfield - Skill Shot 
+(Serial number 7428.)"><br>Playfield - Skill Shot*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58860" 
+><span title="Image # 58860: Monte Rosa French Instruction Card 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58860: Monte Rosa French Instruction Card 
+(Serial number 7428.)"><br>French Instruction Card*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58861" 
+><span title="Image # 58861: Monte Rosa Backbox Insert 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 58861: Monte Rosa Backbox Insert 
+(Serial number 7428.)"><br>Backbox Insert*</span></a><br><font size="-2">1135x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58862" 
+><span title="Image # 58862: Monte Rosa Inside Backbox 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 58862: Monte Rosa Inside Backbox 
+(Serial number 7428.)"><br>Inside Backbox*</span></a><br><font size="-2">1132x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58863" 
+><span title="Image # 58863: Monte Rosa CPU 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58863: Monte Rosa CPU 
+(Serial number 7428.)"><br>CPU*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58864" 
+><span title="Image # 58864: Monte Rosa Sound Amplifier 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58864: Monte Rosa Sound Amplifier 
+(Serial number 7428.)"><br>Sound Amplifier*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58865" 
+><span title="Image # 58865: Monte Rosa CPU Voltage Regulator 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58865: Monte Rosa CPU Voltage Regulator 
+(Serial number 7428.)"><br>CPU Voltage Regulator*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58866" 
+><span title="Image # 58866: Monte Rosa Under Playfield 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 58866: Monte Rosa Under Playfield 
+(Serial number 7428.)"><br>Under Playfield*</span></a><br><font size="-2">830x1582</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58867" 
+><span title="Image # 58867: Monte Rosa Opto Sensor for Drop Target Bank 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58867: Monte Rosa Opto Sensor for Drop Target Bank 
+(Serial number 7428.)"><br>Opto Sensor for Drop Target Bank*</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58868" 
+><span title="Image # 58868: Monte Rosa Inside Cabinet 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58868: Monte Rosa Inside Cabinet 
+(Serial number 7428.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Michel Maignaut]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=58869" 
+><span title="Image # 58869: Monte Rosa Manufacture Date and Serial Number 
+(Serial number 7428.)"><img src="https://www.ipdb.org/images/3416/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 58869: Monte Rosa Manufacture Date and Serial Number 
+(Serial number 7428.)"><br>Manufacture Date and Serial Number*</span></a><br><font size="-2">907x672</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59410" 
+><span title="Image # 59410: Monte Rosa Backglass "><img src="https://www.ipdb.org/images/3416/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 59410: Monte Rosa Backglass "><br>Backglass</span></a><br><font size="-2">512x448</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59411" 
+><span title="Image # 59411: Monte Rosa Illuminated Playfield "><img src="https://www.ipdb.org/images/3416/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 59411: Monte Rosa Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">461x709</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59412" 
+><span title="Image # 59412: Monte Rosa Illuminated Playfield "><img src="https://www.ipdb.org/images/3416/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 59412: Monte Rosa Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">510x765</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59413" 
+><span title="Image # 59413: Monte Rosa Pop Bumpers "><img src="https://www.ipdb.org/images/3416/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 59413: Monte Rosa Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">709x472</font><br>[Laurent Gaudin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59414" 
+><span title="Image # 59414: Monte Rosa Backbox - Right "><img src="https://www.ipdb.org/images/3416/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 59414: Monte Rosa Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">603x472</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59415" 
+><span title="Image # 59415: Monte Rosa Cabinet - Detail "><img src="https://www.ipdb.org/images/3416/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 59415: Monte Rosa Cabinet - Detail "><br>Cabinet - Detail</span></a><br><font size="-2">1171x800</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59416" 
+><span title="Image # 59416: Monte Rosa Cabinet - Front "><img src="https://www.ipdb.org/images/3416/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 59416: Monte Rosa Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">596x472</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59417" 
+><span title="Image # 59417: Monte Rosa Inside Cabinet "><img src="https://www.ipdb.org/images/3416/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 59417: Monte Rosa Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">482x723</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=59418" 
+><span title="Image # 59418: Monte Rosa Inside Cabinet - Rear "><img src="https://www.ipdb.org/images/3416/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 59418: Monte Rosa Inside Cabinet - Rear "><br>Inside Cabinet - Rear</span></a><br><font size="-2">709x472</font><br>[Laurent Gaudin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=66014" 
+><span title="Image # 66014: Monte Rosa Japanese Flyer - Front "><img src="https://www.ipdb.org/images/3416/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66014: Monte Rosa Japanese Flyer - Front "><br>Japanese Flyer - Front</span></a><br><font size="-2">724x968</font><br>[Yasushi Takeda]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3416&amp;picno=66015" 
+><span title="Image # 66015: Monte Rosa Japanese Flyer - Back "><img src="https://www.ipdb.org/images/3416/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66015: Monte Rosa Japanese Flyer - Back "><br>Japanese Flyer - Back</span></a><br><font size="-2">724x968</font><br>[Yasushi Takeda]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: INDER 'Shamrock'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game INDER Shamrock Flippers (2), Pop bumpers (2), Slingshots (2), Standup targets (5), Captive balls (4), Kick-out holes (4), Upper right kicker lane. 3 or 5 ball play. Plexiglas playfield. 
+
+Replay wheel maximum: 25
+
+Sound: 1 bell, 3 chimes, knocker.
+
+The logic is almost entirely controlled by two-coil latching relays instead of using single coils that stay energized, thus adding weight to the machine (more coils used, machine is very heavy), but reducing energy consumption and coil abrasion.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for INDER 'Shamrock' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Shamrock</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5717">Shamrock</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5717">5717</a> <I>/ 1977 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5717" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'INDER'"><a href="search.pl?searchtype=advanced&amp;mfgid=156">Industria (Electromecánica) de Recreativos S.A, <font size="-1">of Madrid,<br> Spain</font> (1970-1993) <i>[Trade Name: INDER</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1977</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5717">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Playing Cards</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;balls</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (4), Upper right <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> lane. 3 or 5 ball play. Plexiglas <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. <br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 25<br><br>Sound: 1 bell, 3 chimes, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<br><br>The logic is almost entirely controlled by two-coil latching relays instead of using single <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coils</a> that stay energized, thus adding weight to the machine (more <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coils</a> used, machine is very heavy), but reducing energy consumption and <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> abrasion.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 1-player <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> version of this game is <span title="Click here to open a new window and display INDER's 1977 'Shamrock'"><a target="game3938" href="machine.cgi?id=3938">INDER's 1977 'Shamrock'</a></span>.<br><br>INDER implemented helpful ideas for maintainance, yet reportedly this machine was very unpopular with <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a>. These ideas included:<br>· A single <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> stanchion is centered, thus no danger of a raised <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> tilting.<br>· A switch is mounted inside the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> allowing the repairman to interrupt the current while turning on a common light bulb for small servicing jobs.<br>· The transformer allows switching between all known voltages with just one jumper.<br>· The relay board can be easily removed after removing the plugs, including unplugging the main current supply line.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=6746" 
+><span title="Image # 6746: Shamrock Flyer - Front "><img src="https://www.ipdb.org/images/5717/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 6746: Shamrock Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">586x785</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=6747" 
+><span title="Image # 6747: Shamrock Flyer - Back "><img src="https://www.ipdb.org/images/5717/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 6747: Shamrock Flyer - Back "><br>Flyer - Back</span></a><br><font size="-2">586x785</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=24601" 
+><span title="Image # 24601: Shamrock Backglass "><img src="https://www.ipdb.org/images/5717/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 24601: Shamrock Backglass "><br>Backglass</span></a><br><font size="-2">443x443</font><br>[Lutz Blöding]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53066" 
+><span title="Image # 53066: Shamrock Illuminated Backglass "><img src="https://www.ipdb.org/images/5717/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 53066: Shamrock Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">826x766</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53067" 
+><span title="Image # 53067: Shamrock Match Reel "><img src="https://www.ipdb.org/images/5717/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53067: Shamrock Match Reel "><br>Match Reel</span></a><br><font size="-2">1024x768</font><br>[Reto Fornara]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53068" 
+><span title="Image # 53068: Shamrock Backglass - Detail "><img src="https://www.ipdb.org/images/5717/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 53068: Shamrock Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">908x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53069" 
+><span title="Image # 53069: Shamrock Backglass - Detail "><img src="https://www.ipdb.org/images/5717/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 53069: Shamrock Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">910x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53070" 
+><span title="Image # 53070: Shamrock Illuminated Playfield "><img src="https://www.ipdb.org/images/5717/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53070: Shamrock Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53071" 
+><span title="Image # 53071: Shamrock Cards Lit for Awards "><img src="https://www.ipdb.org/images/5717/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53071: Shamrock Cards Lit for Awards "><br>Cards Lit for Awards</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53072" 
+><span title="Image # 53072: Shamrock Playfield - Ball View "><img src="https://www.ipdb.org/images/5717/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 53072: Shamrock Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x678</font><br>[Reto Fornara]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53073" 
+><span title="Image # 53073: Shamrock Cabinet - Front "><img src="https://www.ipdb.org/images/5717/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53073: Shamrock Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53074" 
+><span title="Image # 53074: Shamrock Under Playfield "><img src="https://www.ipdb.org/images/5717/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53074: Shamrock Under Playfield "><br>Under Playfield</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53075" 
+><span title="Image # 53075: Shamrock Inside Cabinet "><img src="https://www.ipdb.org/images/5717/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53075: Shamrock Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53076" 
+><span title="Image # 53076: Shamrock Inside Cabinet - Front "><img src="https://www.ipdb.org/images/5717/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53076: Shamrock Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53077" 
+><span title="Image # 53077: Shamrock Playfield Stanchion "><img src="https://www.ipdb.org/images/5717/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=28 height=100 alt="Image # 53077: Shamrock Playfield Stanchion "><br>Playfield Stanchion</span></a><br><font size="-2">291x1024</font><br>[Reto Fornara]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53078" 
+><span title="Image # 53078: Shamrock Transformer "><img src="https://www.ipdb.org/images/5717/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53078: Shamrock Transformer "><br>Transformer</span></a><br><font size="-2">1024x768</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53079" 
+><span title="Image # 53079: Shamrock Inside Cabinet - Detail "><img src="https://www.ipdb.org/images/5717/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=43 height=100 alt="Image # 53079: Shamrock Inside Cabinet - Detail "><br>Inside Cabinet - Detail</span></a><br><font size="-2">444x1024</font><br>[Reto Fornara]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5717&amp;picno=53080" 
+><span title="Image # 53080: Shamrock Inside Cabinet - Detail "><img src="https://www.ipdb.org/images/5717/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53080: Shamrock Inside Cabinet - Detail "><br>Inside Cabinet - Detail</span></a><br><font size="-2">768x1024</font><br>[Reto Fornara]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+flyer&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Lexington'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Lexington Horserace Game Trap holes (31), Skill Lane option for 5-ball jurisdictions.  Don Hooker ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Lexington' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Lexington</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1434">Lexington</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1434">1434</a> <I>/ October, 1948 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1434" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>August 04, 1948</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>October, 1948</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>516</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1434">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Horse Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Horserace Game&nbsp;<a href="glossary.php#Horserace_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+One Ball Game&nbsp;<a href="glossary.php#One_Ball_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+Payout Machine&nbsp;<a href="glossary.php#Payout_Machine" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Trap_Hole">Trap&nbsp;holes</a> (31), <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Lane">Skill&nbsp;Lane</a> option for 5-ball jurisdictions.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Don&nbsp;Hooker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Don%20Hooker">Don&nbsp;Hooker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>A coin payout version of <span title="Click here to open a new window and display Bally's 1948 'Citation'"><a target="game526" href="machine.cgi?id=526">Bally's 1948 'Citation'</a></span>.<br><br>An article in <i>The Billboard</i>, Oct-16-1948, page 120 (shown here) states Bally announced on Oct-9-1948 that this game was in full production. An article in Cash Box Oct-16-48 page 23 stated Citation and Lexington "are now in full production, and being shipped to the trade."<br><br>The schematic in this listing carries the notation "W.M.B. 9-29-48".<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 205<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1434/Bally_1948_Lexington_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=1380" 
+><span title="Image # 1380: Lexington Backglass "><img src="https://www.ipdb.org/images/1434/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 1380: Lexington Backglass "><br>Backglass</span></a><br><font size="-2">402x440</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=1381" 
+><span title="Image # 1381: Lexington Cabinet - Front "><img src="https://www.ipdb.org/images/1434/tn_Cabinet_Front.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 1381: Lexington Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">425x440</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=1382" 
+><span title="Image # 1382: Lexington Cabinet - Right "><img src="https://www.ipdb.org/images/1434/tn_Cabinet_Side.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 1382: Lexington Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">807x550</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=1383" 
+><span title="Image # 1383: Lexington Backbox "><img src="https://www.ipdb.org/images/1434/tn_Full_View.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 1383: Lexington Backbox "><br>Backbox</span></a><br><font size="-2">396x529</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=1384" 
+><span title="Image # 1384: Lexington Playfield "><img src="https://www.ipdb.org/images/1434/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 1384: Lexington Playfield "><br>Playfield</span></a><br><font size="-2">362x469</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=3778" 
+><span title="Image # 3778: Lexington Flyer "><img src="https://www.ipdb.org/images/1434/tn_1434f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3778: Lexington Flyer "><br>Flyer</span></a><br><font size="-2">827x1082</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=61886" 
+><span title="Image # 61886: Lexington Instruction Card - 1 Ball "><img src="https://www.ipdb.org/images/1434/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 61886: Lexington Instruction Card - 1 Ball "><br>Instruction Card - 1 Ball</span></a><br><font size="-2">1198x552</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=62763" 
+><span title="Image # 62763: Lexington Billboard Article 
+(The Billboard, Oct-16-1948, page 120)"><img src="https://www.ipdb.org/images/1434/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 62763: Lexington Billboard Article 
+(The Billboard, Oct-16-1948, page 120)"><br>Billboard Article*</span></a><br><font size="-2">1024x1374</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64004" 
+><span title="Image # 64004: Lexington Illuminated Backglass "><img src="https://www.ipdb.org/images/1434/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 64004: Lexington Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1909</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64005" 
+><span title="Image # 64005: Lexington Playfield "><img src="https://www.ipdb.org/images/1434/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 64005: Lexington Playfield "><br>Playfield</span></a><br><font size="-2">1200x2133</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64006" 
+><span title="Image # 64006: Lexington Instruction Card "><img src="https://www.ipdb.org/images/1434/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 64006: Lexington Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64007" 
+><span title="Image # 64007: Lexington Instruction Card "><img src="https://www.ipdb.org/images/1434/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 64007: Lexington Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64008" 
+><span title="Image # 64008: Lexington Backbox - Left "><img src="https://www.ipdb.org/images/1434/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 64008: Lexington Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">981x2464</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64009" 
+><span title="Image # 64009: Lexington Backbox - Right "><img src="https://www.ipdb.org/images/1434/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 64009: Lexington Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1051x2314</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64010" 
+><span title="Image # 64010: Lexington Cabinet - Left "><img src="https://www.ipdb.org/images/1434/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 64010: Lexington Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64011" 
+><span title="Image # 64011: Lexington Cabinet - Right "><img src="https://www.ipdb.org/images/1434/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 64011: Lexington Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x631</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64012" 
+><span title="Image # 64012: Lexington Cabinet - Front "><img src="https://www.ipdb.org/images/1434/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 64012: Lexington Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1196x1593</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64013" 
+><span title="Image # 64013: Lexington Lockdown Bar "><img src="https://www.ipdb.org/images/1434/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 64013: Lexington Lockdown Bar "><br>Lockdown Bar</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1434&amp;picno=64014" 
+><span title="Image # 64014: Lexington Inside Front Door "><img src="https://www.ipdb.org/images/1434/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 64014: Lexington Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">1200x1521</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

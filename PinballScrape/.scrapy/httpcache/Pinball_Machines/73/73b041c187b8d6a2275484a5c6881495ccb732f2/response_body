@@ -1,0 +1,273 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Gulfstream'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Gulfstream Gulf Stream Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (3), Kick-out holes (2).
+
+Maximum displayed point score is 199,990 points.
+
+Replay wheel maximum: 37
+
+Sound: 3 chimes, knocker.  Christian Marche Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Gulfstream' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Gulfstream</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1094">Gulfstream</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1094">1094</a> <I>/ May 24, 1973 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1094" target="showrate1094"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1094" target="showrate1094">36 ratings/24 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1094" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May 24, 1973</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>417</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,175 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1094">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Water Sports</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2).<br><br>Maximum displayed point score is 199,990 points.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 37<br><br>Sound: 3 chimes, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Gulf Stream' was convertible to <a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> or <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-A-Ball</a>.<br><br>This game and its <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> version <span title="Click here to open a new window and display Williams' 1973 'Tropic Fun'"><a target="game2660" href="machine.cgi?id=2660">Williams' 1973 'Tropic Fun'</a></span> were the first Williams games to use their "gear" style of <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> cap.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 175<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 51<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 69<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 112<br>
+The Pinball Compendium Electro-mechanical Era, page 195<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, page 73<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 12 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1094/Williams_1973_Gulfstream_Instruction_Manual.pdf" onClick="return purchasemanual();">Instruction Manual</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 13 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1094/Williams_1973_Gulfstream_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=1067" 
+><span title="Image # 1067: Gulfstream Backglass "><img src="https://www.ipdb.org/images/1094/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 1067: Gulfstream Backglass "><br>Backglass</span></a><br><font size="-2">416x433</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=1068" 
+><span title="Image # 1068: Gulfstream Illuminated Front View "><img src="https://www.ipdb.org/images/1094/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 1068: Gulfstream Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">324x568</font><br>[Daina Petit]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=3561" 
+><span title="Image # 3561: Gulfstream Backglass "><img src="https://www.ipdb.org/images/1094/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 3561: Gulfstream Backglass "><br>Backglass</span></a><br><font size="-2">799x936</font><br>[David Gersic]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=4228" 
+><span title="Image # 4228: Gulfstream Flyer "><img src="https://www.ipdb.org/images/1094/tn_1094f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4228: Gulfstream Flyer "><br>Flyer</span></a><br><font size="-2">844x1087</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7944" 
+><span title="Image # 7944: Gulfstream Front View "><img src="https://www.ipdb.org/images/1094/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7944: Gulfstream Front View "><br>Front View</span></a><br><font size="-2">768x1024</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7945" 
+><span title="Image # 7945: Gulfstream Cabinet - Left "><img src="https://www.ipdb.org/images/1094/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7945: Gulfstream Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">768x1024</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7946" 
+><span title="Image # 7946: Gulfstream Cabinet - Right "><img src="https://www.ipdb.org/images/1094/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7946: Gulfstream Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">768x1024</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7947" 
+><span title="Image # 7947: Gulfstream Illuminated Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7947: Gulfstream Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">768x1024</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7948" 
+><span title="Image # 7948: Gulfstream Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 7948: Gulfstream Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7949" 
+><span title="Image # 7949: Gulfstream Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 7949: Gulfstream Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=7950" 
+><span title="Image # 7950: Gulfstream Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 7950: Gulfstream Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=17272" 
+><span title="Image # 17272: Gulfstream Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17272: Gulfstream Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Craig Weiss]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=17273" 
+><span title="Image # 17273: Gulfstream Playfield - Detail "><img src="https://www.ipdb.org/images/1094/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17273: Gulfstream Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Craig Weiss]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=17274" 
+><span title="Image # 17274: Gulfstream Ball View "><img src="https://www.ipdb.org/images/1094/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17274: Gulfstream Ball View "><br>Ball View</span></a><br><font size="-2">640x480</font><br>[Craig Weiss]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=17275" 
+><span title="Image # 17275: Gulfstream Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/1094/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17275: Gulfstream Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">640x480</font><br>[Craig Weiss]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=19584" 
+><span title="Image # 19584: Gulfstream Backglass "><img src="https://www.ipdb.org/images/1094/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 19584: Gulfstream Backglass "><br>Backglass</span></a><br><font size="-2">1024x849</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=19585" 
+><span title="Image # 19585: Gulfstream Lower Backglass "><img src="https://www.ipdb.org/images/1094/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 19585: Gulfstream Lower Backglass "><br>Lower Backglass</span></a><br><font size="-2">1024x679</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22175" 
+><span title="Image # 22175: Gulfstream Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22175: Gulfstream Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Rick Stefonek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22176" 
+><span title="Image # 22176: Gulfstream Specials Lit "><img src="https://www.ipdb.org/images/1094/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22176: Gulfstream Specials Lit "><br>Specials Lit</span></a><br><font size="-2">800x600</font><br>[Rick Stefonek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22177" 
+><span title="Image # 22177: Gulfstream Lower Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22177: Gulfstream Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Rick Stefonek]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22178" 
+><span title="Image # 22178: Gulfstream Ball Trough "><img src="https://www.ipdb.org/images/1094/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22178: Gulfstream Ball Trough "><br>Ball Trough</span></a><br><font size="-2">800x600</font><br>[Rick Stefonek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22179" 
+><span title="Image # 22179: Gulfstream Cabinet - Left "><img src="https://www.ipdb.org/images/1094/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22179: Gulfstream Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x600</font><br>[Rick Stefonek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22180" 
+><span title="Image # 22180: Gulfstream Cabinet - Right "><img src="https://www.ipdb.org/images/1094/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22180: Gulfstream Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x600</font><br>[Rick Stefonek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=22181" 
+><span title="Image # 22181: Gulfstream Cabinet - Front "><img src="https://www.ipdb.org/images/1094/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 22181: Gulfstream Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">655x600</font><br>[Rick Stefonek]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=27611" 
+><span title="Image # 27611: Gulfstream Backglass - Reverse "><img src="https://www.ipdb.org/images/1094/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 27611: Gulfstream Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">860x935</font><br>[Doug Fox]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45246" 
+><span title="Image # 45246: Gulfstream Backglass "><img src="https://www.ipdb.org/images/1094/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 45246: Gulfstream Backglass "><br>Backglass</span></a><br><font size="-2">1024x1164</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45247" 
+><span title="Image # 45247: Gulfstream Illuminated Backglass "><img src="https://www.ipdb.org/images/1094/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 45247: Gulfstream Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1160</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45248" 
+><span title="Image # 45248: Gulfstream Backglass - Detail "><img src="https://www.ipdb.org/images/1094/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 45248: Gulfstream Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x1484</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45249" 
+><span title="Image # 45249: Gulfstream Backglass - Detail "><img src="https://www.ipdb.org/images/1094/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 45249: Gulfstream Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x782</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45250" 
+><span title="Image # 45250: Gulfstream Instruction Card "><img src="https://www.ipdb.org/images/1094/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 45250: Gulfstream Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x576</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45251" 
+><span title="Image # 45251: Gulfstream Score Card - France "><img src="https://www.ipdb.org/images/1094/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=52 alt="Image # 45251: Gulfstream Score Card - France "><br>Score Card - France</span></a><br><font size="-2">1024x532</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45252" 
+><span title="Image # 45252: Gulfstream Backbox - Right "><img src="https://www.ipdb.org/images/1094/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 45252: Gulfstream Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">729x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45253" 
+><span title="Image # 45253: Gulfstream Cabinet - Left "><img src="https://www.ipdb.org/images/1094/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 45253: Gulfstream Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1600x639</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=45254" 
+><span title="Image # 45254: Gulfstream Cabinet - Front "><img src="https://www.ipdb.org/images/1094/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 45254: Gulfstream Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">774x556</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=46501" 
+><span title="Image # 46501: Gulfstream Upper Playfield "><img src="https://www.ipdb.org/images/1094/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46501: Gulfstream Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x1367</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=46502" 
+><span title="Image # 46502: Gulfstream Lower Playfield 
+(The five purple spots near the flippers are not original to this game.)"><img src="https://www.ipdb.org/images/1094/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 46502: Gulfstream Lower Playfield 
+(The five purple spots near the flippers are not original to this game.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x1536</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=46503" 
+><span title="Image # 46503: Gulfstream Cabinet - Front View 
+(The five purple spots near the flippers are not original to this game.)"><img src="https://www.ipdb.org/images/1094/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 46503: Gulfstream Cabinet - Front View 
+(The five purple spots near the flippers are not original to this game.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1024x1597</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54110" 
+><span title="Image # 54110: Gulfstream Playfield 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54110: Gulfstream Playfield 
+(Serial number 161939.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54111" 
+><span title="Image # 54111: Gulfstream Backbox - Left 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 54111: Gulfstream Backbox - Left 
+(Serial number 161939.)"><br>Backbox - Left*</span></a><br><font size="-2">749x1476</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54112" 
+><span title="Image # 54112: Gulfstream Backbox - Right 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 54112: Gulfstream Backbox - Right 
+(Serial number 161939.)"><br>Backbox - Right*</span></a><br><font size="-2">618x1280</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54113" 
+><span title="Image # 54113: Gulfstream Serial Number 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 54113: Gulfstream Serial Number 
+(Serial number 161939.)"><br>Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54114" 
+><span title="Image # 54114: Gulfstream Behind Backglass 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 54114: Gulfstream Behind Backglass 
+(Serial number 161939.)"><br>Behind Backglass*</span></a><br><font size="-2">901x855</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54115" 
+><span title="Image # 54115: Gulfstream Inside Backbox 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 54115: Gulfstream Inside Backbox 
+(Serial number 161939.)"><br>Inside Backbox*</span></a><br><font size="-2">866x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54116" 
+><span title="Image # 54116: Gulfstream Under Playfield 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 54116: Gulfstream Under Playfield 
+(Serial number 161939.)"><br>Under Playfield*</span></a><br><font size="-2">837x1586</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1094&amp;picno=54117" 
+><span title="Image # 54117: Gulfstream Inside Cabinet 
+(Serial number 161939.)"><img src="https://www.ipdb.org/images/1094/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54117: Gulfstream Inside Cabinet 
+(Serial number 161939.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

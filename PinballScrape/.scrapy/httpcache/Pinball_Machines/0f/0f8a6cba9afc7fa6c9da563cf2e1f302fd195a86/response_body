@@ -1,0 +1,245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Cabaret'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Cabaret Flippers (2), Pop bumpers (5), Slingshots (2), Kick-out hole (1), Up-post between flippers. Score Selector Disc in upper left playfield changes values over entire playfield. Bonus score tracked by an extra score reel in backbox instead of via playfield inserts.  Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Cabaret' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Cabaret</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="415">Cabaret</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=415">415</a> <I>/ December, 1968 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.3 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=415" target="showrate415">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=415" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1968</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>359</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,852 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=415">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Dancing - Happiness - Music - Nightlife - Singing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. Score Selector Disc in upper left <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> changes values over entire <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Bonus score tracked by an extra score reel in <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> instead of via <a target="glossary" class="glossarylink" href="/glossary.php#Playfield_Insert">playfield&nbsp;inserts</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Cabaret' was the first machine from this manufacturer to feature a round <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">up-post</a> between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. Chicago Coin was already producing games with this feature as early as April of 1968. The first instance of the round <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">up-post</a> is found on <span title="Click here to open a new window and display Rally's 1967 'Playboy'"><a target="game2043" href="machine.cgi?id=2043">Rally's 1967 'Playboy'</a></span>. Interestingly, this device was patented by Williams:<br><br>Patent 3,578,802 [VERTICALLY ADJUSTABLE BUM<ignore>PER FOR BALL ROLLING GAMES] filed February 25, 1969. Granted May 18, 1971 to Frank T. Murphy, Norman R. Clark, and William E. Casey. Assignee is Williams Electronic Manufacturing Corporation.<br><br>The manufacturer flyer places emphasis on the appearance of the <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">up-post</a> feature for this game. Shown in this listing is a Sample game that did not have the <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">up-post</a>. The game has no serial number stamped on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> or located anywhere else. The round holes drilled in the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> near each <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> likely were done by an <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> to convert this game to the longer 3-inch <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. This Sample game is located in South Africa.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 166<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 39<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 87<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 150, 204, 254-255<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 65 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Catalog_Supplement_L_With_New_Parts_Units.pdf" onClick="return purchasemanual();">Catalog Supplement "L" With New Parts & Units</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Instruction_Manual_no_schematics.pdf" onClick="return purchasemanual();">Instruction Manual (no schematics)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 732 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Schematic_Diagram_paginated.pdf" onClick="return purchasemanual();">Schematic Diagram (paginated)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Bulletin_dated_November_14_1968_advising_of_new_Up_Post.pdf" >Bulletin dated November 14, 1968 advising of new Up-Post</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 168 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Patent_3_578_802_VERTICALLY_ADJUSTABLE_BUMPER_FOR_BALL_ROLLING_GAMES.pdf" >Patent 3,578,802 [VERTICALLY ADJUSTABLE BUMPER FOR BALL ROLLING GAMES]</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Promotional_Photo_Production_Game_Large_Size.jpg" >Promotional Photo - Production Game - Large Size</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/415/Williams_1968_Cabaret_Promotional_Photo_Sample_Game_Large_Size.jpg" >Promotional Photo - Sample Game - Large Size</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=401" 
+><span title="Image # 401: Cabaret Backglass "><img src="https://www.ipdb.org/images/415/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 401: Cabaret Backglass "><br>Backglass</span></a><br><font size="-2">686x593</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=4427" 
+><span title="Image # 4427: Cabaret Flyer "><img src="https://www.ipdb.org/images/415/tn_415f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4427: Cabaret Flyer "><br>Flyer</span></a><br><font size="-2">865x1110</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=6226" 
+><span title="Image # 6226: Cabaret Playfield "><img src="https://www.ipdb.org/images/415/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 6226: Cabaret Playfield "><br>Playfield</span></a><br><font size="-2">466x705</font><br>[Leon Spalding]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18043" 
+><span title="Image # 18043: Cabaret Inside Cabinet "><img src="https://www.ipdb.org/images/415/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18043: Cabaret Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">600x800</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18044" 
+><span title="Image # 18044: Cabaret Cabinet - Right "><img src="https://www.ipdb.org/images/415/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18044: Cabaret Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18243" 
+><span title="Image # 18243: Cabaret Cabinet - Front "><img src="https://www.ipdb.org/images/415/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 18243: Cabaret Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">646x582</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18531" 
+><span title="Image # 18531: Cabaret Backglass "><img src="https://www.ipdb.org/images/415/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 18531: Cabaret Backglass "><br>Backglass</span></a><br><font size="-2">579x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18532" 
+><span title="Image # 18532: Cabaret Cabinet - Left "><img src="https://www.ipdb.org/images/415/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18532: Cabaret Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18533" 
+><span title="Image # 18533: Cabaret Inside Cabinet "><img src="https://www.ipdb.org/images/415/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18533: Cabaret Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=18534" 
+><span title="Image # 18534: Cabaret Cabinet - Full View "><img src="https://www.ipdb.org/images/415/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 18534: Cabaret Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">387x454</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=19085" 
+><span title="Image # 19085: Cabaret Behind Backglass "><img src="https://www.ipdb.org/images/415/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19085: Cabaret Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1024x768</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=19086" 
+><span title="Image # 19086: Cabaret Inside Backbox "><img src="https://www.ipdb.org/images/415/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19086: Cabaret Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=19087" 
+><span title="Image # 19087: Cabaret Serial Number "><img src="https://www.ipdb.org/images/415/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19087: Cabaret Serial Number "><br>Serial Number</span></a><br><font size="-2">482x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=19088" 
+><span title="Image # 19088: Cabaret Backbox - Left "><img src="https://www.ipdb.org/images/415/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 19088: Cabaret Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">333x591</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=19089" 
+><span title="Image # 19089: Cabaret Backbox - Right "><img src="https://www.ipdb.org/images/415/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 19089: Cabaret Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">289x553</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=20094" 
+><span title="Image # 20094: Cabaret German Instruction Card "><img src="https://www.ipdb.org/images/415/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20094: Cabaret German Instruction Card "><br>German Instruction Card</span></a><br><font size="-2">1024x768</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=20095" 
+><span title="Image # 20095: Cabaret German Score Card "><img src="https://www.ipdb.org/images/415/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20095: Cabaret German Score Card "><br>German Score Card</span></a><br><font size="-2">1024x768</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=20393" 
+><span title="Image # 20393: Cabaret Cabinet - Front View "><img src="https://www.ipdb.org/images/415/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 20393: Cabaret Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">277x585</font><br>[Roger Daemen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=21077" 
+><span title="Image # 21077: Cabaret Score Selector "><img src="https://www.ipdb.org/images/415/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21077: Cabaret Score Selector "><br>Score Selector</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=22110" 
+><span title="Image # 22110: Cabaret German Flyer "><img src="https://www.ipdb.org/images/415/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 22110: Cabaret German Flyer "><br>German Flyer</span></a><br><font size="-2">1024x1394</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=22111" 
+><span title="Image # 22111: Cabaret German Ad - Left Side 
+(From the German trade magazine Münzautomat, March 1969.)"><img src="https://www.ipdb.org/images/415/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 22111: Cabaret German Ad - Left Side 
+(From the German trade magazine Münzautomat, March 1969.)"><br>German Ad - Left Side*</span></a><br><font size="-2">1024x1394</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=22112" 
+><span title="Image # 22112: Cabaret German Ad - Right Side 
+(From the German trade magazine Münzautomat, March 1969.)"><img src="https://www.ipdb.org/images/415/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 22112: Cabaret German Ad - Right Side 
+(From the German trade magazine Münzautomat, March 1969.)"><br>German Ad - Right Side*</span></a><br><font size="-2">1024x1394</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=22520" 
+><span title="Image # 22520: Cabaret German Press Release 
+(From the German trade magazine Münzautomat, January 1969.)"><img src="https://www.ipdb.org/images/415/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 22520: Cabaret German Press Release 
+(From the German trade magazine Münzautomat, January 1969.)"><br>German Press Release*</span></a><br><font size="-2">945x2000</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=46129" 
+><span title="Image # 46129: Cabaret Serviceman Tag 
+(Located inside the backbox.)"><img src="https://www.ipdb.org/images/415/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 46129: Cabaret Serviceman Tag 
+(Located inside the backbox.)"><br>Serviceman Tag*</span></a><br><font size="-2">627x374</font><br>[Peter Sools]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=46130" 
+><span title="Image # 46130: Cabaret Point Score Adjustment Chart 
+(Located inside the backbox.)"><img src="https://www.ipdb.org/images/415/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 46130: Cabaret Point Score Adjustment Chart 
+(Located inside the backbox.)"><br>Point Score Adjustment Chart*</span></a><br><font size="-2">1200x683</font><br>[Peter Sools]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=46131" 
+><span title="Image # 46131: Cabaret Serial Number Tag 
+(Located inside the backbox.)"><img src="https://www.ipdb.org/images/415/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 46131: Cabaret Serial Number Tag 
+(Located inside the backbox.)"><br>Serial Number Tag*</span></a><br><font size="-2">488x242</font><br>[Peter Sools]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49887" 
+><span title="Image # 49887: Cabaret Sample Game - Playfield "><img src="https://www.ipdb.org/images/415/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49887: Cabaret Sample Game - Playfield "><br>Sample Game - Playfield</span></a><br><font size="-2">1200x1600</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49888" 
+><span title="Image # 49888: Cabaret Sample Game - No Up-Post "><img src="https://www.ipdb.org/images/415/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49888: Cabaret Sample Game - No Up-Post "><br>Sample Game - No Up-Post</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49889" 
+><span title="Image # 49889: Cabaret Sample Game - Detail 
+(The extra holes near each flipper likely were drilled by an operator to allow longer 3-inch flippers to be installed.)"><img src="https://www.ipdb.org/images/415/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49889: Cabaret Sample Game - Detail 
+(The extra holes near each flipper likely were drilled by an operator to allow longer 3-inch flippers to be installed.)"><br>Sample Game - Detail*</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49890" 
+><span title="Image # 49890: Cabaret Sample Game - Cabinet Front "><img src="https://www.ipdb.org/images/415/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49890: Cabaret Sample Game - Cabinet Front "><br>Sample Game - Cabinet Front</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49891" 
+><span title="Image # 49891: Cabaret Sample Game - Inside Cabinet "><img src="https://www.ipdb.org/images/415/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49891: Cabaret Sample Game - Inside Cabinet "><br>Sample Game - Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49892" 
+><span title="Image # 49892: Cabaret Sample Game - Inside Cabinet "><img src="https://www.ipdb.org/images/415/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49892: Cabaret Sample Game - Inside Cabinet "><br>Sample Game - Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49893" 
+><span title="Image # 49893: Cabaret Sample Game - Tag "><img src="https://www.ipdb.org/images/415/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49893: Cabaret Sample Game - Tag "><br>Sample Game - Tag</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49894" 
+><span title="Image # 49894: Cabaret Sample Game - Detail 
+(The extra holes near each flipper likely were drilled by an operator to allow longer 3-inch flippers to be installed.)"><img src="https://www.ipdb.org/images/415/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49894: Cabaret Sample Game - Detail 
+(The extra holes near each flipper likely were drilled by an operator to allow longer 3-inch flippers to be installed.)"><br>Sample Game - Detail*</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=49895" 
+><span title="Image # 49895: Cabaret Sample Game - Detail 
+(The extra holes near each flipper likely were drilled by an operator to allow longer 3-inch flippers to be installed.)"><img src="https://www.ipdb.org/images/415/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49895: Cabaret Sample Game - Detail 
+(The extra holes near each flipper likely were drilled by an operator to allow longer 3-inch flippers to be installed.)"><br>Sample Game - Detail*</span></a><br><font size="-2">1200x900</font><br>[Lourens Bisschoff]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=62133" 
+><span title="Image # 62133: Cabaret Backglass "><img src="https://www.ipdb.org/images/415/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 62133: Cabaret Backglass "><br>Backglass</span></a><br><font size="-2">1200x1040</font><br>[David Boyes]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=63120" 
+><span title="Image # 63120: Cabaret Promotional Photo - Sample Game - No Up-post "><img src="https://www.ipdb.org/images/415/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 63120: Cabaret Promotional Photo - Sample Game - No Up-post "><br>Promotional Photo - Sample Game - No Up-post</span></a><br><font size="-2">1200x1547</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=415&amp;picno=63121" 
+><span title="Image # 63121: Cabaret Promotional Photo - Production Version with Up-Post "><img src="https://www.ipdb.org/images/415/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 63121: Cabaret Promotional Photo - Production Version with Up-Post "><br>Promotional Photo - Production Version with Up-Post</span></a><br><font size="-2">1200x1534</font><br>[Duncan Brown]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

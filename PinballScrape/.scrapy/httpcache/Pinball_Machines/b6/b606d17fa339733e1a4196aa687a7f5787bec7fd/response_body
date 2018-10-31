@@ -1,0 +1,207 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'The Lord of the Rings'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern The Lord of the Rings First game specifically developed to use an 'interim' Whitestar MPU board system that has a new 16 bit sound system.
+
+Balrog LED update available from manufacturer; later machines came with the update factory installed.
+
+Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 260 lbs. Moving Balrog with built-in flashlamp, blocks center ramp at times.
+Tower that 'collapses' on certain scoring features.
+Mini-playfield that encourages nudging.  Jerry Vanderstelt Kevin O'Connor Margaret Hudson George Gomez Keith P. Johnson Chris Granner Mark Galvez Kurt Andersen George Gomez Ray Tanzer John Rotharmel Jim Novy Wesley Chang Chris Granner Keith P. Johnson Dwight Sullivan Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'The Lord of the Rings' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>The Lord of the Rings</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4858">The Lord of the Rings</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4858">4858</a> <I>/ December, 2003 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=4858" target="showrate4858"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=4858" target="showrate4858">368 ratings/231 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4858" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=303">Stern Pinball, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1999-now) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>October, 2003</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 2003</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>I-0080</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>LOTR</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=41">Stern Whitestar (modified)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,100 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4858">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>First game specifically developed to use an "interim" Whitestar MPU board system that has a new 16 bit sound system.<br><br>Balrog LED update available from manufacturer; later machines came with the update factory installed.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 260 lbs.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Moving Balrog with built-in flashlamp, blocks center <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> at times.<br>Tower that "collapses" on certain scoring features.<br>Mini-playfield that encourages nudging.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span>, <span title="Click here to perform a search for all pinball games that 'Keith&nbsp;P.&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Keith%20P.%20Johnson">Keith&nbsp;P.&nbsp;Johnson</a></span>, <span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jerry&nbsp;Vanderstelt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jerry%20Vanderstelt">Jerry&nbsp;Vanderstelt</a></span>, <span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span>, <span title="Click here to perform a search for all pinball games that 'Margaret&nbsp;Hudson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Margaret%20Hudson">Margaret&nbsp;Hudson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Galvez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Galvez">Mark&nbsp;Galvez</a></span>, <span title="Click here to perform a search for all pinball games that 'Kurt&nbsp;Andersen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kurt%20Andersen">Kurt&nbsp;Andersen</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Gomez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Gomez">George&nbsp;Gomez</a></span>, <span title="Click here to perform a search for all pinball games that 'Ray&nbsp;Tanzer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ray%20Tanzer">Ray&nbsp;Tanzer</a></span>, <span title="Click here to perform a search for all pinball games that 'John&nbsp;Rotharmel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Rotharmel">John&nbsp;Rotharmel</a></span>, <span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Novy' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Novy">Jim&nbsp;Novy</a></span>, <span title="Click here to perform a search for all pinball games that 'Wesley&nbsp;Chang' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wesley%20Chang">Wesley&nbsp;Chang</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Keith&nbsp;P.&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Keith%20P.%20Johnson">Keith&nbsp;P.&nbsp;Johnson</a></span>, <span title="Click here to perform a search for all pinball games that 'Dwight&nbsp;Sullivan' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dwight%20Sullivan">Dwight&nbsp;Sullivan</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Jerry Vanderstelt did the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, and the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.<br><br>O'Connor and Hudson did the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and the plastics (the "hard parts" according to O'Connor).<br><br>The first run of machines produced reportedly totaled 4017 units, but multiple later runs produced the machine again in smaller batches.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.pinball.org/rules/lordoftherings.txt" target="rulesheet">by Larry Scott</a>&nbsp;&nbsp;<font size="-1"><I>(External Site)</i></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.lotr-pinball.com">http://www.lotr-pinball.com</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#4858">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr_10_roms.zip" >Display ROMs 10.0 All Languages</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr90_update.zip" >Display ROMs 9.0 All Languages</a></td><td> [Stern]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr.zip" >PinMAME Romset (8.00)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 333 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr_fr.zip" >PinMAME Romset (8.00) France</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 333 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr_gr.zip" >PinMAME Romset (8.00) Germany</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 333 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr_it.zip" >PinMAME Romset (8.00) Italy</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/lotr_sp.zip" >PinMAME Romset (8.00) Spain</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 30 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/Stern_2003_The_Lord_of_the_Rings_English_Manual_complete.pdf" onClick="return purchasemanual();">English Manual (complete)</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 477 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/Stern_2003_The_Lord_of_the_Rings_Multi_Language_Instruction_Cards.pdf" >Multi-Language Instruction Cards</a></td><td> [Stern]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;AVI&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/Stern_2003_The_Lord_of_the_Rings_Balrog_Movement.avi" >Balrog Movement</a></td><td> [Cassidy Thomas]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/Stern_2003_The_Lord_of_the_Rings_Flyer.pdf" >Flyer</a></td><td> [Stern]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 501 KB</td><td align=left nowrap width="5%">&nbsp;AVI&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4858/Stern_2003_The_Lord_of_the_Rings_Tower.avi" >Tower</a></td><td> [Cassidy Thomas]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=18880" 
+><span title="Image # 18880: The Lord of the Rings Lower Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 18880: The Lord of the Rings Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x819</font><br>[Gregor Zimmerer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=18881" 
+><span title="Image # 18881: The Lord of the Rings Upper Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18881: The Lord of the Rings Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Gregor Zimmerer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=19555" 
+><span title="Image # 19555: The Lord of the Rings German Poster "><img src="https://www.ipdb.org/images/4858/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 19555: The Lord of the Rings German Poster "><br>German Poster</span></a><br><font size="-2">1008x1355</font><br>[Schindler Gerhard]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20613" 
+><span title="Image # 20613: The Lord of the Rings Pop Bumpers "><img src="https://www.ipdb.org/images/4858/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20613: The Lord of the Rings Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20614" 
+><span title="Image # 20614: The Lord of the Rings Path Of The Dead "><img src="https://www.ipdb.org/images/4858/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20614: The Lord of the Rings Path Of The Dead "><br>Path Of The Dead</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20615" 
+><span title="Image # 20615: The Lord of the Rings Right Ramp "><img src="https://www.ipdb.org/images/4858/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20615: The Lord of the Rings Right Ramp "><br>Right Ramp</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20616" 
+><span title="Image # 20616: The Lord of the Rings Lower Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20616: The Lord of the Rings Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20617" 
+><span title="Image # 20617: The Lord of the Rings Fellowship Lights "><img src="https://www.ipdb.org/images/4858/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20617: The Lord of the Rings Fellowship Lights "><br>Fellowship Lights</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20618" 
+><span title="Image # 20618: The Lord of the Rings Middle Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20618: The Lord of the Rings Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20619" 
+><span title="Image # 20619: The Lord of the Rings Upper Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20619: The Lord of the Rings Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20620" 
+><span title="Image # 20620: The Lord of the Rings Falling Tower "><img src="https://www.ipdb.org/images/4858/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20620: The Lord of the Rings Falling Tower "><br>Falling Tower</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=20621" 
+><span title="Image # 20621: The Lord of the Rings Back Panel "><img src="https://www.ipdb.org/images/4858/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20621: The Lord of the Rings Back Panel "><br>Back Panel</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=27935" 
+><span title="Image # 27935: The Lord of the Rings Flyer, Front "><img src="https://www.ipdb.org/images/4858/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 27935: The Lord of the Rings Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">1024x1337</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=27936" 
+><span title="Image # 27936: The Lord of the Rings Flyer, Back "><img src="https://www.ipdb.org/images/4858/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 27936: The Lord of the Rings Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">1024x1335</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=41855" 
+><span title="Image # 41855: The Lord of the Rings Elevated Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41855: The Lord of the Rings Elevated Playfield "><br>Elevated Playfield</span></a><br><font size="-2">1200x900</font><br>[Marco Del Ry]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=41856" 
+><span title="Image # 41856: The Lord of the Rings Playfield - Detail "><img src="https://www.ipdb.org/images/4858/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41856: The Lord of the Rings Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Marco Del Ry]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=41857" 
+><span title="Image # 41857: The Lord of the Rings Flipper Area "><img src="https://www.ipdb.org/images/4858/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41857: The Lord of the Rings Flipper Area "><br>Flipper Area</span></a><br><font size="-2">1200x900</font><br>[Marco Del Ry]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=41858" 
+><span title="Image # 41858: The Lord of the Rings Under Playfield "><img src="https://www.ipdb.org/images/4858/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 41858: The Lord of the Rings Under Playfield "><br>Under Playfield</span></a><br><font size="-2">273x500</font><br>[Marco Del Ry]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=43184" 
+><span title="Image # 43184: The Lord of the Rings Backglass "><img src="https://www.ipdb.org/images/4858/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43184: The Lord of the Rings Backglass "><br>Backglass</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=66969" 
+><span title="Image # 66969: The Lord of the Rings Backglass "><img src="https://www.ipdb.org/images/4858/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 66969: The Lord of the Rings Backglass "><br>Backglass</span></a><br><font size="-2">1200x846</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=66970" 
+><span title="Image # 66970: The Lord of the Rings Backbox - Left "><img src="https://www.ipdb.org/images/4858/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=33 height=100 alt="Image # 66970: The Lord of the Rings Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">521x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=66971" 
+><span title="Image # 66971: The Lord of the Rings Cabinet - Left "><img src="https://www.ipdb.org/images/4858/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 66971: The Lord of the Rings Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x594</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=66972" 
+><span title="Image # 66972: The Lord of the Rings Cabinet - Front "><img src="https://www.ipdb.org/images/4858/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 66972: The Lord of the Rings Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x869</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=66973" 
+><span title="Image # 66973: The Lord of the Rings Cabinet - Full View "><img src="https://www.ipdb.org/images/4858/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 66973: The Lord of the Rings Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1139x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=71482" 
+><span title="Image # 71482: The Lord of the Rings German Flyer - Front "><img src="https://www.ipdb.org/images/4858/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 71482: The Lord of the Rings German Flyer - Front "><br>German Flyer - Front</span></a><br><font size="-2">1200x1712</font><br>[Hansjoerg Reiter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4858&amp;picno=71483" 
+><span title="Image # 71483: The Lord of the Rings German Flyer - Back "><img src="https://www.ipdb.org/images/4858/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 71483: The Lord of the Rings German Flyer - Back "><br>German Flyer - Back</span></a><br><font size="-2">1200x1712</font><br>[Hansjoerg Reiter]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

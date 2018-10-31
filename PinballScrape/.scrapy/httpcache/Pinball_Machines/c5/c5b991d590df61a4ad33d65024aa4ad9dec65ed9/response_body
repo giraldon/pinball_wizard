@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Chicago Coin 'Beam-Lite'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Chicago Coin Beam-Lite Beam Lite, Beam Light Flipperless Trap holes (21), Kicker (1). No outhole. Any balls that reach the very bottom of the playfield are kicked upwards into an enclosed scoring area. Used 8 batteries.  Sam Gensburg ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Chicago Coin 'Beam-Lite' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Beam-Lite</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="209">Beam-Lite</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=209">209</a> <I>/ March 28, 1935 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=209" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Chicago Coin'"><a href="search.pl?searchtype=advanced&amp;mfgid=81">Chicago Coin Machine Manufacturing Company (1932-1977)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March 28, 1935</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>6</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,703 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=209">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Trap_Hole">Trap&nbsp;holes</a> (21), <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">Kicker</a> (1). No <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a>. Any balls that reach the very bottom of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> are kicked upwards into an enclosed scoring area. Used 8 batteries.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Sam&nbsp;Gensburg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Sam%20Gensburg">Sam&nbsp;Gensburg</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>According to the Encyclopedia of Pinball Vol 2, the colored light bulb covers used on this game was an idea that Sam Gensberg copied from <span title="Click here to open a new window and display Great States Mfg. Co.'s 1932 'Flash Ball'"><a target="game3927" href="machine.cgi?id=3927">Great States Mfg. Co.'s 1932 'Flash Ball'</a></span>. His competitors, whose games all used naked, clear glass bulbs, never learned from him where he obtained these bulb covers, not knowing that they were simple colored pharmaceutical gel capsules cut in half. Beam-Lite would become the second most successful game in Chicago Coin history.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Automatic Age, April 19325 page 129<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 97<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764305794/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764305794&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Collector's Guide to Vintage Coin Machines 2nd Edition</a>, page 97<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=195" 
+><span title="Image # 195: Beam-Lite Playfield wiring "><img src="https://www.ipdb.org/images/209/tn_Playfield_wiring.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 195: Beam-Lite Playfield wiring "><br>Playfield wiring</span></a><br><font size="-2">390x600</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=196" 
+><span title="Image # 196: Beam-Lite Playfield detail "><img src="https://www.ipdb.org/images/209/tn_Playfield_detail.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 196: Beam-Lite Playfield detail "><br>Playfield detail</span></a><br><font size="-2">828x574</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=197" 
+><span title="Image # 197: Beam-Lite Overall view "><img src="https://www.ipdb.org/images/209/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 197: Beam-Lite Overall view "><br>Overall view</span></a><br><font size="-2">844x554</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=198" 
+><span title="Image # 198: Beam-Lite Ball lift "><img src="https://www.ipdb.org/images/209/tn_Ball_lift.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 198: Beam-Lite Ball lift "><br>Ball lift</span></a><br><font size="-2">390x561</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=199" 
+><span title="Image # 199: Beam-Lite Coin Mechanism "><img src="https://www.ipdb.org/images/209/tn_209c.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 199: Beam-Lite Coin Mechanism "><br>Coin Mechanism</span></a><br><font size="-2">416x576</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=200" 
+><span title="Image # 200: Beam-Lite Playfield "><img src="https://www.ipdb.org/images/209/tn_209.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 200: Beam-Lite Playfield "><br>Playfield</span></a><br><font size="-2">314x583</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=60545" 
+><span title="Image # 60545: Beam-Lite Playfield 
+(The pointed light bulb covers are not original to this game. )"><img src="https://www.ipdb.org/images/209/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60545: Beam-Lite Playfield 
+(The pointed light bulb covers are not original to this game. )"><br>Playfield*</span></a><br><font size="-2">576x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=60546" 
+><span title="Image # 60546: Beam-Lite Cabinet - Full View 
+(The pointed light bulb covers are not original to this game. The legs are not the original factory color.)"><img src="https://www.ipdb.org/images/209/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 60546: Beam-Lite Cabinet - Full View 
+(The pointed light bulb covers are not original to this game. The legs are not the original factory color.)"><br>Cabinet - Full View*</span></a><br><font size="-2">512x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62054" 
+><span title="Image # 62054: Beam-Lite Playfield "><img src="https://www.ipdb.org/images/209/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 62054: Beam-Lite Playfield "><br>Playfield</span></a><br><font size="-2">351x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62055" 
+><span title="Image # 62055: Beam-Lite Upper Playfield "><img src="https://www.ipdb.org/images/209/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 62055: Beam-Lite Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x281</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62056" 
+><span title="Image # 62056: Beam-Lite Lower Playfield "><img src="https://www.ipdb.org/images/209/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 62056: Beam-Lite Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x284</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62057" 
+><span title="Image # 62057: Beam-Lite Score Card "><img src="https://www.ipdb.org/images/209/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 62057: Beam-Lite Score Card "><br>Score Card</span></a><br><font size="-2">500x411</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62058" 
+><span title="Image # 62058: Beam-Lite Cabinet - Left "><img src="https://www.ipdb.org/images/209/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=52 alt="Image # 62058: Beam-Lite Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x419</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62059" 
+><span title="Image # 62059: Beam-Lite Cabinet - Right "><img src="https://www.ipdb.org/images/209/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 62059: Beam-Lite Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">500x287</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62060" 
+><span title="Image # 62060: Beam-Lite Cabinet - Front "><img src="https://www.ipdb.org/images/209/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 62060: Beam-Lite Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">800x382</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62061" 
+><span title="Image # 62061: Beam-Lite Cabinet - Rear View "><img src="https://www.ipdb.org/images/209/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 62061: Beam-Lite Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">500x341</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62062" 
+><span title="Image # 62062: Beam-Lite Inside Coin Door "><img src="https://www.ipdb.org/images/209/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 62062: Beam-Lite Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">455x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62063" 
+><span title="Image # 62063: Beam-Lite Inside Front Door "><img src="https://www.ipdb.org/images/209/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 62063: Beam-Lite Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">500x323</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=209&amp;picno=62064" 
+><span title="Image # 62064: Beam-Lite Inside Cabinet "><img src="https://www.ipdb.org/images/209/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 62064: Beam-Lite Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">500x281</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+BB 10/30/37 p92&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

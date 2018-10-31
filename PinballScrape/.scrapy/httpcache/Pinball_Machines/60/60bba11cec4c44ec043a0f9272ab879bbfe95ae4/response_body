@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Sega 'Goldeneye'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Sega Goldeneye Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (14), Thrust magnet above flipper gap flings ball upfield. Tank, Helicopter, Satellite radar dish.  Paul Faris Ward Pemberton Rob Hurtado Brian Schmidt John Carpenter Neil Falconer Orin Day Brian Schmidt ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Sega 'Goldeneye' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Goldeneye</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3792">Goldeneye</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3792">3792</a> <I>/ March, 1996 / 6 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=3792" target="showrate3792"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=3792" target="showrate3792">44 ratings/36 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3792" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Sega'"><a href="search.pl?searchtype=advanced&amp;mfgid=280">Sega Pinball, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1994-1999) <i>[Trade Name: Sega</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1996</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>42</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=33">Sega/Stern Whitestar</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,200 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3792">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Spies - Licensed theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (14), <a target="glossary" class="glossarylink" href="/glossary.php#Thrust_Magnet">Thrust&nbsp;magnet</a> above <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> gap flings ball upfield.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Tank, Helicopter, Satellite radar dish.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ward&nbsp;Pemberton' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ward%20Pemberton">Ward&nbsp;Pemberton</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Rob&nbsp;Hurtado' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rob%20Hurtado">Rob&nbsp;Hurtado</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Carpenter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Carpenter">John&nbsp;Carpenter</a></span>, <span title="Click here to perform a search for all pinball games that 'Neil&nbsp;Falconer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Neil%20Falconer">Neil&nbsp;Falconer</a></span>, <span title="Click here to perform a search for all pinball games that 'Orin&nbsp;Day' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Orin%20Day">Orin&nbsp;Day</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Fred Young did voice characterizations on this game.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"It's Pinball Like You've Never Played It Before..."<br>
+"Sega Pinball's Got A New Game Worth It's Weight In Gold."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 214<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/3792/goldeni.htm" target="rulesheet">Goldeneye Rulesheet Version 1.0, by TPL</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?goldeneye">http://pinball.jameswest.com/ownerslists/ownerslist.php?goldeneye</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#3792">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3792/gldneye.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3792/Sega_1996_Goldeneye_ROMs.zip" >ROMs</a></td><td> [Sega Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3792/Sega_1996_Goldeneye_Manual.pdf" onClick="return purchasemanual();">English Manual (missing important drawings or part numbering of drawings pp56-85</a></td><td> [Sega Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 231 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3792/Sega_Golden_Eye_755_5142_XX.pdf" >Instruction Card Multi-language</a></td><td> [Sega Pinball, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=3357" 
+><span title="Image # 3357: Goldeneye Flyer, Front "><img src="https://www.ipdb.org/images/3792/tn_3792f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3357: Goldeneye Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">600x791</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=3358" 
+><span title="Image # 3358: Goldeneye Flyer, Back "><img src="https://www.ipdb.org/images/3792/tn_3792f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3358: Goldeneye Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">606x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=6288" 
+><span title="Image # 6288: Goldeneye German Flyer "><img src="https://www.ipdb.org/images/3792/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 6288: Goldeneye German Flyer "><br>German Flyer</span></a><br><font size="-2">586x825</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8558" 
+><span title="Image # 8558: Goldeneye Cabinet - Full View "><img src="https://www.ipdb.org/images/3792/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 8558: Goldeneye Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">550x740</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8559" 
+><span title="Image # 8559: Goldeneye Cabinet - Left "><img src="https://www.ipdb.org/images/3792/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 8559: Goldeneye Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">500x517</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8560" 
+><span title="Image # 8560: Goldeneye Cabinet - Right "><img src="https://www.ipdb.org/images/3792/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 8560: Goldeneye Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">500x480</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8561" 
+><span title="Image # 8561: Goldeneye Cabinet - Front "><img src="https://www.ipdb.org/images/3792/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 8561: Goldeneye Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">500x321</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8562" 
+><span title="Image # 8562: Goldeneye Backbox "><img src="https://www.ipdb.org/images/3792/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 8562: Goldeneye Backbox "><br>Backbox</span></a><br><font size="-2">500x640</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8563" 
+><span title="Image # 8563: Goldeneye Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8563: Goldeneye Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8564" 
+><span title="Image # 8564: Goldeneye Lower Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8564: Goldeneye Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8565" 
+><span title="Image # 8565: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8565: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8566" 
+><span title="Image # 8566: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8566: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8567" 
+><span title="Image # 8567: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8567: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8568" 
+><span title="Image # 8568: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8568: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8569" 
+><span title="Image # 8569: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8569: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8570" 
+><span title="Image # 8570: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8570: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8571" 
+><span title="Image # 8571: Goldeneye Upper Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8571: Goldeneye Upper Playfield - Detail "><br>Upper Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=8572" 
+><span title="Image # 8572: Goldeneye Upper Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8572: Goldeneye Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=9662" 
+><span title="Image # 9662: Goldeneye Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 9662: Goldeneye Playfield "><br>Playfield</span></a><br><font size="-2">1024x1157</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=9663" 
+><span title="Image # 9663: Goldeneye Upper Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 9663: Goldeneye Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x915</font><br>[Christopher Wolf]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=9664" 
+><span title="Image # 9664: Goldeneye Backbox "><img src="https://www.ipdb.org/images/3792/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 9664: Goldeneye Backbox "><br>Backbox</span></a><br><font size="-2">1024x1115</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32150" 
+><span title="Image # 32150: Goldeneye Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32150: Goldeneye Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32151" 
+><span title="Image # 32151: Goldeneye Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/3792/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32151: Goldeneye Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32152" 
+><span title="Image # 32152: Goldeneye Playfield - Detail "><img src="https://www.ipdb.org/images/3792/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32152: Goldeneye Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32153" 
+><span title="Image # 32153: Goldeneye Helicopter "><img src="https://www.ipdb.org/images/3792/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32153: Goldeneye Helicopter "><br>Helicopter</span></a><br><font size="-2">1024x688</font><br>[Ben Barchik]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32154" 
+><span title="Image # 32154: Goldeneye Tank "><img src="https://www.ipdb.org/images/3792/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32154: Goldeneye Tank "><br>Tank</span></a><br><font size="-2">1024x688</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32155" 
+><span title="Image # 32155: Goldeneye Playfield - Ball View "><img src="https://www.ipdb.org/images/3792/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32155: Goldeneye Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32156" 
+><span title="Image # 32156: Goldeneye Playfield - Ball View "><img src="https://www.ipdb.org/images/3792/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32156: Goldeneye Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32157" 
+><span title="Image # 32157: Goldeneye Playfield - Ball View "><img src="https://www.ipdb.org/images/3792/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32157: Goldeneye Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32158" 
+><span title="Image # 32158: Goldeneye Cabinet - Right "><img src="https://www.ipdb.org/images/3792/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32158: Goldeneye Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32159" 
+><span title="Image # 32159: Goldeneye Backbox - Right "><img src="https://www.ipdb.org/images/3792/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 32159: Goldeneye Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">456x832</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32160" 
+><span title="Image # 32160: Goldeneye Import Label "><img src="https://www.ipdb.org/images/3792/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32160: Goldeneye Import Label "><br>Import Label</span></a><br><font size="-2">1024x688</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32161" 
+><span title="Image # 32161: Goldeneye Cabinet - Front "><img src="https://www.ipdb.org/images/3792/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32161: Goldeneye Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">907x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32162" 
+><span title="Image # 32162: Goldeneye Backbox Insert "><img src="https://www.ipdb.org/images/3792/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32162: Goldeneye Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32163" 
+><span title="Image # 32163: Goldeneye Inside Cabinet "><img src="https://www.ipdb.org/images/3792/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32163: Goldeneye Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=32164" 
+><span title="Image # 32164: Goldeneye Inside Backbox "><img src="https://www.ipdb.org/images/3792/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32164: Goldeneye Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x683</font><br>[Ben Barchik]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=35741" 
+><span title="Image # 35741: Goldeneye Original Backglass Artwork "><img src="https://www.ipdb.org/images/3792/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35741: Goldeneye Original Backglass Artwork "><br>Original Backglass Artwork</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3792&amp;picno=61353" 
+><span title="Image # 61353: Goldeneye Illuminated Backglass "><img src="https://www.ipdb.org/images/3792/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 61353: Goldeneye Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x882</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

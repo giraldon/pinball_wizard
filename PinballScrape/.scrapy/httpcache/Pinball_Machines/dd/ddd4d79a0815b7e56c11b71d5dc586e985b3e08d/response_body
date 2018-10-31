@@ -1,0 +1,281 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Strikes and Spares'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Strikes and Spares Strikes & Spares Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), Kick-out hole (1), Spinning target (1). Ten star rollover buttons are in the shape of a rack of bowling pins. Plays a tune at start-up known in professional horseracing as 'The Call to the Post'.
+
+Maximum displayed point score is 999,990 points per player.  Kevin O'Connor Gary Gayton ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Strikes and Spares' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Strikes and Spares</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2406">Strikes and Spares</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2406">2406</a> <I>/ June, 1978 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2406" target="showrate2406"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2406" target="showrate2406">54 ratings/42 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2406" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>August 11, 1977</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1135-E</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=13">Bally MPU AS-2518-17</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>12,820 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2406">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Bowling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1). Ten star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> buttons are in the shape of a rack of bowling pins. Plays a tune at start-up known in professional horseracing as "The Call to the Post".<br><br>Maximum displayed point score is 999,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gary&nbsp;Gayton' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gary%20Gayton">Gary&nbsp;Gayton</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Artist Kevin O'Connor said at the 2004 Texas Pinball Festival that the girl in the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is a fantasy girl and was not based on an actual person.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cash Box, Jul-22-1978, page 45<br>
+Play Meter, Aug-15-1978, page 48<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, pages 90-91<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 172<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 125<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballmagic.com/strikespare.htm">http://www.pinballmagic.com/strikespare.htm</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2406">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 49 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2406/stk_sprs.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2406/Bally_1978_Strikes_and_Spares_ROMs.zip" >ROMs</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2406/Bally_1978_Strikes_and_Spares_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 15 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2406/Bally_1978_Strikes_and_Spares_Manual_w_Schematics.pdf" onClick="return purchasemanual();">Manual w/Schematics</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 24 KB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2406/Strikes_and_Spares_Restored_Spinner_Image.jpg" >Restored Spinner Image</a></td><td> [Ian F&#46; McKinnon]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=2292" 
+><span title="Image # 2292: Strikes and Spares Backglass "><img src="https://www.ipdb.org/images/2406/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 2292: Strikes and Spares Backglass "><br>Backglass</span></a><br><font size="-2">487x420</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=4115" 
+><span title="Image # 4115: Strikes and Spares Flyer, Front "><img src="https://www.ipdb.org/images/2406/tn_2406f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4115: Strikes and Spares Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=4116" 
+><span title="Image # 4116: Strikes and Spares Flyer, Back "><img src="https://www.ipdb.org/images/2406/tn_2406f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4116: Strikes and Spares Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">875x1128</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=13506" 
+><span title="Image # 13506: Strikes and Spares Backglass Detail "><img src="https://www.ipdb.org/images/2406/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 13506: Strikes and Spares Backglass Detail "><br>Backglass Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=19090" 
+><span title="Image # 19090: Strikes and Spares Backglass "><img src="https://www.ipdb.org/images/2406/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 19090: Strikes and Spares Backglass "><br>Backglass</span></a><br><font size="-2">617x524</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=19288" 
+><span title="Image # 19288: Strikes and Spares Cabinet - Right "><img src="https://www.ipdb.org/images/2406/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 19288: Strikes and Spares Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">727x600</font><br>[Sean Kavanagh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=19289" 
+><span title="Image # 19289: Strikes and Spares Upper Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 19289: Strikes and Spares Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">900x600</font><br>[Sean Kavanagh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=19290" 
+><span title="Image # 19290: Strikes and Spares Middle Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 19290: Strikes and Spares Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">900x600</font><br>[Sean Kavanagh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=19291" 
+><span title="Image # 19291: Strikes and Spares Lower Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 19291: Strikes and Spares Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">900x600</font><br>[Sean Kavanagh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20255" 
+><span title="Image # 20255: Strikes and Spares Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20255: Strikes and Spares Playfield "><br>Playfield</span></a><br><font size="-2">1024x1369</font><br>[Regis Maltais]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20256" 
+><span title="Image # 20256: Strikes and Spares Chime Box "><img src="https://www.ipdb.org/images/2406/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20256: Strikes and Spares Chime Box "><br>Chime Box</span></a><br><font size="-2">1024x766</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20257" 
+><span title="Image # 20257: Strikes and Spares Chime Box "><img src="https://www.ipdb.org/images/2406/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20257: Strikes and Spares Chime Box "><br>Chime Box</span></a><br><font size="-2">1024x766</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20258" 
+><span title="Image # 20258: Strikes and Spares Behind BackGlass "><img src="https://www.ipdb.org/images/2406/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20258: Strikes and Spares Behind BackGlass "><br>Behind BackGlass</span></a><br><font size="-2">1024x766</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20367" 
+><span title="Image # 20367: Strikes and Spares Behind Backglass "><img src="https://www.ipdb.org/images/2406/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 20367: Strikes and Spares Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">799x733</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20368" 
+><span title="Image # 20368: Strikes and Spares Behind Lightboard "><img src="https://www.ipdb.org/images/2406/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 20368: Strikes and Spares Behind Lightboard "><br>Behind Lightboard</span></a><br><font size="-2">854x766</font><br>[Regis Maltais]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20369" 
+><span title="Image # 20369: Strikes and Spares Inside Coin Door "><img src="https://www.ipdb.org/images/2406/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 20369: Strikes and Spares Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">846x730</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20370" 
+><span title="Image # 20370: Strikes and Spares Circuit Boards "><img src="https://www.ipdb.org/images/2406/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20370: Strikes and Spares Circuit Boards "><br>Circuit Boards</span></a><br><font size="-2">1024x766</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20371" 
+><span title="Image # 20371: Strikes and Spares Coin Door "><img src="https://www.ipdb.org/images/2406/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 20371: Strikes and Spares Coin Door "><br>Coin Door</span></a><br><font size="-2">713x692</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20441" 
+><span title="Image # 20441: Strikes and Spares Instruction Card (Front) "><img src="https://www.ipdb.org/images/2406/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 20441: Strikes and Spares Instruction Card (Front) "><br>Instruction Card (Front)</span></a><br><font size="-2">1024x606</font><br>[Inkochnito]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20442" 
+><span title="Image # 20442: Strikes and Spares Instruction Card (Back) "><img src="https://www.ipdb.org/images/2406/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 20442: Strikes and Spares Instruction Card (Back) "><br>Instruction Card (Back)</span></a><br><font size="-2">1024x605</font><br>[Inkochnito]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20449" 
+><span title="Image # 20449: Strikes and Spares Backglass Detail "><img src="https://www.ipdb.org/images/2406/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20449: Strikes and Spares Backglass Detail "><br>Backglass Detail</span></a><br><font size="-2">1024x766</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=20450" 
+><span title="Image # 20450: Strikes and Spares Backglass "><img src="https://www.ipdb.org/images/2406/tn_image-B13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 20450: Strikes and Spares Backglass "><br>Backglass</span></a><br><font size="-2">830x734</font><br>[Regis Maltais]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=25573" 
+><span title="Image # 25573: Strikes and Spares Backglass - Reverse "><img src="https://www.ipdb.org/images/2406/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 25573: Strikes and Spares Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">640x444</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=29066" 
+><span title="Image # 29066: Strikes and Spares Spinner Image "><img src="https://www.ipdb.org/images/2406/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 29066: Strikes and Spares Spinner Image "><br>Spinner Image</span></a><br><font size="-2">474x408</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=29067" 
+><span title="Image # 29067: Strikes and Spares Playfield Plastic "><img src="https://www.ipdb.org/images/2406/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 29067: Strikes and Spares Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1024x1335</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=29068" 
+><span title="Image # 29068: Strikes and Spares Various Playfield Plastics "><img src="https://www.ipdb.org/images/2406/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 29068: Strikes and Spares Various Playfield Plastics "><br>Various Playfield Plastics</span></a><br><font size="-2">1024x1740</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=29069" 
+><span title="Image # 29069: Strikes and Spares Slingshot Plastics "><img src="https://www.ipdb.org/images/2406/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 29069: Strikes and Spares Slingshot Plastics "><br>Slingshot Plastics</span></a><br><font size="-2">1024x814</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=29070" 
+><span title="Image # 29070: Strikes and Spares Various Playfield Plastics "><img src="https://www.ipdb.org/images/2406/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 29070: Strikes and Spares Various Playfield Plastics "><br>Various Playfield Plastics</span></a><br><font size="-2">1024x1754</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=30479" 
+><span title="Image # 30479: Strikes and Spares Backglass - Detail "><img src="https://www.ipdb.org/images/2406/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30479: Strikes and Spares Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=33799" 
+><span title="Image # 33799: Strikes and Spares Playfield Detail "><img src="https://www.ipdb.org/images/2406/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33799: Strikes and Spares Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=33800" 
+><span title="Image # 33800: Strikes and Spares Playfield Detail "><img src="https://www.ipdb.org/images/2406/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33800: Strikes and Spares Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=34777" 
+><span title="Image # 34777: Strikes and Spares Cabinet - Left "><img src="https://www.ipdb.org/images/2406/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 34777: Strikes and Spares Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x399</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=34851" 
+><span title="Image # 34851: Strikes and Spares Blank Upper Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 34851: Strikes and Spares Blank Upper Playfield "><br>Blank Upper Playfield</span></a><br><font size="-2">1024x727</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=34852" 
+><span title="Image # 34852: Strikes and Spares Blank Middle Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 34852: Strikes and Spares Blank Middle Playfield "><br>Blank Middle Playfield</span></a><br><font size="-2">1024x737</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=34853" 
+><span title="Image # 34853: Strikes and Spares Blank Lower Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 34853: Strikes and Spares Blank Lower Playfield "><br>Blank Lower Playfield</span></a><br><font size="-2">1024x710</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=34854" 
+><span title="Image # 34854: Strikes and Spares Apron "><img src="https://www.ipdb.org/images/2406/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 34854: Strikes and Spares Apron "><br>Apron</span></a><br><font size="-2">1024x461</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37111" 
+><span title="Image # 37111: Strikes and Spares Backglass - Detail "><img src="https://www.ipdb.org/images/2406/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37111: Strikes and Spares Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37112" 
+><span title="Image # 37112: Strikes and Spares Backbox - Left "><img src="https://www.ipdb.org/images/2406/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37112: Strikes and Spares Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37113" 
+><span title="Image # 37113: Strikes and Spares Backbox - Right "><img src="https://www.ipdb.org/images/2406/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37113: Strikes and Spares Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37114" 
+><span title="Image # 37114: Strikes and Spares Cabinet - Left "><img src="https://www.ipdb.org/images/2406/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37114: Strikes and Spares Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37115" 
+><span title="Image # 37115: Strikes and Spares Full View "><img src="https://www.ipdb.org/images/2406/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37115: Strikes and Spares Full View "><br>Full View</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37116" 
+><span title="Image # 37116: Strikes and Spares Under Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-A27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37116: Strikes and Spares Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37117" 
+><span title="Image # 37117: Strikes and Spares Under Upper Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-A28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37117: Strikes and Spares Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37118" 
+><span title="Image # 37118: Strikes and Spares Under Lower Playfield "><img src="https://www.ipdb.org/images/2406/tn_image-A29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37118: Strikes and Spares Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=37119" 
+><span title="Image # 37119: Strikes and Spares Inside Cabinet "><img src="https://www.ipdb.org/images/2406/tn_image-A30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37119: Strikes and Spares Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=38482" 
+><span title="Image # 38482: Strikes and Spares Backglass "><img src="https://www.ipdb.org/images/2406/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 38482: Strikes and Spares Backglass "><br>Backglass</span></a><br><font size="-2">1024x937</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=38483" 
+><span title="Image # 38483: Strikes and Spares Backglass - Reverse "><img src="https://www.ipdb.org/images/2406/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 38483: Strikes and Spares Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x933</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=39771" 
+><span title="Image # 39771: Strikes and Spares Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/2406/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39771: Strikes and Spares Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">1024x686</font><br>[Gregor Hohpe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=49091" 
+><span title="Image # 49091: Strikes and Spares Promotional Poster 
+(Provided by Bally in 1978. Measured approximately 22 by 25 inches.)"><img src="https://www.ipdb.org/images/2406/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 49091: Strikes and Spares Promotional Poster 
+(Provided by Bally in 1978. Measured approximately 22 by 25 inches.)"><br>Promotional Poster*</span></a><br><font size="-2">769x688</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=54368" 
+><span title="Image # 54368: Strikes and Spares Artist Name "><img src="https://www.ipdb.org/images/2406/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 54368: Strikes and Spares Artist Name "><br>Artist Name</span></a><br><font size="-2">1200x677</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=57737" 
+><span title="Image # 57737: Strikes and Spares Play Meter Ad 
+(Play Meter, Aug-15-1978, page 48)"><img src="https://www.ipdb.org/images/2406/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 57737: Strikes and Spares Play Meter Ad 
+(Play Meter, Aug-15-1978, page 48)"><br>Play Meter Ad*</span></a><br><font size="-2">1200x1557</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2406&amp;picno=70559" 
+><span title="Image # 70559: Strikes and Spares Cash Box New Game Announcement 
+(Cash Box, Jul-22-1978, page 45)"><img src="https://www.ipdb.org/images/2406/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 70559: Strikes and Spares Cash Box New Game Announcement 
+(Cash Box, Jul-22-1978, page 45)"><br>Cash Box New Game Announcement*</span></a><br><font size="-2">798x1150</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

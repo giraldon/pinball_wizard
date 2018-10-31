@@ -1,0 +1,218 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: INDER 'Brave Team'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game INDER Brave Team Flippers (2), Pop bumpers (3), Standup targets (6), 4-bank drop targets (2), Messenger balls (2), Left and right dual inlanes.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for INDER 'Brave Team' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Brave Team</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4480">Brave Team</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4480">4480</a> <I>/ 1985 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=4480" target="showrate4480">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4480" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'INDER'"><a href="search.pl?searchtype=advanced&amp;mfgid=156">Industria (Electromecánica) de Recreativos S.A, <font size="-1">of Madrid,<br> Spain</font> (1970-1993) <i>[Trade Name: INDER</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1985</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>A-1028</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4480">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Messenger_Ball">Messenger&nbsp;balls</a> (2), Left and right dual <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Ayer convencimos, ¡¡hoy revolucionamos!! (Yesterday we convince, today we revolutionize!)"<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 5 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4480/brvteam.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4480/INDER_1985_Brave_Team_Manual_Schematics.pdf" onClick="return purchasemanual();">Manual & Schematics</a></td><td> [Inder]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=6761" 
+><span title="Image # 6761: Brave Team Backbox "><img src="https://www.ipdb.org/images/4480/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 6761: Brave Team Backbox "><br>Backbox</span></a><br><font size="-2">428x408</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=15856" 
+><span title="Image # 15856: Brave Team Anniversary Logo from Backglass 
+(Inder the company was formed in 1965, and the logo reflects this. However, their earliest pinball game for which we have knowledge was made in 1970.)"><img src="https://www.ipdb.org/images/4480/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 15856: Brave Team Anniversary Logo from Backglass 
+(Inder the company was formed in 1965, and the logo reflects this. However, their earliest pinball game for which we have knowledge was made in 1970.)"><br>Anniversary Logo from Backglass*</span></a><br><font size="-2">285x272</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=15952" 
+><span title="Image # 15952: Brave Team Playfield "><img src="https://www.ipdb.org/images/4480/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 15952: Brave Team Playfield "><br>Playfield</span></a><br><font size="-2">375x507</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=20112" 
+><span title="Image # 20112: Brave Team Flyer "><img src="https://www.ipdb.org/images/4480/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 20112: Brave Team Flyer "><br>Flyer</span></a><br><font size="-2">800x1136</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=42264" 
+><span title="Image # 42264: Brave Team Illuminated Front View 
+(This picture was taken during Summer 2009 at 'Ranch Leone' in Spain, the place where almost all of the Sergio Leone's 'spaghetti westerns' were filmed.)"><img src="https://www.ipdb.org/images/4480/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42264: Brave Team Illuminated Front View 
+(This picture was taken during Summer 2009 at 'Ranch Leone' in Spain, the place where almost all of the Sergio Leone's 'spaghetti westerns' were filmed.)"><br>Illuminated Front View*</span></a><br><font size="-2">1200x1600</font><br>[Federico Croci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50785" 
+><span title="Image # 50785: Brave Team Backglass "><img src="https://www.ipdb.org/images/4480/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 50785: Brave Team Backglass "><br>Backglass</span></a><br><font size="-2">1200x1015</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50786" 
+><span title="Image # 50786: Brave Team Backglass - Score Display "><img src="https://www.ipdb.org/images/4480/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50786: Brave Team Backglass - Score Display "><br>Backglass - Score Display</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50787" 
+><span title="Image # 50787: Brave Team Backglass - Detail "><img src="https://www.ipdb.org/images/4480/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50787: Brave Team Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50788" 
+><span title="Image # 50788: Brave Team Manufacturer Logo from Backglass "><img src="https://www.ipdb.org/images/4480/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 50788: Brave Team Manufacturer Logo from Backglass "><br>Manufacturer Logo from Backglass</span></a><br><font size="-2">1200x674</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50789" 
+><span title="Image # 50789: Brave Team Playfield "><img src="https://www.ipdb.org/images/4480/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50789: Brave Team Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jesus Maria Rey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50790" 
+><span title="Image # 50790: Brave Team Illuminated Playfield "><img src="https://www.ipdb.org/images/4480/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50790: Brave Team Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50791" 
+><span title="Image # 50791: Brave Team Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/4480/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50791: Brave Team Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50792" 
+><span title="Image # 50792: Brave Team Playfield - Ball View "><img src="https://www.ipdb.org/images/4480/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50792: Brave Team Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50793" 
+><span title="Image # 50793: Brave Team Playfield - Detail "><img src="https://www.ipdb.org/images/4480/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50793: Brave Team Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50794" 
+><span title="Image # 50794: Brave Team Playfield - Detail "><img src="https://www.ipdb.org/images/4480/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50794: Brave Team Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50795" 
+><span title="Image # 50795: Brave Team Illuminated Pop Bumpers "><img src="https://www.ipdb.org/images/4480/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50795: Brave Team Illuminated Pop Bumpers "><br>Illuminated Pop Bumpers</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50796" 
+><span title="Image # 50796: Brave Team Left Captive Ball "><img src="https://www.ipdb.org/images/4480/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50796: Brave Team Left Captive Ball "><br>Left Captive Ball</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50797" 
+><span title="Image # 50797: Brave Team Right Captive Ball "><img src="https://www.ipdb.org/images/4480/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50797: Brave Team Right Captive Ball "><br>Right Captive Ball</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50798" 
+><span title="Image # 50798: Brave Team Dual Inlanes - Right "><img src="https://www.ipdb.org/images/4480/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50798: Brave Team Dual Inlanes - Right "><br>Dual Inlanes - Right</span></a><br><font size="-2">1200x1600</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50799" 
+><span title="Image # 50799: Brave Team Backbox - Right "><img src="https://www.ipdb.org/images/4480/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 50799: Brave Team Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">948x2136</font><br>[Jesus Maria Rey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50800" 
+><span title="Image # 50800: Brave Team Cabinet - Right "><img src="https://www.ipdb.org/images/4480/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 50800: Brave Team Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x674</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50801" 
+><span title="Image # 50801: Brave Team Cabinet - Right "><img src="https://www.ipdb.org/images/4480/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 50801: Brave Team Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1040x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50802" 
+><span title="Image # 50802: Brave Team Cabinet - Front "><img src="https://www.ipdb.org/images/4480/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 50802: Brave Team Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1118x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50803" 
+><span title="Image # 50803: Brave Team Cabinet - Front View "><img src="https://www.ipdb.org/images/4480/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50803: Brave Team Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x1600</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50804" 
+><span title="Image # 50804: Brave Team Inside Cabinet "><img src="https://www.ipdb.org/images/4480/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 50804: Brave Team Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1004x1600</font><br>[Jesus Maria Rey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50805" 
+><span title="Image # 50805: Brave Team Under Playfield "><img src="https://www.ipdb.org/images/4480/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50805: Brave Team Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50806" 
+><span title="Image # 50806: Brave Team Interconnection Board "><img src="https://www.ipdb.org/images/4480/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50806: Brave Team Interconnection Board "><br>Interconnection Board</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50807" 
+><span title="Image # 50807: Brave Team AC Main Power Board "><img src="https://www.ipdb.org/images/4480/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50807: Brave Team AC Main Power Board "><br>AC Main Power Board</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50808" 
+><span title="Image # 50808: Brave Team MPU Board "><img src="https://www.ipdb.org/images/4480/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50808: Brave Team MPU Board "><br>MPU Board</span></a><br><font size="-2">1200x1600</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=50809" 
+><span title="Image # 50809: Brave Team Inside Backbox "><img src="https://www.ipdb.org/images/4480/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 50809: Brave Team Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1152x900</font><br>[Jesus Maria Rey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=53940" 
+><span title="Image # 53940: Brave Team Standup Targets 
+(The red drop target on the far right is visible. Serial number 4128.)"><img src="https://www.ipdb.org/images/4480/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53940: Brave Team Standup Targets 
+(The red drop target on the far right is visible. Serial number 4128.)"><br>Standup Targets*</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=53941" 
+><span title="Image # 53941: Brave Team Illuminated Standup Targets 
+(The red drop target on the far right is dropped, showing the captive ball rail. Serial number 4128.)"><img src="https://www.ipdb.org/images/4480/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53941: Brave Team Illuminated Standup Targets 
+(The red drop target on the far right is dropped, showing the captive ball rail. Serial number 4128.)"><br>Illuminated Standup Targets*</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=53942" 
+><span title="Image # 53942: Brave Team Backglass Lock 
+(Serial number 4128.)"><img src="https://www.ipdb.org/images/4480/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53942: Brave Team Backglass Lock 
+(Serial number 4128.)"><br>Backglass Lock*</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=53943" 
+><span title="Image # 53943: Brave Team Manufacturer Plates 
+(Serial number 4128.)"><img src="https://www.ipdb.org/images/4480/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53943: Brave Team Manufacturer Plates 
+(Serial number 4128.)"><br>Manufacturer Plates*</span></a><br><font size="-2">1200x900</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4480&amp;picno=53944" 
+><span title="Image # 53944: Brave Team Service Test Board 
+(Serial number 4128.)"><img src="https://www.ipdb.org/images/4480/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53944: Brave Team Service Test Board 
+(Serial number 4128.)"><br>Service Test Board*</span></a><br><font size="-2">1200x1600</font><br>[Jesus Maria Rey]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

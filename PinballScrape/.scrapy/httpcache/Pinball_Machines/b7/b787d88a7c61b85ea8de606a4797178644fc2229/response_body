@@ -1,0 +1,351 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Data East 'WWF Royal Rumble'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Data East WWF Royal Rumble Widebody Flippers (4), Pop bumpers (3), Slingshots (2), 4-bank drop targets (1), 3-bank drop targets (1), Standup targets (6), Captive ball (1), Vertical up-kicker (1), Horseshoe lane (1), Elevated mini-playfield. Shaker motor activates when hitting targets.  Paul Faris Markus Rothkranz Tim Seckel Joe Kaminkow Jack Liddon Kurt Andersen Scott Melchionda Tim Seckel Brian Schmidt Neil Falconer Orin Day Lyman F. Sheats Jr. Brian Schmidt ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Data East 'WWF Royal Rumble' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>WWF Royal Rumble</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2820">WWF Royal Rumble</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2820">2820</a> <I>/ April 11, 1994 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2820" target="showrate2820"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2820" target="showrate2820">69 ratings/57 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2820" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Data East'"><a href="search.pl?searchtype=advanced&amp;mfgid=98">Data East Pinball, Incorporated (1986-1994)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April 11, 1994</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500-5523-01</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>WWF</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=24">DataEast/Sega Version 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,500 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2820">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Licensed - Sports - Wrestling - Comedy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;ball</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Vertical_Up-Kicker">Vertical&nbsp;up-kicker</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">Horseshoe&nbsp;lane</a> (1), Elevated mini-playfield. <a target="glossary" class="glossarylink" href="/glossary.php#Shaker_Motor">Shaker&nbsp;motor</a> activates when hitting targets.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tim&nbsp;Seckel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tim%20Seckel">Tim&nbsp;Seckel</a></span>, <span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Kaminkow' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Kaminkow">Joe&nbsp;Kaminkow</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span>, <span title="Click here to perform a search for all pinball games that 'Markus&nbsp;Rothkranz' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Markus%20Rothkranz">Markus&nbsp;Rothkranz</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Liddon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Liddon">Jack&nbsp;Liddon</a></span>, <span title="Click here to perform a search for all pinball games that 'Kurt&nbsp;Andersen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kurt%20Andersen">Kurt&nbsp;Andersen</a></span>, <span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Melchionda' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Melchionda">Scott&nbsp;Melchionda</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tim&nbsp;Seckel' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tim%20Seckel">Tim&nbsp;Seckel</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Neil&nbsp;Falconer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Neil%20Falconer">Neil&nbsp;Falconer</a></span>, <span title="Click here to perform a search for all pinball games that 'Orin&nbsp;Day' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Orin%20Day">Orin&nbsp;Day</a></span>, <span title="Click here to perform a search for all pinball games that 'Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lyman%20F.%20Sheats%20Jr.">Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>First <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> game was a narrow-body game.  Game kept changing as wrestlers left WWF for other organizations.  Many custom voice samples from wrestlers.<br><br>Included in this listing are pictures of an Early Production game. The apparent differences from later production games are itemized below, and seem to be evident in the flyer:<br><br>1) The plastic above the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> in the upper left <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> indicates 'Lite <a target="glossary" class="glossarylink" href="/glossary.php#Mode">Mode</a> Start' instead of 'Banzai'.<br>2) The wide plastic along the back wall of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> does not have the yellow banner indicating 'Let's Rumble'.<br>3) The mini-playfield has the text 'Increase Jackpot' on the wood above a red <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> instead of having the words 'Multi Ball' appearing directly on the red <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a>.<br><br>This Early Production example has mylar that was rough-cut. If this mylar was really hand-cut at the factory, it could indicate this machine was a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> of sorts. Its serial number was not obtained to assist in identification. This machine has French coin chutes possibly pointing to its first export destination.<br><br>Also pictured in this listing is a game identified by Orin Day as a Test Game, having the Early Production plastics as listed above and also having three large round <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnets</a> in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> area that were to activate during <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> was missing a bank of <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a> and three screw holes underneath showed the targets were once there but had been removed, with wires clipped, and aligned with the vacant hole were six factory dimples, each highlighted with a red marker pen. When we first showed the pictures to Orin, we asked him if this was an Early Production game and, if so, why were the <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnets</a> removed during production? He replied:<P style="padding-left:30px;"><I>My recollection is that early WWF games did have the mag<ignore>nets, like many DE games of that era. I know we removed them, pretty sure the reason was that they gave little bang for the buck in the game, especially with there already being a powerful <a target="glossary" class="glossarylink" href="/glossary.php#Shaker_Motor">shaker&nbsp;motor</a> on board. Looking at those pictures the red Sharpie by the missing stand-up targets makes me suspect that this was a test game, one of the first five or six made, but that's just a hunch. I am pretty sure that the mag<ignore>net code was present in the CPU software but I don't have the game code or display code to check for sure. And silly me, I don't own a WWF. :) I agree that the plastic changes indicate that it was at least one of the first 100 games. Quite often our earliest test games had "homemade" lettering on some ra<ignore>mp signs, but they were usually updated when they came back to our shop.<br><br>My recollection also is that due to some weird Japanese import law we had to have the same number of mag<ignore>nets and motors in every game for that year, so Japanese games might have had the mag<ignore>nets somewhere (maybe not on the play<ignore>field, but at least in the cab<ignore>inet - they didn't care about game features or not, just the total count).<br><br>We could know for sure [that this is a Test Game] if we could see the manufacture date on the back of the back<ignore>box or cab<ignore>inet, there is usually a dated sticker. Though sometimes those test games would come back, sit for a while, and then get a sticker with a date later than the production run! That would also be a dead giveaway.</i><br></P><br>If Orin's second recollection is correct, then there may be games that had exported to Japan with uninstalled <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnets</a> packed inside the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> even if there was no easy way to subsequently wire them to the finished <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> or to activate any nascent software coding for them, if the coding was not already excised before exportation. We assume the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> underside would have had the large round cut-outs for these <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnets</a>, like the example shown in this listing of a blank <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> that has them. Research would be needed to investigate these assumptions. <br><br>Separate from the Test Game, Orin also commented on the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> <a target="glossary" class="glossarylink" href="/glossary.php#Translite">translite</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, shown in this listing courtesy of the <i>PinGame Journal</i>:<P style="padding-left:30px;"><I>These are pictures of a true proto<ignore>type cab<ignore>inet and back<ignore>glass artwork. That first whitewood game was a narrow-body pinball but all the wrestlers were steroid-inflated wide<ignore>bodies. Some steroid scandal hit and WWF made DE redo the artwork so the wrestlers were more sleek, while in the meantime we decided the market needed more widebo<ignore>dy pinballs. There was line art done for the narrow bo<ignore>dy play<ignore>field but there was never a screened play<ignore>field, just a whitewood, and I don't think it was ever actually built up and playable.</i><br></P><br>We previously listed the Manufacture Date as May, 1994.<br>This game was produced from Apr-11-1994 to Jun-17-1994.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"(Various features) all combine to make WWFRR the main event for street and arcade championship collections! We needed more space to contain this cage match of pinball mayhem."<br>
+"WWF Royal Rumble is sure to beat the competition and be the heavyweight champ!"<br>
+"Lets get ready to rumble!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 240<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, pages 182-183<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2820/WWF.HTM" target="rulesheet">WWF Royal Rumble Rulesheet Version 3.0 (Jul/10/1994), by Michael Dunn</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2820">http://www.pinballowners.com/owners/2820</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 269 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/Data_East_1994_WWF_Royal_Rumble_French_Game_and_Display_ROMs.zip" >French Game and Display ROMs</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 267 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/wwfr_103.zip" >PinMAME Romset (1.03)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/wwfr_106.zip" >PinMAME Romset (1.06)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/Data_East_1994_WWF_Royal_Rumble_ROMs_A1_01.zip" >ROMs A1.01</a></td><td> [Data East USA, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/WWF_Royal_Rumble.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Data East Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/Data_East_1994_WWF_Royal_Rumble_German_Manual.pdf" onClick="return purchasemanual();">German Manual</a></td><td> [Data East USA, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 154 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/Data_East_WWF_Royal_Rumble_755_5053_00.pdf" >Instruction Card</a></td><td> [Data East (Stern)]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 536 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2820/Data_East_1994_WWF_Royal_Rumble_Reproduction_Score_and_Instruction_Cards_Including_Dutch.zip" >Reproduction Score and Instruction Cards (Including Dutch)</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=3252" 
+><span title="Image # 3252: WWF Royal Rumble Flyer, Front "><img src="https://www.ipdb.org/images/2820/tn_2820f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3252: WWF Royal Rumble Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">605x788</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=3253" 
+><span title="Image # 3253: WWF Royal Rumble Flyer, Back "><img src="https://www.ipdb.org/images/2820/tn_2820f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3253: WWF Royal Rumble Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">606x787</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=13771" 
+><span title="Image # 13771: WWF Royal Rumble Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 13771: WWF Royal Rumble Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Wietse Boonstra]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=13772" 
+><span title="Image # 13772: WWF Royal Rumble Backbox "><img src="https://www.ipdb.org/images/2820/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 13772: WWF Royal Rumble Backbox "><br>Backbox</span></a><br><font size="-2">866x768</font><br>[Wietse Boonstra]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=17735" 
+><span title="Image # 17735: WWF Royal Rumble Cabinet - Right "><img src="https://www.ipdb.org/images/2820/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17735: WWF Royal Rumble Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Jonathan Sanovsky]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=17736" 
+><span title="Image # 17736: WWF Royal Rumble Cabinet - Front View "><img src="https://www.ipdb.org/images/2820/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17736: WWF Royal Rumble Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">960x1280</font><br>[Jonathan Sanovsky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=17737" 
+><span title="Image # 17737: WWF Royal Rumble Cabinet - Left "><img src="https://www.ipdb.org/images/2820/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 17737: WWF Royal Rumble Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x890</font><br>[Jonathan Sanovsky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=17738" 
+><span title="Image # 17738: WWF Royal Rumble Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17738: WWF Royal Rumble Playfield "><br>Playfield</span></a><br><font size="-2">960x1280</font><br>[Jonathan Sanovsky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22156" 
+><span title="Image # 22156: WWF Royal Rumble Upper Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22156: WWF Royal Rumble Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22157" 
+><span title="Image # 22157: WWF Royal Rumble Middle Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22157: WWF Royal Rumble Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22158" 
+><span title="Image # 22158: WWF Royal Rumble Lower Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22158: WWF Royal Rumble Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22159" 
+><span title="Image # 22159: WWF Royal Rumble Cabinet - Left "><img src="https://www.ipdb.org/images/2820/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22159: WWF Royal Rumble Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22160" 
+><span title="Image # 22160: WWF Royal Rumble Mini Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22160: WWF Royal Rumble Mini Playfield "><br>Mini Playfield</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22161" 
+><span title="Image # 22161: WWF Royal Rumble Playfield - Detail "><img src="https://www.ipdb.org/images/2820/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22161: WWF Royal Rumble Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22162" 
+><span title="Image # 22162: WWF Royal Rumble Playfield - Detail "><img src="https://www.ipdb.org/images/2820/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22162: WWF Royal Rumble Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22163" 
+><span title="Image # 22163: WWF Royal Rumble Playfield - Detail "><img src="https://www.ipdb.org/images/2820/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22163: WWF Royal Rumble Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22164" 
+><span title="Image # 22164: WWF Royal Rumble Playfield - Detail "><img src="https://www.ipdb.org/images/2820/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22164: WWF Royal Rumble Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22165" 
+><span title="Image # 22165: WWF Royal Rumble Playfield - Detail "><img src="https://www.ipdb.org/images/2820/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22165: WWF Royal Rumble Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22166" 
+><span title="Image # 22166: WWF Royal Rumble Playfield - Ball View "><img src="https://www.ipdb.org/images/2820/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22166: WWF Royal Rumble Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22167" 
+><span title="Image # 22167: WWF Royal Rumble Playfield - Ball View "><img src="https://www.ipdb.org/images/2820/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22167: WWF Royal Rumble Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=22168" 
+><span title="Image # 22168: WWF Royal Rumble Playfield - Ball View "><img src="https://www.ipdb.org/images/2820/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22168: WWF Royal Rumble Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">572x428</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=36820" 
+><span title="Image # 36820: WWF Royal Rumble Backbox Topper - Front "><img src="https://www.ipdb.org/images/2820/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 36820: WWF Royal Rumble Backbox Topper - Front "><br>Backbox Topper - Front</span></a><br><font size="-2">588x364</font><br>[Jon Hoffman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=36821" 
+><span title="Image # 36821: WWF Royal Rumble Backbox Topper - Back "><img src="https://www.ipdb.org/images/2820/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 36821: WWF Royal Rumble Backbox Topper - Back "><br>Backbox Topper - Back</span></a><br><font size="-2">588x364</font><br>[Jon Hoffman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=36822" 
+><span title="Image # 36822: WWF Royal Rumble Backbox Topper "><img src="https://www.ipdb.org/images/2820/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36822: WWF Royal Rumble Backbox Topper "><br>Backbox Topper</span></a><br><font size="-2">640x480</font><br>[Jon Hoffman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=36823" 
+><span title="Image # 36823: WWF Royal Rumble Mini-Playfield 
+(This was described as original stock.)"><img src="https://www.ipdb.org/images/2820/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 36823: WWF Royal Rumble Mini-Playfield 
+(This was described as original stock.)"><br>Mini-Playfield*</span></a><br><font size="-2">1024x1253</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=36824" 
+><span title="Image # 36824: WWF Royal Rumble Under Mini-Playfield 
+(This was described as original stock.)"><img src="https://www.ipdb.org/images/2820/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36824: WWF Royal Rumble Under Mini-Playfield 
+(This was described as original stock.)"><br>Under Mini-Playfield*</span></a><br><font size="-2">1024x1366</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=36825" 
+><span title="Image # 36825: WWF Royal Rumble Under Mini-Playfield 
+(This was described as original stock.)"><img src="https://www.ipdb.org/images/2820/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 36825: WWF Royal Rumble Under Mini-Playfield 
+(This was described as original stock.)"><br>Under Mini-Playfield*</span></a><br><font size="-2">1024x835</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=41953" 
+><span title="Image # 41953: WWF Royal Rumble Early Production Playfield 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41953: WWF Royal Rumble Early Production Playfield 
+(The serial number of this game was not recorded.)"><br>Early Production Playfield*</span></a><br><font size="-2">1200x900</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=41954" 
+><span title="Image # 41954: WWF Royal Rumble Early Production Upper Playfield 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41954: WWF Royal Rumble Early Production Upper Playfield 
+(The serial number of this game was not recorded.)"><br>Early Production Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=41955" 
+><span title="Image # 41955: WWF Royal Rumble Early Production Mini-Playfield 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41955: WWF Royal Rumble Early Production Mini-Playfield 
+(The serial number of this game was not recorded.)"><br>Early Production Mini-Playfield*</span></a><br><font size="-2">1200x900</font><br>[Jasper van Eeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=47606" 
+><span title="Image # 47606: WWF Royal Rumble Prototype Cabinet 
+(Photographed in the Data East R&D Department.)"><img src="https://www.ipdb.org/images/2820/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 47606: WWF Royal Rumble Prototype Cabinet 
+(Photographed in the Data East R&D Department.)"><br>Prototype Cabinet*</span></a><br><font size="-2">1024x673</font><br>[The PinGame Journal]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=47607" 
+><span title="Image # 47607: WWF Royal Rumble Prototype Translite 
+(Photographed in the Data East R&D Department.)"><img src="https://www.ipdb.org/images/2820/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 47607: WWF Royal Rumble Prototype Translite 
+(Photographed in the Data East R&D Department.)"><br>Prototype Translite*</span></a><br><font size="-2">1024x667</font><br>[The PinGame Journal]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=49420" 
+><span title="Image # 49420: WWF Royal Rumble Behind Backglass "><img src="https://www.ipdb.org/images/2820/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 49420: WWF Royal Rumble Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">922x900</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=49421" 
+><span title="Image # 49421: WWF Royal Rumble Under Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 49421: WWF Royal Rumble Under Playfield "><br>Under Playfield</span></a><br><font size="-2">552x800</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=49422" 
+><span title="Image # 49422: WWF Royal Rumble Under Upper Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49422: WWF Royal Rumble Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=49423" 
+><span title="Image # 49423: WWF Royal Rumble Under Lower Playfield "><img src="https://www.ipdb.org/images/2820/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49423: WWF Royal Rumble Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=49424" 
+><span title="Image # 49424: WWF Royal Rumble Inside Cabinet - Detail "><img src="https://www.ipdb.org/images/2820/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49424: WWF Royal Rumble Inside Cabinet - Detail "><br>Inside Cabinet - Detail</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=49425" 
+><span title="Image # 49425: WWF Royal Rumble Shaker Motor "><img src="https://www.ipdb.org/images/2820/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49425: WWF Royal Rumble Shaker Motor "><br>Shaker Motor</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=52718" 
+><span title="Image # 52718: WWF Royal Rumble lluminated Prototype Translite "><img src="https://www.ipdb.org/images/2820/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 52718: WWF Royal Rumble lluminated Prototype Translite "><br>lluminated Prototype Translite</span></a><br><font size="-2">1200x1708</font><br>[Scott Ross]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=54995" 
+><span title="Image # 54995: WWF Royal Rumble Backglass "><img src="https://www.ipdb.org/images/2820/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 54995: WWF Royal Rumble Backglass "><br>Backglass</span></a><br><font size="-2">1024x864</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=54996" 
+><span title="Image # 54996: WWF Royal Rumble Backbox - Left "><img src="https://www.ipdb.org/images/2820/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=35 height=100 alt="Image # 54996: WWF Royal Rumble Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">565x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=54997" 
+><span title="Image # 54997: WWF Royal Rumble Cabinet - Right "><img src="https://www.ipdb.org/images/2820/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 54997: WWF Royal Rumble Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x467</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=54998" 
+><span title="Image # 54998: WWF Royal Rumble Cabinet - Front "><img src="https://www.ipdb.org/images/2820/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 54998: WWF Royal Rumble Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x656</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=54999" 
+><span title="Image # 54999: WWF Royal Rumble Cabinet - Front View "><img src="https://www.ipdb.org/images/2820/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 54999: WWF Royal Rumble Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">835x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55003" 
+><span title="Image # 55003: WWF Royal Rumble Blank Playfield - Cut For Magnets 
+(This is a widebody playfield cut on its underside for the proposed installation of three magnets.)"><img src="https://www.ipdb.org/images/2820/tn_image-A36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 55003: WWF Royal Rumble Blank Playfield - Cut For Magnets 
+(This is a widebody playfield cut on its underside for the proposed installation of three magnets.)"><br>Blank Playfield - Cut For Magnets*</span></a><br><font size="-2">1200x2007</font><br>[Scott Ross]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55004" 
+><span title="Image # 55004: WWF Royal Rumble Blank Playfield - Cut For Magnets 
+(This is a widebody playfield cut for the proposed installation of three large magnets in the lower playfield area.)"><img src="https://www.ipdb.org/images/2820/tn_image-A35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 55004: WWF Royal Rumble Blank Playfield - Cut For Magnets 
+(This is a widebody playfield cut for the proposed installation of three large magnets in the lower playfield area.)"><br>Blank Playfield - Cut For Magnets*</span></a><br><font size="-2">1200x1802</font><br>[Scott Ross]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55204" 
+><span title="Image # 55204: WWF Royal Rumble Test Game - Illuminated Translite 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 55204: WWF Royal Rumble Test Game - Illuminated Translite 
+(The serial number of this game was not recorded.)"><br>Test Game - Illuminated Translite*</span></a><br><font size="-2">469x589</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55205" 
+><span title="Image # 55205: WWF Royal Rumble Test Game - Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55205: WWF Royal Rumble Test Game - Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><br>Test Game - Playfield*</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55206" 
+><span title="Image # 55206: WWF Royal Rumble Test Game - Illuminated Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55206: WWF Royal Rumble Test Game - Illuminated Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><br>Test Game - Illuminated Playfield*</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55207" 
+><span title="Image # 55207: WWF Royal Rumble Test Game - Upper Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55207: WWF Royal Rumble Test Game - Upper Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><br>Test Game - Upper Playfield*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55208" 
+><span title="Image # 55208: WWF Royal Rumble Test Game - Lower Playfield 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55208: WWF Royal Rumble Test Game - Lower Playfield 
+(The serial number of this game was not recorded.)"><br>Test Game - Lower Playfield*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55209" 
+><span title="Image # 55209: WWF Royal Rumble Test Game - Cabinet - Left 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 55209: WWF Royal Rumble Test Game - Cabinet - Left 
+(The serial number of this game was not recorded.)"><br>Test Game - Cabinet - Left*</span></a><br><font size="-2">585x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55210" 
+><span title="Image # 55210: WWF Royal Rumble Test Game - Cabinet - Right 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 55210: WWF Royal Rumble Test Game - Cabinet - Right 
+(The serial number of this game was not recorded.)"><br>Test Game - Cabinet - Right*</span></a><br><font size="-2">607x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55211" 
+><span title="Image # 55211: WWF Royal Rumble Test Game - Illuminated Front View 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 55211: WWF Royal Rumble Test Game - Illuminated Front View 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><br>Test Game - Illuminated Front View*</span></a><br><font size="-2">415x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55212" 
+><span title="Image # 55212: WWF Royal Rumble Test Game - Inside Backbox 
+(The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55212: WWF Royal Rumble Test Game - Inside Backbox 
+(The serial number of this game was not recorded.)"><br>Test Game - Inside Backbox*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55213" 
+><span title="Image # 55213: WWF Royal Rumble Test Game - Magnets Under Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 55213: WWF Royal Rumble Test Game - Magnets Under Playfield 
+(Three T-A-G targets are missing. The serial number of this game was not recorded.)"><br>Test Game - Magnets Under Playfield*</span></a><br><font size="-2">527x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55214" 
+><span title="Image # 55214: WWF Royal Rumble Test Game - Under Playfield - Detail 
+(A pop bumper coil is missing its support bracket. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55214: WWF Royal Rumble Test Game - Under Playfield - Detail 
+(A pop bumper coil is missing its support bracket. The serial number of this game was not recorded.)"><br>Test Game - Under Playfield - Detail*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2820&amp;picno=55215" 
+><span title="Image # 55215: WWF Royal Rumble Test Game - Missing Targets 
+(Three T-A-G targets are missing and their wires are clipped. The serial number of this game was not recorded.)"><img src="https://www.ipdb.org/images/2820/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55215: WWF Royal Rumble Test Game - Missing Targets 
+(Three T-A-G targets are missing and their wires are clipped. The serial number of this game was not recorded.)"><br>Test Game - Missing Targets*</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

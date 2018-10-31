@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Keeney 'Birdland'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Keeney Birdland Flipperless 1 or 2 balls per play (operator option). Pop bumpers (3), Passive bumpers (6). The backglass does not slide out of the backbox like other similar Keeney games. It is accessed by lowering the backboard inside back of game. Both the playfield and playfield glass are removed from the back. Another difference from those other games is that this one has a 4-digit replay counter.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Keeney 'Birdland' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Birdland</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5747">Birdland</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5747">5747</a> <I>/ 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5747" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Keeney'"><a href="search.pl?searchtype=advanced&amp;mfgid=162">J. H. Keeney and Company Incorporated, <font size="-1">of Chicago, Illinois, USA</font> (1934-1964)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5747">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Aviary - Birds - Boats - Sailing - Water</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>1 or 2 balls per play (operator option). <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (6). The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> does not slide out of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> like other similar Keeney games. It is accessed by lowering the backboard inside back of game. Both the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> glass are removed from the back. Another difference from those other games is that this one has a 4-digit <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> counter.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>No Panascope projection unit at top of <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> side art is the same as that of <span title="Click here to open a new window and display Keeney's 1961 'Startime'"><a target="game3400" href="machine.cgi?id=3400">Keeney's 1961 'Startime'</a></span>.<br><br>Depositing a coin at start of game requires pushing the start button to begin play and raises the ball to the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The lit payout odds will stay at position one and the three rows of symbols at far right will flash and stop, lighting either a winning or non-winning sequence. Inserting additional coins will register games on the <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> counter. Again pushing the start button will flash the symbols. Player would then keep pushing the start button until a winning sequence is displayed. Player must now shoot the ball and register enough points as noted on the score card to actually "Win" the game. A lit "Wild" symbol lights all symbols in that row.<br><br>Game has dual cash boxes. Both cashboxes are accessible to the <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> through the front door. The smaller cashbox is accessible to the location owner and would contain his "take" of the games coins as determined by the adjustable step unit in the front door area. For example, a "2 to 1" plug-in setting would be a "50-50" split causing every other coin inserted into the game to be diverted by a relay that kicks the coin over to the location owner's cashbox. The location owner would have a key to the access door to collect his take and always have coins on hand for players.<br><br>The earliest Billboard ad we found was dated Apr-7-1962, page 100. It was advertised in a list of reconditioned games, which may or may not mean that it had been available awhile.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> artist has not been confirmed by us, but the style strongly resembles that of popular Gottlieb artist Charles Leroy Parker. Interestingly, "Birdland" was also a New York City jazz club, named for musician and composer Charlie Parker. The club operated from 1949 to 1965.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57007" 
+><span title="Image # 57007: Birdland 2-Ball Play - After 1st Ball 
+(No replays can be won. Second ball has not been played.)"><img src="https://www.ipdb.org/images/5747/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57007: Birdland 2-Ball Play - After 1st Ball 
+(No replays can be won. Second ball has not been played.)"><br>2-Ball Play - After 1st Ball*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57008" 
+><span title="Image # 57008: Birdland 2-Ball Play - After 1st Ball 
+(Fourteen replays can be won with high score. Second ball has not been played.)"><img src="https://www.ipdb.org/images/5747/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57008: Birdland 2-Ball Play - After 1st Ball 
+(Fourteen replays can be won with high score. Second ball has not been played.)"><br>2-Ball Play - After 1st Ball*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57009" 
+><span title="Image # 57009: Birdland 2-Ball Play - After 2nd Ball 
+(Game over. Final score of 170 was not high enough to award the 14 replays associated with the earned combination.)"><img src="https://www.ipdb.org/images/5747/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57009: Birdland 2-Ball Play - After 2nd Ball 
+(Game over. Final score of 170 was not high enough to award the 14 replays associated with the earned combination.)"><br>2-Ball Play - After 2nd Ball*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57010" 
+><span title="Image # 57010: Birdland Backglass - Detail "><img src="https://www.ipdb.org/images/5747/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57010: Birdland Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57011" 
+><span title="Image # 57011: Birdland Backglass - Detail "><img src="https://www.ipdb.org/images/5747/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57011: Birdland Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57012" 
+><span title="Image # 57012: Birdland Illuminated Playfield "><img src="https://www.ipdb.org/images/5747/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 57012: Birdland Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1091x1593</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57013" 
+><span title="Image # 57013: Birdland Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/5747/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57013: Birdland Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57014" 
+><span title="Image # 57014: Birdland Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/5747/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 57014: Birdland Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1100x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57015" 
+><span title="Image # 57015: Birdland Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/5747/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 57015: Birdland Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1027x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57016" 
+><span title="Image # 57016: Birdland Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/5747/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 57016: Birdland Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1101x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57017" 
+><span title="Image # 57017: Birdland Playfield - Detail "><img src="https://www.ipdb.org/images/5747/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57017: Birdland Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57018" 
+><span title="Image # 57018: Birdland Playfield - Detail "><img src="https://www.ipdb.org/images/5747/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57018: Birdland Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57019" 
+><span title="Image # 57019: Birdland Score Card - 1-Ball Play 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57019: Birdland Score Card - 1-Ball Play 
+(Serial number KE130.)"><br>Score Card - 1-Ball Play*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57020" 
+><span title="Image # 57020: Birdland Score Card - 2-Ball Play 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57020: Birdland Score Card - 2-Ball Play 
+(Serial number KE130.)"><br>Score Card - 2-Ball Play*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57021" 
+><span title="Image # 57021: Birdland Credit Light 
+(Until all replays have been played, the 'Press Button' light illuminates. Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 57021: Birdland Credit Light 
+(Until all replays have been played, the 'Press Button' light illuminates. Serial number KE130.)"><br>Credit Light*</span></a><br><font size="-2">1200x782</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57022" 
+><span title="Image # 57022: Birdland Cabinet - Left 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 57022: Birdland Cabinet - Left 
+(Serial number KE130.)"><br>Cabinet - Left*</span></a><br><font size="-2">886x840</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57023" 
+><span title="Image # 57023: Birdland Cabinet - Right 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 57023: Birdland Cabinet - Right 
+(Serial number KE130.)"><br>Cabinet - Right*</span></a><br><font size="-2">876x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57024" 
+><span title="Image # 57024: Birdland Coin Box Access Door 
+(The location owner would have the key to retrieve coins in the right-side cash box. Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 57024: Birdland Coin Box Access Door 
+(The location owner would have the key to retrieve coins in the right-side cash box. Serial number KE130.)"><br>Coin Box Access Door*</span></a><br><font size="-2">1100x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57025" 
+><span title="Image # 57025: Birdland Cabinet - Front View 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 57025: Birdland Cabinet - Front View 
+(Serial number KE130.)"><br>Cabinet - Front View*</span></a><br><font size="-2">875x1546</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57026" 
+><span title="Image # 57026: Birdland Cabinet - Front 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 57026: Birdland Cabinet - Front 
+(Serial number KE130.)"><br>Cabinet - Front*</span></a><br><font size="-2">1084x1163</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57027" 
+><span title="Image # 57027: Birdland Cabinet - Front 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57027: Birdland Cabinet - Front 
+(Serial number KE130.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57028" 
+><span title="Image # 57028: Birdland Dual Cash Boxes 
+(The cash box on the right is accessed by the location through a removable door on the right side of cabinet. The cash box on the left is shown incorrectly installed. Its coin deflector should be towards the front, underneath the coin mechanism. Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57028: Birdland Dual Cash Boxes 
+(The cash box on the right is accessed by the location through a removable door on the right side of cabinet. The cash box on the left is shown incorrectly installed. Its coin deflector should be towards the front, underneath the coin mechanism. Serial number KE130.)"><br>Dual Cash Boxes*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57029" 
+><span title="Image # 57029: Birdland Dual Cash Boxes 
+(The larger coin box measures 8 1/2 by 6 3/4 by 2 3/8 inches. The smaller one measures 7 1/2 by 6 3/4 by 1 1/2 inches. The slanted coin deflectors are positioned under the coin mechanism, but to show them here, the boxes are rotated 180 degrees from how they would sit inside the game. From the game with serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=51 alt="Image # 57029: Birdland Dual Cash Boxes 
+(The larger coin box measures 8 1/2 by 6 3/4 by 2 3/8 inches. The smaller one measures 7 1/2 by 6 3/4 by 1 1/2 inches. The slanted coin deflectors are positioned under the coin mechanism, but to show them here, the boxes are rotated 180 degrees from how they would sit inside the game. From the game with serial number KE130.)"><br>Dual Cash Boxes*</span></a><br><font size="-2">1143x582</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57030" 
+><span title="Image # 57030: Birdland Cabinet - Rear 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 57030: Birdland Cabinet - Rear 
+(Serial number KE130.)"><br>Cabinet - Rear*</span></a><br><font size="-2">754x1561</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57031" 
+><span title="Image # 57031: Birdland Inside Backbox 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 57031: Birdland Inside Backbox 
+(Serial number KE130.)"><br>Inside Backbox*</span></a><br><font size="-2">909x1600</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57032" 
+><span title="Image # 57032: Birdland Inside Back Door 
+(Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 57032: Birdland Inside Back Door 
+(Serial number KE130.)"><br>Inside Back Door*</span></a><br><font size="-2">1016x1598</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57033" 
+><span title="Image # 57033: Birdland Inspection Tag 
+(Tag is located on the inside of the back door. Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 57033: Birdland Inspection Tag 
+(Tag is located on the inside of the back door. Serial number KE130.)"><br>Inspection Tag*</span></a><br><font size="-2">1100x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57034" 
+><span title="Image # 57034: Birdland Inside Upper Backbox 
+(To remove the backglass, the white insert hinges downward. Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 57034: Birdland Inside Upper Backbox 
+(To remove the backglass, the white insert hinges downward. Serial number KE130.)"><br>Inside Upper Backbox*</span></a><br><font size="-2">1120x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57035" 
+><span title="Image # 57035: Birdland Serial Number 
+(Serial number KE130 is located at the upper lefr rear of cabinet.)"><img src="https://www.ipdb.org/images/5747/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57035: Birdland Serial Number 
+(Serial number KE130 is located at the upper lefr rear of cabinet.)"><br>Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5747&amp;picno=57036" 
+><span title="Image # 57036: Birdland Coin Divider Unit and Settings 
+(This unit determines the division of coins to be deposited in each of two cash boxes, one for the operator and one for the location. Serial number KE130.)"><img src="https://www.ipdb.org/images/5747/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57036: Birdland Coin Divider Unit and Settings 
+(This unit determines the division of coins to be deposited in each of two cash boxes, one for the operator and one for the location. Serial number KE130.)"><br>Coin Divider Unit and Settings*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

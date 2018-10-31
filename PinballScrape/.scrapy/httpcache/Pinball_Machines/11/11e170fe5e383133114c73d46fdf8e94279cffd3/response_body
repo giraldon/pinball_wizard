@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Top Hand'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Top Hand Add-A-Ball Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (7), 3-reel drum unit on playfield. Backglass light animation (playing cards light up). Illuminated backglass marquee. Drop-down cabinet.
+
+Maximum displayed point score is 9,999 points.
+
+Sound: bell, wooden chime box, knocker.  Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Top Hand' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Top Hand</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2581">Top Hand</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2581">2581</a> <I>/ April 26, 1966 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.7 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2581" target="showrate2581">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2581" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=350">Williams Electronic Manufacturing Company (1958-1967) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April 26, 1966</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>330</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,600 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2581">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>American West - Cards/Gambling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Add-A-Ball&nbsp;<a href="glossary.php#Add-A-Ball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (7), 3-reel drum unit on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (playing cards light up). Illuminated <a target="glossary" class="glossarylink" href="/glossary.php#Backglass_Marquee">backglass&nbsp;marquee</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Drop-down_cabinet">Drop-down&nbsp;cabinet</a>.<br><br>Maximum displayed point score is 9,999 points.<br><br>Sound: bell, wooden chime box, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> version is <span title="Click here to open a new window and display Williams' 1966 'Full House'"><a target="game961" href="machine.cgi?id=961">Williams' 1966 'Full House'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 209<br>
+The Pinball Compendium Electro-mechanical Era, page 153<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31583" 
+><span title="Image # 31583: Top Hand Backbox - Right "><img src="https://www.ipdb.org/images/2581/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 31583: Top Hand Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">491x1024</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31584" 
+><span title="Image # 31584: Top Hand Backbox - Left "><img src="https://www.ipdb.org/images/2581/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31584: Top Hand Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1024x1365</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31585" 
+><span title="Image # 31585: Top Hand Cabinet - Right "><img src="https://www.ipdb.org/images/2581/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31585: Top Hand Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31586" 
+><span title="Image # 31586: Top Hand Cabinet - Left "><img src="https://www.ipdb.org/images/2581/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31586: Top Hand Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31587" 
+><span title="Image # 31587: Top Hand Cabinet - Front "><img src="https://www.ipdb.org/images/2581/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 31587: Top Hand Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x649</font><br>[Dr. Gary Hecht]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31588" 
+><span title="Image # 31588: Top Hand Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31588: Top Hand Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31589" 
+><span title="Image # 31589: Top Hand Lower Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31589: Top Hand Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31590" 
+><span title="Image # 31590: Top Hand Upper Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31590: Top Hand Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31591" 
+><span title="Image # 31591: Top Hand Upper Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31591: Top Hand Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31592" 
+><span title="Image # 31592: Top Hand Upper Playfield Detail "><img src="https://www.ipdb.org/images/2581/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31592: Top Hand Upper Playfield Detail "><br>Upper Playfield Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31593" 
+><span title="Image # 31593: Top Hand Backglass "><img src="https://www.ipdb.org/images/2581/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 31593: Top Hand Backglass "><br>Backglass</span></a><br><font size="-2">1024x1036</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31594" 
+><span title="Image # 31594: Top Hand Backglass "><img src="https://www.ipdb.org/images/2581/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 31594: Top Hand Backglass "><br>Backglass</span></a><br><font size="-2">1024x1101</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31595" 
+><span title="Image # 31595: Top Hand Illuminated Backglass "><img src="https://www.ipdb.org/images/2581/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 31595: Top Hand Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1109</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31596" 
+><span title="Image # 31596: Top Hand Inside Cabinet "><img src="https://www.ipdb.org/images/2581/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31596: Top Hand Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31597" 
+><span title="Image # 31597: Top Hand Under Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31597: Top Hand Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Dr. Gary Hecht]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31598" 
+><span title="Image # 31598: Top Hand Card Mechanism - Detail "><img src="https://www.ipdb.org/images/2581/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31598: Top Hand Card Mechanism - Detail "><br>Card Mechanism - Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31599" 
+><span title="Image # 31599: Top Hand Inside Coin Door "><img src="https://www.ipdb.org/images/2581/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31599: Top Hand Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31600" 
+><span title="Image # 31600: Top Hand Playfield - Ball View "><img src="https://www.ipdb.org/images/2581/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31600: Top Hand Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31601" 
+><span title="Image # 31601: Top Hand Playfield - Ball View "><img src="https://www.ipdb.org/images/2581/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31601: Top Hand Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31602" 
+><span title="Image # 31602: Top Hand Card - Detail "><img src="https://www.ipdb.org/images/2581/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31602: Top Hand Card - Detail "><br>Card - Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31603" 
+><span title="Image # 31603: Top Hand Upper Right - Detail "><img src="https://www.ipdb.org/images/2581/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31603: Top Hand Upper Right - Detail "><br>Upper Right - Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31604" 
+><span title="Image # 31604: Top Hand Upper Left - Detail "><img src="https://www.ipdb.org/images/2581/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31604: Top Hand Upper Left - Detail "><br>Upper Left - Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31605" 
+><span title="Image # 31605: Top Hand Left Kicker - Detail "><img src="https://www.ipdb.org/images/2581/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31605: Top Hand Left Kicker - Detail "><br>Left Kicker - Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31606" 
+><span title="Image # 31606: Top Hand Right Kicker - Detail "><img src="https://www.ipdb.org/images/2581/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31606: Top Hand Right Kicker - Detail "><br>Right Kicker - Detail</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31607" 
+><span title="Image # 31607: Top Hand Inside Backbox 
+(The wooden box chime is missing is cover.)"><img src="https://www.ipdb.org/images/2581/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31607: Top Hand Inside Backbox 
+(The wooden box chime is missing is cover.)"><br>Inside Backbox*</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31608" 
+><span title="Image # 31608: Top Hand Inside Backbox 
+(The wooden box chime is missing is cover.)"><img src="https://www.ipdb.org/images/2581/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31608: Top Hand Inside Backbox 
+(The wooden box chime is missing is cover.)"><br>Inside Backbox*</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31609" 
+><span title="Image # 31609: Top Hand Score Card - 5 Ball Play "><img src="https://www.ipdb.org/images/2581/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31609: Top Hand Score Card - 5 Ball Play "><br>Score Card - 5 Ball Play</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31610" 
+><span title="Image # 31610: Top Hand Instruction Card "><img src="https://www.ipdb.org/images/2581/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31610: Top Hand Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=31611" 
+><span title="Image # 31611: Top Hand Instruction Card "><img src="https://www.ipdb.org/images/2581/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31611: Top Hand Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x768</font><br>[Dr. Gary Hecht]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=38944" 
+><span title="Image # 38944: Top Hand Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 38944: Top Hand Playfield "><br>Playfield</span></a><br><font size="-2">736x1364</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=70172" 
+><span title="Image # 70172: Top Hand Illuminated Backglass "><img src="https://www.ipdb.org/images/2581/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70172: Top Hand Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=70173" 
+><span title="Image # 70173: Top Hand Illuminated Playfield "><img src="https://www.ipdb.org/images/2581/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70173: Top Hand Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=70174" 
+><span title="Image # 70174: Top Hand Score Card - 5 Ball Play "><img src="https://www.ipdb.org/images/2581/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 70174: Top Hand Score Card - 5 Ball Play "><br>Score Card - 5 Ball Play</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=70175" 
+><span title="Image # 70175: Top Hand Cabinet - Right "><img src="https://www.ipdb.org/images/2581/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 70175: Top Hand Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x975</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=70176" 
+><span title="Image # 70176: Top Hand Cabinet - Front View 
+(The coin door is missing its coin entry plate and the hole and been blocked with a metal plate.)"><img src="https://www.ipdb.org/images/2581/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70176: Top Hand Cabinet - Front View 
+(The coin door is missing its coin entry plate and the hole and been blocked with a metal plate.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2581&amp;picno=70177" 
+><span title="Image # 70177: Top Hand Cabinet - Front View 
+(Full House is the replay model. The coin door on the right is missing its coin entry plate and the hole and been blocked with a metal plate.)"><img src="https://www.ipdb.org/images/2581/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70177: Top Hand Cabinet - Front View 
+(Full House is the replay model. The coin door on the right is missing its coin entry plate and the hole and been blocked with a metal plate.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

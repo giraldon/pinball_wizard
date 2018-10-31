@@ -1,0 +1,234 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Zaccaria 'Devil Riders'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Zaccaria Devil Riders Mechanical Backbox Animation Four pop bumpers, two playfields and six flippers (two on the main playfield, two on the upper transparent playfield, and two 'React' flippers to flip the ball back up from the outlanes). Elevated ball shooter lane. Backglass animation (a motorcycle performs loops each time the ball enters the upper playfield).
+
+Ramps leading to the upper playfield are elevated above ball level by drop targets underneath. When the drop targets are knocked down, the ramps fall to playfield level allowing the ball to enter.
+
+Backbox has a neon tube behind the backglass, around the outside edge of the glass between the outer backglass and the formed, painted, and molded plastic inner artwork.  Lorenzo Rimondini ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Zaccaria 'Devil Riders' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Devil Riders</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="672">Devil Riders</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=672">672</a> <I>/ April, 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=672" target="showrate672"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=672" target="showrate672">23 ratings/16 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=672" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Zaccaria'"><a href="search.pl?searchtype=advanced&amp;mfgid=356">Zaccaria, <font size="-1">of Bologna, Italy</font> (1974-1987)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=36">Zaccaria Generation 2</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=672">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Stunt motorcycles</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Four <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumpers</a>, two <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> and six <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> (two on the main <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, two on the upper <a target="glossary" class="glossarylink" href="/glossary.php#Transparent">transparent</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, and two "React" <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> to flip the ball back up from the outlanes). Elevated ball shooter lane. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (a motorcycle performs loops each time the ball enters the upper playfield).<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> leading to the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> are elevated above ball level by <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> underneath. When the <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> are knocked down, the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> fall to <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> level allowing the ball to enter.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> has a neon tube behind the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, around the outside edge of the glass between the outer <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and the formed, painted, and molded plastic inner artwork.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Lorenzo&nbsp;Rimondini' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lorenzo%20Rimondini">Lorenzo&nbsp;Rimondini</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>It uses a 1B1165/1 MPU, five 1B13123 (7 Digit) Display boards, a 1B11136/0 Sound board, a 1B1166 driver board, and a 1B11167/0 Power Supply board.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"When challenge makes men feel alive..."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 50, 230, 231, and 232<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 28 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/dvlrider.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 17 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/dvlrideg.zip" >PinMAME Romset (German)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 17 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/dvlridei.zip" >PinMAME Romset (Italian)</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 28 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/Zaccaria_1984_Devil_Riders_ROMs.zip" >ROMs</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 16 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/Zaccaria_1984_Devil_Riders_Sound_ROMs_Fr_zip.zip" >Sound ROMs - French</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 13 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/Zaccaria_1984_Devil_Riders_Manual.zip" >English Manual</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 23 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/Zaccaria_1984_Devil_Riders_Flyer_Large_Size.pdf" >Flyer - Large Size</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 70 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/Zaccaria_1984_Devil_Riders_Reproduction_Score_And_Instruction_Cards.zip" >Reproduction Score And Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/672/Zaccaria_1984_Devil_Riders_Schematics.zip" >Schematics</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=13079" 
+><span title="Image # 13079: Devil Riders Backglass "><img src="https://www.ipdb.org/images/672/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 13079: Devil Riders Backglass "><br>Backglass</span></a><br><font size="-2">719x630</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=13081" 
+><span title="Image # 13081: Devil Riders Cabinet "><img src="https://www.ipdb.org/images/672/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 13081: Devil Riders Cabinet "><br>Cabinet</span></a><br><font size="-2">569x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=15192" 
+><span title="Image # 15192: Devil Riders Ramps in Raised Position "><img src="https://www.ipdb.org/images/672/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15192: Devil Riders Ramps in Raised Position "><br>Ramps in Raised Position</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=15194" 
+><span title="Image # 15194: Devil Riders Playfield - Detail "><img src="https://www.ipdb.org/images/672/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15194: Devil Riders Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=16370" 
+><span title="Image # 16370: Devil Riders Backglass "><img src="https://www.ipdb.org/images/672/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16370: Devil Riders Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=16371" 
+><span title="Image # 16371: Devil Riders Playfield "><img src="https://www.ipdb.org/images/672/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16371: Devil Riders Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=16372" 
+><span title="Image # 16372: Devil Riders Upper Playfield "><img src="https://www.ipdb.org/images/672/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16372: Devil Riders Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=16373" 
+><span title="Image # 16373: Devil Riders Lower Playfield "><img src="https://www.ipdb.org/images/672/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16373: Devil Riders Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=16374" 
+><span title="Image # 16374: Devil Riders Full View "><img src="https://www.ipdb.org/images/672/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16374: Devil Riders Full View "><br>Full View</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=16375" 
+><span title="Image # 16375: Devil Riders Front View "><img src="https://www.ipdb.org/images/672/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16375: Devil Riders Front View "><br>Front View</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=21470" 
+><span title="Image # 21470: Devil Riders Front "><img src="https://www.ipdb.org/images/672/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 21470: Devil Riders Front "><br>Front</span></a><br><font size="-2">800x553</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=30522" 
+><span title="Image # 30522: Devil Riders Illuminated backglass "><img src="https://www.ipdb.org/images/672/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30522: Devil Riders Illuminated backglass "><br>Illuminated backglass</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37193" 
+><span title="Image # 37193: Devil Riders Backglass Animation - Detail "><img src="https://www.ipdb.org/images/672/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37193: Devil Riders Backglass Animation - Detail "><br>Backglass Animation - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37194" 
+><span title="Image # 37194: Devil Riders Backglass - Detail "><img src="https://www.ipdb.org/images/672/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37194: Devil Riders Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">768x1024</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37195" 
+><span title="Image # 37195: Devil Riders Upper Playfield "><img src="https://www.ipdb.org/images/672/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37195: Devil Riders Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37196" 
+><span title="Image # 37196: Devil Riders Playfield - Detail "><img src="https://www.ipdb.org/images/672/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37196: Devil Riders Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37197" 
+><span title="Image # 37197: Devil Riders Playfield - Detail "><img src="https://www.ipdb.org/images/672/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37197: Devil Riders Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37198" 
+><span title="Image # 37198: Devil Riders Playfield Plastics "><img src="https://www.ipdb.org/images/672/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37198: Devil Riders Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">638x846</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37199" 
+><span title="Image # 37199: Devil Riders Playfield Plastics "><img src="https://www.ipdb.org/images/672/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37199: Devil Riders Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">566x423</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37200" 
+><span title="Image # 37200: Devil Riders Playfield Plastics "><img src="https://www.ipdb.org/images/672/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 37200: Devil Riders Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">618x874</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37201" 
+><span title="Image # 37201: Devil Riders Playfield Plastic "><img src="https://www.ipdb.org/images/672/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 37201: Devil Riders Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">638x877</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37202" 
+><span title="Image # 37202: Devil Riders Playfield Plastic "><img src="https://www.ipdb.org/images/672/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 37202: Devil Riders Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">616x861</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=37203" 
+><span title="Image # 37203: Devil Riders Playfield Plastic 
+(This is a composite image of one continuous piece of plastic.)"><img src="https://www.ipdb.org/images/672/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 37203: Devil Riders Playfield Plastic 
+(This is a composite image of one continuous piece of plastic.)"><br>Playfield Plastic*</span></a><br><font size="-2">948x549</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=42827" 
+><span title="Image # 42827: Devil Riders Plexiglas Backglass "><img src="https://www.ipdb.org/images/672/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 42827: Devil Riders Plexiglas Backglass "><br>Plexiglas Backglass</span></a><br><font size="-2">1002x826</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=62184" 
+><span title="Image # 62184: Devil Riders Flyer - Front "><img src="https://www.ipdb.org/images/672/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 62184: Devil Riders Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">1200x1704</font><br>[Duncan Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=62185" 
+><span title="Image # 62185: Devil Riders Flyer - Inside Fold "><img src="https://www.ipdb.org/images/672/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 62185: Devil Riders Flyer - Inside Fold "><br>Flyer - Inside Fold</span></a><br><font size="-2">1200x843</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=62186" 
+><span title="Image # 62186: Devil Riders Flyer - Back "><img src="https://www.ipdb.org/images/672/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 62186: Devil Riders Flyer - Back "><br>Flyer - Back</span></a><br><font size="-2">1200x1700</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64106" 
+><span title="Image # 64106: Devil Riders Cardholder "><img src="https://www.ipdb.org/images/672/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64106: Devil Riders Cardholder "><br>Cardholder</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64107" 
+><span title="Image # 64107: Devil Riders Backbox - Left "><img src="https://www.ipdb.org/images/672/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 64107: Devil Riders Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">608x1200</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64108" 
+><span title="Image # 64108: Devil Riders Cabinet - Left "><img src="https://www.ipdb.org/images/672/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 64108: Devil Riders Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x768</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64109" 
+><span title="Image # 64109: Devil Riders Behind Backglass "><img src="https://www.ipdb.org/images/672/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64109: Devil Riders Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64110" 
+><span title="Image # 64110: Devil Riders Backbox Animation "><img src="https://www.ipdb.org/images/672/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64110: Devil Riders Backbox Animation "><br>Backbox Animation</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64111" 
+><span title="Image # 64111: Devil Riders Backbox Insert - Reverse "><img src="https://www.ipdb.org/images/672/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64111: Devil Riders Backbox Insert - Reverse "><br>Backbox Insert - Reverse</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64112" 
+><span title="Image # 64112: Devil Riders Inside Backbox "><img src="https://www.ipdb.org/images/672/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64112: Devil Riders Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64113" 
+><span title="Image # 64113: Devil Riders Under Upper Playfield "><img src="https://www.ipdb.org/images/672/tn_image-B5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64113: Devil Riders Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64114" 
+><span title="Image # 64114: Devil Riders Under Middle Playfield "><img src="https://www.ipdb.org/images/672/tn_image-B3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64114: Devil Riders Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64115" 
+><span title="Image # 64115: Devil Riders Under Lower Playfield "><img src="https://www.ipdb.org/images/672/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64115: Devil Riders Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=672&amp;picno=64116" 
+><span title="Image # 64116: Devil Riders Inside Cabinet "><img src="https://www.ipdb.org/images/672/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64116: Devil Riders Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

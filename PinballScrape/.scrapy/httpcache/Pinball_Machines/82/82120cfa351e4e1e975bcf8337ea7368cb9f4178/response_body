@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'SlugFest (First Model)'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams SlugFest (First Model) Bat Game Magnet under playfield affects the path of the pitched balls.
+
+This Model 60001 differs from the later game #5949 {Model 60021} as follows:
+1) The upper playfield 'Double' inserts are blue, not orange.
+2) The baseball diamond has white squares marking all three bases.
+3) Instructions are displayed on a red banner under the playfield glass.
+4) There are no instructions displayed on the playfield itself, although the lower playfield left and right plastics have holes for mounting metal holders for instruction and price cards.
+5) Foul line to first base has text SLUGFEST - 1991 WILLIAMS ELECTRONICS GAMES INC.
+6) The top edges of the cabinet are trimmed in red, not blue.
+7) Has the original Card Dispenser Assembly, part number A-14471.
+
+Patent #5,137,278 [AMUSEMENT DEVICE WITH TRADING CARD DISPENSER] filed March 14, 1991. Granted August 11, 1992 to Joseph Joos, John Krutsch, Mark D. Ritchie, Winston H. Schilling. Assignee is Williams Electronic Games, Inc.
+
+Patent #5,149,093 [AMUSEMENT DEVICE WITH TRADING CARD DISPENSER] filed January 9, 1992. Granted September 22, 1992 to Joseph Joos, John Krutsch, Mark D. Ritchie, Winston H. Schilling. Assignee is Williams Electronic Games, Inc.  Pat McMahon Linda Deal (aka Doane) Mark Ritchie John Tobias Bud Cosley Jack Skalon Win Schilling Paul Heitsch Bill Pfutzenreuter Paul Heitsch ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'SlugFest (First Model)' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>SlugFest (First Model)</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3281">SlugFest (First Model)</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3281">3281</a> <I>/ March, 1991 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=3281" target="showrate3281"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=3281" target="showrate3281">21 ratings/17 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3281" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>60001</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=27">Williams WPC (Dot Matrix)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3281">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Baseball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Bat Game&nbsp;<a href="glossary.php#Bat_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<!-- 5949 == Model 60021 -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Magnet">Magnet</a> under <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> affects the path of the pitched balls.<br><br>This Model 60001 differs from the later <a target="game5949" href="machine.cgi?id=5949">Model 60021</a> as follows:<br>1) The upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> "Double" <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> are blue, not orange.<br>2) The baseball diamond has white squares marking all three bases.<br>3) Instructions are displayed on a red banner under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> glass.<br>4) There are no instructions displayed on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> itself, although the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> left and right plastics have holes for mounting metal holders for instruction and price cards.<br>5) Foul line to first base has text SLUGFEST - 1991 WILLIAMS ELECTRONICS GAMES INC.<br>6) The top edges of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> are trimmed in red, not blue.<br>7) Has the original Card Dispenser Assembly, part number A-14471.<br><br>Patent #5,137,278 [AMUSEMENT DEVICE WITH TRADING CARD DISPENSER] filed March 14, 1991. Granted August 11, 1992 to Joseph Joos, John Krutsch, Mark D. Ritchie, Winston H. Schilling. Assignee is Williams Electronic Games, Inc.<br><br>Patent #5,149,093 [AMUSEMENT DEVICE WITH TRADING CARD DISPENSER] filed January 9, 1992. Granted September 22, 1992 to Joseph Joos, John Krutsch, Mark D. Ritchie, Winston H. Schilling. Assignee is Williams Electronic Games, Inc.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Ritchie">Mark&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pat&nbsp;McMahon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20McMahon">Pat&nbsp;McMahon</a></span>, <span title="Click here to perform a search for all pinball games that 'Linda&nbsp;Deal&nbsp;(aka&nbsp;Doane)' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Linda%20Deal%20%28aka%20Doane%29">Linda&nbsp;Deal&nbsp;(aka&nbsp;Doane)</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Tobias' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Tobias">John&nbsp;Tobias</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bud&nbsp;Cosley' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bud%20Cosley">Bud&nbsp;Cosley</a></span>, <span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Skalon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Skalon">Jack&nbsp;Skalon</a></span>, <span title="Click here to perform a search for all pinball games that 'Win&nbsp;Schilling' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Win%20Schilling">Win&nbsp;Schilling</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Pfutzenreuter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Pfutzenreuter">Bill&nbsp;Pfutzenreuter</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Williams Parts Catalog Supplement #16-9190-B states "All parts & assemblies for Slugfest 2 (60021) are identical to Slugfest (60001) except for the Card Dispenser Assembly." However, additional differences have been identified and are itemized elsewhere in this listing.<br><br>During production of Model 60001, the screen assembly at rear of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> was modified, beginning with game serial number 730516.<br><br>Bill "Pfutz" Pfutzenreuter told us he programmed this game almost entirely on a blank switch and lamp matrix. With the game almost done except for the sound effects, he left for vacation, leaving instructions for what sounds should be put on what hex codes. The sound guy [not confirmed as Paul Heitsch] just filled them in and the game automatically used them. Pfutz had only a few bugs to fix upon his return.<br><br>This game was sold with either a baseball card dispenser or a standard ticket dispenser (per Mark Ritchie in <I>The Pinball Compendium 1982-Present</I>, page 142.)<br><br>Mark Ritchie told us that with the original card dispenser, cards would come out the front of the unit and drop to the floor. To prevent that, it was decided after the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a> were built to add a hopper or "card catcher" under the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, and on production games the cards would be dispensed from under the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> into that hopper.<br><br>A VHS videotape (length 09:30) was supplied by Williams, reportedly for required viewing by pinball distributors, introducing the <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> and the game.<br><br>See also:<br><br>Model 60021 aka "SLUGFEST 2" - <span title="Click here to open a new window and display Williams' 1991 'SlugFest (Second Model)'"><a target="game5949" href="machine.cgi?id=5949">Williams' 1991 'SlugFest (Second Model)'</a></span><br><br>Model 60121 aka "SLUGFEST92" - <span title="Click here to open a new window and display Williams' 'SlugFest (Third Model)'"><a target="game6023" href="machine.cgi?id=6023">Williams' 'SlugFest (Third Model)'</a></span><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 142<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/3281">http://www.pinballowners.com/owners/3281</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 464 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3281/Williams_1991_SlugFest_Game_ROM_L_1.zip" >Game ROM L-1</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 460 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3281/sf_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 80 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3281/Williams_1991_SlugFest_Manual_Amendments_1_through_4_undated.pdf" onClick="return purchasemanual();">Manual Amendments 1 through 4 (undated)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3281/Williams_1991_SlugFest_First_Model_Operations_Manual_April_1991_with_paginated_schematics.pdf" onClick="return purchasemanual();">Operations Manual (April 1991, with paginated schematics)</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3281/Williams_1991_SlugFest_First_Model_Parts_Catalog_Supplement_16_9190_B_selected_pages.pdf" onClick="return purchasemanual();">Parts Catalog Supplement #16-9190-B (selected pages)</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 127 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3281/Williams_1991_SlugFest_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9829" 
+><span title="Image # 9829: SlugFest (First Model) Cabinet - Front 
+(This game is missing its card catcher.)"><img src="https://www.ipdb.org/images/3281/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 9829: SlugFest (First Model) Cabinet - Front 
+(This game is missing its card catcher.)"><br>Cabinet - Front*</span></a><br><font size="-2">1024x836</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9830" 
+><span title="Image # 9830: SlugFest (First Model) Cabinet - Front View 
+(This game is missing its card catcher.)"><img src="https://www.ipdb.org/images/3281/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 9830: SlugFest (First Model) Cabinet - Front View 
+(This game is missing its card catcher.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1024x1750</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9831" 
+><span title="Image # 9831: SlugFest (First Model) Backbox "><img src="https://www.ipdb.org/images/3281/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 9831: SlugFest (First Model) Backbox "><br>Backbox</span></a><br><font size="-2">1024x833</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9832" 
+><span title="Image # 9832: SlugFest (First Model) Upper Playfield "><img src="https://www.ipdb.org/images/3281/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9832: SlugFest (First Model) Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9833" 
+><span title="Image # 9833: SlugFest (First Model) Playfield "><img src="https://www.ipdb.org/images/3281/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9833: SlugFest (First Model) Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9834" 
+><span title="Image # 9834: SlugFest (First Model) User Controls "><img src="https://www.ipdb.org/images/3281/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9834: SlugFest (First Model) User Controls "><br>User Controls</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9835" 
+><span title="Image # 9835: SlugFest (First Model) Cabinet - Left "><img src="https://www.ipdb.org/images/3281/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9835: SlugFest (First Model) Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9836" 
+><span title="Image # 9836: SlugFest (First Model) Backbox - Left "><img src="https://www.ipdb.org/images/3281/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9836: SlugFest (First Model) Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=9837" 
+><span title="Image # 9837: SlugFest (First Model) Cabinet - Left "><img src="https://www.ipdb.org/images/3281/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 9837: SlugFest (First Model) Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x874</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=27254" 
+><span title="Image # 27254: SlugFest (First Model) Inside Back Door "><img src="https://www.ipdb.org/images/3281/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27254: SlugFest (First Model) Inside Back Door "><br>Inside Back Door</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=27255" 
+><span title="Image # 27255: SlugFest (First Model) Under Playfield "><img src="https://www.ipdb.org/images/3281/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27255: SlugFest (First Model) Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=27256" 
+><span title="Image # 27256: SlugFest (First Model) Bat Mechanism "><img src="https://www.ipdb.org/images/3281/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27256: SlugFest (First Model) Bat Mechanism "><br>Bat Mechanism</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=27257" 
+><span title="Image # 27257: SlugFest (First Model) Inside Cabinet "><img src="https://www.ipdb.org/images/3281/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27257: SlugFest (First Model) Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3281&amp;picno=65284" 
+><span title="Image # 65284: SlugFest (First Model) Lower Playfield - Downfield View 
+(Serial number 730631.)"><img src="https://www.ipdb.org/images/3281/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 65284: SlugFest (First Model) Lower Playfield - Downfield View 
+(Serial number 730631.)"><br>Lower Playfield - Downfield View*</span></a><br><font size="-2">1200x677</font><br>[Jay Stafford]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

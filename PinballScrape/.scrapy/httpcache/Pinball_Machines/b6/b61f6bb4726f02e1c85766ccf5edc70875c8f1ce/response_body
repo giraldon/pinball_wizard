@@ -1,0 +1,230 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: RMG 'Space Orbit!'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game RMG Space Orbit! Add-A-Ball Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (7), Star rollovers (6), Vari-target (1), Kick-out hole (1).
+
+Maximum displayed point score is 1,999,990 points.
+
+Sound: 3 chimes, knocker.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for RMG 'Space Orbit!' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Space Orbit!</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5458">Space Orbit!</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5458">5458</a> <I>/ 1972 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.4 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=5458" target="showrate5458">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5458" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'RMG'"><a href="search.pl?searchtype=advanced&amp;mfgid=359">Renato Montanari Giochi, <font size="-1">of Bologna, Italy</font> <i>[Trade Name: R.M.G.</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1972</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5458">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Add-A-Ball&nbsp;<a href="glossary.php#Add-A-Ball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (7), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1).<br><br>Maximum displayed point score is 1,999,990 points.<br><br>Sound: 3 chimes, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<!-- 2255 == 'Space Orbit!' -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>A copy of the 1972 Gottlieb <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> <a target="game2255" href="machine.cgi?id=2255">'Space Orbit!'</a>.<br><br>The owner of the game with serial number 05074 (pictured here) found its "WOW" feature was inoperative. Using a wiring diagram from <span title="Click here to open a new window and display Gottlieb's 1972 'Space Orbit'"><a target="game2255" href="machine.cgi?id=2255">Gottlieb's 1972 'Space Orbit'</a></span>, it was discovered that a 350 Mfd Capacitor and a 20 Ohm Resistor were not factory-installed, thus that feature had never worked. The two wires for these missing components had been soldered to ring terminals and screwed to the underside of the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> near the switch bank. There was no ground wire nearby for them. To fix this, the missing components were placed per the wiring diagram, and the required ground wire was run from the nearby <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a>. The "WOW" feature then worked correctly. <br><br>Incidentally, the relay hardware is stamped 'Gottlieb' but the <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coils</a> are branded by the manufacturer, indicating "R. Montanari, Bologna". Also, the cardholder on this game has the oval viewing window used for the Italian games that have kick-up balls, although this game model does not have that feature. Federico Croci, a collector in Italy, informs us that this manufacturer extensively reused parts from Gottlieb games, including hardware and cardholders.<br><br>While the cardholder has provisions for an illuminated ball-in-play display, the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> does not, having only holes drilled for the six lamps but no lamp sockets or cabling for them, as the ball count is displayed on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. We don't know if the style of <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> shown in the pictures is original to this model, and the owner states that a standard Gottlieb <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> from 1972 will mount properly to this machine.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=42105" 
+><span title="Image # 42105: Space Orbit! Backglass "><img src="https://www.ipdb.org/images/5458/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 42105: Space Orbit! Backglass "><br>Backglass</span></a><br><font size="-2">600x550</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68771" 
+><span title="Image # 68771: Space Orbit! Backbox 
+(The backglass is plastic. Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 68771: Space Orbit! Backbox 
+(The backglass is plastic. Serial number 05074.)"><br>Backbox*</span></a><br><font size="-2">1200x1213</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68772" 
+><span title="Image # 68772: Space Orbit! Plastic Backglass 
+(From the game with serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 68772: Space Orbit! Plastic Backglass 
+(From the game with serial number 05074.)"><br>Plastic Backglass*</span></a><br><font size="-2">1154x1331</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68773" 
+><span title="Image # 68773: Space Orbit! Playfield 
+(The cardholder may not be original to this game. Its oval viewing window has been blocked with cardboard because this game does not have that feature. From the game with serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 68773: Space Orbit! Playfield 
+(The cardholder may not be original to this game. Its oval viewing window has been blocked with cardboard because this game does not have that feature. From the game with serial number 05074.)"><br>Playfield*</span></a><br><font size="-2">1200x2418</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68774" 
+><span title="Image # 68774: Space Orbit! Manufacturer Logo 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68774: Space Orbit! Manufacturer Logo 
+(Serial number 05074.)"><br>Manufacturer Logo*</span></a><br><font size="-2">1200x900</font><br>[Chris Andrews]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68775" 
+><span title="Image # 68775: Space Orbit! Cardholder 
+(The cardholder may not be original to this game. Its oval viewing window has been blocked with cardboard because this game does not have that feature. From the game with serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68775: Space Orbit! Cardholder 
+(The cardholder may not be original to this game. Its oval viewing window has been blocked with cardboard because this game does not have that feature. From the game with serial number 05074.)"><br>Cardholder*</span></a><br><font size="-2">1200x900</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68776" 
+><span title="Image # 68776: Space Orbit! Cardholder Removed 
+(The ball return track between the outhole and the shooter lane is made of plastic. Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68776: Space Orbit! Cardholder Removed 
+(The ball return track between the outhole and the shooter lane is made of plastic. Serial number 05074.)"><br>Cardholder Removed*</span></a><br><font size="-2">1200x900</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68777" 
+><span title="Image # 68777: Space Orbit! Strike Plate 
+(The plate is made of fiberglass or plastic. Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68777: Space Orbit! Strike Plate 
+(The plate is made of fiberglass or plastic. Serial number 05074.)"><br>Strike Plate*</span></a><br><font size="-2">1200x900</font><br>[Cameron Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68778" 
+><span title="Image # 68778: Space Orbit! Backbox - Left 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 68778: Space Orbit! Backbox - Left 
+(Serial number 05074.)"><br>Backbox - Left*</span></a><br><font size="-2">960x2392</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68779" 
+><span title="Image # 68779: Space Orbit! Backbox - Right 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 68779: Space Orbit! Backbox - Right 
+(Serial number 05074.)"><br>Backbox - Right*</span></a><br><font size="-2">1092x2500</font><br>[Chris Andrews]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68780" 
+><span title="Image # 68780: Space Orbit! Cabinet - Left 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 68780: Space Orbit! Cabinet - Left 
+(Serial number 05074.)"><br>Cabinet - Left*</span></a><br><font size="-2">1200x426</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68781" 
+><span title="Image # 68781: Space Orbit! Cabinet - Right 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=37 alt="Image # 68781: Space Orbit! Cabinet - Right 
+(Serial number 05074.)"><br>Cabinet - Right*</span></a><br><font size="-2">1200x449</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68782" 
+><span title="Image # 68782: Space Orbit! Cabinet - Front 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 68782: Space Orbit! Cabinet - Front 
+(Serial number 05074.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x696</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68783" 
+><span title="Image # 68783: Space Orbit! Cabinet - Serial Number 
+(Located below the coin door. Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 68783: Space Orbit! Cabinet - Serial Number 
+(Located below the coin door. Serial number 05074.)"><br>Cabinet - Serial Number*</span></a><br><font size="-2">1200x780</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68784" 
+><span title="Image # 68784: Space Orbit! Lockdown Bar 
+(Three different views. This lockdown bar may not be what the manufacturer had originally installed. From the game with serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=43 alt="Image # 68784: Space Orbit! Lockdown Bar 
+(Three different views. This lockdown bar may not be what the manufacturer had originally installed. From the game with serial number 05074.)"><br>Lockdown Bar*</span></a><br><font size="-2">1200x520</font><br>[Chris Andrews]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68785" 
+><span title="Image # 68785: Space Orbit! Plastic Backglass - Reverse 
+(From the game with serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 68785: Space Orbit! Plastic Backglass - Reverse 
+(From the game with serial number 05074.)"><br>Plastic Backglass - Reverse*</span></a><br><font size="-2">1096x1279</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68786" 
+><span title="Image # 68786: Space Orbit! Backbox Insert 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 68786: Space Orbit! Backbox Insert 
+(Serial number 05074.)"><br>Backbox Insert*</span></a><br><font size="-2">1200x1192</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68787" 
+><span title="Image # 68787: Space Orbit! Inside Backbox 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 68787: Space Orbit! Inside Backbox 
+(Serial number 05074.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1408</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68788" 
+><span title="Image # 68788: Space Orbit! Inside Backbox - Detail 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68788: Space Orbit! Inside Backbox - Detail 
+(Serial number 05074.)"><br>Inside Backbox - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Cameron Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68789" 
+><span title="Image # 68789: Space Orbit! 3 or 5 Ball Adjustment 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68789: Space Orbit! 3 or 5 Ball Adjustment 
+(Serial number 05074.)"><br>3 or 5 Ball Adjustment*</span></a><br><font size="-2">1200x1600</font><br>[Chris Andrews]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68790" 
+><span title="Image # 68790: Space Orbit! High Score Adjustment 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68790: Space Orbit! High Score Adjustment 
+(Serial number 05074.)"><br>High Score Adjustment*</span></a><br><font size="-2">1200x900</font><br>[Cameron Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68791" 
+><span title="Image # 68791: Space Orbit! Under Playfield 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 68791: Space Orbit! Under Playfield 
+(Serial number 05074.)"><br>Under Playfield*</span></a><br><font size="-2">916x1200</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68792" 
+><span title="Image # 68792: Space Orbit! Under Playfield - Manufacturer Name 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 68792: Space Orbit! Under Playfield - Manufacturer Name 
+(Serial number 05074.)"><br>Under Playfield - Manufacturer Name*</span></a><br><font size="-2">1200x829</font><br>[Cameron Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68793" 
+><span title="Image # 68793: Space Orbit! Under Playfield - Coil Wrapper 
+(The wrapper indicates, 'R. Montanari, Bologna, Italy' with a Gottlieb part number. From the game with serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 68793: Space Orbit! Under Playfield - Coil Wrapper 
+(The wrapper indicates, 'R. Montanari, Bologna, Italy' with a Gottlieb part number. From the game with serial number 05074.)"><br>Under Playfield - Coil Wrapper*</span></a><br><font size="-2">1200x543</font><br>[Chris Andrews]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68794" 
+><span title="Image # 68794: Space Orbit! Inside Cabinet 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 68794: Space Orbit! Inside Cabinet 
+(Serial number 05074.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Chris Andrews]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5458&amp;picno=68795" 
+><span title="Image # 68795: Space Orbit! Inside Cabinet - Fuses 
+(Serial number 05074.)"><img src="https://www.ipdb.org/images/5458/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68795: Space Orbit! Inside Cabinet - Fuses 
+(Serial number 05074.)"><br>Inside Cabinet - Fuses*</span></a><br><font size="-2">1200x900</font><br>[Chris Andrews]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+picture, PCR-ME&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

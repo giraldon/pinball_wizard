@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Charlie's Angels'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Charlie's Angels Charlies Angels Flippers (2), Pop bumpers (2), Slingshots (2), 5-bank drop targets (1), 3-bank drop targets (1). Standup target (1).  Gordon Morison Allen Edwall ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Charlie's Angels' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Charlie's Angels</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="492">Charlie's Angels</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=492">492</a> <I>/ November, 1978 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=492" target="showrate492"><img src="stars/6stars.png" height=18 width=201 border=0 alt="[ 6 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=492" target="showrate492">19 ratings/16 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=492" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>425</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=14">Gottlieb System 1</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,600 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=492">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1). <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Allen&nbsp;Edwall' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Allen%20Edwall">Allen&nbsp;Edwall</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Charlie's Angels' was produced in both 7,600 electronic and 350 electromechanical versions. It featured the likenesses of Jaclyn Smith, Kate Jackson, and Cheryl Ladd, from the 1970's TV show.<br><br>Pictured in this listing is a game on display in the manufacturer's booth at the AMOA show that was held in Chicago on November 10-12, 1978. This show model has a cutaway <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> and a semi-transparent <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 138<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 255-256<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 222<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 96<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 97<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 144 and 146<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/492">http://www.pinballowners.com/owners/492</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 853 KB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 492 Gottlieb_1978_Charlie_s_Angels_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=5060" 
+><span title="Image # 5060: Charlie's Angels Flyer, Front "><img src="https://www.ipdb.org/images/492/tn_492f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5060: Charlie's Angels Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=5061" 
+><span title="Image # 5061: Charlie's Angels Flyer, Back "><img src="https://www.ipdb.org/images/492/tn_492f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5061: Charlie's Angels Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=10867" 
+><span title="Image # 10867: Charlie's Angels Backglass "><img src="https://www.ipdb.org/images/492/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 10867: Charlie's Angels Backglass "><br>Backglass</span></a><br><font size="-2">400x426</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=20105" 
+><span title="Image # 20105: Charlie's Angels Cabinet Left & Bottom "><img src="https://www.ipdb.org/images/492/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 20105: Charlie's Angels Cabinet Left & Bottom "><br>Cabinet Left & Bottom</span></a><br><font size="-2">965x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=20108" 
+><span title="Image # 20108: Charlie's Angels Backbox "><img src="https://www.ipdb.org/images/492/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 20108: Charlie's Angels Backbox "><br>Backbox</span></a><br><font size="-2">770x506</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=20109" 
+><span title="Image # 20109: Charlie's Angels Backglass "><img src="https://www.ipdb.org/images/492/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 20109: Charlie's Angels Backglass "><br>Backglass</span></a><br><font size="-2">667x621</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=25705" 
+><span title="Image # 25705: Charlie's Angels Backglass - Reverse 
+(This backglass was sealed with polyurethane.)"><img src="https://www.ipdb.org/images/492/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 25705: Charlie's Angels Backglass - Reverse 
+(This backglass was sealed with polyurethane.)"><br>Backglass - Reverse*</span></a><br><font size="-2">749x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=26297" 
+><span title="Image # 26297: Charlie's Angels Instruction Card "><img src="https://www.ipdb.org/images/492/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26297: Charlie's Angels Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=30344" 
+><span title="Image # 30344: Charlie's Angels Backglass - Detail "><img src="https://www.ipdb.org/images/492/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30344: Charlie's Angels Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=50825" 
+><span title="Image # 50825: Charlie's Angels Playfield - Detail "><img src="https://www.ipdb.org/images/492/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50825: Charlie's Angels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Yannick Villeneuve]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=50826" 
+><span title="Image # 50826: Charlie's Angels Playfield - Detail "><img src="https://www.ipdb.org/images/492/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50826: Charlie's Angels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Yannick Villeneuve]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=50827" 
+><span title="Image # 50827: Charlie's Angels Playfield - Detail "><img src="https://www.ipdb.org/images/492/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50827: Charlie's Angels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Yannick Villeneuve]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=50828" 
+><span title="Image # 50828: Charlie's Angels Playfield - Detail "><img src="https://www.ipdb.org/images/492/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50828: Charlie's Angels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Yannick Villeneuve]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=50829" 
+><span title="Image # 50829: Charlie's Angels Playfield - Detail "><img src="https://www.ipdb.org/images/492/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50829: Charlie's Angels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Yannick Villeneuve]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=50830" 
+><span title="Image # 50830: Charlie's Angels French Instruction Card "><img src="https://www.ipdb.org/images/492/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50830: Charlie's Angels French Instruction Card "><br>French Instruction Card</span></a><br><font size="-2">1200x900</font><br>[Yannick Villeneuve]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53977" 
+><span title="Image # 53977: Charlie's Angels Playfield "><img src="https://www.ipdb.org/images/492/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53977: Charlie's Angels Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53978" 
+><span title="Image # 53978: Charlie's Angels Backbox - Left "><img src="https://www.ipdb.org/images/492/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 53978: Charlie's Angels Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">631x1173</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53979" 
+><span title="Image # 53979: Charlie's Angels Backbox - Right "><img src="https://www.ipdb.org/images/492/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 53979: Charlie's Angels Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">602x1182</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53980" 
+><span title="Image # 53980: Charlie's Angels Backglass - Reverse "><img src="https://www.ipdb.org/images/492/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 53980: Charlie's Angels Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">983x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53981" 
+><span title="Image # 53981: Charlie's Angels Inside Backbox "><img src="https://www.ipdb.org/images/492/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53981: Charlie's Angels Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53982" 
+><span title="Image # 53982: Charlie's Angels Under Playfield "><img src="https://www.ipdb.org/images/492/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 53982: Charlie's Angels Under Playfield "><br>Under Playfield</span></a><br><font size="-2">922x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=53983" 
+><span title="Image # 53983: Charlie's Angels Inside Cabinet "><img src="https://www.ipdb.org/images/492/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 53983: Charlie's Angels Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=492&amp;picno=70812" 
+><span title="Image # 70812: Charlie's Angels AMOA Show Display Model 
+(This game has a cutaway cabinet and a semi-transparent backglass. Photographed at the AMOA show held in Chicago on November 10-12, 1978.)"><img src="https://www.ipdb.org/images/492/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 70812: Charlie's Angels AMOA Show Display Model 
+(This game has a cutaway cabinet and a semi-transparent backglass. Photographed at the AMOA show held in Chicago on November 10-12, 1978.)"><br>AMOA Show Display Model*</span></a><br><font size="-2">1105x1600</font><br>[Joel Shprentz]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

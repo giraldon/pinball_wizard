@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Honey'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Honey Flippers (2), Pop bumpers (5), Slingshots (2), Drop targets (3), Kick-out holes (3), Roll-over buttons (12), Center Up-Post, Right outlane ball return gate. The center kick-out hole is protected by a drop target.
+
+Maximum displayed point score is 99,990 points per player.  Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Honey' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Honey</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1230">Honey</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1230">1230</a> <I>/ May 04, 1972 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1230" target="showrate1230"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1230" target="showrate1230">17 ratings/15 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1230" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May 04, 1972</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>404</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>6,301 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1230">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Girls/Women - Romance</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3), Roll-over buttons (12), Center <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-Post</a>, Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. The center <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">kick-out&nbsp;hole</a> is protected by a <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a>.<br><br>Maximum displayed point score is 99,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 89<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 42<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a> page 222<br>
+The Pinball Compendium Electro-mechanical Era, page 191<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1230">http://www.pinballowners.com/owners/1230</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1230/Honey_manual.pdf" onClick="return purchasemanual();">Instruction Manual and Catalog Supplement "S-S" (OCR searchable)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 24 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1230/0784_001.pdf" >Reproduction Instruction Card and Score Cards (German)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 743 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1230/Williams_1972_Honey_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=1170" 
+><span title="Image # 1170: Honey Backglass "><img src="https://www.ipdb.org/images/1230/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 1170: Honey Backglass "><br>Backglass</span></a><br><font size="-2">512x434</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=1171" 
+><span title="Image # 1171: Honey Backglass "><img src="https://www.ipdb.org/images/1230/tn_Backglass2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 1171: Honey Backglass "><br>Backglass</span></a><br><font size="-2">521x461</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=1172" 
+><span title="Image # 1172: Honey Playfield "><img src="https://www.ipdb.org/images/1230/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 1172: Honey Playfield "><br>Playfield</span></a><br><font size="-2">478x517</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=4240" 
+><span title="Image # 4240: Honey Flyer "><img src="https://www.ipdb.org/images/1230/tn_1230f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4240: Honey Flyer "><br>Flyer</span></a><br><font size="-2">892x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=8349" 
+><span title="Image # 8349: Honey Backglass "><img src="https://www.ipdb.org/images/1230/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8349: Honey Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Steve Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=8350" 
+><span title="Image # 8350: Honey Backglass - Reverse "><img src="https://www.ipdb.org/images/1230/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8350: Honey Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x768</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=8351" 
+><span title="Image # 8351: Honey Playfield "><img src="https://www.ipdb.org/images/1230/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8351: Honey Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=8352" 
+><span title="Image # 8352: Honey Cabinet "><img src="https://www.ipdb.org/images/1230/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8352: Honey Cabinet "><br>Cabinet</span></a><br><font size="-2">1024x768</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=8353" 
+><span title="Image # 8353: Honey Cabinet Front "><img src="https://www.ipdb.org/images/1230/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8353: Honey Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">1024x768</font><br>[Steve Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=24882" 
+><span title="Image # 24882: Honey German Ad - Page 1 
+(From the German operator magazine Automaten Markt, May 1972.)"><img src="https://www.ipdb.org/images/1230/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 24882: Honey German Ad - Page 1 
+(From the German operator magazine Automaten Markt, May 1972.)"><br>German Ad - Page 1*</span></a><br><font size="-2">1024x1402</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=24883" 
+><span title="Image # 24883: Honey German Ad - Page 2 
+(From the German operator magazine Automaten Markt, May 1972.)"><img src="https://www.ipdb.org/images/1230/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 24883: Honey German Ad - Page 2 
+(From the German operator magazine Automaten Markt, May 1972.)"><br>German Ad - Page 2*</span></a><br><font size="-2">1024x1402</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=24884" 
+><span title="Image # 24884: Honey German Ad 
+(From the German operator magazine Automaten Markt, June 1972.)"><img src="https://www.ipdb.org/images/1230/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 24884: Honey German Ad 
+(From the German operator magazine Automaten Markt, June 1972.)"><br>German Ad*</span></a><br><font size="-2">1024x1402</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=28506" 
+><span title="Image # 28506: Honey Backglass Detail "><img src="https://www.ipdb.org/images/1230/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28506: Honey Backglass Detail "><br>Backglass Detail</span></a><br><font size="-2">380x285</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=30896" 
+><span title="Image # 30896: Honey Playfield "><img src="https://www.ipdb.org/images/1230/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30896: Honey Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=30897" 
+><span title="Image # 30897: Honey Pop Bumpers "><img src="https://www.ipdb.org/images/1230/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30897: Honey Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=30898" 
+><span title="Image # 30898: Honey Ball View "><img src="https://www.ipdb.org/images/1230/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30898: Honey Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=30899" 
+><span title="Image # 30899: Honey Playfield - Detail "><img src="https://www.ipdb.org/images/1230/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30899: Honey Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=30900" 
+><span title="Image # 30900: Honey Gate Open "><img src="https://www.ipdb.org/images/1230/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30900: Honey Gate Open "><br>Gate Open</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=30901" 
+><span title="Image # 30901: Honey Shooter Lane "><img src="https://www.ipdb.org/images/1230/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30901: Honey Shooter Lane "><br>Shooter Lane</span></a><br><font size="-2">960x1280</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=40583" 
+><span title="Image # 40583: Honey Under Playfield "><img src="https://www.ipdb.org/images/1230/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 40583: Honey Under Playfield "><br>Under Playfield</span></a><br><font size="-2">880x1364</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1230&amp;picno=40584" 
+><span title="Image # 40584: Honey Inside Cabinet "><img src="https://www.ipdb.org/images/1230/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40584: Honey Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

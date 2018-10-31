@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Whirlwind'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Whirlwind Flippers (3), Pop bumpers (6), Spinning discs (3), Ramps (2). Fan on top of backbox blows air  John Youssi Pat Lawlor Pat Lawlor John Krutsch Jack Skalon Chris Granner Bill Pfutzenreuter Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Whirlwind' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Whirlwind</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2765">Whirlwind</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2765">2765</a> <I>/ January, 1990 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2765" target="showrate2765"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2765" target="showrate2765">185 ratings/123 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2765" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1990</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>574</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>WW</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=8">Williams System 11B</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,304 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2765">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Adventure - Weather</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (6), Spinning discs (3), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Fan on top of <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> blows air</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pat&nbsp;Lawlor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20Lawlor">Pat&nbsp;Lawlor</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pat&nbsp;Lawlor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20Lawlor">Pat&nbsp;Lawlor</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Krutsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Krutsch">John&nbsp;Krutsch</a></span>, <span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Skalon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Skalon">Jack&nbsp;Skalon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Pfutzenreuter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Pfutzenreuter">Bill&nbsp;Pfutzenreuter</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Reportedly, the term <a target="glossary" class="glossarylink" href="/glossary.php#Cellar_Hole">cellar&nbsp;hole</a> was derived from 'The Cellar' on this game.<br><P>We asked artist John Youssi to tell us about the different ideas found in the <a target="glossary" class="glossarylink" href="/glossary.php#Translite">translite</a> art. He replies:<P style="padding-left:30px;"><I>I posed for the van driver for which my wife Jenny photographed me. I wasn't trying to make it look like me so it's not an exact likeness. The van is the kind of thing I would draw in geometry class back in high school so it came easy. We've always had English Setters so the dog is a cartoony version of an goofy setter. This was my first game with Pat Lawlor and the first appearance of the 'hand on the button' which became a recurring theme. I think the rough sketches showed the driver giving a thumbs up but Pat dreamed up the 'hand/button' idea as well as the tag line 'any time… any where' on the truck. We were both Chicago Cubs baseball fans so the original painting shows the kid in the truck wearing a Cubs hat and the first run of transl<ignore>ites were printed that way. The legal guys frowned on it so a sticker was applied to the first run transl<ignore>ites, covering the Cubs 'C' with a William's 'W', until new transl<ignore>ites were made with the "W" on the cap.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Feel the Power of the Wind!"<br>
+"Added Attractions that Blow the Competition Away!"<br>
+"Creating a Stir for the 90s and Beyond!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Life 13(11), September 1990, pp. 78. pp. (PF-cool 2 page shot)<br>
+Pinball Trader pp. Issue 24<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 177-180<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 124<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2765/WHIRLWIN.HTM" target="rulesheet">Whirlwind Rulesheet (Jan/06/1995), by Jim Hoxsey</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?whirlwind">http://pinball.jameswest.com/ownerslists/ownerslist.php?whirlwind</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2765">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 220 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Williams_1990_Whirlwind_Game_ROM_L_3.zip" >Game ROM L-3</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 71 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Whirlwind_German_language_ROM_LG_3.zip" >German Language ROM (LG 3)</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 70 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/whirl_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 216 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/whirl_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 24 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Williams_1990_Whirlwind_Operations_Manual_Br_With_Schematics.pdf" onClick="return purchasemanual();">Operations Manual<Br>With Schematics</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 753 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Williams_1990_Whirlwind_Operator_Handbook.pdf" onClick="return purchasemanual();">Operator Handbook</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Multimedia Files: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;MP3&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Williams_1990_Whirlwind_End_of_Game_Tune.mp3" >End of Game Tune</a></td><td> [Chris Granner]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;MP3&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Williams_1990_Whirlwind_Main_Play_Tune.mp3" >Main Play Tune</a></td><td> [Chris Granner]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 415 KB</td><td align=left nowrap width="5%">&nbsp;MP3&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2765/Williams_1990_Whirlwind_Plunger_Tune.mp3" >Plunger Tune</a></td><td> [Chris Granner]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=3169" 
+><span title="Image # 3169: Whirlwind Backbox "><img src="https://www.ipdb.org/images/2765/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 3169: Whirlwind Backbox "><br>Backbox</span></a><br><font size="-2">450x600</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=3170" 
+><span title="Image # 3170: Whirlwind Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 3170: Whirlwind Playfield "><br>Playfield</span></a><br><font size="-2">450x600</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=3171" 
+><span title="Image # 3171: Whirlwind Machine "><img src="https://www.ipdb.org/images/2765/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 3171: Whirlwind Machine "><br>Machine</span></a><br><font size="-2">450x600</font><br>[Craig Hassell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=4576" 
+><span title="Image # 4576: Whirlwind Flyer, Front "><img src="https://www.ipdb.org/images/2765/tn_2765f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4576: Whirlwind Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=4577" 
+><span title="Image # 4577: Whirlwind Flyer, Back "><img src="https://www.ipdb.org/images/2765/tn_2765f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4577: Whirlwind Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=6997" 
+><span title="Image # 6997: Whirlwind Spinning Disc Decals "><img src="https://www.ipdb.org/images/2765/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6997: Whirlwind Spinning Disc Decals "><br>Spinning Disc Decals</span></a><br><font size="-2">1024x765</font><br>[Heinz-Peter Bader]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=7151" 
+><span title="Image # 7151: Whirlwind Backglass "><img src="https://www.ipdb.org/images/2765/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 7151: Whirlwind Backglass "><br>Backglass</span></a><br><font size="-2">1024x689</font><br>[Heinz-Peter Bader]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=9848" 
+><span title="Image # 9848: Whirlwind Blank Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 9848: Whirlwind Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1014x1800</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=17350" 
+><span title="Image # 17350: Whirlwind Under Lower Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17350: Whirlwind Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Adriaan van Roeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=17351" 
+><span title="Image # 17351: Whirlwind Under Middle Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17351: Whirlwind Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Adriaan van Roeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=17352" 
+><span title="Image # 17352: Whirlwind Under Upper Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17352: Whirlwind Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Adriaan van Roeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25863" 
+><span title="Image # 25863: Whirlwind Cabinet - Full View "><img src="https://www.ipdb.org/images/2765/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 25863: Whirlwind Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25864" 
+><span title="Image # 25864: Whirlwind Backbox "><img src="https://www.ipdb.org/images/2765/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 25864: Whirlwind Backbox "><br>Backbox</span></a><br><font size="-2">700x900</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25865" 
+><span title="Image # 25865: Whirlwind Backbox Electronics "><img src="https://www.ipdb.org/images/2765/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 25865: Whirlwind Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25866" 
+><span title="Image # 25866: Whirlwind Backbox Electronics "><img src="https://www.ipdb.org/images/2765/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25866: Whirlwind Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25867" 
+><span title="Image # 25867: Whirlwind Backbox Electronics "><img src="https://www.ipdb.org/images/2765/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25867: Whirlwind Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25868" 
+><span title="Image # 25868: Whirlwind Cabinet - Front "><img src="https://www.ipdb.org/images/2765/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25868: Whirlwind Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25869" 
+><span title="Image # 25869: Whirlwind Shooter Rod "><img src="https://www.ipdb.org/images/2765/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25869: Whirlwind Shooter Rod "><br>Shooter Rod</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25870" 
+><span title="Image # 25870: Whirlwind Cabinet - Right "><img src="https://www.ipdb.org/images/2765/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 25870: Whirlwind Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">700x350</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25871" 
+><span title="Image # 25871: Whirlwind Backbox - Right "><img src="https://www.ipdb.org/images/2765/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 25871: Whirlwind Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">350x700</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25872" 
+><span title="Image # 25872: Whirlwind Cabinet - Left "><img src="https://www.ipdb.org/images/2765/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 25872: Whirlwind Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">700x350</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25873" 
+><span title="Image # 25873: Whirlwind Backbox - Left "><img src="https://www.ipdb.org/images/2765/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 25873: Whirlwind Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">350x700</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25874" 
+><span title="Image # 25874: Whirlwind Cabinet - Rear "><img src="https://www.ipdb.org/images/2765/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 25874: Whirlwind Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25875" 
+><span title="Image # 25875: Whirlwind Whirlwind Topper "><img src="https://www.ipdb.org/images/2765/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25875: Whirlwind Whirlwind Topper "><br>Whirlwind Topper</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25876" 
+><span title="Image # 25876: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25876: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25877" 
+><span title="Image # 25877: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25877: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25878" 
+><span title="Image # 25878: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25878: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25879" 
+><span title="Image # 25879: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25879: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25880" 
+><span title="Image # 25880: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25880: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25881" 
+><span title="Image # 25881: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25881: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25882" 
+><span title="Image # 25882: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25882: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25883" 
+><span title="Image # 25883: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25883: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25884" 
+><span title="Image # 25884: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25884: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25885" 
+><span title="Image # 25885: Whirlwind Cabinet - Front "><img src="https://www.ipdb.org/images/2765/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25885: Whirlwind Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25886" 
+><span title="Image # 25886: Whirlwind Inside Cabinet "><img src="https://www.ipdb.org/images/2765/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 25886: Whirlwind Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">350x500</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25887" 
+><span title="Image # 25887: Whirlwind Inside Cabinet "><img src="https://www.ipdb.org/images/2765/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 25887: Whirlwind Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">700x1100</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25888" 
+><span title="Image # 25888: Whirlwind Upper Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25888: Whirlwind Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25889" 
+><span title="Image # 25889: Whirlwind Middle Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25889: Whirlwind Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25890" 
+><span title="Image # 25890: Whirlwind Lower Playfield "><img src="https://www.ipdb.org/images/2765/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25890: Whirlwind Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25891" 
+><span title="Image # 25891: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25891: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25892" 
+><span title="Image # 25892: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25892: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25893" 
+><span title="Image # 25893: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25893: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=25894" 
+><span title="Image # 25894: Whirlwind Playfield Detail "><img src="https://www.ipdb.org/images/2765/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 25894: Whirlwind Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">700x465</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=29798" 
+><span title="Image # 29798: Whirlwind Instruction Card "><img src="https://www.ipdb.org/images/2765/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29798: Whirlwind Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=41948" 
+><span title="Image # 41948: Whirlwind Translite Detail - Williams Logo Sticker 
+(This adhesive sticker was applied directly onto the translite. From a game with serial number 574 I335770.)"><img src="https://www.ipdb.org/images/2765/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41948: Whirlwind Translite Detail - Williams Logo Sticker 
+(This adhesive sticker was applied directly onto the translite. From a game with serial number 574 I335770.)"><br>Translite Detail - Williams Logo Sticker*</span></a><br><font size="-2">1200x900</font><br>[Jasper van Eeden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=41949" 
+><span title="Image # 41949: Whirlwind Translite Detail - Williams Logo Sticker Removed 
+(From a game with serial number 574 I335770.)"><img src="https://www.ipdb.org/images/2765/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41949: Whirlwind Translite Detail - Williams Logo Sticker Removed 
+(From a game with serial number 574 I335770.)"><br>Translite Detail - Williams Logo Sticker Removed*</span></a><br><font size="-2">1200x900</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=54986" 
+><span title="Image # 54986: Whirlwind Cabinet - Front View "><img src="https://www.ipdb.org/images/2765/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 54986: Whirlwind Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">723x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2765&amp;picno=64869" 
+><span title="Image # 64869: Whirlwind Original Translite Artwork 
+(Artist is John Youssi.Acrylic and gouache on 100% rag illustration board.Dimensions with full bleed 26.86 inches by 18.75 inches.)"><img src="https://www.ipdb.org/images/2765/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 64869: Whirlwind Original Translite Artwork 
+(Artist is John Youssi.Acrylic and gouache on 100% rag illustration board.Dimensions with full bleed 26.86 inches by 18.75 inches.)"><br>Original Translite Artwork*</span></a><br><font size="-2">576x402</font><br>[John Youssi]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Playmatic 'Mad Race'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Playmatic Mad Race Flippers (4), Pop bumpers (2), Kick-out holes (3), Standup targets (2), 4-bank drop targets (1), 3-bank drop targets (1), Star rollover (1), 3-ball multiball. No slingshots.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Playmatic 'Mad Race' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Mad Race</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3445">Mad Race</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3445">3445</a> <I>/ 1985 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">5.0 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=3445" target="showrate3445">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3445" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Playmatic'"><a href="search.pl?searchtype=advanced&amp;mfgid=255">Playmatic, <font size="-1">of Barcelona, Spain</font> (1968-1987)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1985</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3445">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> (1), 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Model number is "B-6-A-00319.M.R.No 00205" per a game owner.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a> music is the same music used on <span title="Click here to open a new window and display Playmatic's 1985 'Trailer'"><a target="game3276" href="machine.cgi?id=3276">Playmatic's 1985 'Trailer'</a></span>.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3445/1985_Mad_Race_ROM_s.zip" >ROM's</a></td><td> [Playmatic]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 21 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3445/Playmatic_1985_Mad_Race_Installation_and_Theory_of_Operation_Manual_includes_schematics.pdf" onClick="return purchasemanual();">Installation and Theory of Operation Manual (includes schematics)</a></td><td> [Playmatic]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12784" 
+><span title="Image # 12784: Mad Race Playfield "><img src="https://www.ipdb.org/images/3445/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 12784: Mad Race Playfield "><br>Playfield</span></a><br><font size="-2">766x1254</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12785" 
+><span title="Image # 12785: Mad Race Backglass "><img src="https://www.ipdb.org/images/3445/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 12785: Mad Race Backglass "><br>Backglass</span></a><br><font size="-2">768x744</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12786" 
+><span title="Image # 12786: Mad Race Cabinet - Front View "><img src="https://www.ipdb.org/images/3445/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 12786: Mad Race Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">967x1520</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12787" 
+><span title="Image # 12787: Mad Race Inside Cabinet "><img src="https://www.ipdb.org/images/3445/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12787: Mad Race Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">768x1024</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12788" 
+><span title="Image # 12788: Mad Race Under Playfield "><img src="https://www.ipdb.org/images/3445/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 12788: Mad Race Under Playfield "><br>Under Playfield</span></a><br><font size="-2">868x1365</font><br>[Fritz Zanft]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12789" 
+><span title="Image # 12789: Mad Race Upper Playfield "><img src="https://www.ipdb.org/images/3445/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12789: Mad Race Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12790" 
+><span title="Image # 12790: Mad Race Center Playfield "><img src="https://www.ipdb.org/images/3445/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12790: Mad Race Center Playfield "><br>Center Playfield</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12791" 
+><span title="Image # 12791: Mad Race Lower Playfield "><img src="https://www.ipdb.org/images/3445/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12791: Mad Race Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12792" 
+><span title="Image # 12792: Mad Race Cardholder "><img src="https://www.ipdb.org/images/3445/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12792: Mad Race Cardholder "><br>Cardholder</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12793" 
+><span title="Image # 12793: Mad Race Instruction Card "><img src="https://www.ipdb.org/images/3445/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12793: Mad Race Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12794" 
+><span title="Image # 12794: Mad Race Cabinet - Right "><img src="https://www.ipdb.org/images/3445/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 12794: Mad Race Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">894x734</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12795" 
+><span title="Image # 12795: Mad Race Pop Bumper Cap "><img src="https://www.ipdb.org/images/3445/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12795: Mad Race Pop Bumper Cap "><br>Pop Bumper Cap</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12796" 
+><span title="Image # 12796: Mad Race Super Bonus "><img src="https://www.ipdb.org/images/3445/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12796: Mad Race Super Bonus "><br>Super Bonus</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12797" 
+><span title="Image # 12797: Mad Race Drop Targets "><img src="https://www.ipdb.org/images/3445/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12797: Mad Race Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12798" 
+><span title="Image # 12798: Mad Race Drop Targets "><img src="https://www.ipdb.org/images/3445/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12798: Mad Race Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12799" 
+><span title="Image # 12799: Mad Race Playfield - Detail "><img src="https://www.ipdb.org/images/3445/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12799: Mad Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12800" 
+><span title="Image # 12800: Mad Race Upper Flippers "><img src="https://www.ipdb.org/images/3445/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12800: Mad Race Upper Flippers "><br>Upper Flippers</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12801" 
+><span title="Image # 12801: Mad Race Playfield - Detail "><img src="https://www.ipdb.org/images/3445/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12801: Mad Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3445&amp;picno=12802" 
+><span title="Image # 12802: Mad Race Playfield - Detail "><img src="https://www.ipdb.org/images/3445/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12802: Mad Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Fritz Zanft]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

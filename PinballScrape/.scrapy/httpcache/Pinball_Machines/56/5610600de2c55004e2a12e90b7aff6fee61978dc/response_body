@@ -1,0 +1,278 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Circus'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Circus Widebody Flippers (5), Pop Bumpers (2), Slingshot (1), Drop targets (4), Roto-Targets (3), Standup targets (3), Spinning target (1), Kick-out hole (1), Free ball lane.  Gordon Morison Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Circus' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Circus</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="515">Circus</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=515">515</a> <I>/ June, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=515" target="showrate515"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=515" target="showrate515">20 ratings/14 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=515" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>654</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=15">Gottlieb System 80</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,700 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=515">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Happiness - Circus/Carnival</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;Bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshot</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Roto-target">Roto-Targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), Free ball lane.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>An extended wide-body machine and Gottlieb's first of only two extra wide-body games in their System 80 lineup (the other being <span title="Click here to open a new window and display Gottlieb's 1980 'Star Race'"><a target="game2353" href="machine.cgi?id=2353">Gottlieb's 1980 'Star Race'</a></span>). The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is three inches wider than the rest of the Gottlieb System 80 wide-body series. Reportedly, the machine shipped with longer legs than those other games, making the <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> stands 42.5 inches off the floor, but this information has not been confirmed by us.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The Greatest Pinball On Earth!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 75<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 180<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/515">http://www.pinballowners.com/owners/515</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 9 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 515 circus.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 515 Gottlieb_1980_Circus_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [D&#46; Gottlieb & Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 71 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/515/Gottlieb_1980_Circus_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=481" 
+><span title="Image # 481: Circus Playfield "><img src="https://www.ipdb.org/images/515/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 481: Circus Playfield "><br>Playfield</span></a><br><font size="-2">498x709</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=482" 
+><span title="Image # 482: Circus Backglass "><img src="https://www.ipdb.org/images/515/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 482: Circus Backglass "><br>Backglass</span></a><br><font size="-2">477x516</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=5062" 
+><span title="Image # 5062: Circus Flyer, Front "><img src="https://www.ipdb.org/images/515/tn_515f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5062: Circus Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=5063" 
+><span title="Image # 5063: Circus Flyer, Back "><img src="https://www.ipdb.org/images/515/tn_515f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5063: Circus Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12844" 
+><span title="Image # 12844: Circus Illuminated Backglass "><img src="https://www.ipdb.org/images/515/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 12844: Circus Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x901</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12845" 
+><span title="Image # 12845: Circus Free Ball Lane "><img src="https://www.ipdb.org/images/515/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12845: Circus Free Ball Lane "><br>Free Ball Lane</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12846" 
+><span title="Image # 12846: Circus Ball Return Track "><img src="https://www.ipdb.org/images/515/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12846: Circus Ball Return Track "><br>Ball Return Track</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12847" 
+><span title="Image # 12847: Circus Cabinet - Front "><img src="https://www.ipdb.org/images/515/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12847: Circus Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12848" 
+><span title="Image # 12848: Circus Cabinet - Front View "><img src="https://www.ipdb.org/images/515/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 12848: Circus Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">804x1200</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12849" 
+><span title="Image # 12849: Circus Playfield "><img src="https://www.ipdb.org/images/515/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12849: Circus Playfield "><br>Playfield</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12850" 
+><span title="Image # 12850: Circus Behind Backglass "><img src="https://www.ipdb.org/images/515/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12850: Circus Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12851" 
+><span title="Image # 12851: Circus Illuminated View "><img src="https://www.ipdb.org/images/515/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12851: Circus Illuminated View "><br>Illuminated View</span></a><br><font size="-2">885x666</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12852" 
+><span title="Image # 12852: Circus Illuminated Playfield "><img src="https://www.ipdb.org/images/515/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 12852: Circus Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1000x1493</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12853" 
+><span title="Image # 12853: Circus Stripped Playfield "><img src="https://www.ipdb.org/images/515/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 12853: Circus Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">804x1200</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12854" 
+><span title="Image # 12854: Circus Inside Backbox "><img src="https://www.ipdb.org/images/515/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12854: Circus Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12855" 
+><span title="Image # 12855: Circus Inside Cabinet "><img src="https://www.ipdb.org/images/515/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12855: Circus Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12856" 
+><span title="Image # 12856: Circus Lower Flippers "><img src="https://www.ipdb.org/images/515/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12856: Circus Lower Flippers "><br>Lower Flippers</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12857" 
+><span title="Image # 12857: Circus Upper Flippers "><img src="https://www.ipdb.org/images/515/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12857: Circus Upper Flippers "><br>Upper Flippers</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12858" 
+><span title="Image # 12858: Circus Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/515/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12858: Circus Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12859" 
+><span title="Image # 12859: Circus Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/515/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 12859: Circus Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1024x646</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12861" 
+><span title="Image # 12861: Circus Lower Left Playfield Detail "><img src="https://www.ipdb.org/images/515/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12861: Circus Lower Left Playfield Detail "><br>Lower Left Playfield Detail</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12862" 
+><span title="Image # 12862: Circus Lower Right Playfield Detail "><img src="https://www.ipdb.org/images/515/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12862: Circus Lower Right Playfield Detail "><br>Lower Right Playfield Detail</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12863" 
+><span title="Image # 12863: Circus Pop Bumpers "><img src="https://www.ipdb.org/images/515/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12863: Circus Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12864" 
+><span title="Image # 12864: Circus Rollover Lanes "><img src="https://www.ipdb.org/images/515/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12864: Circus Rollover Lanes "><br>Rollover Lanes</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12865" 
+><span title="Image # 12865: Circus Roto-Targets "><img src="https://www.ipdb.org/images/515/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 12865: Circus Roto-Targets "><br>Roto-Targets</span></a><br><font size="-2">1024x650</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12866" 
+><span title="Image # 12866: Circus Kick-out Hole "><img src="https://www.ipdb.org/images/515/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12866: Circus Kick-out Hole "><br>Kick-out Hole</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12867" 
+><span title="Image # 12867: Circus Left Slingshot "><img src="https://www.ipdb.org/images/515/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12867: Circus Left Slingshot "><br>Left Slingshot</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=12868" 
+><span title="Image # 12868: Circus Spinning Target "><img src="https://www.ipdb.org/images/515/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12868: Circus Spinning Target "><br>Spinning Target</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=22544" 
+><span title="Image # 22544: Circus Drop Targets "><img src="https://www.ipdb.org/images/515/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 22544: Circus Drop Targets "><br>Drop Targets</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29799" 
+><span title="Image # 29799: Circus Playfield Plastics "><img src="https://www.ipdb.org/images/515/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 29799: Circus Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x824</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29800" 
+><span title="Image # 29800: Circus Pop Bumper Cap "><img src="https://www.ipdb.org/images/515/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 29800: Circus Pop Bumper Cap "><br>Pop Bumper Cap</span></a><br><font size="-2">612x613</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29801" 
+><span title="Image # 29801: Circus Playfield Plastics "><img src="https://www.ipdb.org/images/515/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 29801: Circus Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1457</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29802" 
+><span title="Image # 29802: Circus Playfield Plastics "><img src="https://www.ipdb.org/images/515/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=32 alt="Image # 29802: Circus Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x325</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29803" 
+><span title="Image # 29803: Circus Spinning Target - Reverse "><img src="https://www.ipdb.org/images/515/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 29803: Circus Spinning Target - Reverse "><br>Spinning Target - Reverse</span></a><br><font size="-2">833x1013</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29804" 
+><span title="Image # 29804: Circus Spinning Target - Obverse "><img src="https://www.ipdb.org/images/515/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 29804: Circus Spinning Target - Obverse "><br>Spinning Target - Obverse</span></a><br><font size="-2">833x1013</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29805" 
+><span title="Image # 29805: Circus Instruction Cards "><img src="https://www.ipdb.org/images/515/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 29805: Circus Instruction Cards "><br>Instruction Cards</span></a><br><font size="-2">1024x1480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29806" 
+><span title="Image # 29806: Circus Instruction Cards "><img src="https://www.ipdb.org/images/515/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 29806: Circus Instruction Cards "><br>Instruction Cards</span></a><br><font size="-2">1024x1480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29807" 
+><span title="Image # 29807: Circus Switch Settings "><img src="https://www.ipdb.org/images/515/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 29807: Circus Switch Settings "><br>Switch Settings</span></a><br><font size="-2">1024x1263</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29819" 
+><span title="Image # 29819: Circus Playfield - Detail "><img src="https://www.ipdb.org/images/515/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29819: Circus Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29820" 
+><span title="Image # 29820: Circus Roto-Targets "><img src="https://www.ipdb.org/images/515/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29820: Circus Roto-Targets "><br>Roto-Targets</span></a><br><font size="-2">640x480</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29821" 
+><span title="Image # 29821: Circus Roto-Targets "><img src="https://www.ipdb.org/images/515/tn_image-A29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29821: Circus Roto-Targets "><br>Roto-Targets</span></a><br><font size="-2">640x480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29830" 
+><span title="Image # 29830: Circus Coin Door "><img src="https://www.ipdb.org/images/515/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29830: Circus Coin Door "><br>Coin Door</span></a><br><font size="-2">640x480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29831" 
+><span title="Image # 29831: Circus Backbox - Right "><img src="https://www.ipdb.org/images/515/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 29831: Circus Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x640</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29832" 
+><span title="Image # 29832: Circus Backglass Detail "><img src="https://www.ipdb.org/images/515/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29832: Circus Backglass Detail "><br>Backglass Detail</span></a><br><font size="-2">640x480</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=29837" 
+><span title="Image # 29837: Circus Backglass - Illuminated "><img src="https://www.ipdb.org/images/515/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 29837: Circus Backglass - Illuminated "><br>Backglass - Illuminated</span></a><br><font size="-2">485x434</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48558" 
+><span title="Image # 48558: Circus Backbox - Left "><img src="https://www.ipdb.org/images/515/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 48558: Circus Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1092x1596</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48559" 
+><span title="Image # 48559: Circus Backbox - Right "><img src="https://www.ipdb.org/images/515/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 48559: Circus Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">868x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48560" 
+><span title="Image # 48560: Circus Cabinet - Left "><img src="https://www.ipdb.org/images/515/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 48560: Circus Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48561" 
+><span title="Image # 48561: Circus Cabinet - Right "><img src="https://www.ipdb.org/images/515/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 48561: Circus Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48562" 
+><span title="Image # 48562: Circus Under Playfield "><img src="https://www.ipdb.org/images/515/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 48562: Circus Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1104x1600</font><br>[Kim Mitchell]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48563" 
+><span title="Image # 48563: Circus Inside Cabinet "><img src="https://www.ipdb.org/images/515/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 48563: Circus Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=48564" 
+><span title="Image # 48564: Circus Backglass - Reverse "><img src="https://www.ipdb.org/images/515/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 48564: Circus Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1056x900</font><br>[Kim Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=50831" 
+><span title="Image # 50831: Circus Backglass "><img src="https://www.ipdb.org/images/515/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 50831: Circus Backglass "><br>Backglass</span></a><br><font size="-2">1200x1139</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=515&amp;picno=66283" 
+><span title="Image # 66283: Circus Cabinet - Front View "><img src="https://www.ipdb.org/images/515/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 66283: Circus Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">933x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

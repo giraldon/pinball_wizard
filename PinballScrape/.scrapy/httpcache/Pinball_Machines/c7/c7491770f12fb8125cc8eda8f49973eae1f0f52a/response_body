@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Sharkey's Shootout'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Sharkey's Shootout Sharkeys Shootout Flippers (3), Pop bumpers (3), Drop targets (8), Spinning target (1). 'Mystery Ball' reminiscent of Magic 8-Ball.  John Youssi Dwight Sullivan John Borg Mark Galvez John Borg Kyle Johnson Dwight Sullivan Keith P. Johnson Lonnie D. Ropp Kyle Johnson ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Sharkey's Shootout' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Sharkey's Shootout</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4492">Sharkey's Shootout</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4492">4492</a> <I>/ September, 2000 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=4492" target="showrate4492"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=4492" target="showrate4492">31 ratings/24 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4492" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=303">Stern Pinball, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1999-now) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 2000</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>72</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=33">Sega/Stern Whitestar</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4492">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Billiards</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;targets</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>"Mystery Ball" reminiscent of Magic 8-Ball.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dwight&nbsp;Sullivan' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dwight%20Sullivan">Dwight&nbsp;Sullivan</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Borg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Borg">John&nbsp;Borg</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Galvez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Galvez">Mark&nbsp;Galvez</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Borg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Borg">John&nbsp;Borg</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kyle&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kyle%20Johnson">Kyle&nbsp;Johnson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kyle&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kyle%20Johnson">Kyle&nbsp;Johnson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dwight&nbsp;Sullivan' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dwight%20Sullivan">Dwight&nbsp;Sullivan</a></span>, <span title="Click here to perform a search for all pinball games that 'Keith&nbsp;P.&nbsp;Johnson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Keith%20P.%20Johnson">Keith&nbsp;P.&nbsp;Johnson</a></span>, <span title="Click here to perform a search for all pinball games that 'Lonnie&nbsp;D.&nbsp;Ropp' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lonnie%20D.%20Ropp">Lonnie&nbsp;D.&nbsp;Ropp</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> adapted from <span title="Click here to open a new window and display Bally's 1981 'Eight Ball Deluxe'"><a target="game762" href="machine.cgi?id=762">Bally's 1981 'Eight Ball Deluxe'</a></span>.<br><br>Fred Young did voice characterizations on this game.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, page 219<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, pages 261-262<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/4492">http://www.pinballowners.com/owners/4492</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4492/shrkysht.zip" >English Roms (2.11)</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4492/shrky_fr.zip" >French Roms (2.11)</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4492/shrky_gr.zip" >German Roms (2.11)</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4492/shrky_it.zip" >Italian Roms (2.11)</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 441 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4492/Stern_2000_Sharkey_s_Shootout_Instruction_Cards_Multi_Language_.pdf" >Instruction Cards (Multi Language)</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=3723" 
+><span title="Image # 3723: Sharkey's Shootout Flyer, Front "><img src="https://www.ipdb.org/images/4492/tn_4492f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3723: Sharkey's Shootout Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">875x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=3724" 
+><span title="Image # 3724: Sharkey's Shootout Flyer, Back "><img src="https://www.ipdb.org/images/4492/tn_4492f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3724: Sharkey's Shootout Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">883x1154</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=14827" 
+><span title="Image # 14827: Sharkey's Shootout Translite "><img src="https://www.ipdb.org/images/4492/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14827: Sharkey's Shootout Translite "><br>Translite</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=18806" 
+><span title="Image # 18806: Sharkey's Shootout Illuminated Translite "><img src="https://www.ipdb.org/images/4492/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 18806: Sharkey's Shootout Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">486x455</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=18807" 
+><span title="Image # 18807: Sharkey's Shootout Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 18807: Sharkey's Shootout Playfield "><br>Playfield</span></a><br><font size="-2">463x549</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=18808" 
+><span title="Image # 18808: Sharkey's Shootout Cabinet - Right "><img src="https://www.ipdb.org/images/4492/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 18808: Sharkey's Shootout Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">547x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33099" 
+><span title="Image # 33099: Sharkey's Shootout Backbox - Right "><img src="https://www.ipdb.org/images/4492/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 33099: Sharkey's Shootout Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">437x632</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33100" 
+><span title="Image # 33100: Sharkey's Shootout Cabinet - Left "><img src="https://www.ipdb.org/images/4492/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33100: Sharkey's Shootout Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33101" 
+><span title="Image # 33101: Sharkey's Shootout Cabinet - Right "><img src="https://www.ipdb.org/images/4492/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33101: Sharkey's Shootout Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33102" 
+><span title="Image # 33102: Sharkey's Shootout Cabinet - Front "><img src="https://www.ipdb.org/images/4492/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33102: Sharkey's Shootout Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33103" 
+><span title="Image # 33103: Sharkey's Shootout Upper Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33103: Sharkey's Shootout Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33104" 
+><span title="Image # 33104: Sharkey's Shootout Lower Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33104: Sharkey's Shootout Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33105" 
+><span title="Image # 33105: Sharkey's Shootout Drop Targets "><img src="https://www.ipdb.org/images/4492/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33105: Sharkey's Shootout Drop Targets "><br>Drop Targets</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33106" 
+><span title="Image # 33106: Sharkey's Shootout Mystery Ball "><img src="https://www.ipdb.org/images/4492/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33106: Sharkey's Shootout Mystery Ball "><br>Mystery Ball</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33107" 
+><span title="Image # 33107: Sharkey's Shootout Under Lower Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33107: Sharkey's Shootout Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33108" 
+><span title="Image # 33108: Sharkey's Shootout Under Upper Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33108: Sharkey's Shootout Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33109" 
+><span title="Image # 33109: Sharkey's Shootout Middle Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33109: Sharkey's Shootout Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33110" 
+><span title="Image # 33110: Sharkey's Shootout Inside Cabinet "><img src="https://www.ipdb.org/images/4492/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33110: Sharkey's Shootout Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33111" 
+><span title="Image # 33111: Sharkey's Shootout Inside Backbox "><img src="https://www.ipdb.org/images/4492/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33111: Sharkey's Shootout Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33112" 
+><span title="Image # 33112: Sharkey's Shootout Inside Backbox "><img src="https://www.ipdb.org/images/4492/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33112: Sharkey's Shootout Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33113" 
+><span title="Image # 33113: Sharkey's Shootout Translite - Reverse "><img src="https://www.ipdb.org/images/4492/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33113: Sharkey's Shootout Translite - Reverse "><br>Translite - Reverse</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33114" 
+><span title="Image # 33114: Sharkey's Shootout Instruction Card "><img src="https://www.ipdb.org/images/4492/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33114: Sharkey's Shootout Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33115" 
+><span title="Image # 33115: Sharkey's Shootout Instructions "><img src="https://www.ipdb.org/images/4492/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33115: Sharkey's Shootout Instructions "><br>Instructions</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=33116" 
+><span title="Image # 33116: Sharkey's Shootout Instructions "><img src="https://www.ipdb.org/images/4492/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33116: Sharkey's Shootout Instructions "><br>Instructions</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=36760" 
+><span title="Image # 36760: Sharkey's Shootout Playfield "><img src="https://www.ipdb.org/images/4492/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 36760: Sharkey's Shootout Playfield "><br>Playfield</span></a><br><font size="-2">1000x1064</font><br>[Ilkka Hieta]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=65872" 
+><span title="Image # 65872: Sharkey's Shootout Illuminated Translite "><img src="https://www.ipdb.org/images/4492/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 65872: Sharkey's Shootout Illuminated Translite "><br>Illuminated Translite</span></a><br><font size="-2">1200x1374</font><br>[Billy Loretelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4492&amp;picno=65873" 
+><span title="Image # 65873: Sharkey's Shootout Cabinet - Front "><img src="https://www.ipdb.org/images/4492/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65873: Sharkey's Shootout Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x1600</font><br>[Billy Loretelli]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

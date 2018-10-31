@@ -1,0 +1,238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Sinbad'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Sinbad Flippers (4), Pop bumpers (2), Star rollovers (4), Standup targets (2), 3-bank drop targets (2), 4-bank drop targets (1), Spinning target (1). The white target and yellow targets are reset by one coil and the purple targets are reset by a separate coil. Each side of the spinning target depicts a sword but they are oriented differently from each other to allow the target when spinning to give the effect of crossed swords.  Gordon Morison Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Sinbad' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Sinbad</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2159">Sinbad</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2159">2159</a> <I>/ February, 1978 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2159" target="showrate2159"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2159" target="showrate2159">56 ratings/44 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2159" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>412</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=14">Gottlieb System 1</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>12,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2159">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Myth and Legend</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1). The white target and yellow targets are reset by one <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> and the purple targets are reset by a separate <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a>. Each side of the <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a> depicts a sword but they are oriented differently from each other to allow the target when spinning to give the effect of crossed swords.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 4-player <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> version of this game is <span title="Click here to open a new window and display Gottlieb's 1978 'Sinbad'"><a target="game4673" href="machine.cgi?id=4673">Gottlieb's 1978 'Sinbad'</a></span>. The 2-player <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> version is <span title="Click here to open a new window and display Gottlieb's 1978 'Eye Of The Tiger'"><a target="game802" href="machine.cgi?id=802">Gottlieb's 1978 'Eye Of The Tiger'</a></span>.<br><br>Pictures here are portions of a Sample game (serial number 01290 S) having its start button and <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons made of red plastic, just like the game shown in the manufacturer's flyer. It appears that production games use green plastic for these buttons. Also, the sample <a target="glossary" class="glossarylink" href="/glossary.php#Card_Holder">card&nbsp;holder</a>, while using black and orange colors unique to Sinbad, shows the words "INS<ignore>ERT COIN ONLY WHEN COIN ENTRANCE IS LIT" which are not found on later cardholders for this game. Sinbad was the first of the System 1 games to use this <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a> having the style of art shown on it.<br><P>This game was also made with the lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> using metal for the entire front, entire back, and entire bottom. The sides of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> were made of wood, as was the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. The pedestal upon which the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> connects to the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> was made of metal. The serial number is stamped in the wood on the inside of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> near the shooter rod. We asked Wayne Neyens about the metal <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. He comments:<P style="padding-left:30px;"><i>I think that it was Doc's idea but I forget. It had many draw backs, as I recall it was very noisy, hard to assemble and needed more room than we had available to do the assembly.</i></P>Wayne refers to Roman F. "Doc" Garbark, he<ignore>ad of mechanical engineering at Gottlieb.<br><br>We previously showed a date for this game of May 1978 and a production run quantity of 12,950 units. The new date and quantity are per Gottlieb documentation.<br><br>Quantity produced - domestic: 5,758<br>Quantity produced - export: 6,242<br>Total quantity produced: 12,000<br><br>The flyer indicates that this game was a direct tie-in to the 1977 Hollywood movie "Sinbad and the Eye of the Tiger".<br><br>Sinbad (Sindbad) the Sailor was a character in one of the folk tales of classic Arabic literature known collectively as <i>The Thousand and One Nights</i> (aka <I>The Arabian Nights</I>).<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 139<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 133<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 219<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+Silver Knight pp. June/July 1995<br>
+Pinball The Lure of the Silverball, page 77<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2159">http://www.pinballowners.com/owners/2159</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 2159 Gottlieb_1978_Sinbad_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [D&#46; Gottlieb & Co&#46;, a Columbia Pictures Industries Company]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=2051" 
+><span title="Image # 2051: Sinbad Backglass "><img src="https://www.ipdb.org/images/2159/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 2051: Sinbad Backglass "><br>Backglass</span></a><br><font size="-2">552x437</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=2052" 
+><span title="Image # 2052: Sinbad Playfield "><img src="https://www.ipdb.org/images/2159/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 2052: Sinbad Playfield "><br>Playfield</span></a><br><font size="-2">416x546</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=4732" 
+><span title="Image # 4732: Sinbad Flyer - Front "><img src="https://www.ipdb.org/images/2159/tn_2159f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4732: Sinbad Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">610x784</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=4733" 
+><span title="Image # 4733: Sinbad Flyer - Back "><img src="https://www.ipdb.org/images/2159/tn_2159f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4733: Sinbad Flyer - Back "><br>Flyer - Back</span></a><br><font size="-2">612x791</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8940" 
+><span title="Image # 8940: Sinbad Inside Backbox "><img src="https://www.ipdb.org/images/2159/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8940: Sinbad Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8941" 
+><span title="Image # 8941: Sinbad Cabinet - Full View "><img src="https://www.ipdb.org/images/2159/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8941: Sinbad Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8942" 
+><span title="Image # 8942: Sinbad Backbox "><img src="https://www.ipdb.org/images/2159/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 8942: Sinbad Backbox "><br>Backbox</span></a><br><font size="-2">866x1135</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8943" 
+><span title="Image # 8943: Sinbad Inside Cabinet "><img src="https://www.ipdb.org/images/2159/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8943: Sinbad Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8944" 
+><span title="Image # 8944: Sinbad Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8944: Sinbad Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8945" 
+><span title="Image # 8945: Sinbad Backglass - Reverse "><img src="https://www.ipdb.org/images/2159/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8945: Sinbad Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=8946" 
+><span title="Image # 8946: Sinbad Cabinet - Left "><img src="https://www.ipdb.org/images/2159/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 8946: Sinbad Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">957x760</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=18800" 
+><span title="Image # 18800: Sinbad Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18800: Sinbad Playfield "><br>Playfield</span></a><br><font size="-2">640x480</font><br>[Patrick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=26303" 
+><span title="Image # 26303: Sinbad Instruction Card "><img src="https://www.ipdb.org/images/2159/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26303: Sinbad Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=27062" 
+><span title="Image # 27062: Sinbad Cabinet - Front View "><img src="https://www.ipdb.org/images/2159/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 27062: Sinbad Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1365</font><br>[Nick Raschilla]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=27389" 
+><span title="Image # 27389: Sinbad Backglass "><img src="https://www.ipdb.org/images/2159/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 27389: Sinbad Backglass "><br>Backglass</span></a><br><font size="-2">1024x965</font><br>[Eric Avedesian]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=27390" 
+><span title="Image # 27390: Sinbad Backglass - Reverse "><img src="https://www.ipdb.org/images/2159/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 27390: Sinbad Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x965</font><br>[Eric Avedesian]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=28654" 
+><span title="Image # 28654: Sinbad Stripped Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 28654: Sinbad Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">356x601</font><br>[Ian F. Mckinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=31391" 
+><span title="Image # 31391: Sinbad Under Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 31391: Sinbad Under Playfield "><br>Under Playfield</span></a><br><font size="-2">666x1022</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=31392" 
+><span title="Image # 31392: Sinbad Cabinet - Left "><img src="https://www.ipdb.org/images/2159/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31392: Sinbad Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=31393" 
+><span title="Image # 31393: Sinbad Cabinet - Right "><img src="https://www.ipdb.org/images/2159/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31393: Sinbad Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=31394" 
+><span title="Image # 31394: Sinbad Backbox - Left "><img src="https://www.ipdb.org/images/2159/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 31394: Sinbad Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">556x1022</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=31395" 
+><span title="Image # 31395: Sinbad Backbox - Right "><img src="https://www.ipdb.org/images/2159/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 31395: Sinbad Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">626x1024</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=31396" 
+><span title="Image # 31396: Sinbad Cabinet - Front "><img src="https://www.ipdb.org/images/2159/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31396: Sinbad Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=35223" 
+><span title="Image # 35223: Sinbad Upper Left Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35223: Sinbad Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1000x750</font><br>[Lindsey Rupertus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=35224" 
+><span title="Image # 35224: Sinbad Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35224: Sinbad Playfield "><br>Playfield</span></a><br><font size="-2">1000x750</font><br>[Lindsey Rupertus]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=35225" 
+><span title="Image # 35225: Sinbad Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35225: Sinbad Playfield "><br>Playfield</span></a><br><font size="-2">1000x750</font><br>[Lindsey Rupertus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=35226" 
+><span title="Image # 35226: Sinbad Upper Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35226: Sinbad Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1000x750</font><br>[Lindsey Rupertus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=35227" 
+><span title="Image # 35227: Sinbad Middle Playfield "><img src="https://www.ipdb.org/images/2159/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35227: Sinbad Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1000x750</font><br>[Lindsey Rupertus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=40203" 
+><span title="Image # 40203: Sinbad Inside Coin Door "><img src="https://www.ipdb.org/images/2159/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40203: Sinbad Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">1024x768</font><br>[Mark Johnson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=40204" 
+><span title="Image # 40204: Sinbad Coin Door View "><img src="https://www.ipdb.org/images/2159/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40204: Sinbad Coin Door View "><br>Coin Door View</span></a><br><font size="-2">1024x768</font><br>[Mark Johnson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=48344" 
+><span title="Image # 48344: Sinbad Backglass "><img src="https://www.ipdb.org/images/2159/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 48344: Sinbad Backglass "><br>Backglass</span></a><br><font size="-2">1024x1049</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=48345" 
+><span title="Image # 48345: Sinbad Backglass - Reverse "><img src="https://www.ipdb.org/images/2159/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 48345: Sinbad Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x1046</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=48346" 
+><span title="Image # 48346: Sinbad Backbox Insert "><img src="https://www.ipdb.org/images/2159/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 48346: Sinbad Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1024x1072</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=62453" 
+><span title="Image # 62453: Sinbad Metal Cabinet - Left 
+(The metal front and rear are bolted to the wood side.)"><img src="https://www.ipdb.org/images/2159/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 62453: Sinbad Metal Cabinet - Left 
+(The metal front and rear are bolted to the wood side.)"><br>Metal Cabinet - Left*</span></a><br><font size="-2">1573x995</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=62454" 
+><span title="Image # 62454: Sinbad Metal Cabinet - Bottom 
+(The power cord is routed through a hole in the cabinet bottom.)"><img src="https://www.ipdb.org/images/2159/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 62454: Sinbad Metal Cabinet - Bottom 
+(The power cord is routed through a hole in the cabinet bottom.)"><br>Metal Cabinet - Bottom*</span></a><br><font size="-2">1116x1575</font><br>[Jim Palson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=67959" 
+><span title="Image # 67959: Sinbad Sample Game - Cardholder 
+(Serial number 01290 S.)"><img src="https://www.ipdb.org/images/2159/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 67959: Sinbad Sample Game - Cardholder 
+(Serial number 01290 S.)"><br>Sample Game - Cardholder*</span></a><br><font size="-2">1200x543</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=67960" 
+><span title="Image # 67960: Sinbad Sample Game - Red Buttons 
+(The start button and flipper buttons are red plastic, not green. Serial number 01290 S.)"><img src="https://www.ipdb.org/images/2159/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 67960: Sinbad Sample Game - Red Buttons 
+(The start button and flipper buttons are red plastic, not green. Serial number 01290 S.)"><br>Sample Game - Red Buttons*</span></a><br><font size="-2">1200x1110</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=67961" 
+><span title="Image # 67961: Sinbad Sample Game - Serial Number 
+(Serial number 01290 S.)"><img src="https://www.ipdb.org/images/2159/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 67961: Sinbad Sample Game - Serial Number 
+(Serial number 01290 S.)"><br>Sample Game - Serial Number*</span></a><br><font size="-2">1200x865</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2159&amp;picno=69304" 
+><span title="Image # 69304: Sinbad Spinning Target "><img src="https://www.ipdb.org/images/2159/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 69304: Sinbad Spinning Target "><br>Spinning Target</span></a><br><font size="-2">1103x631</font><br>[John Robertson]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Machine - Tiffany Bloxom&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

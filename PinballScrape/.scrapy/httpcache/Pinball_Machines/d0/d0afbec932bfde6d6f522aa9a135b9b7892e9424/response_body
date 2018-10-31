@@ -1,0 +1,242 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Bounty'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Bounty Bingo Machine Trap holes (25). Magic Screen, OK Feature, Super OK Feature, Extra OK Feature, Skill Shot.  Don Hooker ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Bounty' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Bounty</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3659">Bounty</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3659">3659</a> <I>/ August 29, 1963 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.1 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=3659" target="showrate3659">3 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3659" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>August 29, 1963</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>737</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3659">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Bingo Machine&nbsp;<a href="glossary.php#Bingo_Machine" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Trap_Hole">Trap&nbsp;holes</a> (25). Magic Screen, OK Feature, Super OK Feature, Extra OK Feature, <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Shot">Skill&nbsp;Shot</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Don&nbsp;Hooker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Don%20Hooker">Don&nbsp;Hooker</a></span></td></tr>
+<!-- 2123 == Shoot-A-Line -->
+<!-- 1627 == Moon Shot -->
+<!-- 4028 == Continental -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The date of manufacture is stamped on the side of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. For example, the game shown in this listing stamped with serial number 'B869' also has the date '10-31-63' stamped on it.<br><br>Bally's game listing also shows 'Bounty' as project #727 being a novelty game.<br><br>Pictured in this listing is an operator-modified <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. In the lower left corner, the factory's silkscreened text was scraped off and new rules pasted there, accompanied by some rewiring. Reportedly, at least one or two <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a> in Nevada were known to do this to make the game less liberal. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> has a multi-colored paint theme (probably "<a target="glossary" class="glossarylink" href="/glossary.php#Zolatone">Zolatone</a>") often used in Nevada to make the games all look the same.<br><br>Another <a target="glossary" class="glossarylink" href="/glossary.php#Zolatone">Zolatone</a> <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> pictured here has been modified to include a payout mechanism.<br><br>Also pictured is an alternate <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> having naked ladies on it, among other differences. The Bally brand name has been replaced with the letters "BGS". We have no further information on this glass.<br><br>Prior to the production of Bounty in August of 1963, Bally had been producing <a target="glossary" class="glossarylink" href="/glossary.php#Bingo_Machine">bingo&nbsp;machines</a> at a pace of about 6 to 8 models per year until <a target="game2123" href="machine.cgi?id=2123">Shoot-A-Line</a> of October 1962, after which they completely halted production of bingos. This action was in anticipation of the imminent passage of the Eastland Bill (S-1658, for James Eastland, chairman of the Senate Judiciary Committee) which would have outlawed the interstate transportation of gambling devices (per Billboard, Sept 15, 1962, page 34). One of the visible proponents for the Senate Bill was Rufus King, attorney for D. Gottlieb and Company. The Eastland Bill, formally known as the Gambling Devices Act of 1962, was signed by President Kennedy on October 18, 1962 and made effective 60 days later, in December 1962. Bally turned to the full-time production of pinball machines, a line for which they had made fewer than two dozen models from the end of WWII to 1958. They started with <a target="game1627" href="machine.cgi?id=1627">Moon Shot</a> in January 1963, a blatant copy of <span title="Click here to open a new window and display Gottlieb's 1962 'Tropic Isle'"><a target="game2661" href="machine.cgi?id=2661">Gottlieb's 1962 'Tropic Isle'</a></span>. By June of 1963, Bally reported a drop in sales of 40 per cent since the passage of the Eastland Bill, due to the cutback of their bingo line (per Billboard, June 22, 1963, page 45). An amendment added to the Bill in final Senate-House conference committee allowed Bally to restart bingo production to ship overseas and to Louisiana and other unspecified stateside areas. Bounty was Bally's first bingo game once they restarted production of these machines. Bally continued to produce pinball machines and at a greater pace than they made new bingo games. Their last bingo game of which we are aware was 1980's <a target="game4028" href="machine.cgi?id=4028">Continental</a>, its entire production run shipped to Belgium.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Greatest Line-Or-Section Game in History"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Oct-12-1963, page 54<br>
+Bally Bingo Pinball Machines, page 111<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=2933" 
+><span title="Image # 2933: Bounty Cabinet - Full View "><img src="https://www.ipdb.org/images/3659/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 2933: Bounty Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">398x441</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=5775" 
+><span title="Image # 5775: Bounty Flyer "><img src="https://www.ipdb.org/images/3659/tn_3659f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 5775: Bounty Flyer "><br>Flyer</span></a><br><font size="-2">831x1064</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=11052" 
+><span title="Image # 11052: Bounty Promotional Photo "><img src="https://www.ipdb.org/images/3659/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 11052: Bounty Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">482x707</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=12334" 
+><span title="Image # 12334: Bounty Alternate Backglass "><img src="https://www.ipdb.org/images/3659/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 12334: Bounty Alternate Backglass "><br>Alternate Backglass</span></a><br><font size="-2">463x565</font><br>[Jim Hindle]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=40527" 
+><span title="Image # 40527: Bounty Illuminated Backglass "><img src="https://www.ipdb.org/images/3659/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40527: Bounty Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">600x800</font><br>[Evert Brochez]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=40528" 
+><span title="Image # 40528: Bounty Illuminated Playfield "><img src="https://www.ipdb.org/images/3659/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40528: Bounty Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">600x800</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56036" 
+><span title="Image # 56036: Bounty Playfield "><img src="https://www.ipdb.org/images/3659/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 56036: Bounty Playfield "><br>Playfield</span></a><br><font size="-2">864x899</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56037" 
+><span title="Image # 56037: Bounty Cabinet - Zolatone Repaint 
+(Reportedly, cabinets in Nevada often were repainted to make them all look the same. This game has the modified backglass.)"><img src="https://www.ipdb.org/images/3659/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56037: Bounty Cabinet - Zolatone Repaint 
+(Reportedly, cabinets in Nevada often were repainted to make them all look the same. This game has the modified backglass.)"><br>Cabinet - "Zolatone" Repaint*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56038" 
+><span title="Image # 56038: Bounty Inside Front Door 
+(The cabinet has been repainted.)"><img src="https://www.ipdb.org/images/3659/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 56038: Bounty Inside Front Door 
+(The cabinet has been repainted.)"><br>Inside Front Door*</span></a><br><font size="-2">1140x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56039" 
+><span title="Image # 56039: Bounty Inside Cabinet "><img src="https://www.ipdb.org/images/3659/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56039: Bounty Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56139" 
+><span title="Image # 56139: Bounty Billboard New Game Announcement 
+(The Billboard, Oct-12-1963, page 54)"><img src="https://www.ipdb.org/images/3659/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 56139: Bounty Billboard New Game Announcement 
+(The Billboard, Oct-12-1963, page 54)"><br>Billboard New Game Announcement*</span></a><br><font size="-2">1200x636</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56384" 
+><span title="Image # 56384: Bounty Modified Backglass 
+(The operator performed a 'scrape and paste' to the lower left corner of the glass, replacing information silkscreened there by the manufacturer.)"><img src="https://www.ipdb.org/images/3659/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 56384: Bounty Modified Backglass 
+(The operator performed a 'scrape and paste' to the lower left corner of the glass, replacing information silkscreened there by the manufacturer.)"><br>Modified Backglass*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=56385" 
+><span title="Image # 56385: Bounty Modified Backglass - Detail 
+(The operator performed a 'scrape and paste' to the lower left corner of the glass, replacing information silkscreened there by the manufacturer.)"><img src="https://www.ipdb.org/images/3659/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 56385: Bounty Modified Backglass - Detail 
+(The operator performed a 'scrape and paste' to the lower left corner of the glass, replacing information silkscreened there by the manufacturer.)"><br>Modified Backglass - Detail*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57054" 
+><span title="Image # 57054: Bounty Backglass 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57054: Bounty Backglass 
+(Serial number B869.)"><br>Backglass*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57055" 
+><span title="Image # 57055: Bounty Upper Playfield 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57055: Bounty Upper Playfield 
+(Serial number B869.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57056" 
+><span title="Image # 57056: Bounty Middle Playfield 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57056: Bounty Middle Playfield 
+(Serial number B869.)"><br>Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57057" 
+><span title="Image # 57057: Bounty Lower Playfield 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57057: Bounty Lower Playfield 
+(Serial number B869.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57058" 
+><span title="Image # 57058: Bounty Backbox - Left 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 57058: Bounty Backbox - Left 
+(Serial number B869.)"><br>Backbox - Left*</span></a><br><font size="-2">1023x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57059" 
+><span title="Image # 57059: Bounty Backbox - Right 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 57059: Bounty Backbox - Right 
+(Serial number B869.)"><br>Backbox - Right*</span></a><br><font size="-2">948x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57060" 
+><span title="Image # 57060: Bounty Cabinet - Left 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 57060: Bounty Cabinet - Left 
+(Serial number B869.)"><br>Cabinet - Left*</span></a><br><font size="-2">1145x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57061" 
+><span title="Image # 57061: Bounty Cabinet - Right 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 57061: Bounty Cabinet - Right 
+(Serial number B869.)"><br>Cabinet - Right*</span></a><br><font size="-2">1169x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57062" 
+><span title="Image # 57062: Bounty Cabinet - Front 
+(The small 'Space' design painted on the cabinet front is not original to this game. Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57062: Bounty Cabinet - Front 
+(The small 'Space' design painted on the cabinet front is not original to this game. Serial number B869.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57063" 
+><span title="Image # 57063: Bounty Cabinet - Front View 
+(The small 'Space' design painted on the cabinet front is not original to this game. Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 57063: Bounty Cabinet - Front View 
+(The small 'Space' design painted on the cabinet front is not original to this game. Serial number B869.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1027x1541</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57064" 
+><span title="Image # 57064: Bounty Inside Backbox 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57064: Bounty Inside Backbox 
+(Serial number B869.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=57065" 
+><span title="Image # 57065: Bounty Inside Backbox Door 
+(Serial number B869.)"><img src="https://www.ipdb.org/images/3659/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 57065: Bounty Inside Backbox Door 
+(Serial number B869.)"><br>Inside Backbox Door*</span></a><br><font size="-2">1150x1600</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64454" 
+><span title="Image # 64454: Bounty Illuminated Backglass "><img src="https://www.ipdb.org/images/3659/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 64454: Bounty Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1071x1460</font><br>[Harold Pepple]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64455" 
+><span title="Image # 64455: Bounty Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/3659/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 64455: Bounty Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">1071x1600</font><br>[Harold Pepple]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64456" 
+><span title="Image # 64456: Bounty Illuminated Playfield "><img src="https://www.ipdb.org/images/3659/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 64456: Bounty Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1071x1600</font><br>[Harold Pepple]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64457" 
+><span title="Image # 64457: Bounty Backbox - Rear View "><img src="https://www.ipdb.org/images/3659/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 64457: Bounty Backbox - Rear View "><br>Backbox - Rear View</span></a><br><font size="-2">900x1338</font><br>[Harold Pepple]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64458" 
+><span title="Image # 64458: Bounty Cabinet - Modified for Payout 
+(The cabinet was extended downward by an operator to hide the payout hopper.)"><img src="https://www.ipdb.org/images/3659/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64458: Bounty Cabinet - Modified for Payout 
+(The cabinet was extended downward by an operator to hide the payout hopper.)"><br>Cabinet - Modified for Payout*</span></a><br><font size="-2">1200x900</font><br>[Harold Pepple]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64459" 
+><span title="Image # 64459: Bounty Inside Back Door - Top "><img src="https://www.ipdb.org/images/3659/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 64459: Bounty Inside Back Door - Top "><br>Inside Back Door - Top</span></a><br><font size="-2">1071x1522</font><br>[Harold Pepple]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64460" 
+><span title="Image # 64460: Bounty Inside Back Door - Bottom "><img src="https://www.ipdb.org/images/3659/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 64460: Bounty Inside Back Door - Bottom "><br>Inside Back Door - Bottom</span></a><br><font size="-2">1071x1600</font><br>[Harold Pepple]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3659&amp;picno=64461" 
+><span title="Image # 64461: Bounty Inside Backbox "><img src="https://www.ipdb.org/images/3659/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 64461: Bounty Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1071x1600</font><br>[Harold Pepple]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

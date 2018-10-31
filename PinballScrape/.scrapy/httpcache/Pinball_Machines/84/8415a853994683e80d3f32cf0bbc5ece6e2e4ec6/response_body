@@ -1,0 +1,261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Medusa'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Medusa Zipper Flippers Flippers (4, the upper 2 are <I>'Time Locked Zipper Flippers'</i>), Pop bumpers (4). Star rollovers (7), 7-bank drop targets (1), 4-bank drop targets (1), Kick-out hole (1). Digital displays in playfield. Has player-controlled rubbered post between flippers to hit ball back into play. Mini-posts in wide outlane entrances. Red translucent lower flippers are lit from underneath.  Kevin O'Connor Wally Welch ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Medusa' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Medusa</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1565">Medusa</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1565">1565</a> <I>/ September, 1981 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1565" target="showrate1565"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1565" target="showrate1565">53 ratings/41 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1565" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>February 04, 1981</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1981</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1245</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,250 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1565">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Myth and Legend</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Zipper Flippers&nbsp;<a href="glossary.php#Zipper_Flippers" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4, the upper 2 are <I>"Time Locked <a target="glossary" class="glossarylink" href="/glossary.php#Zipper_Flipper">Zipper&nbsp;Flippers</a>"</i>), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4). Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (7), 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). Digital displays in <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Has player-controlled rubbered post between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> to hit ball back into play. <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post">Mini-posts</a> in wide <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> entrances. Red <a target="glossary" class="glossarylink" href="/glossary.php#Translucent">translucent</a> lower <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> are lit from underneath.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wally&nbsp;Welch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wally%20Welch">Wally&nbsp;Welch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Unlike other Bally electronic pinball games, their documentation for this game shows the model number only as 1245, not 1245-E.<br><br>The player-controlled rubbered post between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> is also found on <span title="Click here to open a new window and display Bally's 1981 'Fireball II'"><a target="game854" href="machine.cgi?id=854">Bally's 1981 'Fireball II'</a></span>.<br><P>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> in the flyer shows a more physically revealing image of the Medusa than what appears on the production games. Artist Kevin O'Connor tells us about it:<P style="padding-left:30px;"><i>I painted the original revealing version and then was asked to paint over the naughty bits which truthfully, in reference to the groin area, was unintentional. It was just the way the folds in her gown turned out looking.<br><br>I can't imagine that any made it to production before Marketing put the brakes on but I do remember glass <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a> came in before then. Usually 9-10 samples. The flyers must have been printed early on before the decision was made.</i></P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Bally MEDUSA... A Legend of Features"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 141<br>
+Pinball The Lure of the Silverball, page 15<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, page 186<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1565">http://www.pinballowners.com/owners/1565</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#1565">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1565/medusa.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 19 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1565/Bally_1981_Medusa_ROMs.zip" >ROMs</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1565/Bally_1981_Medusa_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 49 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1565/Bally_1981_Medusa_Lamps_Schematic.pdf" onClick="return purchasemanual();">Lamps Schematic</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1565/Bally_1981_Medusa_Schematics_paginated.pdf" onClick="return purchasemanual();">Schematics (paginated)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 98 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1565/Bally_1981_Medusa_Reproduction_Spinner_Graphics_300dpi.zip" >Reproduction Spinner Graphics (300dpi)</a></td><td> [Courtney Louise Blount]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=1491" 
+><span title="Image # 1491: Medusa Playfield "><img src="https://www.ipdb.org/images/1565/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 1491: Medusa Playfield "><br>Playfield</span></a><br><font size="-2">474x535</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=1492" 
+><span title="Image # 1492: Medusa Backglass "><img src="https://www.ipdb.org/images/1565/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 1492: Medusa Backglass "><br>Backglass</span></a><br><font size="-2">484x432</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=4069" 
+><span title="Image # 4069: Medusa Flyer, Page 3 "><img src="https://www.ipdb.org/images/1565/tn_1565f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 4069: Medusa Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">844x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=4070" 
+><span title="Image # 4070: Medusa Flyer, Back "><img src="https://www.ipdb.org/images/1565/tn_1565f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 4070: Medusa Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">836x1129</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=4071" 
+><span title="Image # 4071: Medusa Flyer, Page 2 "><img src="https://www.ipdb.org/images/1565/tn_1565f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 4071: Medusa Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">840x921</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11082" 
+><span title="Image # 11082: Medusa Flyer, Front "><img src="https://www.ipdb.org/images/1565/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 11082: Medusa Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">605x793</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11389" 
+><span title="Image # 11389: Medusa Backglass "><img src="https://www.ipdb.org/images/1565/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11389: Medusa Backglass "><br>Backglass</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11390" 
+><span title="Image # 11390: Medusa Illuminated Backglass "><img src="https://www.ipdb.org/images/1565/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11390: Medusa Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11391" 
+><span title="Image # 11391: Medusa Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11391: Medusa Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11392" 
+><span title="Image # 11392: Medusa Illuminated Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11392: Medusa Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11393" 
+><span title="Image # 11393: Medusa Upper Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11393: Medusa Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11394" 
+><span title="Image # 11394: Medusa Lower Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11394: Medusa Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11395" 
+><span title="Image # 11395: Medusa Metamorphic Drop Targets "><img src="https://www.ipdb.org/images/1565/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11395: Medusa Metamorphic Drop Targets "><br>Metamorphic Drop Targets</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11396" 
+><span title="Image # 11396: Medusa Olympus Bonus Targets "><img src="https://www.ipdb.org/images/1565/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11396: Medusa Olympus Bonus Targets "><br>Olympus Bonus Targets</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11397" 
+><span title="Image # 11397: Medusa Playfield Digital Display "><img src="https://www.ipdb.org/images/1565/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11397: Medusa Playfield Digital Display "><br>Playfield Digital Display</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11398" 
+><span title="Image # 11398: Medusa Translucent Flippers "><img src="https://www.ipdb.org/images/1565/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11398: Medusa Translucent Flippers "><br>Translucent Flippers</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11399" 
+><span title="Image # 11399: Medusa Left Lane "><img src="https://www.ipdb.org/images/1565/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11399: Medusa Left Lane "><br>Left Lane</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11400" 
+><span title="Image # 11400: Medusa Right Lane "><img src="https://www.ipdb.org/images/1565/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11400: Medusa Right Lane "><br>Right Lane</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11401" 
+><span title="Image # 11401: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11401: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11402" 
+><span title="Image # 11402: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11402: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11403" 
+><span title="Image # 11403: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11403: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11404" 
+><span title="Image # 11404: Medusa Playfield Digital Display "><img src="https://www.ipdb.org/images/1565/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11404: Medusa Playfield Digital Display "><br>Playfield Digital Display</span></a><br><font size="-2">480x640</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11405" 
+><span title="Image # 11405: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11405: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11406" 
+><span title="Image # 11406: Medusa Cabinet - Left "><img src="https://www.ipdb.org/images/1565/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11406: Medusa Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=11407" 
+><span title="Image # 11407: Medusa Cabinet - Front "><img src="https://www.ipdb.org/images/1565/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11407: Medusa Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[Frank Ersfeld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=15173" 
+><span title="Image # 15173: Medusa Backglass - Reverse "><img src="https://www.ipdb.org/images/1565/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 15173: Medusa Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">501x450</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=33465" 
+><span title="Image # 33465: Medusa Backbox - Right "><img src="https://www.ipdb.org/images/1565/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 33465: Medusa Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">462x604</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=33466" 
+><span title="Image # 33466: Medusa Zipper Flipper Assembly "><img src="https://www.ipdb.org/images/1565/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33466: Medusa Zipper Flipper Assembly "><br>Zipper Flipper Assembly</span></a><br><font size="-2">640x480</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=33467" 
+><span title="Image # 33467: Medusa Inside Backbox "><img src="https://www.ipdb.org/images/1565/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33467: Medusa Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=38344" 
+><span title="Image # 38344: Medusa Prototype Backglass "><img src="https://www.ipdb.org/images/1565/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 38344: Medusa Prototype Backglass "><br>Prototype Backglass</span></a><br><font size="-2">600x536</font><br>[Dino! Danieli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=38345" 
+><span title="Image # 38345: Medusa Production Backglass "><img src="https://www.ipdb.org/images/1565/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 38345: Medusa Production Backglass "><br>Production Backglass</span></a><br><font size="-2">600x543</font><br>[Dino! Danieli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=38945" 
+><span title="Image # 38945: Medusa Original Backglass Artwork "><img src="https://www.ipdb.org/images/1565/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 38945: Medusa Original Backglass Artwork "><br>Original Backglass Artwork</span></a><br><font size="-2">816x724</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=40501" 
+><span title="Image # 40501: Medusa Prototype Backglass - Reverse "><img src="https://www.ipdb.org/images/1565/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 40501: Medusa Prototype Backglass - Reverse "><br>Prototype Backglass - Reverse</span></a><br><font size="-2">578x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=50300" 
+><span title="Image # 50300: Medusa Illuminated Front View "><img src="https://www.ipdb.org/images/1565/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50300: Medusa Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1200x1600</font><br>[Ronald Blom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=52777" 
+><span title="Image # 52777: Medusa Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 52777: Medusa Playfield "><br>Playfield</span></a><br><font size="-2">1200x1954</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=52778" 
+><span title="Image # 52778: Medusa Upper Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 52778: Medusa Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x853</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=52779" 
+><span title="Image # 52779: Medusa Lower Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52779: Medusa Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=52780" 
+><span title="Image # 52780: Medusa Playfield - Ball View "><img src="https://www.ipdb.org/images/1565/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52780: Medusa Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=52781" 
+><span title="Image # 52781: Medusa Instruction Card "><img src="https://www.ipdb.org/images/1565/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 52781: Medusa Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x713</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=57569" 
+><span title="Image # 57569: Medusa Prototype Backglass "><img src="https://www.ipdb.org/images/1565/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 57569: Medusa Prototype Backglass "><br>Prototype Backglass</span></a><br><font size="-2">887x768</font><br>[Charlie Hord]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=57570" 
+><span title="Image # 57570: Medusa Prototype Backglass - Reverse "><img src="https://www.ipdb.org/images/1565/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 57570: Medusa Prototype Backglass - Reverse "><br>Prototype Backglass - Reverse</span></a><br><font size="-2">866x768</font><br>[Charlie Hord]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=57571" 
+><span title="Image # 57571: Medusa Prototype Backglass - Reverse "><img src="https://www.ipdb.org/images/1565/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 57571: Medusa Prototype Backglass - Reverse "><br>Prototype Backglass - Reverse</span></a><br><font size="-2">890x768</font><br>[Charlie Hord]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=66894" 
+><span title="Image # 66894: Medusa Backglass "><img src="https://www.ipdb.org/images/1565/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 66894: Medusa Backglass "><br>Backglass</span></a><br><font size="-2">1200x1067</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=66895" 
+><span title="Image # 66895: Medusa Upper Playfield "><img src="https://www.ipdb.org/images/1565/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 66895: Medusa Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x791</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=66896" 
+><span title="Image # 66896: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 66896: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x783</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=66897" 
+><span title="Image # 66897: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 66897: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">865x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1565&amp;picno=66898" 
+><span title="Image # 66898: Medusa Playfield - Detail "><img src="https://www.ipdb.org/images/1565/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 66898: Medusa Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x854</font><br>[Jean-Pierre Renault]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

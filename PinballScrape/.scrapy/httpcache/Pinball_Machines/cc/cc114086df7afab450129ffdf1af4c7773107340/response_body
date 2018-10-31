@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Auto Race'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Auto Race Flippers (2), Pop bumpers (4), Passive bumpers (2), Slingshots (2), Standup targets (3), Gobble holes (2). Hit center targets or rollovers to advance each of three cars to complete races and light gobble holes alternately for Special. Each ball into gobble hole when lit for Special can award up to nine replays, depending on how many races were completed.
+
+The backglass is silkscreened with the words 'Game Over' and the backbox insert has a hole for a light bulb but no wires are leading to it. Clearly plans were made for this game to have a Game Over Relay, but this feature did not first appear in production until seven games later with game #3770. Thus, the flippers stay energized even after all balls have been played.
+
+Maximum displayed point score is 7,990,000 points.  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Auto Race' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Auto Race</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="112">Auto Race</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=112">112</a> <I>/ September, 1956 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=112" target="showrate112"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=112" target="showrate112">7 ratings/5 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=112" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1956</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>118</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,500 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=112">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Auto Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">Gobble&nbsp;holes</a> (2). Hit center targets or <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> to advance each of three cars to complete races and light <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">gobble&nbsp;holes</a> alternately for Special. Each ball into <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">gobble&nbsp;hole</a> when lit for Special can award up to nine <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a>, depending on how many races were completed.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is silkscreened with the words "Game Over" and the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;insert</a> has a hole for a light bulb but no wires are leading to it. Clearly plans were made for this game to have a Game Over Relay, but this feature did not first appear in production until seven games later with <span title="Click here to open a new window and display Gottlieb's 1957 'Royal Flush'"><a target="game3770" href="machine.cgi?id=3770">Gottlieb's 1957 'Royal Flush'</a></span>. Thus, the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> stay energized even after all balls have been played.<br><br>Maximum displayed point score is 7,990,000 points.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> carries Gottlieb's famous phrase: <I>Amusement Pinballs, as American as Baseball and Hot Dogs!</I></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 200<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+The Pinball Compendium Electro-mechanical Era, page 92<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=Shw9-OlcPLQ&feature=youtu.be">Example of Play (at YouTube) [02:32]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1000 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/112/AUTO_R_6.zip" >Instruction/Score Cards</a></td><td> [D&#46; Gottlieb & Company]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=105" 
+><span title="Image # 105: Auto Race Playfield "><img src="https://www.ipdb.org/images/112/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 105: Auto Race Playfield "><br>Playfield</span></a><br><font size="-2">412x547</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=3556" 
+><span title="Image # 3556: Auto Race Illuminated Backglass "><img src="https://www.ipdb.org/images/112/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 3556: Auto Race Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">799x877</font><br>[David Gersic]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=4661" 
+><span title="Image # 4661: Auto Race Flyer "><img src="https://www.ipdb.org/images/112/tn_112f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 4661: Auto Race Flyer "><br>Flyer</span></a><br><font size="-2">900x682</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=5299" 
+><span title="Image # 5299: Auto Race Instruction/Score Cards "><img src="https://www.ipdb.org/images/112/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 5299: Auto Race Instruction/Score Cards "><br>Instruction/Score Cards</span></a><br><font size="-2">435x612</font><br>[Scott Phillips]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17620" 
+><span title="Image # 17620: Auto Race Lower Backglass "><img src="https://www.ipdb.org/images/112/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17620: Auto Race Lower Backglass "><br>Lower Backglass</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17621" 
+><span title="Image # 17621: Auto Race Playfield - Detail "><img src="https://www.ipdb.org/images/112/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 17621: Auto Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">497x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17622" 
+><span title="Image # 17622: Auto Race Ball Trough "><img src="https://www.ipdb.org/images/112/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 17622: Auto Race Ball Trough "><br>Ball Trough</span></a><br><font size="-2">640x371</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17623" 
+><span title="Image # 17623: Auto Race Cabinet - Left "><img src="https://www.ipdb.org/images/112/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 17623: Auto Race Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">510x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17624" 
+><span title="Image # 17624: Auto Race Cabinet - Right "><img src="https://www.ipdb.org/images/112/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 17624: Auto Race Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">412x452</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17625" 
+><span title="Image # 17625: Auto Race Cabinet - Front View "><img src="https://www.ipdb.org/images/112/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 17625: Auto Race Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">373x690</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=17626" 
+><span title="Image # 17626: Auto Race Inside Coin Door "><img src="https://www.ipdb.org/images/112/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 17626: Auto Race Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">534x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21194" 
+><span title="Image # 21194: Auto Race Backbox "><img src="https://www.ipdb.org/images/112/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 21194: Auto Race Backbox "><br>Backbox</span></a><br><font size="-2">725x988</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21195" 
+><span title="Image # 21195: Auto Race Illuminated Backglass "><img src="https://www.ipdb.org/images/112/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 21195: Auto Race Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">725x811</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21196" 
+><span title="Image # 21196: Auto Race Top View "><img src="https://www.ipdb.org/images/112/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 21196: Auto Race Top View "><br>Top View</span></a><br><font size="-2">725x1390</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21197" 
+><span title="Image # 21197: Auto Race Cabinet - Front View "><img src="https://www.ipdb.org/images/112/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 21197: Auto Race Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">725x1433</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21198" 
+><span title="Image # 21198: Auto Race Cabinet - Full View "><img src="https://www.ipdb.org/images/112/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 21198: Auto Race Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">725x1034</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21249" 
+><span title="Image # 21249: Auto Race Playfield "><img src="https://www.ipdb.org/images/112/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 21249: Auto Race Playfield "><br>Playfield</span></a><br><font size="-2">872x1152</font><br>[Jim Stahlecker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21250" 
+><span title="Image # 21250: Auto Race Upper Playfield "><img src="https://www.ipdb.org/images/112/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 21250: Auto Race Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x775</font><br>[Jim Stahlecker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21251" 
+><span title="Image # 21251: Auto Race Lower Playfield "><img src="https://www.ipdb.org/images/112/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 21251: Auto Race Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x775</font><br>[Jim Stahlecker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21252" 
+><span title="Image # 21252: Auto Race Cabinet- Left "><img src="https://www.ipdb.org/images/112/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 21252: Auto Race Cabinet- Left "><br>Cabinet- Left</span></a><br><font size="-2">959x856</font><br>[Jim Stahlecker]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=21253" 
+><span title="Image # 21253: Auto Race Cabinet - Right "><img src="https://www.ipdb.org/images/112/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 21253: Auto Race Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">893x854</font><br>[Jim Stahlecker]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=38946" 
+><span title="Image # 38946: Auto Race Cabinet - Full View "><img src="https://www.ipdb.org/images/112/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 38946: Auto Race Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">664x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=38947" 
+><span title="Image # 38947: Auto Race Backglass - Reverse 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38947: Auto Race Backglass - Reverse 
+(Serial number E14989AR.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=38948" 
+><span title="Image # 38948: Auto Race Backbox Insert 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38948: Auto Race Backbox Insert 
+(Serial number E14989AR.)"><br>Backbox Insert*</span></a><br><font size="-2">1365x1024</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=38949" 
+><span title="Image # 38949: Auto Race Inside Backbox 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38949: Auto Race Inside Backbox 
+(Serial number E14989AR.)"><br>Inside Backbox*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=38950" 
+><span title="Image # 38950: Auto Race Game Over Lamp Hole 
+(Note there are no lamp wires installed to this hole. Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38950: Auto Race Game Over Lamp Hole 
+(Note there are no lamp wires installed to this hole. Serial number E14989AR.)"><br>Game Over Lamp Hole*</span></a><br><font size="-2">1024x768</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=38951" 
+><span title="Image # 38951: Auto Race Inside Backbox - Detail 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38951: Auto Race Inside Backbox - Detail 
+(Serial number E14989AR.)"><br>Inside Backbox - Detail*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=40005" 
+><span title="Image # 40005: Auto Race Playfield - Downfield View 
+(The red pop bumpers platters shown in this game are not the original color used by the manufacturer..)"><img src="https://www.ipdb.org/images/112/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40005: Auto Race Playfield - Downfield View 
+(The red pop bumpers platters shown in this game are not the original color used by the manufacturer..)"><br>Playfield - Downfield View*</span></a><br><font size="-2">960x1280</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=40006" 
+><span title="Image # 40006: Auto Race Playfield - Detail "><img src="https://www.ipdb.org/images/112/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40006: Auto Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=40007" 
+><span title="Image # 40007: Auto Race Playfield - Detail "><img src="https://www.ipdb.org/images/112/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40007: Auto Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=40008" 
+><span title="Image # 40008: Auto Race Playfield - Detail "><img src="https://www.ipdb.org/images/112/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40008: Auto Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=40009" 
+><span title="Image # 40009: Auto Race Inside Cabinet - Detail "><img src="https://www.ipdb.org/images/112/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40009: Auto Race Inside Cabinet - Detail "><br>Inside Cabinet - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=66263" 
+><span title="Image # 66263: Auto Race Backglass "><img src="https://www.ipdb.org/images/112/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 66263: Auto Race Backglass "><br>Backglass</span></a><br><font size="-2">1024x1133</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=66264" 
+><span title="Image # 66264: Auto Race Upper Playfield "><img src="https://www.ipdb.org/images/112/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 66264: Auto Race Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x888</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=66265" 
+><span title="Image # 66265: Auto Race Lower Playfield 
+(The white instruction card is not original from the manufacturer.)"><img src="https://www.ipdb.org/images/112/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 66265: Auto Race Lower Playfield 
+(The white instruction card is not original from the manufacturer.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x1172</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=66266" 
+><span title="Image # 66266: Auto Race Playfield - Detail "><img src="https://www.ipdb.org/images/112/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 66266: Auto Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1189</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=66267" 
+><span title="Image # 66267: Auto Race Playfield - Detail "><img src="https://www.ipdb.org/images/112/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 66267: Auto Race Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1289</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69495" 
+><span title="Image # 69495: Auto Race Backglass 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69495: Auto Race Backglass 
+(Serial number E14989AR.)"><br>Backglass*</span></a><br><font size="-2">900x1200</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69496" 
+><span title="Image # 69496: Auto Race Playfield 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69496: Auto Race Playfield 
+(Serial number E14989AR.)"><br>Playfield*</span></a><br><font size="-2">900x1200</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69497" 
+><span title="Image # 69497: Auto Race Playfield - Downfield View 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69497: Auto Race Playfield - Downfield View 
+(Serial number E14989AR.)"><br>Playfield - Downfield View*</span></a><br><font size="-2">1200x2133</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69498" 
+><span title="Image # 69498: Auto Race Cabinet - Left 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 69498: Auto Race Cabinet - Left 
+(Serial number E14989AR.)"><br>Cabinet - Left*</span></a><br><font size="-2">1200x1126</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69499" 
+><span title="Image # 69499: Auto Race Lockdown Bar Removed 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69499: Auto Race Lockdown Bar Removed 
+(Serial number E14989AR.)"><br>Lockdown Bar Removed*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69500" 
+><span title="Image # 69500: Auto Race Under Playfield 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 69500: Auto Race Under Playfield 
+(Serial number E14989AR.)"><br>Under Playfield*</span></a><br><font size="-2">1200x2188</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69501" 
+><span title="Image # 69501: Auto Race Under Upper Playfield 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69501: Auto Race Under Upper Playfield 
+(Serial number E14989AR.)"><br>Under Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69502" 
+><span title="Image # 69502: Auto Race Under Middle Playfield 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 69502: Auto Race Under Middle Playfield 
+(Serial number E14989AR.)"><br>Under Middle Playfield*</span></a><br><font size="-2">1200x940</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69503" 
+><span title="Image # 69503: Auto Race Under Lower Playfield 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 69503: Auto Race Under Lower Playfield 
+(Serial number E14989AR.)"><br>Under Lower Playfield*</span></a><br><font size="-2">1200x1169</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69504" 
+><span title="Image # 69504: Auto Race Inside Cabinet 
+(The relay in the clear plastic case, to the right of the motor, is a replacement for the relay that was there and is not original to this game. Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69504: Auto Race Inside Cabinet 
+(The relay in the clear plastic case, to the right of the motor, is a replacement for the relay that was there and is not original to this game. Serial number E14989AR.)"><br>Inside Cabinet*</span></a><br><font size="-2">900x1200</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69505" 
+><span title="Image # 69505: Auto Race Inside Cabinet - Front 
+(The coin mechanism is missing from the coin door. Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69505: Auto Race Inside Cabinet - Front 
+(The coin mechanism is missing from the coin door. Serial number E14989AR.)"><br>Inside Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69506" 
+><span title="Image # 69506: Auto Race Inside Cabinet - Rear 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69506: Auto Race Inside Cabinet - Rear 
+(Serial number E14989AR.)"><br>Inside Cabinet - Rear*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69507" 
+><span title="Image # 69507: Auto Race Notice to Operator 
+(Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 69507: Auto Race Notice to Operator 
+(Serial number E14989AR.)"><br>Notice to Operator*</span></a><br><font size="-2">1200x677</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=112&amp;picno=69508" 
+><span title="Image # 69508: Auto Race Inside Coin Door 
+(This door is missing its coin mechanism but is included here to show the printed warning to the operator. Serial number E14989AR.)"><img src="https://www.ipdb.org/images/112/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 69508: Auto Race Inside Coin Door 
+(This door is missing its coin mechanism but is included here to show the printed warning to the operator. Serial number E14989AR.)"><br>Inside Coin Door*</span></a><br><font size="-2">1200x677</font><br>[Jay Stafford]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

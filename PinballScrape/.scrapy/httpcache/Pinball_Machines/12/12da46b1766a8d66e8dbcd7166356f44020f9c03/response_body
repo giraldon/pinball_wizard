@@ -1,0 +1,262 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Wico 'Af-Tor'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Wico Af-Tor Aftor Widebody Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (14), 3-bank drop targets (2), Solitary drop targets (3), Spinning targets (2), Programmable gates (2), Kick-out hole (1), Rollunder (1), Left and right dual inlanes. Each pop bumper has a nearby target that lights it to increase its value for a limited time. Bonus multiplier advanced by completing four top rollovers with help from lane change capability. Hitting 'oil pit release' target or the 'water hole' target also spots a top rollover. Each outlane has a drop target blocking the ball from draining when earned by the player. The unusual shooter lane curve will aim a ball strongly shot into play directly towards the left outlane and its drop target. An operator option allows this drop target to be in the up position at the start of every ball. Two-ball multi-ball with double playfield scoring. Alpha-numeric displays. Hinged backbox. The backbox has two portions: a rear portion made of metal which houses the control board and the driver board, and a front portion made of wood and screwed to the metal portion and which houses the fluorescent light box, backglass, and alphanumeric display assembly. The lower cabinet front, back, and bottom are metal while its sides are wood. Two sturdy metal columns elevate the backbox allowing the playfield to extend under it. In the backbox, fuses F1 to F6 each have a lit green LED indicating the fuse is good. Fuses F7 and F8 do not have this LED.
+
+The upper playfield has left and right return lanes each allowing the player to shoot the ball through a spinning target and back to the top of the playfield. At the top of these return lanes are wireform gates controlled by the CPU. The player can hit targets and rollovers to open one or both of these gates. If the left gate is open, the player can complete a ball orbit through both spinners by shooting through the right-side return lane. Similarly, if the right gate is open, the player can complete a ball orbit through both spinners by shooting through the left-side return lane. Completing an orbit with green light flashing will light 'Barren X Zone' insert in center playfield for immediate doubling of playfield scoring until the green light goes out.
+
+Sound: electronic, no knocker.
+
+Factory-installed illumination: 
+Backbox - one fluorescent tube. 
+Playfield - all lamps are incandescent.
+Cabinet - front has all incandescent lamps.  Constantino Mitchell Jeanine Mitchell ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Wico 'Af-Tor' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Af-Tor</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="25">Af-Tor</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=25">25</a> <I>/ December, 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.3 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=25" target="showrate25">5 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=25" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Wico'"><a href="search.pl?searchtype=advanced&amp;mfgid=347">Wico Corporation, <font size="-1">of Chicago, Illinois, USA</font> (1977-1984)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>72-3955-00</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=25">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (14), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), Solitary <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), Programmable <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">Rollunder</a> (1), Left and right dual <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>. Each <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> has a nearby target that lights it to increase its value for a limited time. Bonus <a target="glossary" class="glossarylink" href="/glossary.php#Multiplier">multiplier</a> advanced by completing four top <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> with help from <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">lane&nbsp;change</a> capability. Hitting "oil pit release" target or the "water hole" target also spots a top <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a>. Each <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> has a <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> blocking the ball from draining when earned by the player. The unusual shooter lane curve will aim a ball strongly shot into play directly towards the left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> and its <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a>. An <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> option allows this <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> to be in the up position at the start of every ball. Two-ball multi-ball with double <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> scoring. Alpha-numeric displays. Hinged <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> has two portions: a rear portion made of metal which houses the control board and the driver board, and a front portion made of wood and screwed to the metal portion and which houses the fluorescent light box, <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, and <a target="glossary" class="glossarylink" href="/glossary.php#Alphanumeric_Display">alphanumeric&nbsp;display</a> assembly. The lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> front, back, and bottom are metal while its sides are wood. Two sturdy metal columns elevate the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> allowing the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to extend under it. In the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, fuses F1 to F6 each have a lit green LED indicating the fuse is good. Fuses F7 and F8 do not have this LED.<br><br>The upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has left and right <a target="glossary" class="glossarylink" href="/glossary.php#Return_Lane">return&nbsp;lanes</a> each allowing the player to shoot the ball through a <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a> and back to the top of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. At the top of these <a target="glossary" class="glossarylink" href="/glossary.php#Return_Lane">return&nbsp;lanes</a> are <a target="glossary" class="glossarylink" href="/glossary.php#Wireform">wireform</a> <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a> controlled by the CPU. The player can hit targets and <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> to open one or both of these <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a>. If the left <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a> is open, the player can complete a ball orbit through both <a target="glossary" class="glossarylink" href="/glossary.php#Spinner">spinners</a> by shooting through the right-side <a target="glossary" class="glossarylink" href="/glossary.php#Return_Lane">return&nbsp;lane</a>. Similarly, if the right <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a> is open, the player can complete a ball orbit through both <a target="glossary" class="glossarylink" href="/glossary.php#Spinner">spinners</a> by shooting through the left-side <a target="glossary" class="glossarylink" href="/glossary.php#Return_Lane">return&nbsp;lane</a>. Completing an orbit with green light flashing will light 'Barren X Zone' <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> in center <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> for immediate doubling of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> scoring until the green light goes out.<br><br>Sound: electronic, no <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<br><br>Factory-installed illumination: <br><a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> - one fluorescent tube. <br><a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> - all lamps are incandescent.<br><a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> - front has all incandescent lamps.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This is the first pinball machine from any manufacturer to be produced with alpha-numeric displays. It was used to spell out words and messages in addition to scores. <br><br>The Wico manual referred to the upper <a target="glossary" class="glossarylink" href="/glossary.php#Wireform">wireform</a> <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a> as "programmable" as if to suggest that there are <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> options for them. However, the manual has no such <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> options. The <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a> each have a <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> to open and close them and are under exclusive programmed control by the CPU.<br><br>The manual also referred to all three solitary <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> as "programmable <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>" each having a small <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> used to drop the target under programmed control of the CPU. Here, however, they do indicate an <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> option but only for one of the three targets, the one in the left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> (per page 18 of the manual) to place it in the up position at the start of every ball. Reportedly, in Early Production games, both left and right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> had trouble with their operation causing the removal of the small <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> during production. This trouble should also have affected the solitary <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> in front of the <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">kick-out&nbsp;hole</a> such that we would expect its small <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> to have been removed as well. The manual does have a parts drawing for both the version with the small <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> (the programmable version) and the version without the small <a target="glossary" class="glossarylink" href="/glossary.php#Coil">coil</a> (used for the E-S-C and A-P-E drop targets).<br><br>Artist Constantino Mitchell told us that Wico kept the <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a>'s identity a secret. His wife Jeanine did all the color work for the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, plastics, and <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. She also modeled for the artwork.<br><br>An earlier game, <span title="Click here to open a new window and display Williams' 1981 'Hyperball'"><a target="game3169" href="machine.cgi?id=3169">Williams' 1981 'Hyperball'</a></span>, had an alpha-numeric display but is <a target="glossary" class="glossarylink" href="/glossary.php#Not_A_Pinball">Not&nbsp;A&nbsp;Pinball</a>.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/25/aftor.zip" >PinMAME Romset</a></td><td> [Wico Corporation]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 15 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/25/Wico_1984_Af_Tor_Manual_Complete.pdf" onClick="return purchasemanual();">Instruction Manual (with paginated schematics)</a></td><td> [Wico Corporation]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=20" 
+><span title="Image # 20: Af-Tor Playfield "><img src="https://www.ipdb.org/images/25/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 20: Af-Tor Playfield "><br>Playfield</span></a><br><font size="-2">436x539</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=21" 
+><span title="Image # 21: Af-Tor Backglass "><img src="https://www.ipdb.org/images/25/tn_Backglass2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 21: Af-Tor Backglass "><br>Backglass</span></a><br><font size="-2">436x430</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=22" 
+><span title="Image # 22: Af-Tor Backglass "><img src="https://www.ipdb.org/images/25/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 22: Af-Tor Backglass "><br>Backglass</span></a><br><font size="-2">450x430</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=3500" 
+><span title="Image # 3500: Af-Tor Flyer, Front "><img src="https://www.ipdb.org/images/25/tn_25f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3500: Af-Tor Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">578x764</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=3501" 
+><span title="Image # 3501: Af-Tor Flyer, Back "><img src="https://www.ipdb.org/images/25/tn_25f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3501: Af-Tor Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">581x758</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15217" 
+><span title="Image # 15217: Af-Tor Backglass "><img src="https://www.ipdb.org/images/25/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 15217: Af-Tor Backglass "><br>Backglass</span></a><br><font size="-2">1024x903</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15218" 
+><span title="Image # 15218: Af-Tor Backglass "><img src="https://www.ipdb.org/images/25/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 15218: Af-Tor Backglass "><br>Backglass</span></a><br><font size="-2">952x1075</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15219" 
+><span title="Image # 15219: Af-Tor Playfield "><img src="https://www.ipdb.org/images/25/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 15219: Af-Tor Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15220" 
+><span title="Image # 15220: Af-Tor Cabinet - Left "><img src="https://www.ipdb.org/images/25/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 15220: Af-Tor Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x467</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15221" 
+><span title="Image # 15221: Af-Tor Cabinet - Right "><img src="https://www.ipdb.org/images/25/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 15221: Af-Tor Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x474</font><br>[Ronnie Miller]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15222" 
+><span title="Image # 15222: Af-Tor Front "><img src="https://www.ipdb.org/images/25/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 15222: Af-Tor Front "><br>Front</span></a><br><font size="-2">1024x693</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15223" 
+><span title="Image # 15223: Af-Tor Under Playfield "><img src="https://www.ipdb.org/images/25/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 15223: Af-Tor Under Playfield "><br>Under Playfield</span></a><br><font size="-2">876x1568</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=15224" 
+><span title="Image # 15224: Af-Tor Front View "><img src="https://www.ipdb.org/images/25/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 15224: Af-Tor Front View "><br>Front View</span></a><br><font size="-2">764x1426</font><br>[Ronnie Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=67996" 
+><span title="Image # 67996: Af-Tor Playfield "><img src="https://www.ipdb.org/images/25/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67996: Af-Tor Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=67997" 
+><span title="Image # 67997: Af-Tor Upper Playfield "><img src="https://www.ipdb.org/images/25/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67997: Af-Tor Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=67998" 
+><span title="Image # 67998: Af-Tor Middle Playfield "><img src="https://www.ipdb.org/images/25/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67998: Af-Tor Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=67999" 
+><span title="Image # 67999: Af-Tor Lower Playfield "><img src="https://www.ipdb.org/images/25/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67999: Af-Tor Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68000" 
+><span title="Image # 68000: Af-Tor Playfield - Ball View "><img src="https://www.ipdb.org/images/25/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68000: Af-Tor Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68001" 
+><span title="Image # 68001: Af-Tor Upper Left Playfield "><img src="https://www.ipdb.org/images/25/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68001: Af-Tor Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68002" 
+><span title="Image # 68002: Af-Tor Middle Upper Playfield "><img src="https://www.ipdb.org/images/25/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68002: Af-Tor Middle Upper Playfield "><br>Middle Upper Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68003" 
+><span title="Image # 68003: Af-Tor Upper Right Playfield "><img src="https://www.ipdb.org/images/25/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68003: Af-Tor Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68004" 
+><span title="Image # 68004: Af-Tor Middle Left Playfield "><img src="https://www.ipdb.org/images/25/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68004: Af-Tor Middle Left Playfield "><br>Middle Left Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68005" 
+><span title="Image # 68005: Af-Tor Middle Right Playfield "><img src="https://www.ipdb.org/images/25/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68005: Af-Tor Middle Right Playfield "><br>Middle Right Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68006" 
+><span title="Image # 68006: Af-Tor Lower Left Playfield "><img src="https://www.ipdb.org/images/25/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68006: Af-Tor Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68007" 
+><span title="Image # 68007: Af-Tor Lower Right Playfield "><img src="https://www.ipdb.org/images/25/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68007: Af-Tor Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68008" 
+><span title="Image # 68008: Af-Tor Instruction Card "><img src="https://www.ipdb.org/images/25/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68008: Af-Tor Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68009" 
+><span title="Image # 68009: Af-Tor Score Card 
+(The photographer's reflection has been obscured in this image.)"><img src="https://www.ipdb.org/images/25/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68009: Af-Tor Score Card 
+(The photographer's reflection has been obscured in this image.)"><br>Score Card*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68010" 
+><span title="Image # 68010: Af-Tor Apron Removed "><img src="https://www.ipdb.org/images/25/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68010: Af-Tor Apron Removed "><br>Apron Removed</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68011" 
+><span title="Image # 68011: Af-Tor Apron Removed "><img src="https://www.ipdb.org/images/25/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68011: Af-Tor Apron Removed "><br>Apron Removed</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68012" 
+><span title="Image # 68012: Af-Tor Under Playfield "><img src="https://www.ipdb.org/images/25/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 68012: Af-Tor Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1071x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68013" 
+><span title="Image # 68013: Af-Tor Under Upper Playfield "><img src="https://www.ipdb.org/images/25/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68013: Af-Tor Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68014" 
+><span title="Image # 68014: Af-Tor Under Middle Playfield "><img src="https://www.ipdb.org/images/25/tn_image-A18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68014: Af-Tor Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68015" 
+><span title="Image # 68015: Af-Tor Under Middle Playfield "><img src="https://www.ipdb.org/images/25/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68015: Af-Tor Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68016" 
+><span title="Image # 68016: Af-Tor Under Lower Playfield "><img src="https://www.ipdb.org/images/25/tn_image-B10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68016: Af-Tor Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68017" 
+><span title="Image # 68017: Af-Tor Under Playfield - Detail "><img src="https://www.ipdb.org/images/25/tn_image-B11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68017: Af-Tor Under Playfield - Detail "><br>Under Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68018" 
+><span title="Image # 68018: Af-Tor Under Playfield - Detail "><img src="https://www.ipdb.org/images/25/tn_image-B12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68018: Af-Tor Under Playfield - Detail "><br>Under Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68019" 
+><span title="Image # 68019: Af-Tor Under Playfield - Detail "><img src="https://www.ipdb.org/images/25/tn_image-B13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68019: Af-Tor Under Playfield - Detail "><br>Under Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68020" 
+><span title="Image # 68020: Af-Tor Under Playfield - Detail "><img src="https://www.ipdb.org/images/25/tn_image-B14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68020: Af-Tor Under Playfield - Detail "><br>Under Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68021" 
+><span title="Image # 68021: Af-Tor Under Playfield - Detail "><img src="https://www.ipdb.org/images/25/tn_image-B15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68021: Af-Tor Under Playfield - Detail "><br>Under Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68022" 
+><span title="Image # 68022: Af-Tor Inside Cabinet - Front "><img src="https://www.ipdb.org/images/25/tn_image-B16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68022: Af-Tor Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68023" 
+><span title="Image # 68023: Af-Tor Inside Cabinet - Rear "><img src="https://www.ipdb.org/images/25/tn_image-B17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68023: Af-Tor Inside Cabinet - Rear "><br>Inside Cabinet - Rear</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68024" 
+><span title="Image # 68024: Af-Tor Inside Cabinet - Detail "><img src="https://www.ipdb.org/images/25/tn_image-B18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68024: Af-Tor Inside Cabinet - Detail "><br>Inside Cabinet - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68025" 
+><span title="Image # 68025: Af-Tor Inside Cabinet - Model Number 
+(Located inside the lower cabinet on the right wall. Serial number 11359.)"><img src="https://www.ipdb.org/images/25/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 68025: Af-Tor Inside Cabinet - Model Number 
+(Located inside the lower cabinet on the right wall. Serial number 11359.)"><br>Inside Cabinet - Model Number*</span></a><br><font size="-2">1200x687</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68026" 
+><span title="Image # 68026: Af-Tor Inside Coin Door "><img src="https://www.ipdb.org/images/25/tn_image-B19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68026: Af-Tor Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68027" 
+><span title="Image # 68027: Af-Tor Inside Backbox - Fluorescent Tube Holder "><img src="https://www.ipdb.org/images/25/tn_image-C10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68027: Af-Tor Inside Backbox - Fluorescent Tube Holder "><br>Inside Backbox - Fluorescent Tube Holder</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68028" 
+><span title="Image # 68028: Af-Tor Inside Backbox "><img src="https://www.ipdb.org/images/25/tn_image-C11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 68028: Af-Tor Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">905x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68029" 
+><span title="Image # 68029: Af-Tor Inside Backbox "><img src="https://www.ipdb.org/images/25/tn_image-C12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68029: Af-Tor Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68030" 
+><span title="Image # 68030: Af-Tor Inside Backbox - Detail "><img src="https://www.ipdb.org/images/25/tn_image-C13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68030: Af-Tor Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=25&amp;picno=68031" 
+><span title="Image # 68031: Af-Tor Backbox Supports "><img src="https://www.ipdb.org/images/25/tn_image-C14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 68031: Af-Tor Backbox Supports "><br>Backbox Supports</span></a><br><font size="-2">975x900</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

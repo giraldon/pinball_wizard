@@ -1,0 +1,214 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Operation: Thunder'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Operation: Thunder Flippers (3), Pop Bumpers (2), Slingshots (2), Drop-Targets (8), Vari-Target (1), Spinning target (1), Holes (4) Domed Power Plant in upper right corner, contains spinning turntable that vaults ball around targets and against the side of a pop bumper.  David Moore Constantino Mitchell Jeanine Mitchell Ray Tanzer Bob Wilson Jon Norris Craig Beierwaltes Dave Zabriskie ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Operation: Thunder' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Operation: Thunder</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1721">Operation: Thunder</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1721">1721</a> <I>/ March, 1992 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1721" target="showrate1721"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1721" target="showrate1721">44 ratings/31 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1721" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1992</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>732</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>OT</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,513 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1721">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;Bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Drop-Targets (8), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-Target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Holes (4)</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Domed Power Plant in upper right corner, contains spinning turntable that vaults ball around targets and against the side of a <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ray&nbsp;Tanzer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ray%20Tanzer">Ray&nbsp;Tanzer</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Craig&nbsp;Beierwaltes' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Craig%20Beierwaltes">Craig&nbsp;Beierwaltes</a></span>, <span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Zabriskie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Zabriskie">Dave&nbsp;Zabriskie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bob&nbsp;Wilson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bob%20Wilson">Bob&nbsp;Wilson</a></span>, <span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Norris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Norris">Jon&nbsp;Norris</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The last Gottlieb machine to use <a target="glossary" class="glossarylink" href="/glossary.php#Alphanumeric_Display">Alphanumeric&nbsp;displays</a>.  All Gottlieb machines after Operation Thunder used dot-matrix displays.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"TOP SECRET: Gottliebs NEW _Smart Switch_(TM) are the Operators Secret Weapon to Annihilate old Mechanical Switch Problems."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Chicago Tribune April 5, 1992, pp. Sect. 5, p.1:2. pp. (PF-partial)<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1721">http://www.pinballowners.com/owners/1721</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=E-m38VKMPz4">Example of Play (at YouTube) [11:00]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 499 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 1721 opthund.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 499 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 1721 Premier_1992_Operation_Thunder_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>Manual <!-- gid 1721 Gottlieb_1992_Operation_Thunder_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 67 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1721/Gottlieb_1992_Operation_Thunder_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=5120" 
+><span title="Image # 5120: Operation: Thunder Flyer, Front "><img src="https://www.ipdb.org/images/1721/tn_1721f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5120: Operation: Thunder Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=5121" 
+><span title="Image # 5121: Operation: Thunder Flyer, Back "><img src="https://www.ipdb.org/images/1721/tn_1721f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5121: Operation: Thunder Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12002" 
+><span title="Image # 12002: Operation: Thunder Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12002: Operation: Thunder Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Kiwi]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12003" 
+><span title="Image # 12003: Operation: Thunder Cabinet - Right "><img src="https://www.ipdb.org/images/1721/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 12003: Operation: Thunder Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">535x415</font><br>[Kiwi]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12968" 
+><span title="Image # 12968: Operation: Thunder Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 12968: Operation: Thunder Playfield "><br>Playfield</span></a><br><font size="-2">1024x1571</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12969" 
+><span title="Image # 12969: Operation: Thunder Inside Backbox "><img src="https://www.ipdb.org/images/1721/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12969: Operation: Thunder Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12970" 
+><span title="Image # 12970: Operation: Thunder Inside Backbox "><img src="https://www.ipdb.org/images/1721/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 12970: Operation: Thunder Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x784</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12971" 
+><span title="Image # 12971: Operation: Thunder Behind Translite "><img src="https://www.ipdb.org/images/1721/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 12971: Operation: Thunder Behind Translite "><br>Behind Translite</span></a><br><font size="-2">640x589</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12972" 
+><span title="Image # 12972: Operation: Thunder Inside Cabinet "><img src="https://www.ipdb.org/images/1721/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12972: Operation: Thunder Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12973" 
+><span title="Image # 12973: Operation: Thunder Display Tubes "><img src="https://www.ipdb.org/images/1721/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 12973: Operation: Thunder Display Tubes "><br>Display Tubes</span></a><br><font size="-2">800x510</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12974" 
+><span title="Image # 12974: Operation: Thunder Score Displays "><img src="https://www.ipdb.org/images/1721/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12974: Operation: Thunder Score Displays "><br>Score Displays</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12975" 
+><span title="Image # 12975: Operation: Thunder Upper Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12975: Operation: Thunder Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12976" 
+><span title="Image # 12976: Operation: Thunder Middle Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12976: Operation: Thunder Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12977" 
+><span title="Image # 12977: Operation: Thunder Lower Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12977: Operation: Thunder Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12978" 
+><span title="Image # 12978: Operation: Thunder Ball Lock "><img src="https://www.ipdb.org/images/1721/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12978: Operation: Thunder Ball Lock "><br>Ball Lock</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12979" 
+><span title="Image # 12979: Operation: Thunder Drop Targets - 3 Bank "><img src="https://www.ipdb.org/images/1721/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12979: Operation: Thunder Drop Targets - 3 Bank "><br>Drop Targets - 3 Bank</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12980" 
+><span title="Image # 12980: Operation: Thunder Drop Targets - 5 Bank "><img src="https://www.ipdb.org/images/1721/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12980: Operation: Thunder Drop Targets - 5 Bank "><br>Drop Targets - 5 Bank</span></a><br><font size="-2">1000x670</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12981" 
+><span title="Image # 12981: Operation: Thunder Power Plant Dome "><img src="https://www.ipdb.org/images/1721/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12981: Operation: Thunder Power Plant Dome "><br>Power Plant Dome</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12982" 
+><span title="Image # 12982: Operation: Thunder Inside Power Plant "><img src="https://www.ipdb.org/images/1721/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12982: Operation: Thunder Inside Power Plant "><br>Inside Power Plant</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12983" 
+><span title="Image # 12983: Operation: Thunder Powerplant Turntable "><img src="https://www.ipdb.org/images/1721/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 12983: Operation: Thunder Powerplant Turntable "><br>Powerplant Turntable</span></a><br><font size="-2">800x557</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12984" 
+><span title="Image # 12984: Operation: Thunder Left Ramp "><img src="https://www.ipdb.org/images/1721/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12984: Operation: Thunder Left Ramp "><br>Left Ramp</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12985" 
+><span title="Image # 12985: Operation: Thunder Vertical Upkicker Wireform "><img src="https://www.ipdb.org/images/1721/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12985: Operation: Thunder Vertical Upkicker Wireform "><br>Vertical Upkicker Wireform</span></a><br><font size="-2">1024x686</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12986" 
+><span title="Image # 12986: Operation: Thunder Ball Diverter "><img src="https://www.ipdb.org/images/1721/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12986: Operation: Thunder Ball Diverter "><br>Ball Diverter</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12987" 
+><span title="Image # 12987: Operation: Thunder Jackpots "><img src="https://www.ipdb.org/images/1721/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12987: Operation: Thunder Jackpots "><br>Jackpots</span></a><br><font size="-2">640x429</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12988" 
+><span title="Image # 12988: Operation: Thunder Hidden Spinner "><img src="https://www.ipdb.org/images/1721/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12988: Operation: Thunder Hidden Spinner "><br>Hidden Spinner</span></a><br><font size="-2">900x603</font><br>[Kevin Wayte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12989" 
+><span title="Image # 12989: Operation: Thunder Vari-Target "><img src="https://www.ipdb.org/images/1721/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12989: Operation: Thunder Vari-Target "><br>Vari-Target</span></a><br><font size="-2">800x536</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=12990" 
+><span title="Image # 12990: Operation: Thunder Shooter Lane "><img src="https://www.ipdb.org/images/1721/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 12990: Operation: Thunder Shooter Lane "><br>Shooter Lane</span></a><br><font size="-2">600x896</font><br>[Kevin Wayte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=43264" 
+><span title="Image # 43264: Operation: Thunder Cabinet - Full View "><img src="https://www.ipdb.org/images/1721/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43264: Operation: Thunder Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1200x1600</font><br>[Jasper Van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=58875" 
+><span title="Image # 58875: Operation: Thunder Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58875: Operation: Thunder Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Rafael Luque]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=58876" 
+><span title="Image # 58876: Operation: Thunder Upper Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58876: Operation: Thunder Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Rafael Luque]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=58877" 
+><span title="Image # 58877: Operation: Thunder Middle Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58877: Operation: Thunder Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Rafael Luque]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=58878" 
+><span title="Image # 58878: Operation: Thunder Lower Playfield "><img src="https://www.ipdb.org/images/1721/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58878: Operation: Thunder Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Rafael Luque]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=63779" 
+><span title="Image # 63779: Operation: Thunder Cabinet - Front View "><img src="https://www.ipdb.org/images/1721/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 63779: Operation: Thunder Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">735x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1721&amp;picno=69301" 
+><span title="Image # 69301: Operation: Thunder NOS Plastics Set "><img src="https://www.ipdb.org/images/1721/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69301: Operation: Thunder NOS Plastics Set "><br>NOS Plastics Set</span></a><br><font size="-2">1180x789</font><br>[Martin Wiest]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'MiniZag'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally MiniZag Mini-Zag Zipper Flippers Zipper flippers (2), Pop bumpers (3), Mushroom bumpers (5), Slingshots (3), Kick-out holes (2), Zagger Lane with captive ball, Right outlane ball return gate. Spot-Lite Backglass Bonus. Can be set for 3-ball, 5-ball or 7-ball play.  Jerry Kelley Ted Zale ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'MiniZag' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>MiniZag</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1606">MiniZag</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1606">1606</a> <I>/ November, 1968 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1606" target="showrate1606"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1606" target="showrate1606">10 ratings/10 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1606" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>February 07, 1968</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1968</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>823</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,172 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1606">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Dancing - Music</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Zipper Flippers&nbsp;<a href="glossary.php#Zipper_Flippers" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Zipper_Flipper">Zipper&nbsp;flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">Mushroom&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), Zagger Lane with <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">captive&nbsp;ball</a>, Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Spot-Lite <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> Bonus. Can be set for 3-ball, 5-ball or 7-ball play.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ted&nbsp;Zale' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ted%20Zale">Ted&nbsp;Zale</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jerry&nbsp;Kelley' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jerry%20Kelley">Jerry&nbsp;Kelley</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The manufacturer produced the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> in both crystal glass and Plexiglas.<br><br>In the middle area of the <a target="glossary" class="glossarylink" href="/glossary.php#Motor_Board">motor&nbsp;board</a> is a 10-pin jack with a 4-pin shorting plug. This shorting plug is required for <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> operation. This jack will accommodate an <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-ball</a> relay, likely ordered separately by the <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a>, required for <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-ball</a> operation. The <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> would remove (and save) the shorting plug and attach the <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-ball</a> relay to the nearby vacant area of the <a target="glossary" class="glossarylink" href="/glossary.php#Motor_Board">motor&nbsp;board</a>, plugging it into the vacated jack. The schematic refers to the "<a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> relay".<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Dec-28-1968, page 34<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1606/Bally_1968_MiniZag_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1606/MiniZag_CARD.pdf" >Features Explanation</a></td><td> [BoB Graham]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=3832" 
+><span title="Image # 3832: MiniZag Flyer "><img src="https://www.ipdb.org/images/1606/tn_1606f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 3832: MiniZag Flyer "><br>Flyer</span></a><br><font size="-2">875x1027</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=7152" 
+><span title="Image # 7152: MiniZag Backglass "><img src="https://www.ipdb.org/images/1606/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 7152: MiniZag Backglass "><br>Backglass</span></a><br><font size="-2">478x509</font><br>[Thomas Loftus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=7153" 
+><span title="Image # 7153: MiniZag Playfield "><img src="https://www.ipdb.org/images/1606/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7153: MiniZag Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Thomas Loftus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=7154" 
+><span title="Image # 7154: MiniZag Cabinet - Full View "><img src="https://www.ipdb.org/images/1606/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 7154: MiniZag Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">477x467</font><br>[Thomas Loftus]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26639" 
+><span title="Image # 26639: MiniZag Playfield - Ball View 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26639: MiniZag Playfield - Ball View 
+(Serial number 1380.)"><br>Playfield - Ball View*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26640" 
+><span title="Image # 26640: MiniZag Playfield - Ball View 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26640: MiniZag Playfield - Ball View 
+(Serial number 1380.)"><br>Playfield - Ball View*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26641" 
+><span title="Image # 26641: MiniZag Zipper Flippers Closed 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=49 alt="Image # 26641: MiniZag Zipper Flippers Closed 
+(Serial number 1380.)"><br>Zipper Flippers Closed*</span></a><br><font size="-2">800x393</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26642" 
+><span title="Image # 26642: MiniZag GROOVY Lights 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26642: MiniZag GROOVY Lights 
+(Serial number 1380.)"><br>GROOVY Lights*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26643" 
+><span title="Image # 26643: MiniZag Zagger Lane 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26643: MiniZag Zagger Lane 
+(Serial number 1380.)"><br>Zagger Lane*</span></a><br><font size="-2">600x800</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26644" 
+><span title="Image # 26644: MiniZag Kick-Out Hole - 'Way Out' 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26644: MiniZag Kick-Out Hole - 'Way Out' 
+(Serial number 1380.)"><br>Kick-Out Hole - 'Way Out'*</span></a><br><font size="-2">600x800</font><br>[Jürgen Mayer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26645" 
+><span title="Image # 26645: MiniZag Zagger Lane Loop 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26645: MiniZag Zagger Lane Loop 
+(Serial number 1380.)"><br>Zagger Lane Loop*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26646" 
+><span title="Image # 26646: MiniZag Backglass 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26646: MiniZag Backglass 
+(Serial number 1380.)"><br>Backglass*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26647" 
+><span title="Image # 26647: MiniZag Score Card 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26647: MiniZag Score Card 
+(Serial number 1380.)"><br>Score Card*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26648" 
+><span title="Image # 26648: MiniZag Front Door 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26648: MiniZag Front Door 
+(Serial number 1380.)"><br>Front Door*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26649" 
+><span title="Image # 26649: MiniZag Tilt Mechanisms 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26649: MiniZag Tilt Mechanisms 
+(Serial number 1380.)"><br>Tilt Mechanisms*</span></a><br><font size="-2">600x800</font><br>[Jürgen Mayer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26650" 
+><span title="Image # 26650: MiniZag Playfield - Detail 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26650: MiniZag Playfield - Detail 
+(Serial number 1380.)"><br>Playfield - Detail*</span></a><br><font size="-2">800x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=26651" 
+><span title="Image # 26651: MiniZag Backglass - Detail 
+(Serial number 1380.)"><img src="https://www.ipdb.org/images/1606/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 26651: MiniZag Backglass - Detail 
+(Serial number 1380.)"><br>Backglass - Detail*</span></a><br><font size="-2">344x418</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=46806" 
+><span title="Image # 46806: MiniZag Playfield 
+(Serial number 1229.)"><img src="https://www.ipdb.org/images/1606/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46806: MiniZag Playfield 
+(Serial number 1229.)"><br>Playfield*</span></a><br><font size="-2">836x627</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=47882" 
+><span title="Image # 47882: MiniZag Backglass - Detail 
+(Serial number 1229.)"><img src="https://www.ipdb.org/images/1606/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47882: MiniZag Backglass - Detail 
+(Serial number 1229.)"><br>Backglass - Detail*</span></a><br><font size="-2">627x836</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=47883" 
+><span title="Image # 47883: MiniZag Illuminated Playfield 
+(Serial number 1229.)"><img src="https://www.ipdb.org/images/1606/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 47883: MiniZag Illuminated Playfield 
+(Serial number 1229.)"><br>Illuminated Playfield*</span></a><br><font size="-2">609x822</font><br>[Bruce Brigham]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=47884" 
+><span title="Image # 47884: MiniZag Zagger Lane 
+(Serial number 1229.)"><img src="https://www.ipdb.org/images/1606/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47884: MiniZag Zagger Lane 
+(Serial number 1229.)"><br>Zagger Lane*</span></a><br><font size="-2">1200x1600</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=69354" 
+><span title="Image # 69354: MiniZag Billboard Ad 
+(The Billboard, Dec-28-1968, page 34)"><img src="https://www.ipdb.org/images/1606/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 69354: MiniZag Billboard Ad 
+(The Billboard, Dec-28-1968, page 34)"><br>Billboard Ad*</span></a><br><font size="-2">1024x1182</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=72096" 
+><span title="Image # 72096: MiniZag Add-A-Ball Relay Not Installed 
+(Serial number 1267.)"><img src="https://www.ipdb.org/images/1606/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 72096: MiniZag Add-A-Ball Relay Not Installed 
+(Serial number 1267.)"><br>Add-A-Ball Relay Not Installed*</span></a><br><font size="-2">900x1200</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=72097" 
+><span title="Image # 72097: MiniZag Add-A-Ball Relay Not Installed - Annotated 
+(In this picture, a red rectangle highlights where the 4-pin replay shorting plug has been removed from the 10-pin jack and placed next to it. The vacant area inside the square is where the Add-a-ball relay would be mounted. Serial number 1267.)"><img src="https://www.ipdb.org/images/1606/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 72097: MiniZag Add-A-Ball Relay Not Installed - Annotated 
+(In this picture, a red rectangle highlights where the 4-pin replay shorting plug has been removed from the 10-pin jack and placed next to it. The vacant area inside the square is where the Add-a-ball relay would be mounted. Serial number 1267.)"><br>Add-A-Ball Relay Not Installed - Annotated*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=72098" 
+><span title="Image # 72098: MiniZag Add-A-Ball Relay Not Installed 
+(Serial number 1267.)"><img src="https://www.ipdb.org/images/1606/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 72098: MiniZag Add-A-Ball Relay Not Installed 
+(Serial number 1267.)"><br>Add-A-Ball Relay Not Installed*</span></a><br><font size="-2">1200x1464</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=72099" 
+><span title="Image # 72099: MiniZag Backglass - Reverse 
+(From the game with serial number 1267.)"><img src="https://www.ipdb.org/images/1606/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 72099: MiniZag Backglass - Reverse 
+(From the game with serial number 1267.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1200x1363</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1606&amp;picno=72100" 
+><span title="Image # 72100: MiniZag Cabinet - Serial Number 
+(Serial number 1267.)"><img src="https://www.ipdb.org/images/1606/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 72100: MiniZag Cabinet - Serial Number 
+(Serial number 1267.)"><br>Cabinet - Serial Number*</span></a><br><font size="-2">900x1200</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

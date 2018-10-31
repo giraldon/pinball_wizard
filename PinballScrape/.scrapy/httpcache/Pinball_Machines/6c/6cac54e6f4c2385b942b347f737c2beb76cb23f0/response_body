@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Genco 'Broncho'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Genco Broncho Bronco Flipperless 5 cents per play. Kick-out holes (4). 3 or 5 ball play.
+
+Maximum displayed point score is 1,495,000 points. After this score, it rolls over to 1,400,000 and will step continuously in 5000-point increments as points are earned.
+
+There is a fixed replay threshold at 1,000,000 points. The operator can add additional threshholds at 600,000 / 700,000 / 800,000 / 900,000 points.
+
+Replay wheel maximum: 57
+
+Sound: none, no bells or knocker.  Harvey Heiss Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Genco 'Broncho' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Broncho</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="386">Broncho</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=386">386</a> <I>/ September 03, 1947 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=386" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Genco'"><a href="search.pl?searchtype=advanced&amp;mfgid=130">Genco Manufacturing Company, <font size="-1">of Chicago, Illinois, USA</font> (1931-1958)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September 03, 1947</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,260 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=386">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>American West - Rodeo</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 cents per play. <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (4). 3 or 5 ball play.<br><br>Maximum displayed point score is 1,495,000 points. After this score, it rolls over to 1,400,000 and will step continuously in 5000-point increments as points are earned.<br><br>There is a fixed <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> threshold at 1,000,000 points. The <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> can add additional threshholds at 600,000 / 700,000 / 800,000 / 900,000 points.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 57<br><br>Sound: none, no bells or <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Harvey&nbsp;Heiss' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Harvey%20Heiss">Harvey&nbsp;Heiss</a></span>, <span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This <a target="glossary" class="glossarylink" href="/glossary.php#Flipperless">flipperless</a> game has stationary <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> that are shaped like <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.<br><br>The first <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> game by Genco was <span title="Click here to open a new window and display Genco's 1948 'Triple Action'"><a target="game2650" href="machine.cgi?id=2650">Genco's 1948 'Triple Action'</a></span> in January 1948. <a target="glossary" class="glossarylink" href="/glossary.php#Operator">Operators</a> of this period would soon retrofit <a target="glossary" class="glossarylink" href="/glossary.php#Flipperless">flipperless</a> games, like Broncho, and these new <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> often ended up in unusual places on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>Of the several games pictured in this listing, three are itemized below to point out the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art differences. We have numbered the images of these games to correspond with their descriptions:<br><br>#1) Green and yellow <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The seven lettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are green and the three unlettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are red. A red <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> were added after the game left the factory. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art does not <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> in the Billboard ads.<br><br>#2) Orange and yellow <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The seven lettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are orange. The three unlettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are purplish. No after-factory modifications are apparent. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art looks factory-quality and mat<ignore>ches the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art of <span title="Click here to open a new window and display Genco's 1948 'Triple Action'"><a target="game2650" href="machine.cgi?id=2650">Genco's 1948 'Triple Action'</a></span>.<br><br>#3) Another orange and yellow <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The seven lettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are orange. On the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, the center <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> is purple while the <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> on each side of it were replaced with red <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumpers</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> were retrofitted as well, although the right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> is missing and only its post hole is evident. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> has been repainted. Inside the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, two numbers 1177 and 104 are penciled.<br><br>#4) Another green and yellow <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The seven lettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are green and the three unlettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps are red. No retrofitted <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> on this <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> but inexplicably two of the four <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">kick-out&nbsp;holes</a> have been plugged. The entire right side of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> (not shown here) has been overpainted in a solid cream color. The left-side <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art does not ma<ignore>tch the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> in the Billboard ads but does ma<ignore>tch the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> of our game images marked #1.<br><br>Setting aside the obvious after-factory modifications, both <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> color versions appear to be factory-quality. Unfortunately, we find only black-and-white advertisements from the manufacturer to assist our understanding of this.<br><br>None of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art ma<ignore>tch the game in the two Billboard ads shown here. More examples of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> are needed (or more 1940's ads) to study if multiple <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art designs could have been produced by the manufacturer. Although one or more of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> presented here are repainted, we include them in this listing in order to anticipate any user questions about it, as we continue to gather additional information about this game.<br><br>Production start date: 09/03/47<br>Production end date: 03/23/48<br><br>We previously showed a date for this game of October 1947.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Oct-11-1947, pages 143 and 149<br>
+The Billboard, Nov-1-1947, pages 140<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 203<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=363" 
+><span title="Image # 363: Broncho Playfield "><img src="https://www.ipdb.org/images/386/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 363: Broncho Playfield "><br>Playfield</span></a><br><font size="-2">440x531</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=364" 
+><span title="Image # 364: Broncho Backglass "><img src="https://www.ipdb.org/images/386/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 364: Broncho Backglass "><br>Backglass</span></a><br><font size="-2">420x435</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=17224" 
+><span title="Image # 17224: Broncho #1 Backglass "><img src="https://www.ipdb.org/images/386/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 17224: Broncho #1 Backglass "><br>#1 Backglass</span></a><br><font size="-2">316x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=17225" 
+><span title="Image # 17225: Broncho #1 Upper Playfield 
+(The red pop bumper is not original to this game.)"><img src="https://www.ipdb.org/images/386/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17225: Broncho #1 Upper Playfield 
+(The red pop bumper is not original to this game.)"><br>#1 Upper Playfield*</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=17226" 
+><span title="Image # 17226: Broncho #1 Lower Playfield (With Retrofit Flippers) 
+(The red pop bumper at the top edge of this image is not original to this game.)"><img src="https://www.ipdb.org/images/386/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17226: Broncho #1 Lower Playfield (With Retrofit Flippers) 
+(The red pop bumper at the top edge of this image is not original to this game.)"><br>#1 Lower Playfield (With Retrofit Flippers)*</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=17227" 
+><span title="Image # 17227: Broncho #1 Cabinet - Left "><img src="https://www.ipdb.org/images/386/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17227: Broncho #1 Cabinet - Left "><br>#1 Cabinet - Left</span></a><br><font size="-2">321x241</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=17228" 
+><span title="Image # 17228: Broncho #1 Cabinet - Right 
+(The red pop bumper is not original to this game.)"><img src="https://www.ipdb.org/images/386/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 17228: Broncho #1 Cabinet - Right 
+(The red pop bumper is not original to this game.)"><br>#1 Cabinet - Right*</span></a><br><font size="-2">161x293</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=17229" 
+><span title="Image # 17229: Broncho #1 Cabinet - Front View 
+(The red pop bumper is not original to this game.)"><img src="https://www.ipdb.org/images/386/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 17229: Broncho #1 Cabinet - Front View 
+(The red pop bumper is not original to this game.)"><br>#1 Cabinet - Front View*</span></a><br><font size="-2">166x259</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=35234" 
+><span title="Image # 35234: Broncho Backbox "><img src="https://www.ipdb.org/images/386/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 35234: Broncho Backbox "><br>Backbox</span></a><br><font size="-2">900x791</font><br>[Frank Laughlin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47458" 
+><span title="Image # 47458: Broncho Billboard New Game Announcement 
+(The Billboard, Oct-11-1947, pages 143)"><img src="https://www.ipdb.org/images/386/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 47458: Broncho Billboard New Game Announcement 
+(The Billboard, Oct-11-1947, pages 143)"><br>Billboard New Game Announcement*</span></a><br><font size="-2">426x666</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47459" 
+><span title="Image # 47459: Broncho Billboard Ad 
+(The Billboard, Oct-11-1947, pages 149)"><img src="https://www.ipdb.org/images/386/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 47459: Broncho Billboard Ad 
+(The Billboard, Oct-11-1947, pages 149)"><br>Billboard Ad*</span></a><br><font size="-2">1200x1693</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47460" 
+><span title="Image # 47460: Broncho #2 Playfield "><img src="https://www.ipdb.org/images/386/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 47460: Broncho #2 Playfield "><br>#2 Playfield</span></a><br><font size="-2">1024x1383</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47461" 
+><span title="Image # 47461: Broncho #2 Cabinet - Left "><img src="https://www.ipdb.org/images/386/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 47461: Broncho #2 Cabinet - Left "><br>#2 Cabinet - Left</span></a><br><font size="-2">1024x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47462" 
+><span title="Image # 47462: Broncho #2 Cabinet - Right "><img src="https://www.ipdb.org/images/386/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 47462: Broncho #2 Cabinet - Right "><br>#2 Cabinet - Right</span></a><br><font size="-2">1024x824</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47463" 
+><span title="Image # 47463: Broncho #2 Cabinet - Front View "><img src="https://www.ipdb.org/images/386/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 47463: Broncho #2 Cabinet - Front View "><br>#2 Cabinet - Front View</span></a><br><font size="-2">1003x1420</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47464" 
+><span title="Image # 47464: Broncho #2 Inside Backbox 
+(This is the game with the orange playfield.)"><img src="https://www.ipdb.org/images/386/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 47464: Broncho #2 Inside Backbox 
+(This is the game with the orange playfield.)"><br>#2 Inside Backbox*</span></a><br><font size="-2">1000x1009</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47465" 
+><span title="Image # 47465: Broncho #2 Inside Cabinet 
+(This is the game with the orange playfield.)"><img src="https://www.ipdb.org/images/386/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 47465: Broncho #2 Inside Cabinet 
+(This is the game with the orange playfield.)"><br>#2 Inside Cabinet*</span></a><br><font size="-2">1000x1477</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47466" 
+><span title="Image # 47466: Broncho #2 Rectifier and Power Unit Wiring Information 
+(This is the game with the orange playfield.)"><img src="https://www.ipdb.org/images/386/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 47466: Broncho #2 Rectifier and Power Unit Wiring Information 
+(This is the game with the orange playfield.)"><br>#2 Rectifier and Power Unit Wiring Information*</span></a><br><font size="-2">1200x824</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47467" 
+><span title="Image # 47467: Broncho #2 Kick-Out Hole Adjustment Advice 
+(This is the game with the orange playfield.)"><img src="https://www.ipdb.org/images/386/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47467: Broncho #2 Kick-Out Hole Adjustment Advice 
+(This is the game with the orange playfield.)"><br>#2 Kick-Out Hole Adjustment Advice*</span></a><br><font size="-2">1200x898</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47468" 
+><span title="Image # 47468: Broncho #2 Post Adjustment Chart - 3 or 5 Ball Play 
+(This is the game with the orange playfield. This chart is stapled to the inside the backbox door.)"><img src="https://www.ipdb.org/images/386/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 47468: Broncho #2 Post Adjustment Chart - 3 or 5 Ball Play 
+(This is the game with the orange playfield. This chart is stapled to the inside the backbox door.)"><br>#2 Post Adjustment Chart - 3 or 5 Ball Play*</span></a><br><font size="-2">1200x1863</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47469" 
+><span title="Image # 47469: Broncho #2 Replay Settings 
+(This is the game with the orange playfield.)"><img src="https://www.ipdb.org/images/386/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 47469: Broncho #2 Replay Settings 
+(This is the game with the orange playfield.)"><br>#2 Replay Settings*</span></a><br><font size="-2">258x501</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47919" 
+><span title="Image # 47919: Broncho #3 Playfield (with retrofit flippers) 
+(Retrofitted pop bumpers are also evident.)"><img src="https://www.ipdb.org/images/386/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47919: Broncho #3 Playfield (with retrofit flippers) 
+(Retrofitted pop bumpers are also evident.)"><br>#3 Playfield (with retrofit flippers)*</span></a><br><font size="-2">682x1024</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47920" 
+><span title="Image # 47920: Broncho #3 Upper Playfield (with retrofit flippers) 
+(Retrofitted pop bumpers are also evident.)"><img src="https://www.ipdb.org/images/386/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47920: Broncho #3 Upper Playfield (with retrofit flippers) 
+(Retrofitted pop bumpers are also evident.)"><br>#3 Upper Playfield (with retrofit flippers)*</span></a><br><font size="-2">682x1024</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47921" 
+><span title="Image # 47921: Broncho #3 Lower Playfield (with retrofit flippers) 
+(Retrofitted pop bumpers are also evident.)"><img src="https://www.ipdb.org/images/386/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47921: Broncho #3 Lower Playfield (with retrofit flippers) 
+(Retrofitted pop bumpers are also evident.)"><br>#3 Lower Playfield (with retrofit flippers)*</span></a><br><font size="-2">682x1024</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47922" 
+><span title="Image # 47922: Broncho #3 Lower Playfield (with retrofit flippers) "><img src="https://www.ipdb.org/images/386/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47922: Broncho #3 Lower Playfield (with retrofit flippers) "><br>#3 Lower Playfield (with retrofit flippers)</span></a><br><font size="-2">1024x682</font><br>[Paul Wigmore]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=47923" 
+><span title="Image # 47923: Broncho #3 Cabinet - Full View 
+(This game has the orange playfield with retrofitted pop bumpers and flippers.)"><img src="https://www.ipdb.org/images/386/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 47923: Broncho #3 Cabinet - Full View 
+(This game has the orange playfield with retrofitted pop bumpers and flippers.)"><br>#3 Cabinet - Full View*</span></a><br><font size="-2">798x760</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=57584" 
+><span title="Image # 57584: Broncho #3 Under Playfield (with retrofit flippers) 
+(Near the three fuses are five clipped wires which likely had a female connector. A 5-prong male connector dangles nearby, unterminated. Extra wiring can be seen, outside of the cable harness, for the flippers.)"><img src="https://www.ipdb.org/images/386/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57584: Broncho #3 Under Playfield (with retrofit flippers) 
+(Near the three fuses are five clipped wires which likely had a female connector. A 5-prong male connector dangles nearby, unterminated. Extra wiring can be seen, outside of the cable harness, for the flippers.)"><br>#3 Under Playfield (with retrofit flippers)*</span></a><br><font size="-2">768x1024</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=57585" 
+><span title="Image # 57585: Broncho #3 Under Lower Playfield (with retrofit flippers) 
+(Near the three fuses are five clipped wires which likely had a female connector. A 5-prong male connector dangles nearby, unterminated. Extra wiring can be seen, outside of the cable harness, for the flippers.)"><img src="https://www.ipdb.org/images/386/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 57585: Broncho #3 Under Lower Playfield (with retrofit flippers) 
+(Near the three fuses are five clipped wires which likely had a female connector. A 5-prong male connector dangles nearby, unterminated. Extra wiring can be seen, outside of the cable harness, for the flippers.)"><br>#3 Under Lower Playfield (with retrofit flippers)*</span></a><br><font size="-2">757x952</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=57586" 
+><span title="Image # 57586: Broncho #3 Ball Trough "><img src="https://www.ipdb.org/images/386/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57586: Broncho #3 Ball Trough "><br>#3 Ball Trough</span></a><br><font size="-2">768x1024</font><br>[Paul Wigmore]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=57587" 
+><span title="Image # 57587: Broncho #3 Ball Lift and Shooter Mechanisms "><img src="https://www.ipdb.org/images/386/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57587: Broncho #3 Ball Lift and Shooter Mechanisms "><br>#3 Ball Lift and Shooter Mechanisms</span></a><br><font size="-2">768x1024</font><br>[Paul Wigmore]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=69744" 
+><span title="Image # 69744: Broncho Billboard Ad 
+(The Billboard, Nov-1-1947, pages 140)"><img src="https://www.ipdb.org/images/386/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=35 height=100 alt="Image # 69744: Broncho Billboard Ad 
+(The Billboard, Nov-1-1947, pages 140)"><br>Billboard Ad*</span></a><br><font size="-2">282x803</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70076" 
+><span title="Image # 70076: Broncho #4 Backglass "><img src="https://www.ipdb.org/images/386/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 70076: Broncho #4 Backglass "><br>#4 Backglass</span></a><br><font size="-2">733x893</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70077" 
+><span title="Image # 70077: Broncho #4 Backglass "><img src="https://www.ipdb.org/images/386/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70077: Broncho #4 Backglass "><br>#4 Backglass</span></a><br><font size="-2">749x999</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70078" 
+><span title="Image # 70078: Broncho #4 Upper Playfield "><img src="https://www.ipdb.org/images/386/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70078: Broncho #4 Upper Playfield "><br>#4 Upper Playfield</span></a><br><font size="-2">749x999</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70079" 
+><span title="Image # 70079: Broncho #4 Lower Playfield "><img src="https://www.ipdb.org/images/386/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70079: Broncho #4 Lower Playfield "><br>#4 Lower Playfield</span></a><br><font size="-2">749x999</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70080" 
+><span title="Image # 70080: Broncho #4 Center Playfield "><img src="https://www.ipdb.org/images/386/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70080: Broncho #4 Center Playfield "><br>#4 Center Playfield</span></a><br><font size="-2">749x999</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70081" 
+><span title="Image # 70081: Broncho #4 Backbox - Left "><img src="https://www.ipdb.org/images/386/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 70081: Broncho #4 Backbox - Left "><br>#4 Backbox - Left</span></a><br><font size="-2">695x976</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70082" 
+><span title="Image # 70082: Broncho #4 Cabinet - Left "><img src="https://www.ipdb.org/images/386/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 70082: Broncho #4 Cabinet - Left "><br>#4 Cabinet - Left</span></a><br><font size="-2">680x999</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70083" 
+><span title="Image # 70083: Broncho #4 Cabinet - Front "><img src="https://www.ipdb.org/images/386/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 70083: Broncho #4 Cabinet - Front "><br>#4 Cabinet - Front</span></a><br><font size="-2">749x999</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70084" 
+><span title="Image # 70084: Broncho #4 Cabinet - Front View "><img src="https://www.ipdb.org/images/386/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 70084: Broncho #4 Cabinet - Front View "><br>#4 Cabinet - Front View</span></a><br><font size="-2">633x861</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=386&amp;picno=70085" 
+><span title="Image # 70085: Broncho #4 Cabinet - Rear "><img src="https://www.ipdb.org/images/386/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 70085: Broncho #4 Cabinet - Rear "><br>#4 Cabinet - Rear</span></a><br><font size="-2">749x952</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,336 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Silver Slugger'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Silver Slugger Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), Spinning targets (3), Kick-out holes (2), 4-bank drop targets (1), Vari-target (1), Left outlane kickback. 2-ball and 3-ball multiball. Uses two 20-digit, alpha-numeric (with commas), blue Futaba displays. Also has four two-segment red LED displays to keep track of runs scored. Backbox light animation (men run bases).  David Moore Constantino Mitchell Jeanine Mitchell John Trudeau ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Silver Slugger' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Silver Slugger</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2152">Silver Slugger</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2152">2152</a> <I>/ February, 1990 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2152" target="showrate2152"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2152" target="showrate2152">14 ratings/13 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2152" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1990</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>722</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SS</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,100 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2152">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Baseball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-target</a> (1), Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a>. 2-ball and 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. Uses two 20-digit, alpha-numeric (with commas), blue Futaba displays. Also has four two-segment red LED displays to keep track of runs scored. <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (men run bases).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Trudeau' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Trudeau">John&nbsp;Trudeau</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>First of the so-called "Street Level" games, which were an experiment by Gottlieb towards designing a simpler, single level (no ramps), slightly smaller and cheaper game for <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operators</a> who thought pinball machines were too expensive. They did not sell very well overall, and only six models were made before Premier returned to games with more sophisticated <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> designs. The other five are <span title="Click here to open a new window and display Premier's 1990 'Vegas'"><a target="game2724" href="machine.cgi?id=2724">Premier's 1990 'Vegas'</a></span>, <span title="Click here to open a new window and display Premier's 1990 'Deadly Weapon'"><a target="game645" href="machine.cgi?id=645">Premier's 1990 'Deadly Weapon'</a></span>, <span title="Click here to open a new window and display Premier's 1990 'Title Fight'"><a target="game2573" href="machine.cgi?id=2573">Premier's 1990 'Title Fight'</a></span>, <span title="Click here to open a new window and display Premier's 1991 'Car Hop'"><a target="game3676" href="machine.cgi?id=3676">Premier's 1991 'Car Hop'</a></span>, and <span title="Click here to open a new window and display Premier's 1991 'Hoops'"><a target="game1235" href="machine.cgi?id=1235">Premier's 1991 'Hoops'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"This is your ticket to the games of the future!!!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 117<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2152">http://www.pinballowners.com/owners/2152</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 2152 silvslug.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 2152 Premier_1990_Silver_Slugger_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=5131" 
+><span title="Image # 5131: Silver Slugger Flyer, Front "><img src="https://www.ipdb.org/images/2152/tn_2152f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5131: Silver Slugger Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=5132" 
+><span title="Image # 5132: Silver Slugger Flyer, Back "><img src="https://www.ipdb.org/images/2152/tn_2152f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5132: Silver Slugger Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=6637" 
+><span title="Image # 6637: Silver Slugger Backglass "><img src="https://www.ipdb.org/images/2152/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 6637: Silver Slugger Backglass "><br>Backglass</span></a><br><font size="-2">648x713</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=6638" 
+><span title="Image # 6638: Silver Slugger Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 6638: Silver Slugger Playfield "><br>Playfield</span></a><br><font size="-2">768x678</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=11143" 
+><span title="Image # 11143: Silver Slugger Flyer "><img src="https://www.ipdb.org/images/2152/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 11143: Silver Slugger Flyer "><br>Flyer</span></a><br><font size="-2">620x795</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=40466" 
+><span title="Image # 40466: Silver Slugger Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 40466: Silver Slugger Playfield "><br>Playfield</span></a><br><font size="-2">600x800</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=40467" 
+><span title="Image # 40467: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40467: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=40468" 
+><span title="Image # 40468: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40468: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=40469" 
+><span title="Image # 40469: Silver Slugger Upper Left Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40469: Silver Slugger Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=40470" 
+><span title="Image # 40470: Silver Slugger Upper Right Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40470: Silver Slugger Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">800x600</font><br>[Evert Brochez]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=54779" 
+><span title="Image # 54779: Silver Slugger Illuminated Backglass "><img src="https://www.ipdb.org/images/2152/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 54779: Silver Slugger Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x935</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=54780" 
+><span title="Image # 54780: Silver Slugger Backbox - Left "><img src="https://www.ipdb.org/images/2152/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=38 height=100 alt="Image # 54780: Silver Slugger Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">953x2500</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=54781" 
+><span title="Image # 54781: Silver Slugger Cabinet - Left "><img src="https://www.ipdb.org/images/2152/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=43 alt="Image # 54781: Silver Slugger Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x440</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=54782" 
+><span title="Image # 54782: Silver Slugger Cabinet - Front "><img src="https://www.ipdb.org/images/2152/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 54782: Silver Slugger Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x700</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=54783" 
+><span title="Image # 54783: Silver Slugger Cabinet - Front View "><img src="https://www.ipdb.org/images/2152/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 54783: Silver Slugger Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">707x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67111" 
+><span title="Image # 67111: Silver Slugger Illuminated Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67111: Silver Slugger Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x765</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67112" 
+><span title="Image # 67112: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67112: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1023x1365</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67113" 
+><span title="Image # 67113: Silver Slugger Lower Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 67113: Silver Slugger Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x1375</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67114" 
+><span title="Image # 67114: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67114: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x767</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67115" 
+><span title="Image # 67115: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67115: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x767</font><br>[Steve Faith]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67116" 
+><span title="Image # 67116: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67116: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x767</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67117" 
+><span title="Image # 67117: Silver Slugger Lower Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67117: Silver Slugger Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x767</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67118" 
+><span title="Image # 67118: Silver Slugger Playfield - Ball View "><img src="https://www.ipdb.org/images/2152/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67118: Silver Slugger Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x767</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67119" 
+><span title="Image # 67119: Silver Slugger Cabinet - Left "><img src="https://www.ipdb.org/images/2152/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 67119: Silver Slugger Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x976</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67120" 
+><span title="Image # 67120: Silver Slugger Cabinet - Right "><img src="https://www.ipdb.org/images/2152/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 67120: Silver Slugger Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x1020</font><br>[Steve Faith]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67121" 
+><span title="Image # 67121: Silver Slugger Cabinet - Front "><img src="https://www.ipdb.org/images/2152/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 67121: Silver Slugger Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x793</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67122" 
+><span title="Image # 67122: Silver Slugger Cabinet - Rear "><img src="https://www.ipdb.org/images/2152/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 67122: Silver Slugger Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">1024x1731</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67123" 
+><span title="Image # 67123: Silver Slugger Backbox Insert "><img src="https://www.ipdb.org/images/2152/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 67123: Silver Slugger Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">841x767</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67124" 
+><span title="Image # 67124: Silver Slugger Inside Backbox "><img src="https://www.ipdb.org/images/2152/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 67124: Silver Slugger Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x1383</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67125" 
+><span title="Image # 67125: Silver Slugger Under Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 67125: Silver Slugger Under Playfield "><br>Under Playfield</span></a><br><font size="-2">990x1731</font><br>[Steve Faith]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67126" 
+><span title="Image # 67126: Silver Slugger Under Lower Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67126: Silver Slugger Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1024x767</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=67127" 
+><span title="Image # 67127: Silver Slugger Inside Cabinet "><img src="https://www.ipdb.org/images/2152/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67127: Silver Slugger Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">767x1024</font><br>[Steve Faith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71841" 
+><span title="Image # 71841: Silver Slugger Upper Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-B4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71841: Silver Slugger Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71842" 
+><span title="Image # 71842: Silver Slugger Machine - Right "><img src="https://www.ipdb.org/images/2152/tn_image-B5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 71842: Silver Slugger Machine - Right "><br>Machine - Right</span></a><br><font size="-2">218x339</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71843" 
+><span title="Image # 71843: Silver Slugger Machine - Left "><img src="https://www.ipdb.org/images/2152/tn_image-B6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71843: Silver Slugger Machine - Left "><br>Machine - Left</span></a><br><font size="-2">273x365</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71844" 
+><span title="Image # 71844: Silver Slugger Backbox "><img src="https://www.ipdb.org/images/2152/tn_image-B8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71844: Silver Slugger Backbox "><br>Backbox</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71845" 
+><span title="Image # 71845: Silver Slugger Cabinet - Left "><img src="https://www.ipdb.org/images/2152/tn_image-B9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71845: Silver Slugger Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71846" 
+><span title="Image # 71846: Silver Slugger Backbox - Left "><img src="https://www.ipdb.org/images/2152/tn_image-B10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71846: Silver Slugger Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71847" 
+><span title="Image # 71847: Silver Slugger Cabinet - Front "><img src="https://www.ipdb.org/images/2152/tn_image-B11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71847: Silver Slugger Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71848" 
+><span title="Image # 71848: Silver Slugger Cabinet Detail - Front "><img src="https://www.ipdb.org/images/2152/tn_image-B12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71848: Silver Slugger Cabinet Detail - Front "><br>Cabinet Detail - Front</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71849" 
+><span title="Image # 71849: Silver Slugger Cabinet - Right "><img src="https://www.ipdb.org/images/2152/tn_image-B13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71849: Silver Slugger Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71850" 
+><span title="Image # 71850: Silver Slugger Backbox - Right "><img src="https://www.ipdb.org/images/2152/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71850: Silver Slugger Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71851" 
+><span title="Image # 71851: Silver Slugger Backbox "><img src="https://www.ipdb.org/images/2152/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71851: Silver Slugger Backbox "><br>Backbox</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71852" 
+><span title="Image # 71852: Silver Slugger Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71852: Silver Slugger Playfield "><br>Playfield</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71853" 
+><span title="Image # 71853: Silver Slugger Lower Left Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71853: Silver Slugger Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71854" 
+><span title="Image # 71854: Silver Slugger Lower Right Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71854: Silver Slugger Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71855" 
+><span title="Image # 71855: Silver Slugger Lower Center Playfield "><img src="https://www.ipdb.org/images/2152/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71855: Silver Slugger Lower Center Playfield "><br>Lower Center Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71856" 
+><span title="Image # 71856: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71856: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71857" 
+><span title="Image # 71857: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71857: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71858" 
+><span title="Image # 71858: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71858: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71859" 
+><span title="Image # 71859: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71859: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71860" 
+><span title="Image # 71860: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71860: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71861" 
+><span title="Image # 71861: Silver Slugger Center Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71861: Silver Slugger Center Playfield Detail "><br>Center Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71862" 
+><span title="Image # 71862: Silver Slugger Upper Left Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71862: Silver Slugger Upper Left Playfield Detail "><br>Upper Left Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71863" 
+><span title="Image # 71863: Silver Slugger Rollover Lanes "><img src="https://www.ipdb.org/images/2152/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71863: Silver Slugger Rollover Lanes "><br>Rollover Lanes</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71864" 
+><span title="Image # 71864: Silver Slugger Upper Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71864: Silver Slugger Upper Playfield Detail "><br>Upper Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71865" 
+><span title="Image # 71865: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71865: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71866" 
+><span title="Image # 71866: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71866: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71867" 
+><span title="Image # 71867: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71867: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71868" 
+><span title="Image # 71868: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71868: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71869" 
+><span title="Image # 71869: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71869: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71870" 
+><span title="Image # 71870: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71870: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71871" 
+><span title="Image # 71871: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71871: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71872" 
+><span title="Image # 71872: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71872: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71873" 
+><span title="Image # 71873: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71873: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71874" 
+><span title="Image # 71874: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71874: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71875" 
+><span title="Image # 71875: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71875: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71876" 
+><span title="Image # 71876: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71876: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71877" 
+><span title="Image # 71877: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71877: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71878" 
+><span title="Image # 71878: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71878: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71879" 
+><span title="Image # 71879: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71879: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71880" 
+><span title="Image # 71880: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71880: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2152&amp;picno=71881" 
+><span title="Image # 71881: Silver Slugger Playfield Detail "><img src="https://www.ipdb.org/images/2152/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71881: Silver Slugger Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

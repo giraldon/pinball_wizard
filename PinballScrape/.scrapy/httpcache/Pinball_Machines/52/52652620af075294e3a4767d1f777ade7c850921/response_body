@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Voltan Escapes Cosmic Doom'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Voltan Escapes Cosmic Doom Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (5), Spinning targets (2), Star rollover (1).  Dave Christensen George Christian ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Voltan Escapes Cosmic Doom' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Voltan Escapes Cosmic Doom</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2744">Voltan Escapes Cosmic Doom</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2744">2744</a> <I>/ February, 1979 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2744" target="showrate2744"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2744" target="showrate2744">11 ratings/10 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2744" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>January 18, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1979</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1147-E</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>365 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2744">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> (1).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Christian' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Christian">George&nbsp;Christian</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Christensen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Christensen">Dave&nbsp;Christensen</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline><P>Allan Reizman, Engineering Lab Supervisor at Bally 1977-1983, tells us that some examples of Voltan were used to test a newly developed AS-2518-51 sound module. We asked him to tell us the story around it, to explain how it was different from what Voltan already had, and how owners could recognize one of these prototyped games. He responds:<P style="padding-left:30px;"><I>As you noted Voltan was produced with original analog sound board AS-2518-04.  As you noted, the manual explains the limited settings with the dip switches, sounds, no sounds, or chime bells only. After Williams introduced Flash with its electronic programmable sounds and background sound effects, Bally quickly developed its own microprocessor controlled sound board. That board was introduced in Future Spa and was later incorporated into the Squawk and Talk speech board.<br><br>Before we put that sound into production I led a research project to determine the effect of electronic sounds on the cashbox earnings of the game. We chose to experiment on Voltan because the game was performing poorly and was not scheduled to be further produced beyond its 330 game pilot run. I had a lab game and 2 maybe 4 field games modified by removing the analog sound card and replacing with the newly designed 6808 microprocessor card. These games were located at Aladdin’s Castle arcades in the Chicago area that were owned by Bally.<br><br>My audio engineers hastily re-programmed the game for psychedelic electronic sounds replacing the crude analog notes with sci-fi like effect, worthy of science fiction. Interestingly, we chose not to include a background effect as to not tip off Williams we were going to have that with our next production game.<br><br>After the modifications were complete, I monitored the previous and following 30 days of collections to determine if the sound upgrade would have an effect. The results showed a modest increase in plays. This was enough of an improvement, considering the poor earnings performance of Voltan, to justify the production of that sound system.<br><br>The upgraded Voltans are identified by having the newer style sound board and special unlisted PROMS on the mother board. They were never de-modified although I left the old sound board and chips in the game should Aladdin’s have decided otherwise. I know there are at least 3 of these games in existence and possibly a fourth.</i></P><P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 94<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, pages 145-146<br>
+Pinball The Lure of the Silverball, page 78<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764321099/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764321099&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Snapshots</a>, pages 7, 238-242<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 123<br>
+Mad Dog and His Art, page 92<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2744">http://www.pinballowners.com/owners/2744</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 50 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2744/voltan.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 49 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2744/voltanb.zip" >PinMAME Romset (7-digit bootleg)</a></td><td> [Bally / Oliver Okaegi]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 8 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2744/Bally_1979_Voltan_Escapes_Cosmic_Doom_ROMs.zip" >ROMs</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2744/Bally_1979_Voltan_Escapes_Cosmic_Doom_Manual.pdf" onClick="return purchasemanual();">Manual</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 64 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2744/Bally_1979_Voltan_Escapes_Cosmic_Doom_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=2628" 
+><span title="Image # 2628: Voltan Escapes Cosmic Doom Cabinet - Front View "><img src="https://www.ipdb.org/images/2744/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 2628: Voltan Escapes Cosmic Doom Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">443x665</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=10578" 
+><span title="Image # 10578: Voltan Escapes Cosmic Doom Illuminated Front View "><img src="https://www.ipdb.org/images/2744/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 10578: Voltan Escapes Cosmic Doom Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">654x944</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=17857" 
+><span title="Image # 17857: Voltan Escapes Cosmic Doom Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17857: Voltan Escapes Cosmic Doom Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Gerhard Schindler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20316" 
+><span title="Image # 20316: Voltan Escapes Cosmic Doom Illuminated Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 20316: Voltan Escapes Cosmic Doom Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">600x400</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20317" 
+><span title="Image # 20317: Voltan Escapes Cosmic Doom Illuminated Backglass "><img src="https://www.ipdb.org/images/2744/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 20317: Voltan Escapes Cosmic Doom Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">562x513</font><br>[Jürgen Mayer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20318" 
+><span title="Image # 20318: Voltan Escapes Cosmic Doom Flippers "><img src="https://www.ipdb.org/images/2744/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 20318: Voltan Escapes Cosmic Doom Flippers "><br>Flippers</span></a><br><font size="-2">700x467</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20319" 
+><span title="Image # 20319: Voltan Escapes Cosmic Doom Cabinet - Front "><img src="https://www.ipdb.org/images/2744/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 20319: Voltan Escapes Cosmic Doom Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">400x273</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20320" 
+><span title="Image # 20320: Voltan Escapes Cosmic Doom Lower Left Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 20320: Voltan Escapes Cosmic Doom Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">400x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20321" 
+><span title="Image # 20321: Voltan Escapes Cosmic Doom Lower Right Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 20321: Voltan Escapes Cosmic Doom Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">400x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20322" 
+><span title="Image # 20322: Voltan Escapes Cosmic Doom Illuminated Front View "><img src="https://www.ipdb.org/images/2744/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 20322: Voltan Escapes Cosmic Doom Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">450x727</font><br>[Jürgen Mayer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20323" 
+><span title="Image # 20323: Voltan Escapes Cosmic Doom Illuminated Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 20323: Voltan Escapes Cosmic Doom Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">588x696</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20324" 
+><span title="Image # 20324: Voltan Escapes Cosmic Doom Backglass "><img src="https://www.ipdb.org/images/2744/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 20324: Voltan Escapes Cosmic Doom Backglass "><br>Backglass</span></a><br><font size="-2">634x564</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20325" 
+><span title="Image # 20325: Voltan Escapes Cosmic Doom Upper Left Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 20325: Voltan Escapes Cosmic Doom Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">500x750</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=20326" 
+><span title="Image # 20326: Voltan Escapes Cosmic Doom Upper Right Playfield "><img src="https://www.ipdb.org/images/2744/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 20326: Voltan Escapes Cosmic Doom Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">400x600</font><br>[Jürgen Mayer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=30495" 
+><span title="Image # 30495: Voltan Escapes Cosmic Doom Backglass - Detail "><img src="https://www.ipdb.org/images/2744/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30495: Voltan Escapes Cosmic Doom Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31087" 
+><span title="Image # 31087: Voltan Escapes Cosmic Doom Player 4 - Detail "><img src="https://www.ipdb.org/images/2744/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=29 alt="Image # 31087: Voltan Escapes Cosmic Doom Player 4 - Detail "><br>Player 4 - Detail</span></a><br><font size="-2">1024x296</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31088" 
+><span title="Image # 31088: Voltan Escapes Cosmic Doom Credit and Match - Detail "><img src="https://www.ipdb.org/images/2744/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 31088: Voltan Escapes Cosmic Doom Credit and Match - Detail "><br>Credit and Match - Detail</span></a><br><font size="-2">1024x372</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31089" 
+><span title="Image # 31089: Voltan Escapes Cosmic Doom Cabinet - Left "><img src="https://www.ipdb.org/images/2744/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=41 alt="Image # 31089: Voltan Escapes Cosmic Doom Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x419</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31090" 
+><span title="Image # 31090: Voltan Escapes Cosmic Doom Backbox - Left "><img src="https://www.ipdb.org/images/2744/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 31090: Voltan Escapes Cosmic Doom Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">580x1273</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31198" 
+><span title="Image # 31198: Voltan Escapes Cosmic Doom Player 1 - Detail "><img src="https://www.ipdb.org/images/2744/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=37 alt="Image # 31198: Voltan Escapes Cosmic Doom Player 1 - Detail "><br>Player 1 - Detail</span></a><br><font size="-2">1024x381</font><br>[Brian Saunders]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31199" 
+><span title="Image # 31199: Voltan Escapes Cosmic Doom Player 2 - Detail "><img src="https://www.ipdb.org/images/2744/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=32 alt="Image # 31199: Voltan Escapes Cosmic Doom Player 2 - Detail "><br>Player 2 - Detail</span></a><br><font size="-2">1024x324</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31200" 
+><span title="Image # 31200: Voltan Escapes Cosmic Doom Player 3 - Detail "><img src="https://www.ipdb.org/images/2744/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=32 alt="Image # 31200: Voltan Escapes Cosmic Doom Player 3 - Detail "><br>Player 3 - Detail</span></a><br><font size="-2">1024x324</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=31201" 
+><span title="Image # 31201: Voltan Escapes Cosmic Doom Instruction Card "><img src="https://www.ipdb.org/images/2744/tn_image-B2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 31201: Voltan Escapes Cosmic Doom Instruction Card "><br>Instruction Card</span></a><br><font size="-2">797x469</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=61135" 
+><span title="Image # 61135: Voltan Escapes Cosmic Doom Artist Signature on Backglass 
+(Located on the lower right of the Player 2 display.)"><img src="https://www.ipdb.org/images/2744/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 61135: Voltan Escapes Cosmic Doom Artist Signature on Backglass 
+(Located on the lower right of the Player 2 display.)"><br>Artist Signature on Backglass*</span></a><br><font size="-2">1200x702</font><br>[Marco Rossignoli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2744&amp;picno=65195" 
+><span title="Image # 65195: Voltan Escapes Cosmic Doom Instruction Card "><img src="https://www.ipdb.org/images/2744/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 65195: Voltan Escapes Cosmic Doom Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x725</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Drop-A-Card'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Drop-A-Card Drop A Card Flippers (2), Pop bumpers (2), Slingshots (2), Star rollovers (4), 4-bank drop targets (2), 5-bank drop targets (1), Standup targets (2).
+
+Maximum displayed point score is 9,999 points.
+
+Sound: 3 chimes, knocker.  Gordon Morison Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Drop-A-Card' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Drop-A-Card</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="735">Drop-A-Card</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=735">735</a> <I>/ November, 1971 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=735" target="showrate735"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=735" target="showrate735">38 ratings/30 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=735" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1971</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>304</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,600 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=735">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Cards/Gambling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (4), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2).<br><br>Maximum displayed point score is 9,999 points.<br><br>Sound: 3 chimes, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-ball</a> version of this game is <span title="Click here to open a new window and display Gottlieb's 1972 'Pop-A-Card'"><a target="game1849" href="machine.cgi?id=1849">Gottlieb's 1972 'Pop-A-Card'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 43<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 36<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 242<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/735">http://www.pinballowners.com/owners/735</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 42 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/735/Gottlieb_1971_Drop_A_Card_Reproduction_Backmask_A_9995_card.zip" >Reproduction Backmask A-9995 card</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=708" 
+><span title="Image # 708: Drop-A-Card Playfield "><img src="https://www.ipdb.org/images/735/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 708: Drop-A-Card Playfield "><br>Playfield</span></a><br><font size="-2">367x550</font><br>[Ron Tyler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=709" 
+><span title="Image # 709: Drop-A-Card Backglass "><img src="https://www.ipdb.org/images/735/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 709: Drop-A-Card Backglass "><br>Backglass</span></a><br><font size="-2">469x440</font><br>[Ron Tyler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=4817" 
+><span title="Image # 4817: Drop-A-Card Flyer "><img src="https://www.ipdb.org/images/735/tn_735f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4817: Drop-A-Card Flyer "><br>Flyer</span></a><br><font size="-2">608x789</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8710" 
+><span title="Image # 8710: Drop-A-Card Backglass "><img src="https://www.ipdb.org/images/735/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8710: Drop-A-Card Backglass "><br>Backglass</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8711" 
+><span title="Image # 8711: Drop-A-Card Inside Backbox "><img src="https://www.ipdb.org/images/735/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8711: Drop-A-Card Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8712" 
+><span title="Image # 8712: Drop-A-Card Backglass - Reverse "><img src="https://www.ipdb.org/images/735/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8712: Drop-A-Card Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8713" 
+><span title="Image # 8713: Drop-A-Card Upper Playfield "><img src="https://www.ipdb.org/images/735/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8713: Drop-A-Card Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8714" 
+><span title="Image # 8714: Drop-A-Card Lower Playfield "><img src="https://www.ipdb.org/images/735/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8714: Drop-A-Card Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8715" 
+><span title="Image # 8715: Drop-A-Card Inside Cabinet "><img src="https://www.ipdb.org/images/735/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8715: Drop-A-Card Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8716" 
+><span title="Image # 8716: Drop-A-Card Under Playfield "><img src="https://www.ipdb.org/images/735/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8716: Drop-A-Card Under Playfield "><br>Under Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8717" 
+><span title="Image # 8717: Drop-A-Card Cabinet Left "><img src="https://www.ipdb.org/images/735/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8717: Drop-A-Card Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=8718" 
+><span title="Image # 8718: Drop-A-Card Cabinet Right "><img src="https://www.ipdb.org/images/735/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8718: Drop-A-Card Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=12750" 
+><span title="Image # 12750: Drop-A-Card Backglass "><img src="https://www.ipdb.org/images/735/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12750: Drop-A-Card Backglass "><br>Backglass</span></a><br><font size="-2">1024x1365</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=12751" 
+><span title="Image # 12751: Drop-A-Card Playfield "><img src="https://www.ipdb.org/images/735/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12751: Drop-A-Card Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=12752" 
+><span title="Image # 12752: Drop-A-Card Front View "><img src="https://www.ipdb.org/images/735/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12752: Drop-A-Card Front View "><br>Front View</span></a><br><font size="-2">1024x1365</font><br>[Vic Campolattaro Jr]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=20110" 
+><span title="Image # 20110: Drop-A-Card Ball View "><img src="https://www.ipdb.org/images/735/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20110: Drop-A-Card Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=20111" 
+><span title="Image # 20111: Drop-A-Card Playfield "><img src="https://www.ipdb.org/images/735/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20111: Drop-A-Card Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=20139" 
+><span title="Image # 20139: Drop-A-Card Right Side "><img src="https://www.ipdb.org/images/735/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20139: Drop-A-Card Right Side "><br>Right Side</span></a><br><font size="-2">1024x768</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=20140" 
+><span title="Image # 20140: Drop-A-Card Left Side "><img src="https://www.ipdb.org/images/735/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20140: Drop-A-Card Left Side "><br>Left Side</span></a><br><font size="-2">1024x1365</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=20141" 
+><span title="Image # 20141: Drop-A-Card Right Side "><img src="https://www.ipdb.org/images/735/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20141: Drop-A-Card Right Side "><br>Right Side</span></a><br><font size="-2">1024x1365</font><br>[Vic Campolattaro Jr]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=20142" 
+><span title="Image # 20142: Drop-A-Card Left Side "><img src="https://www.ipdb.org/images/735/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 20142: Drop-A-Card Left Side "><br>Left Side</span></a><br><font size="-2">759x735</font><br>[Vic Campolattaro Jr]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=22193" 
+><span title="Image # 22193: Drop-A-Card Inside Backbox "><img src="https://www.ipdb.org/images/735/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 22193: Drop-A-Card Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">450x588</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35944" 
+><span title="Image # 35944: Drop-A-Card Backglass "><img src="https://www.ipdb.org/images/735/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 35944: Drop-A-Card Backglass "><br>Backglass</span></a><br><font size="-2">1024x1415</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35945" 
+><span title="Image # 35945: Drop-A-Card Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/735/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 35945: Drop-A-Card Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1024x683</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35946" 
+><span title="Image # 35946: Drop-A-Card Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/735/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 35946: Drop-A-Card Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1024x683</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35947" 
+><span title="Image # 35947: Drop-A-Card Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/735/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 35947: Drop-A-Card Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x683</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35948" 
+><span title="Image # 35948: Drop-A-Card Upper Drop Target Bank "><img src="https://www.ipdb.org/images/735/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=38 alt="Image # 35948: Drop-A-Card Upper Drop Target Bank "><br>Upper Drop Target Bank</span></a><br><font size="-2">1024x391</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35949" 
+><span title="Image # 35949: Drop-A-Card Left Drop Target Bank "><img src="https://www.ipdb.org/images/735/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=34 alt="Image # 35949: Drop-A-Card Left Drop Target Bank "><br>Left Drop Target Bank</span></a><br><font size="-2">1024x350</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35950" 
+><span title="Image # 35950: Drop-A-Card Right Drop Target Bank "><img src="https://www.ipdb.org/images/735/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 35950: Drop-A-Card Right Drop Target Bank "><br>Right Drop Target Bank</span></a><br><font size="-2">1024x406</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=35953" 
+><span title="Image # 35953: Drop-A-Card Upper Left Plastic "><img src="https://www.ipdb.org/images/735/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 35953: Drop-A-Card Upper Left Plastic "><br>Upper Left Plastic</span></a><br><font size="-2">540x994</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=50854" 
+><span title="Image # 50854: Drop-A-Card Cabinet - Front View "><img src="https://www.ipdb.org/images/735/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 50854: Drop-A-Card Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=56011" 
+><span title="Image # 56011: Drop-A-Card Stripped Playfield "><img src="https://www.ipdb.org/images/735/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 56011: Drop-A-Card Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1200x1432</font><br>[Thierry Stora]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=735&amp;picno=67739" 
+><span title="Image # 67739: Drop-A-Card Backglass "><img src="https://www.ipdb.org/images/735/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 67739: Drop-A-Card Backglass "><br>Backglass</span></a><br><font size="-2">1200x1333</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

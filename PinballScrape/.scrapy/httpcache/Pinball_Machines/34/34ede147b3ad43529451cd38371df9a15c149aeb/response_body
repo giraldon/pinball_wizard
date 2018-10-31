@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Space Mission'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Space Mission Flippers (2), Pop bumpers (2), Kick-out holes (2), Ball kickers (2), Standup targets (2), Swinging target (1), Spinning target (1).
+
+Maximum displayed point score is 199,990 points per player.  Christian Marche Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Space Mission' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Space Mission</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2253">Space Mission</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2253">2253</a> <I>/ January, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2253" target="showrate2253"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2253" target="showrate2253">53 ratings/47 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2253" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>January, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>464</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SM</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>11,652 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2253">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kickers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Swinging_Target">Swinging&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1).<br><br>Maximum displayed point score is 199,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The 2-Player version of this game is <span title="Click here to open a new window and display Williams' 1976 'Space Odyssey'"><a target="game2254" href="machine.cgi?id=2254">Williams' 1976 'Space Odyssey'</a></span>.<br><br>Steve Kordek told us that the back<ignore>glass art was derived from a picture he obtained from NASA. The picture surely was of the painting made by noted space artist Robert McCall (1919-2010) which can be seen <a href="http://www.mccallstudios.com/includes/uploads/2015/10/0007-007_apollo_soyuz_linkup.jpg" target=" mccallstudios">here</a>.<br><br>Tom Cahill, former Service Manager for Williams, told us that approximately 200 Space Mission games were made with steel <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a>.<br><br><font color="FF0000"> If anyone has access to a steel cab<ignore>inet version of this game to make photographs, please contact us.</font><br><br>Production Floor Records for Space Mission:<br>Production Start Date: data missing<br>Production End Date: May-28-1976<br>Production Floor Quantity: 11,652<br>First ship date: data missing<br>Last ship date: Jun-8-1976<br><br>Product History Record for Space Mission: <br>Quantity produced for USA/Canada: 5,621*<br>Quantity produced for export: 6.031*<br>Total quantity produced: 11,652*<br>Price to Distributor: $861.50<br>*These quantities may be sales estimates.<br><br>From Steve Kordek Lists #3 and #11:<br>BOM cost per game: $355.99<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 90<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 134<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0890091188/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0890091188&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Portfolio</a>, pages 113 and 148<br>
+Pinball The Lure of the Silverball, page 66<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 9<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a>, pages 134-135, 139<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 91<br>
+The Pinball Compendium Electro-mechanical Era, page 208<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2253">http://www.pinballowners.com/owners/2253</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 797 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_B_7894_Jet_Bumper_Assembly_D_C_Type_from_page_3_of_manual.pdf" onClick="return purchasemanual();">B-7894 Jet Bumper Assembly (D.C. Type, from page 3 of manual)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/_464_Spare_Parts_Supplement_P_P_P.pdf" onClick="return purchasemanual();">Catalog Supplement "P-P-P" With New Parts & Units</a></td><td> [Williams Electronics, Subsidary Of The Seeburg Corp&#46; of Delaware]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_Instruction_Manual_Jan_1976_no_schematics.pdf" onClick="return purchasemanual();">Instruction Manual (Jan 1976, no schematics)</a></td><td> [Williams Electronics, Subsidary Of The Seeburg Corp&#46; of Delaware]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 48 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_B_7894_New_Style_Jet_Bumper_Assembly_with_more_easily_removable_rods_and_rings.pdf" >B-7894 New Style Jet Bumper Assembly (with more easily removable rods and rings)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 131 KB</td><td align=left nowrap width="5%">&nbsp;TIF&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/dummys_copy.tif" >Dummy Score Reel Card</a></td><td> [Gilbert Lovenstad]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_Power_Transformer_15B_6782_50HZ.pdf" >Power Transformer 15B-6782 (50HZ)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 19 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_Printed_Material_Check_Off_List.pdf" >Printed Material Check Off List</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 51 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2253/Williams_1976_Space_Mission_Swinging_Target_Assembly_B_7892_for_Space_Mission_and_Space_Odyssey.pdf" >Swinging Target Assembly B-7892 (for Space Mission and Space Odyssey)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=2145" 
+><span title="Image # 2145: Space Mission Backglass "><img src="https://www.ipdb.org/images/2253/tn_Backglass2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 2145: Space Mission Backglass "><br>Backglass</span></a><br><font size="-2">648x441</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=2146" 
+><span title="Image # 2146: Space Mission Cabinet - Front View "><img src="https://www.ipdb.org/images/2253/tn_Full_View.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 2146: Space Mission Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">332x532</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=2147" 
+><span title="Image # 2147: Space Mission Playfield "><img src="https://www.ipdb.org/images/2253/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 2147: Space Mission Playfield "><br>Playfield</span></a><br><font size="-2">380x537</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=4338" 
+><span title="Image # 4338: Space Mission Flyer "><img src="https://www.ipdb.org/images/2253/tn_2253f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4338: Space Mission Flyer "><br>Flyer</span></a><br><font size="-2">892x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=8472" 
+><span title="Image # 8472: Space Mission Backglass "><img src="https://www.ipdb.org/images/2253/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 8472: Space Mission Backglass "><br>Backglass</span></a><br><font size="-2">825x957</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=8473" 
+><span title="Image # 8473: Space Mission Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8473: Space Mission Playfield "><br>Playfield</span></a><br><font size="-2">850x1133</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=14406" 
+><span title="Image # 14406: Space Mission Upper Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 14406: Space Mission Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=14407" 
+><span title="Image # 14407: Space Mission Lower Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 14407: Space Mission Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1011x598</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=14408" 
+><span title="Image # 14408: Space Mission Cabinet - Left "><img src="https://www.ipdb.org/images/2253/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 14408: Space Mission Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">739x729</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=14409" 
+><span title="Image # 14409: Space Mission Cabinet - Right "><img src="https://www.ipdb.org/images/2253/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 14409: Space Mission Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">683x755</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=26326" 
+><span title="Image # 26326: Space Mission Inside Cabinet "><img src="https://www.ipdb.org/images/2253/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26326: Space Mission Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=26327" 
+><span title="Image # 26327: Space Mission Instruction Card "><img src="https://www.ipdb.org/images/2253/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26327: Space Mission Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=26328" 
+><span title="Image # 26328: Space Mission Score Card "><img src="https://www.ipdb.org/images/2253/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26328: Space Mission Score Card "><br>Score Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35522" 
+><span title="Image # 35522: Space Mission Backglass "><img src="https://www.ipdb.org/images/2253/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35522: Space Mission Backglass "><br>Backglass</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35523" 
+><span title="Image # 35523: Space Mission Cabinet - Left "><img src="https://www.ipdb.org/images/2253/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35523: Space Mission Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35524" 
+><span title="Image # 35524: Space Mission Cabinet - Right "><img src="https://www.ipdb.org/images/2253/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35524: Space Mission Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35525" 
+><span title="Image # 35525: Space Mission Cabinet - Front "><img src="https://www.ipdb.org/images/2253/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35525: Space Mission Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35526" 
+><span title="Image # 35526: Space Mission Cabinet - Front View "><img src="https://www.ipdb.org/images/2253/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35526: Space Mission Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35527" 
+><span title="Image # 35527: Space Mission Backglass - Detail "><img src="https://www.ipdb.org/images/2253/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35527: Space Mission Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35528" 
+><span title="Image # 35528: Space Mission Backglass - Detail "><img src="https://www.ipdb.org/images/2253/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35528: Space Mission Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35529" 
+><span title="Image # 35529: Space Mission Swinging Target "><img src="https://www.ipdb.org/images/2253/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35529: Space Mission Swinging Target "><br>Swinging Target</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35530" 
+><span title="Image # 35530: Space Mission Pop Bumpers "><img src="https://www.ipdb.org/images/2253/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35530: Space Mission Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35531" 
+><span title="Image # 35531: Space Mission Lower Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35531: Space Mission Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35532" 
+><span title="Image # 35532: Space Mission Lower Playfield - Downfield View "><img src="https://www.ipdb.org/images/2253/tn_image-B12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35532: Space Mission Lower Playfield - Downfield View "><br>Lower Playfield - Downfield View</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35534" 
+><span title="Image # 35534: Space Mission Upper Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-B14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35534: Space Mission Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35535" 
+><span title="Image # 35535: Space Mission Middle Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-B15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35535: Space Mission Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35536" 
+><span title="Image # 35536: Space Mission Cabinet - Left "><img src="https://www.ipdb.org/images/2253/tn_image-B16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35536: Space Mission Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35537" 
+><span title="Image # 35537: Space Mission Playfield - Detail "><img src="https://www.ipdb.org/images/2253/tn_image-C12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35537: Space Mission Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">768x1024</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35538" 
+><span title="Image # 35538: Space Mission Cabinet - Back "><img src="https://www.ipdb.org/images/2253/tn_image-C13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35538: Space Mission Cabinet - Back "><br>Cabinet - Back</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=35539" 
+><span title="Image # 35539: Space Mission Backglass - Detail "><img src="https://www.ipdb.org/images/2253/tn_image-C14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35539: Space Mission Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=37037" 
+><span title="Image # 37037: Space Mission Factory Paperwork Package "><img src="https://www.ipdb.org/images/2253/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37037: Space Mission Factory Paperwork Package "><br>Factory Paperwork Package</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=37038" 
+><span title="Image # 37038: Space Mission Under Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37038: Space Mission Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=37039" 
+><span title="Image # 37039: Space Mission Inside Cabinet "><img src="https://www.ipdb.org/images/2253/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37039: Space Mission Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=37040" 
+><span title="Image # 37040: Space Mission Inside Backbox "><img src="https://www.ipdb.org/images/2253/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 37040: Space Mission Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">900x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=37041" 
+><span title="Image # 37041: Space Mission Backglass - Reverse  "><img src="https://www.ipdb.org/images/2253/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 37041: Space Mission Backglass - Reverse  "><br>Backglass - Reverse </span></a><br><font size="-2">904x744</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41017" 
+><span title="Image # 41017: Space Mission Backglass "><img src="https://www.ipdb.org/images/2253/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 41017: Space Mission Backglass "><br>Backglass</span></a><br><font size="-2">1024x916</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41018" 
+><span title="Image # 41018: Space Mission Backglass - Reverse "><img src="https://www.ipdb.org/images/2253/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 41018: Space Mission Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x905</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41019" 
+><span title="Image # 41019: Space Mission Stripped Playfield "><img src="https://www.ipdb.org/images/2253/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 41019: Space Mission Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">779x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41020" 
+><span title="Image # 41020: Space Mission Spinning Target - Obverse "><img src="https://www.ipdb.org/images/2253/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 41020: Space Mission Spinning Target - Obverse "><br>Spinning Target - Obverse</span></a><br><font size="-2">1024x679</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41021" 
+><span title="Image # 41021: Space Mission Spinning Target - Reverse "><img src="https://www.ipdb.org/images/2253/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41021: Space Mission Spinning Target - Reverse "><br>Spinning Target - Reverse</span></a><br><font size="-2">1200x900</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41023" 
+><span title="Image # 41023: Space Mission Cabinet - Right "><img src="https://www.ipdb.org/images/2253/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=37 alt="Image # 41023: Space Mission Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x380</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41024" 
+><span title="Image # 41024: Space Mission Playfield Plastics "><img src="https://www.ipdb.org/images/2253/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 41024: Space Mission Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1008x1456</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2253&amp;picno=41025" 
+><span title="Image # 41025: Space Mission Playfield Plastics "><img src="https://www.ipdb.org/images/2253/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 41025: Space Mission Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1088x1568</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

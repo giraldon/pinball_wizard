@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Set Up'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Set Up Set-Up Add-A-Ball Flippers (4), Pop bumpers (4), Slingshots (2), Standup targets (6), Drop target (1), Up-post between flippers. Backglass light animation (skiers descend slope). The drop target is positioned behind a rebound rubber.
+
+Sound: 1 large bell, 1 wooden box chime, and a knocker.
+
+The mode can be operator-optioned for one of these three settings:
+• Add-a-ball
+• Extended play
+• 5-ball  Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Set Up' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Set Up</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2100">Set Up</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2100">2100</a> <I>/ December, 1969 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.2 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2100" target="showrate2100">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2100" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1969</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>373</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>225 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2100">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Snow Skiing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Add-A-Ball&nbsp;<a href="glossary.php#Add-A-Ball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (skiers descend slope). The <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> is positioned behind a rebound <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubber</a>.<br><br>Sound: 1 large bell, 1 wooden box chime, and a <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a> can be operator-optioned for one of these three settings:<br>• <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">Add-a-ball</a><br>• Extended play<br>• 5-ball<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> version of this game is <span title="Click here to open a new window and display Williams' 1969 'Seven Up'"><a target="game2104" href="machine.cgi?id=2104">Williams' 1969 'Seven Up'</a></span>.<br><br>Product History Record for Set Up: <br>Quantity produced for USA/Canada: 204*<br>Quantity produced for export: <i>no entry</i>*<br>Total quantity produced: 204*<br>Price to Distributor: $415.00<br>*These quantities may be sales estimates.<br><br>Pictured in this listing are two 2-flipper versions. The upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has posts instead of two <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> even though the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> wood is unpainted where each <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> would sweep when energized. Under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> are dimples in the wood where holes would have been drilled for the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> shafts instead of having posts. Without these upper <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, it is harder to score the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> targets. The manufacturer's flyer and promotional photo both show four <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. It is unknown when in production the games began being produced with only two <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. <br><br>Several Williams documents list this game only once, as Model 373, and do not separate the production into 2-flipper and 4-flipper entries. Several handwritten documents authored by Steve Kordek also show only one entry for 'Set Up' and consistently show a single quantity of 225 games produced. A Product History Record, which has been deemed to show sales estimates, provided a lower quantity of 204 units produced. In our files section, the Instruction Manual references four <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> while the schematic references only the lower two.<br><br><font color="FF0000">We seek hi-res photographs, inside and out, of the version having four fli<ignore>ppers, as well as a schematic that shows the four fli<ignore>ppers, if one exists.</font><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 52<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 78 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2100/Williams_1969_Set_Up_Instruction_Manual_high_resolution.pdf" onClick="return purchasemanual();">Instruction Manual (high resolution)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2100/Williams_1969_Set_Up_Instruction_Manual_low_resolution.pdf" onClick="return purchasemanual();">Instruction Manual (low resolution)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 30 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2100/Williams_1969_Set_Up_Schematic_Diagram_continuous_2_flipper_version_high_resolution.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous; 2-flipper version; high resolution)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2100/Williams_1969_Set_Up_Schematic_Diagram_continuous_2_flipper_version_low_resolution.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous; 2-flipper version; low resolution)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2100/Williams_1969_Set_Up_Promotional_Photo_Large_Size.pdf" >Promotional Photo - Large Size</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=1985" 
+><span title="Image # 1985: Set Up Backglass "><img src="https://www.ipdb.org/images/2100/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 1985: Set Up Backglass "><br>Backglass</span></a><br><font size="-2">422x439</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=1986" 
+><span title="Image # 1986: Set Up Playfield "><img src="https://www.ipdb.org/images/2100/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 1986: Set Up Playfield "><br>Playfield</span></a><br><font size="-2">384x542</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=4317" 
+><span title="Image # 4317: Set Up Flyer "><img src="https://www.ipdb.org/images/2100/tn_2100f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4317: Set Up Flyer "><br>Flyer</span></a><br><font size="-2">840x1076</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=14554" 
+><span title="Image # 14554: Set Up Cabinet - Right "><img src="https://www.ipdb.org/images/2100/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14554: Set Up Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30816" 
+><span title="Image # 30816: Set Up Backglass - Reverse - 2 Flippers 
+(From game with serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30816: Set Up Backglass - Reverse - 2 Flippers 
+(From game with serial number 58593.)"><br>Backglass - Reverse - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30817" 
+><span title="Image # 30817: Set Up Upper Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30817: Set Up Upper Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Upper Playfield - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30818" 
+><span title="Image # 30818: Set Up Middle Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30818: Set Up Middle Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Middle Playfield - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30819" 
+><span title="Image # 30819: Set Up Under Lower Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30819: Set Up Under Lower Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Under Lower Playfield - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30820" 
+><span title="Image # 30820: Set Up Under Upper Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-B2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30820: Set Up Under Upper Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Under Upper Playfield - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30821" 
+><span title="Image # 30821: Set Up Cabinet - Front View - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-A3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 30821: Set Up Cabinet - Front View - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Cabinet - Front View - 2 Flippers*</span></a><br><font size="-2">348x624</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30822" 
+><span title="Image # 30822: Set Up Cabinet - Right - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-A4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30822: Set Up Cabinet - Right - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Cabinet - Right - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30823" 
+><span title="Image # 30823: Set Up Backbox - Right - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30823: Set Up Backbox - Right - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Backbox - Right - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30824" 
+><span title="Image # 30824: Set Up Illuminated Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30824: Set Up Illuminated Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Illuminated Playfield - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30825" 
+><span title="Image # 30825: Set Up Upper Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-B3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30825: Set Up Upper Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Upper Playfield - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30826" 
+><span title="Image # 30826: Set Up Lower Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-C2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30826: Set Up Lower Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Lower Playfield - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30827" 
+><span title="Image # 30827: Set Up Instruction Card - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-B4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30827: Set Up Instruction Card - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Instruction Card - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30828" 
+><span title="Image # 30828: Set Up Inside Cabinet - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30828: Set Up Inside Cabinet - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Inside Cabinet - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30829" 
+><span title="Image # 30829: Set Up Under Lower Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30829: Set Up Under Lower Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Under Lower Playfield - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30830" 
+><span title="Image # 30830: Set Up Inside Backbox - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-D2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30830: Set Up Inside Backbox - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Inside Backbox - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30831" 
+><span title="Image # 30831: Set Up Cabinet - Left - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-C3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30831: Set Up Cabinet - Left - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Cabinet - Left - 2 Flippers*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30832" 
+><span title="Image # 30832: Set Up Backbox - Left - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-C4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30832: Set Up Backbox - Left - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Backbox - Left - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30833" 
+><span title="Image # 30833: Set Up Backglass - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-B5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30833: Set Up Backglass - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Backglass - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=30834" 
+><span title="Image # 30834: Set Up Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><img src="https://www.ipdb.org/images/2100/tn_image-B6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30834: Set Up Playfield - 2 Flippers 
+(Two-flipper version. Serial number 58593.)"><br>Playfield - 2 Flippers*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69979" 
+><span title="Image # 69979: Set Up Playfield - 2 Flippers 
+(Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69979: Set Up Playfield - 2 Flippers 
+(Serial number 58620.)"><br>Playfield - 2 Flippers*</span></a><br><font size="-2">564x1003</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69980" 
+><span title="Image # 69980: Set Up Playfield - 2 Flippers 
+(Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69980: Set Up Playfield - 2 Flippers 
+(Serial number 58620.)"><br>Playfield - 2 Flippers*</span></a><br><font size="-2">564x1003</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69981" 
+><span title="Image # 69981: Set Up Upper Playfield - Downfield View - 2 Flippers 
+(Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 69981: Set Up Upper Playfield - Downfield View - 2 Flippers 
+(Serial number 58620.)"><br>Upper Playfield - Downfield View - 2 Flippers*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69982" 
+><span title="Image # 69982: Set Up Inside Backbox - 2 Flippers 
+(The cabinet has been repainted. Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 69982: Set Up Inside Backbox - 2 Flippers 
+(The cabinet has been repainted. Serial number 58620.)"><br>Inside Backbox - 2 Flippers*</span></a><br><font size="-2">1112x1003</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69983" 
+><span title="Image # 69983: Set Up Inside Backbox - 2 Flippers 
+(The cabinet has been repainted. Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69983: Set Up Inside Backbox - 2 Flippers 
+(The cabinet has been repainted. Serial number 58620.)"><br>Inside Backbox - 2 Flippers*</span></a><br><font size="-2">564x1003</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69984" 
+><span title="Image # 69984: Set Up Inside Backbox - 2 Flippers 
+(The cabinet has been repainted. Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69984: Set Up Inside Backbox - 2 Flippers 
+(The cabinet has been repainted. Serial number 58620.)"><br>Inside Backbox - 2 Flippers*</span></a><br><font size="-2">564x1003</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69985" 
+><span title="Image # 69985: Set Up Under Playfield - 2 Flippers 
+(The slingshot wiring has been replaced. Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69985: Set Up Under Playfield - 2 Flippers 
+(The slingshot wiring has been replaced. Serial number 58620.)"><br>Under Playfield - 2 Flippers*</span></a><br><font size="-2">564x1003</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69986" 
+><span title="Image # 69986: Set Up Inside Cabinet - Front - 2 Flippers 
+(Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 69986: Set Up Inside Cabinet - Front - 2 Flippers 
+(Serial number 58620.)"><br>Inside Cabinet - Front - 2 Flippers*</span></a><br><font size="-2">564x1003</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69987" 
+><span title="Image # 69987: Set Up Inside Cabinet - Rear - 2 Flippers 
+(The playfield is shown in the raised service position. Serial number 58620.)"><img src="https://www.ipdb.org/images/2100/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 69987: Set Up Inside Cabinet - Rear - 2 Flippers 
+(The playfield is shown in the raised service position. Serial number 58620.)"><br>Inside Cabinet - Rear - 2 Flippers*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=69988" 
+><span title="Image # 69988: Set Up Promotional Photo "><img src="https://www.ipdb.org/images/2100/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 69988: Set Up Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">1200x1530</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2100&amp;picno=70779" 
+><span title="Image # 70779: Set Up Dimples for Upper Flippers 
+(This playfield has only the two lower flippers installed at the factory. Dimples are present for instances where the upper two flippers would have been installed.)"><img src="https://www.ipdb.org/images/2100/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 70779: Set Up Dimples for Upper Flippers 
+(This playfield has only the two lower flippers installed at the factory. Dimples are present for instances where the upper two flippers would have been installed.)"><br>Dimples for Upper Flippers*</span></a><br><font size="-2">675x1200</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

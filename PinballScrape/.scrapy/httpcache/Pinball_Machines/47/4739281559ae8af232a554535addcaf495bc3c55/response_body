@@ -1,0 +1,174 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Laser Cue'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Laser Cue Laser Q Flippers (4), Pop bumpers (3), 5-bank drop targets (1), Spinning target (1), Standup targets (10).  Pam Erickson Edward Tomaszewski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Laser Cue' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Laser Cue</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1414">Laser Cue</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1414">1414</a> <I>/ February, 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1414" target="showrate1414"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1414" target="showrate1414">17 ratings/12 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1414" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>520</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=4">Williams System 7</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,800 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1414">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Billiards - Outer Space - Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (10).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Edward&nbsp;Tomaszewski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Edward%20Tomaszewski">Edward&nbsp;Tomaszewski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pam&nbsp;Erickson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pam%20Erickson">Pam&nbsp;Erickson</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Originally named 'World Hockey'.<br><br>Reportedly, a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> version of this game had all <a target="glossary" class="glossarylink" href="/glossary.php#Playfield_Insert">playfield&nbsp;inserts</a> marked as playing cards instead of billiard balls and the accompanying game manual referred to these cards.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 42<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1414">http://www.pinballowners.com/owners/1414</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 58 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1414/Williams_1984_Laser_Cue_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td> [Williams Electronics]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 55 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1414/lsrcu_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 1009 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1414/Williams_1984_Laser_Cue_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronics]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 85 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1414/Williams_1984_Laser_Cue_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=4521" 
+><span title="Image # 4521: Laser Cue Flyer, Front "><img src="https://www.ipdb.org/images/1414/tn_1414f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4521: Laser Cue Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=4522" 
+><span title="Image # 4522: Laser Cue Flyer, Back "><img src="https://www.ipdb.org/images/1414/tn_1414f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4522: Laser Cue Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=6898" 
+><span title="Image # 6898: Laser Cue Backglass "><img src="https://www.ipdb.org/images/1414/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6898: Laser Cue Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Jim Chaudrue]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=6899" 
+><span title="Image # 6899: Laser Cue Backglass "><img src="https://www.ipdb.org/images/1414/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6899: Laser Cue Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Jim Chaudrue]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=6900" 
+><span title="Image # 6900: Laser Cue Playfield "><img src="https://www.ipdb.org/images/1414/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 6900: Laser Cue Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Jim Chaudrue]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=6901" 
+><span title="Image # 6901: Laser Cue Ball View "><img src="https://www.ipdb.org/images/1414/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6901: Laser Cue Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>[Jim Chaudrue]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=6902" 
+><span title="Image # 6902: Laser Cue Playfield Detail "><img src="https://www.ipdb.org/images/1414/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6902: Laser Cue Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">640x480</font><br>[Jim Chaudrue]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=6903" 
+><span title="Image # 6903: Laser Cue Cabinet "><img src="https://www.ipdb.org/images/1414/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 6903: Laser Cue Cabinet "><br>Cabinet</span></a><br><font size="-2">480x640</font><br>[Jim Chaudrue]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43790" 
+><span title="Image # 43790: Laser Cue Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/1414/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43790: Laser Cue Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">768x576</font><br>[Christian Pougeaud]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43791" 
+><span title="Image # 43791: Laser Cue Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/1414/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43791: Laser Cue Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">768x576</font><br>[Christian Pougeaud]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43792" 
+><span title="Image # 43792: Laser Cue Illuminated Playfield "><img src="https://www.ipdb.org/images/1414/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43792: Laser Cue Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">768x576</font><br>[Christian Pougeaud]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43793" 
+><span title="Image # 43793: Laser Cue Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1414/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43793: Laser Cue Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Christian Pougeaud]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43794" 
+><span title="Image # 43794: Laser Cue Illuminated Playfield - Detail "><img src="https://www.ipdb.org/images/1414/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43794: Laser Cue Illuminated Playfield - Detail "><br>Illuminated Playfield - Detail</span></a><br><font size="-2">768x576</font><br>[Christian Pougeaud]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43795" 
+><span title="Image # 43795: Laser Cue Illuminated Playfield - Detail "><img src="https://www.ipdb.org/images/1414/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43795: Laser Cue Illuminated Playfield - Detail "><br>Illuminated Playfield - Detail</span></a><br><font size="-2">768x576</font><br>[Christian Pougeaud]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=43796" 
+><span title="Image # 43796: Laser Cue Pop Bumper Cap "><img src="https://www.ipdb.org/images/1414/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43796: Laser Cue Pop Bumper Cap "><br>Pop Bumper Cap</span></a><br><font size="-2">768x576</font><br>[Christian Pougeaud]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=44345" 
+><span title="Image # 44345: Laser Cue Illuminated Defective Backglass 
+(Words that should appear in the lit red areas at the bottom of the glass were mistakenly screened at the top of the glass, obscuring the game name. From the game with serial number 520 09500.)"><img src="https://www.ipdb.org/images/1414/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44345: Laser Cue Illuminated Defective Backglass 
+(Words that should appear in the lit red areas at the bottom of the glass were mistakenly screened at the top of the glass, obscuring the game name. From the game with serial number 520 09500.)"><br>Illuminated Defective Backglass*</span></a><br><font size="-2">1080x808</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=44346" 
+><span title="Image # 44346: Laser Cue Illuminated Defective Backglass - Detail 
+(Words that should appear in the lit red areas at the bottom of the glass were mistakenly screened at the top of the glass, obscuring the game name. From the game with serial number 520 09500.)"><img src="https://www.ipdb.org/images/1414/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 44346: Laser Cue Illuminated Defective Backglass - Detail 
+(Words that should appear in the lit red areas at the bottom of the glass were mistakenly screened at the top of the glass, obscuring the game name. From the game with serial number 520 09500.)"><br>Illuminated Defective Backglass - Detail*</span></a><br><font size="-2">1090x496</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=44347" 
+><span title="Image # 44347: Laser Cue Defective Backglass - Reverse 
+(The final coat of paint (opaque silver) was screened with the backglass inverted. This placed the words 'Game Over', 'Highest Score', 'Shoot Again', 'Ball In Play', 'Match', and 'Tilt' at the top of the glass. From the game with serial number 520 09500. Included in this image is the 'inspection' form found inside the game.)"><img src="https://www.ipdb.org/images/1414/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 44347: Laser Cue Defective Backglass - Reverse 
+(The final coat of paint (opaque silver) was screened with the backglass inverted. This placed the words 'Game Over', 'Highest Score', 'Shoot Again', 'Ball In Play', 'Match', and 'Tilt' at the top of the glass. From the game with serial number 520 09500. Included in this image is the 'inspection' form found inside the game.)"><br>Defective Backglass - Reverse*</span></a><br><font size="-2">1200x534</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=44348" 
+><span title="Image # 44348: Laser Cue Bare Playfield "><img src="https://www.ipdb.org/images/1414/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 44348: Laser Cue Bare Playfield "><br>Bare Playfield</span></a><br><font size="-2">938x1088</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=44349" 
+><span title="Image # 44349: Laser Cue Bare Playfield - Underside "><img src="https://www.ipdb.org/images/1414/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 44349: Laser Cue Bare Playfield - Underside "><br>Bare Playfield - Underside</span></a><br><font size="-2">844x928</font><br>[Mark Ford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1414&amp;picno=45256" 
+><span title="Image # 45256: Laser Cue Illuminated Backglass "><img src="https://www.ipdb.org/images/1414/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 45256: Laser Cue Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x716</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

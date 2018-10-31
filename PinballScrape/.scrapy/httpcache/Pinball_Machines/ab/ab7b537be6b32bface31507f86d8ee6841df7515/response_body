@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database:  'Astrologic'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game  Astrologic Koala Flippers (2), Pop bumpers (2), Slingshots (2), 5-bank drop targets (2), Kick-out hole (1), Spinning target (1), Standup target (1), Right outlane ball return gate. Should the upper drop target bank happen to reset while the ball is in the large lane above it, to prevent the ball from being trapped against the back side of the drop targets, as the ball rolls back down that lane it crosses a round rollover switch which drops the one drop target in its path, allowing the ball to reenter the field of play.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for  'Astrologic' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Astrologic</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5710">Astrologic</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5710">5710</a> <I>/ October, 1978 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5710" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>October, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1 unit &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5710">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Astrology - Fantasy</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Should the upper <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> bank happen to reset while the ball is in the large lane above it, to prevent the ball from being trapped against the back side of the <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>, as the ball rolls back down that lane it crosses a round <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> switch which drops the one <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> in its path, allowing the ball to reenter the field of play.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This was a custom-made game for the Hollywood movie "Ti<ignore>lt". The original <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> was lost and a second one (the current one) was created using the original artwork. The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> are original creations while the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> was reused from a game having a bowling theme (very probably <span title="Click here to open a new window and display Williams' 1975 'Triple Strike'"><a target="game2652" href="machine.cgi?id=2652">Williams' 1975 'Triple Strike'</a></span>).<br><br>Design by: Michael Sehnert<br><a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> art by: movie company artist John O'Connor<br>All other art by: Michael Sehnert, Delana Bettoli<br><br>In creating this game, Michael "Pinball" Sehnert shipped the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art, drawn on paper, to Williams Electronics where the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and its plastic <a target="glossary" class="glossarylink" href="/glossary.php#Light_Shields">light&nbsp;shields</a> were silkscreened. Michael then assembled the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> components and wired its underside.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> did not contain its current solid state components until 2010. During the filming of the 1979 movie, Michael was positioned behind a wall behind the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, hidden from view, where he remotely operated with wires the LED score displays, in concert with the playing of the game during filming. The bottom of the lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> did not exist, allowing a film camera to shoot from underneath to show the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> switching with added special effects, although those shots were not included in the movie.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=FphbdksaPeM#t=333">1979 Movie Appearance (at YouTube) </a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50455" 
+><span title="Image # 50455: Astrologic Illuminated Backglass "><img src="https://www.ipdb.org/images/5710/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 50455: Astrologic Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1273</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50456" 
+><span title="Image # 50456: Astrologic Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><img src="https://www.ipdb.org/images/5710/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 50456: Astrologic Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><br>Playfield*</span></a><br><font size="-2">910x1280</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50457" 
+><span title="Image # 50457: Astrologic Backglass "><img src="https://www.ipdb.org/images/5710/tn_image-A1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50457: Astrologic Backglass "><br>Backglass</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50458" 
+><span title="Image # 50458: Astrologic Illuminated Backglass "><img src="https://www.ipdb.org/images/5710/tn_image-A2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50458: Astrologic Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50459" 
+><span title="Image # 50459: Astrologic Playfield "><img src="https://www.ipdb.org/images/5710/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50459: Astrologic Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50460" 
+><span title="Image # 50460: Astrologic Illuminated Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><img src="https://www.ipdb.org/images/5710/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50460: Astrologic Illuminated Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50461" 
+><span title="Image # 50461: Astrologic Upper Playfield "><img src="https://www.ipdb.org/images/5710/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50461: Astrologic Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50462" 
+><span title="Image # 50462: Astrologic Lower Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><img src="https://www.ipdb.org/images/5710/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50462: Astrologic Lower Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50463" 
+><span title="Image # 50463: Astrologic Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/5710/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50463: Astrologic Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50464" 
+><span title="Image # 50464: Astrologic Illuminated Lower Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><img src="https://www.ipdb.org/images/5710/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50464: Astrologic Illuminated Lower Playfield 
+(The Instruction and Price Cards are incorrect for this game.)"><br>Illuminated Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50465" 
+><span title="Image # 50465: Astrologic Cabinet - Front "><img src="https://www.ipdb.org/images/5710/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50465: Astrologic Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50466" 
+><span title="Image # 50466: Astrologic Cabinet - Front View "><img src="https://www.ipdb.org/images/5710/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 50466: Astrologic Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">924x1536</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50467" 
+><span title="Image # 50467: Astrologic Illuminated Front View "><img src="https://www.ipdb.org/images/5710/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 50467: Astrologic Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">960x1564</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50468" 
+><span title="Image # 50468: Astrologic Cabinet - Front View "><img src="https://www.ipdb.org/images/5710/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 50468: Astrologic Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1048x1548</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50469" 
+><span title="Image # 50469: Astrologic Under Playfield "><img src="https://www.ipdb.org/images/5710/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50469: Astrologic Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50470" 
+><span title="Image # 50470: Astrologic Model #1 "><img src="https://www.ipdb.org/images/5710/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50470: Astrologic Model #1 "><br>Model #1</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50471" 
+><span title="Image # 50471: Astrologic Inside Cabinet "><img src="https://www.ipdb.org/images/5710/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50471: Astrologic Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50472" 
+><span title="Image # 50472: Astrologic Inside Cabinet - Front "><img src="https://www.ipdb.org/images/5710/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50472: Astrologic Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50473" 
+><span title="Image # 50473: Astrologic Inside Backbox "><img src="https://www.ipdb.org/images/5710/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50473: Astrologic Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5710&amp;picno=50474" 
+><span title="Image # 50474: Astrologic Inside Backbox Door 
+(The backbox components were not added to this game until 2010.)"><img src="https://www.ipdb.org/images/5710/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50474: Astrologic Inside Backbox Door 
+(The backbox components were not added to this game until 2010.)"><br>Inside Backbox Door*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

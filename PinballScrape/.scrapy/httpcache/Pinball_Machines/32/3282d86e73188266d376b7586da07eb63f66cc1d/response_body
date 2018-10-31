@@ -1,0 +1,245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Moon Shot'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Moon Shot Moonshot Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (4), 3-sided rollunder. Backglass light animation (rocket flies to the moon). Outhole bonus scores 20 points or 200 when lit.
+
+Maximum displayed point score is 1,999 points.  Ted Zale ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Moon Shot' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Moon Shot</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1627">Moon Shot</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1627">1627</a> <I>/ February, 1963 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1627" target="showrate1627"><img src="stars/5stars.png" height=18 width=201 border=0 alt="[ 5 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>4.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1627" target="showrate1627">7 ratings/6 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1627" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>January 24, 1963</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1963</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>695</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,250 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1627">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), 3-sided <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">rollunder</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (rocket flies to the moon). <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">Outhole</a> bonus scores 20 points or 200 when lit.<br><br>Maximum displayed point score is 1,999 points.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ted&nbsp;Zale' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ted%20Zale">Ted&nbsp;Zale</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Bally produced <a target="glossary" class="glossarylink" href="/glossary.php#Bingo_Machine">bingo&nbsp;machines</a> during the 1950s and into 1962 until the implementation in December 1962 of the Eastland Bill (S-1658, for James Eastland, chairman of the Senate Judiciary Committee) outlawed the interstate transportation of gambling devices. One of the visible proponents for the Senate Bill was Rufus King, attorney for D. Gottlieb and Company. Gottlieb had requested and received a legal opinion specifically exempting Gottlieb products from the terms of the new law (per Billboard, December 29, 1962, pages 27 and 32), saying, "no Gottlieb games, free-game, multiple player or Fli<ignore>pper (add-a-ball) type are covered by the new provisions, and that accordingly neither your company nor anyone else at any level in the industry will have to register or otherwise comply on account of handling Gottlieb products."<br><br>With bingo production shut down by this law, Bally turned to making <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> pinball machines full time after not having made one since 1957, starting with 'Moon Shot', a blatant copy of <span title="Click here to open a new window and display Gottlieb's 1962 'Tropic Isle'"><a target="game2661" href="machine.cgi?id=2661">Gottlieb's 1962 'Tropic Isle'</a></span>. On the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, the rocket is shown launching not from Cape Canaveral but seemingly from an area of tropic isles off the coast of Ecuador.<br><br>Christian Marche is listed in other pinball resources as the artist for this game. In an interview appearing in <i>The Pinball Compendium 1970-1981</i>, he states he moved to the USA in 1964 where he started work at Advertising Posters. Therefore, we have removed his name as the artist for this 1963 game.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+Pinball The Lure of the Silverball, page 55<br>
+The Pinball Compendium Electro-mechanical Era, page 131<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=1568" 
+><span title="Image # 1568: Moon Shot Backglass "><img src="https://www.ipdb.org/images/1627/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 1568: Moon Shot Backglass "><br>Backglass</span></a><br><font size="-2">436x439</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=1569" 
+><span title="Image # 1569: Moon Shot Playfield "><img src="https://www.ipdb.org/images/1627/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 1569: Moon Shot Playfield "><br>Playfield</span></a><br><font size="-2">392x541</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=3836" 
+><span title="Image # 3836: Moon Shot Flyer "><img src="https://www.ipdb.org/images/1627/tn_1627f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 3836: Moon Shot Flyer "><br>Flyer</span></a><br><font size="-2">873x1205</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22890" 
+><span title="Image # 22890: Moon Shot Backglass "><img src="https://www.ipdb.org/images/1627/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 22890: Moon Shot Backglass "><br>Backglass</span></a><br><font size="-2">893x905</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22891" 
+><span title="Image # 22891: Moon Shot Illuminated Backglass "><img src="https://www.ipdb.org/images/1627/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 22891: Moon Shot Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">888x906</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22892" 
+><span title="Image # 22892: Moon Shot Backglass - Detail "><img src="https://www.ipdb.org/images/1627/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22892: Moon Shot Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22893" 
+><span title="Image # 22893: Moon Shot Backglass - Detail "><img src="https://www.ipdb.org/images/1627/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 22893: Moon Shot Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">858x1202</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22894" 
+><span title="Image # 22894: Moon Shot Backglass - Detail "><img src="https://www.ipdb.org/images/1627/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 22894: Moon Shot Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x655</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22895" 
+><span title="Image # 22895: Moon Shot Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 22895: Moon Shot Playfield "><br>Playfield</span></a><br><font size="-2">831x1083</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22896" 
+><span title="Image # 22896: Moon Shot Upper Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 22896: Moon Shot Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x820</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22897" 
+><span title="Image # 22897: Moon Shot Lower Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22897: Moon Shot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">838x1112</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22898" 
+><span title="Image # 22898: Moon Shot Cabinet - Left "><img src="https://www.ipdb.org/images/1627/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 22898: Moon Shot Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">905x868</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22899" 
+><span title="Image # 22899: Moon Shot Cabinet - Right "><img src="https://www.ipdb.org/images/1627/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 22899: Moon Shot Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1007x885</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22900" 
+><span title="Image # 22900: Moon Shot Cabinet - Left "><img src="https://www.ipdb.org/images/1627/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 22900: Moon Shot Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x471</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22901" 
+><span title="Image # 22901: Moon Shot Cabinet - Right "><img src="https://www.ipdb.org/images/1627/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 22901: Moon Shot Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x512</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22902" 
+><span title="Image # 22902: Moon Shot Cabinet - Front View "><img src="https://www.ipdb.org/images/1627/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 22902: Moon Shot Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">749x1183</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22903" 
+><span title="Image # 22903: Moon Shot Under Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 22903: Moon Shot Under Playfield "><br>Under Playfield</span></a><br><font size="-2">746x1148</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22904" 
+><span title="Image # 22904: Moon Shot Inside Cabinet "><img src="https://www.ipdb.org/images/1627/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 22904: Moon Shot Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">831x1141</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22905" 
+><span title="Image # 22905: Moon Shot Inside Backbox "><img src="https://www.ipdb.org/images/1627/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 22905: Moon Shot Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">563x1065</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22906" 
+><span title="Image # 22906: Moon Shot Behind Backglass "><img src="https://www.ipdb.org/images/1627/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22906: Moon Shot Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22907" 
+><span title="Image # 22907: Moon Shot Backglass - Reverse "><img src="https://www.ipdb.org/images/1627/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 22907: Moon Shot Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x789</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=22908" 
+><span title="Image # 22908: Moon Shot Cabinet - Front View "><img src="https://www.ipdb.org/images/1627/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 22908: Moon Shot Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">702x1230</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=46736" 
+><span title="Image # 46736: Moon Shot Illuminated Backglass "><img src="https://www.ipdb.org/images/1627/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46736: Moon Shot Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=60369" 
+><span title="Image # 60369: Moon Shot Upper Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60369: Moon Shot Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">753x1008</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=60370" 
+><span title="Image # 60370: Moon Shot Lower Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 60370: Moon Shot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">753x1008</font><br>[Bruce Brigham]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=60371" 
+><span title="Image # 60371: Moon Shot Cabinet - Front "><img src="https://www.ipdb.org/images/1627/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60371: Moon Shot Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1008x753</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65643" 
+><span title="Image # 65643: Moon Shot Illuminated Backglass "><img src="https://www.ipdb.org/images/1627/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65643: Moon Shot Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">800x1067</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65644" 
+><span title="Image # 65644: Moon Shot Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65644: Moon Shot Playfield "><br>Playfield</span></a><br><font size="-2">800x1067</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65645" 
+><span title="Image # 65645: Moon Shot Upper Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65645: Moon Shot Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65646" 
+><span title="Image # 65646: Moon Shot Upper Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65646: Moon Shot Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65647" 
+><span title="Image # 65647: Moon Shot Middle Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65647: Moon Shot Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65648" 
+><span title="Image # 65648: Moon Shot Lower Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65648: Moon Shot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65649" 
+><span title="Image # 65649: Moon Shot Lower Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65649: Moon Shot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65650" 
+><span title="Image # 65650: Moon Shot Lower Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65650: Moon Shot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65651" 
+><span title="Image # 65651: Moon Shot Cabinet - Left "><img src="https://www.ipdb.org/images/1627/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 65651: Moon Shot Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">656x600</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65652" 
+><span title="Image # 65652: Moon Shot Cabinet - Right "><img src="https://www.ipdb.org/images/1627/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65652: Moon Shot Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">599x594</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65653" 
+><span title="Image # 65653: Moon Shot Cabinet - Front "><img src="https://www.ipdb.org/images/1627/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 65653: Moon Shot Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">800x555</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65654" 
+><span title="Image # 65654: Moon Shot Cabinet - Front View "><img src="https://www.ipdb.org/images/1627/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 65654: Moon Shot Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">726x1067</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65655" 
+><span title="Image # 65655: Moon Shot Cabinet - Full View "><img src="https://www.ipdb.org/images/1627/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 65655: Moon Shot Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">800x1033</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65656" 
+><span title="Image # 65656: Moon Shot Cabinet - Rear View "><img src="https://www.ipdb.org/images/1627/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 65656: Moon Shot Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">653x1067</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65657" 
+><span title="Image # 65657: Moon Shot Inside Backbox "><img src="https://www.ipdb.org/images/1627/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65657: Moon Shot Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">592x793</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65658" 
+><span title="Image # 65658: Moon Shot Backglass - Reverse "><img src="https://www.ipdb.org/images/1627/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65658: Moon Shot Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65659" 
+><span title="Image # 65659: Moon Shot Under Playfield "><img src="https://www.ipdb.org/images/1627/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65659: Moon Shot Under Playfield "><br>Under Playfield</span></a><br><font size="-2">800x1067</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65660" 
+><span title="Image # 65660: Moon Shot Inside Coin Door 
+(The coin acceptor mechanism is missing from its housing.)"><img src="https://www.ipdb.org/images/1627/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65660: Moon Shot Inside Coin Door 
+(The coin acceptor mechanism is missing from its housing.)"><br>Inside Coin Door*</span></a><br><font size="-2">800x600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1627&amp;picno=65661" 
+><span title="Image # 65661: Moon Shot Inside Cabinet "><img src="https://www.ipdb.org/images/1627/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65661: Moon Shot Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">800x1067</font><br>[Casey Davis]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

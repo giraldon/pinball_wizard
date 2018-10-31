@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Fire!'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Fire! Flippers (2), Slingshots (4), Standup targets (15), Moving ramps (3), Horseshoe lanes (2), Plunger skill shot. No pop bumpers. Has speech. Rotating color cylinder under playfield simulates building on fire. The player must quickly 'put out fires' when they appear in various places on the playfield, by either completing a bank of targets or making a lit shot. These objectives award points increased by the 'Fire Multiplier' as displayed in the upper playfield inserts indicating 10x-7x-5x-3x-2x. Each ball in play starts with this multiplier at its highest value of 10x and counts downward each time a fire is not put out within a timed interval. Each end of a large horseshoe lane is protected by ramps that raise and lower. When lowered, they deliver the ball to ball locks. Upper playfield has a ramp that raises and lowers during play, allowing a ball to enter an elevated opening for multiball. A small horseshoe lane above this ramp advances bonus multipliers 2x-3x-4x-5x-10x which display in the storefront windows in the lower playfield. Top of backbox has a ringing bell. The first and second player score displays are alphanumeric and the third and fourth player displays are numeric-only.  Mark Sprenger Barry Oursler Chris Granner Dan Lee Brian Schmidt Rich Karstens Chris Granner ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Fire!' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Fire!</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="859">Fire!</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=859">859</a> <I>/ August, 1987 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=859" target="showrate859"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=859" target="showrate859">73 ratings/59 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=859" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1987</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>556</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=7">Williams System 11A</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,700 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=859">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (15), Moving <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">Horseshoe&nbsp;lanes</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">Plunger</a> <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Shot">skill&nbsp;shot</a>. No <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumpers</a>. Has speech. Rotating color cylinder under <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> simulates building on fire. The player must quickly "put out fires" when they appear in various places on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, by either completing a bank of targets or making a lit shot. These objectives award points increased by the "Fire <a target="glossary" class="glossarylink" href="/glossary.php#Multiplier">Multiplier</a>" as displayed in the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield_Insert">playfield&nbsp;inserts</a> indicating 10x-7x-5x-3x-2x. Each ball in play starts with this <a target="glossary" class="glossarylink" href="/glossary.php#Multiplier">multiplier</a> at its highest value of 10x and counts downward each time a fire is not put out within a timed interval. Each end of a large <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">horseshoe&nbsp;lane</a> is protected by <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> that raise and lower. When lowered, they deliver the ball to ball locks. Upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has a <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> that raises and lowers during play, allowing a ball to enter an elevated opening for <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. A small <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">horseshoe&nbsp;lane</a> above this <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> advances bonus <a target="glossary" class="glossarylink" href="/glossary.php#Multiplier">multipliers</a> 2x-3x-4x-5x-10x which display in the storefront windows in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Top of <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> has a ringing bell. The first and second player score displays are alphanumeric and the third and fourth player displays are numeric-only.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Sprenger' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Sprenger">Mark&nbsp;Sprenger</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span>, <span title="Click here to perform a search for all pinball games that 'Rich&nbsp;Karstens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rich%20Karstens">Rich&nbsp;Karstens</a></span>, <span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Lee' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Lee">Dan&nbsp;Lee</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Score display fire effects were later used on <span title="Click here to open a new window and display Midway's 1989 'Transporter the Rescue'"><a target="game2630" href="machine.cgi?id=2630">Midway's 1989 'Transporter the Rescue'</a></span> and <span title="Click here to open a new window and display Midway's 1991 'Bugs Bunny's Birthday Ball'"><a target="game396" href="machine.cgi?id=396">Midway's 1991 'Bugs Bunny's Birthday Ball'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"When you're hot you're hot!"<br>
+"It's hot! It's smokin! It's burnin up the charts!"<br>
+"FIRE's coming out in a blaze of glory that's firing up play and profits at every location!"<br>
+"This FIRE is matchless!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 155<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 86<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+Pinball The Lure of the Silverball, page 91<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/859/FIRERULE.HTM" target="rulesheet">Fire! Rulesheet Version 1.2 (Jul/28/1998), by Jason Putnam</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?fire">http://pinball.jameswest.com/ownerslists/ownerslist.php?fire</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#859">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 146 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/859/Williams_1987_Fire_Game_ROM_L_3.zip" >Game ROM L-3</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 143 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/859/fire_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/859/Williams_1987_Fire_Instruction_Manual.pdf" onClick="return purchasemanual();">English Manual (with paginated schematics)</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 24 KB</td><td align=left nowrap width="5%">&nbsp;DOC&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/859/Williams_Fire_instruction_cards_20French_1_.doc" >French Instruction Card (User-translated)</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=4631" 
+><span title="Image # 4631: Fire! Flyer, Front "><img src="https://www.ipdb.org/images/859/tn_859f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4631: Fire! Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=4632" 
+><span title="Image # 4632: Fire! Flyer, Back "><img src="https://www.ipdb.org/images/859/tn_859f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4632: Fire! Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8121" 
+><span title="Image # 8121: Fire! Cabinet - Full View "><img src="https://www.ipdb.org/images/859/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 8121: Fire! Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">550x778</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8122" 
+><span title="Image # 8122: Fire! Cabinet - Left "><img src="https://www.ipdb.org/images/859/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 8122: Fire! Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">500x526</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8123" 
+><span title="Image # 8123: Fire! Cabinet - Front "><img src="https://www.ipdb.org/images/859/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 8123: Fire! Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">500x331</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8124" 
+><span title="Image # 8124: Fire! BackBox "><img src="https://www.ipdb.org/images/859/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 8124: Fire! BackBox "><br>BackBox</span></a><br><font size="-2">500x608</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8125" 
+><span title="Image # 8125: Fire! Playfield - Detail "><img src="https://www.ipdb.org/images/859/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8125: Fire! Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8126" 
+><span title="Image # 8126: Fire! Upper Playfield "><img src="https://www.ipdb.org/images/859/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8126: Fire! Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=8127" 
+><span title="Image # 8127: Fire! Playfield "><img src="https://www.ipdb.org/images/859/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8127: Fire! Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=26286" 
+><span title="Image # 26286: Fire! Under Playfield "><img src="https://www.ipdb.org/images/859/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26286: Fire! Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=26287" 
+><span title="Image # 26287: Fire! Instruction Card "><img src="https://www.ipdb.org/images/859/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26287: Fire! Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=26288" 
+><span title="Image # 26288: Fire! Inside Backbox "><img src="https://www.ipdb.org/images/859/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26288: Fire! Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36582" 
+><span title="Image # 36582: Fire! Blank Playfield "><img src="https://www.ipdb.org/images/859/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 36582: Fire! Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1024x1955</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36583" 
+><span title="Image # 36583: Fire! Blank Playfield - Reverse "><img src="https://www.ipdb.org/images/859/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 36583: Fire! Blank Playfield - Reverse "><br>Blank Playfield - Reverse</span></a><br><font size="-2">1024x1976</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36584" 
+><span title="Image # 36584: Fire! Blank Playfield - Upper "><img src="https://www.ipdb.org/images/859/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36584: Fire! Blank Playfield - Upper "><br>Blank Playfield - Upper</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36585" 
+><span title="Image # 36585: Fire! Blank Playfield - Middle "><img src="https://www.ipdb.org/images/859/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36585: Fire! Blank Playfield - Middle "><br>Blank Playfield - Middle</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36586" 
+><span title="Image # 36586: Fire! Blank Playfield - Lower "><img src="https://www.ipdb.org/images/859/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36586: Fire! Blank Playfield - Lower "><br>Blank Playfield - Lower</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36587" 
+><span title="Image # 36587: Fire! Blank Playfield - Detail "><img src="https://www.ipdb.org/images/859/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36587: Fire! Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36588" 
+><span title="Image # 36588: Fire! Blank Playfield - Detail "><img src="https://www.ipdb.org/images/859/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36588: Fire! Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36589" 
+><span title="Image # 36589: Fire! Blank Playfield - Detail "><img src="https://www.ipdb.org/images/859/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36589: Fire! Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36590" 
+><span title="Image # 36590: Fire! Blank Playfield - Detail "><img src="https://www.ipdb.org/images/859/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36590: Fire! Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=36591" 
+><span title="Image # 36591: Fire! Blank Playfield - Detail "><img src="https://www.ipdb.org/images/859/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36591: Fire! Blank Playfield - Detail "><br>Blank Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44460" 
+><span title="Image # 44460: Fire! Oursler Arcade "><img src="https://www.ipdb.org/images/859/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 44460: Fire! Oursler Arcade "><br>Oursler Arcade</span></a><br><font size="-2">1184x911</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44461" 
+><span title="Image # 44461: Fire! Kenny's Soup Kitchen "><img src="https://www.ipdb.org/images/859/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 44461: Fire! Kenny's Soup Kitchen "><br>Kenny's Soup Kitchen</span></a><br><font size="-2">1200x717</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44462" 
+><span title="Image # 44462: Fire! Back Alley Saloon "><img src="https://www.ipdb.org/images/859/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 44462: Fire! Back Alley Saloon "><br>Back Alley Saloon</span></a><br><font size="-2">1171x960</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44463" 
+><span title="Image # 44463: Fire! AWS Warehouse "><img src="https://www.ipdb.org/images/859/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 44463: Fire! AWS Warehouse "><br>AWS Warehouse</span></a><br><font size="-2">1178x688</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44464" 
+><span title="Image # 44464: Fire! Sprenger 1st National Bank "><img src="https://www.ipdb.org/images/859/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 44464: Fire! Sprenger 1st National Bank "><br>Sprenger 1st National Bank</span></a><br><font size="-2">1200x665</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44465" 
+><span title="Image # 44465: Fire! MWS Harness Shop "><img src="https://www.ipdb.org/images/859/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 44465: Fire! MWS Harness Shop "><br>MWS Harness Shop</span></a><br><font size="-2">1200x953</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44742" 
+><span title="Image # 44742: Fire! Backglass "><img src="https://www.ipdb.org/images/859/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 44742: Fire! Backglass "><br>Backglass</span></a><br><font size="-2">1024x998</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44743" 
+><span title="Image # 44743: Fire! Cabinet - Right "><img src="https://www.ipdb.org/images/859/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 44743: Fire! Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x458</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44744" 
+><span title="Image # 44744: Fire! Cabinet - Front "><img src="https://www.ipdb.org/images/859/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 44744: Fire! Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x691</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44745" 
+><span title="Image # 44745: Fire! Backbox - Right "><img src="https://www.ipdb.org/images/859/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=34 height=100 alt="Image # 44745: Fire! Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">542x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=44746" 
+><span title="Image # 44746: Fire! Cabinet - Front View "><img src="https://www.ipdb.org/images/859/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 44746: Fire! Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">882x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=54070" 
+><span title="Image # 54070: Fire! Promotional Poster 
+(Measures 20 inches by 24 inches.)"><img src="https://www.ipdb.org/images/859/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 54070: Fire! Promotional Poster 
+(Measures 20 inches by 24 inches.)"><br>Promotional Poster*</span></a><br><font size="-2">503x424</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=859&amp;picno=71480" 
+><span title="Image # 71480: Fire! Translite - Reverse "><img src="https://www.ipdb.org/images/859/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 71480: Fire! Translite - Reverse "><br>Translite - Reverse</span></a><br><font size="-2">1200x836</font><br>[Hansjoerg Reiter]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,241 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Egg Head'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Egg Head Pop Bumpers (5), Dead Bumpers (4), Targets (2).  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Egg Head' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Egg Head</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="758">Egg Head</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=758">758</a> <I>/ December, 1961 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=758" target="showrate758"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=758" target="showrate758">8 ratings/6 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=758" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1961</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>184</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,100 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=758">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Games - Tic-Tac-Toe</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;Bumpers</a> (5), Dead <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">Bumpers</a> (4), Targets (2).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Similar layout and theme (i.e. Tic-Tac-Toe) also used on <span title="Click here to open a new window and display Gottlieb's 1963 'Square Head'"><a target="game2330" href="machine.cgi?id=2330">Gottlieb's 1963 'Square Head'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> pp. 223<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 117<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 140<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 248<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 236<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/758">http://www.pinballowners.com/owners/758</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 44 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/758/Gottlieb_1961_Egg_Head_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=731" 
+><span title="Image # 731: Egg Head Side View "><img src="https://www.ipdb.org/images/758/tn_Side_View.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 731: Egg Head Side View "><br>Side View</span></a><br><font size="-2">625x550</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=733" 
+><span title="Image # 733: Egg Head Playfield "><img src="https://www.ipdb.org/images/758/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 733: Egg Head Playfield "><br>Playfield</span></a><br><font size="-2">490x550</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=734" 
+><span title="Image # 734: Egg Head Front View "><img src="https://www.ipdb.org/images/758/tn_Front_View.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 734: Egg Head Front View "><br>Front View</span></a><br><font size="-2">303x550</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=735" 
+><span title="Image # 735: Egg Head Backglass "><img src="https://www.ipdb.org/images/758/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 735: Egg Head Backglass "><br>Backglass</span></a><br><font size="-2">466x437</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=4877" 
+><span title="Image # 4877: Egg Head Flyer "><img src="https://www.ipdb.org/images/758/tn_758f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 4877: Egg Head Flyer "><br>Flyer</span></a><br><font size="-2">900x670</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=6620" 
+><span title="Image # 6620: Egg Head Backglass "><img src="https://www.ipdb.org/images/758/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 6620: Egg Head Backglass "><br>Backglass</span></a><br><font size="-2">720x532</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=6621" 
+><span title="Image # 6621: Egg Head Playfield "><img src="https://www.ipdb.org/images/758/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 6621: Egg Head Playfield "><br>Playfield</span></a><br><font size="-2">576x1029</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=9123" 
+><span title="Image # 9123: Egg Head Playfield "><img src="https://www.ipdb.org/images/758/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9123: Egg Head Playfield "><br>Playfield</span></a><br><font size="-2">384x512</font><br>[Jeff Wiles]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=9124" 
+><span title="Image # 9124: Egg Head Backbox "><img src="https://www.ipdb.org/images/758/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 9124: Egg Head Backbox "><br>Backbox</span></a><br><font size="-2">423x415</font><br>[Jeff Wiles]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=9125" 
+><span title="Image # 9125: Egg Head Full Machine "><img src="https://www.ipdb.org/images/758/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 9125: Egg Head Full Machine "><br>Full Machine</span></a><br><font size="-2">353x690</font><br>[Jeff Wiles]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=10699" 
+><span title="Image # 10699: Egg Head Post Adjustment "><img src="https://www.ipdb.org/images/758/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 10699: Egg Head Post Adjustment "><br>Post Adjustment</span></a><br><font size="-2">1024x1498</font><br>[Scott Phillips]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15114" 
+><span title="Image # 15114: Egg Head Upper Playfield "><img src="https://www.ipdb.org/images/758/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15114: Egg Head Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">540x360</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15115" 
+><span title="Image # 15115: Egg Head Upper Playfield "><img src="https://www.ipdb.org/images/758/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15115: Egg Head Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">540x360</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15116" 
+><span title="Image # 15116: Egg Head Middle Playfield "><img src="https://www.ipdb.org/images/758/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15116: Egg Head Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">540x360</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15117" 
+><span title="Image # 15117: Egg Head Lower Playfield 
+(The metal flippers are not original to this game.)"><img src="https://www.ipdb.org/images/758/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15117: Egg Head Lower Playfield 
+(The metal flippers are not original to this game.)"><br>Lower Playfield*</span></a><br><font size="-2">540x360</font><br>[Matt Hoy]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15118" 
+><span title="Image # 15118: Egg Head Cabinet - Left 
+(The metal flippers are not original to this game.)"><img src="https://www.ipdb.org/images/758/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 15118: Egg Head Cabinet - Left 
+(The metal flippers are not original to this game.)"><br>Cabinet - Left*</span></a><br><font size="-2">500x284</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15119" 
+><span title="Image # 15119: Egg Head Cabinet - Right 
+(The metal flippers are not original to this game.)"><img src="https://www.ipdb.org/images/758/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=47 alt="Image # 15119: Egg Head Cabinet - Right 
+(The metal flippers are not original to this game.)"><br>Cabinet - Right*</span></a><br><font size="-2">500x233</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15120" 
+><span title="Image # 15120: Egg Head Backbox - Left "><img src="https://www.ipdb.org/images/758/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15120: Egg Head Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">180x270</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15121" 
+><span title="Image # 15121: Egg Head Backbox - Right "><img src="https://www.ipdb.org/images/758/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15121: Egg Head Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">180x270</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15122" 
+><span title="Image # 15122: Egg Head Front "><img src="https://www.ipdb.org/images/758/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 15122: Egg Head Front "><br>Front</span></a><br><font size="-2">496x356</font><br>[Matt Hoy]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15123" 
+><span title="Image # 15123: Egg Head Back "><img src="https://www.ipdb.org/images/758/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15123: Egg Head Back "><br>Back</span></a><br><font size="-2">360x540</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15124" 
+><span title="Image # 15124: Egg Head Under Playfield "><img src="https://www.ipdb.org/images/758/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15124: Egg Head Under Playfield "><br>Under Playfield</span></a><br><font size="-2">364x543</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15125" 
+><span title="Image # 15125: Egg Head Inside Cabinet "><img src="https://www.ipdb.org/images/758/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15125: Egg Head Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">540x360</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=15126" 
+><span title="Image # 15126: Egg Head Inside Backbox "><img src="https://www.ipdb.org/images/758/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 15126: Egg Head Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">360x540</font><br>[Matt Hoy]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=16150" 
+><span title="Image # 16150: Egg Head Blank Playfield "><img src="https://www.ipdb.org/images/758/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 16150: Egg Head Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">995x2000</font><br>[Philippe Thibault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18484" 
+><span title="Image # 18484: Egg Head Front "><img src="https://www.ipdb.org/images/758/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 18484: Egg Head Front "><br>Front</span></a><br><font size="-2">595x327</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18485" 
+><span title="Image # 18485: Egg Head Backglass "><img src="https://www.ipdb.org/images/758/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 18485: Egg Head Backglass "><br>Backglass</span></a><br><font size="-2">421x404</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18486" 
+><span title="Image # 18486: Egg Head Upper Playfield "><img src="https://www.ipdb.org/images/758/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18486: Egg Head Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18487" 
+><span title="Image # 18487: Egg Head Middle Playfield "><img src="https://www.ipdb.org/images/758/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18487: Egg Head Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18488" 
+><span title="Image # 18488: Egg Head Lower Playfield "><img src="https://www.ipdb.org/images/758/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18488: Egg Head Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18489" 
+><span title="Image # 18489: Egg Head Cabinet - Right "><img src="https://www.ipdb.org/images/758/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18489: Egg Head Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18490" 
+><span title="Image # 18490: Egg Head Backbox - Right "><img src="https://www.ipdb.org/images/758/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18490: Egg Head Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">480x640</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18491" 
+><span title="Image # 18491: Egg Head Cabinet - Left "><img src="https://www.ipdb.org/images/758/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18491: Egg Head Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18492" 
+><span title="Image # 18492: Egg Head Backbox - Left "><img src="https://www.ipdb.org/images/758/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18492: Egg Head Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">480x640</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18493" 
+><span title="Image # 18493: Egg Head Instruction Card "><img src="https://www.ipdb.org/images/758/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18493: Egg Head Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=18494" 
+><span title="Image # 18494: Egg Head Balls Played Window "><img src="https://www.ipdb.org/images/758/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18494: Egg Head Balls Played Window "><br>Balls Played Window</span></a><br><font size="-2">640x480</font><br>[Bob Borden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=23272" 
+><span title="Image # 23272: Egg Head Right Front View "><img src="https://www.ipdb.org/images/758/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23272: Egg Head Right Front View "><br>Right Front View</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=23273" 
+><span title="Image # 23273: Egg Head Playfield "><img src="https://www.ipdb.org/images/758/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23273: Egg Head Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=23274" 
+><span title="Image # 23274: Egg Head Backglasss "><img src="https://www.ipdb.org/images/758/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23274: Egg Head Backglasss "><br>Backglasss</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=35955" 
+><span title="Image # 35955: Egg Head Playfield - Detail "><img src="https://www.ipdb.org/images/758/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35955: Egg Head Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=35956" 
+><span title="Image # 35956: Egg Head Playfield - Detail "><img src="https://www.ipdb.org/images/758/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35956: Egg Head Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=758&amp;picno=35957" 
+><span title="Image # 35957: Egg Head Playfield - Detail "><img src="https://www.ipdb.org/images/758/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35957: Egg Head Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

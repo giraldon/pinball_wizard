@@ -1,0 +1,254 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Dirty Harry'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Dirty Harry Flippers (3), Pop bumpers (3), Slingshots (2), Vertical up-kicker (1), Magnet in right loop. Unlimited buy-in balls per player (operator option). Moving .44 Magnum on playfield is used to shoot pinballs at targets, sinkhole, and ramp.  Kevin O'Connor Pat McMahon Barry Oursler Scott Slomiany Adam Rhine Brian Morris Zofia Bil Vince Pontarelli Craig Sylla Vince Pontarelli ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Dirty Harry' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Dirty Harry</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="684">Dirty Harry</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=684">684</a> <I>/ March, 1995 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=684" target="showrate684"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=684" target="showrate684">103 ratings/68 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=684" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1995</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50030</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>DH</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=30">Williams WPC Security (WPC-S)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,248 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=684">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Vertical_Up-Kicker">Vertical&nbsp;up-kicker</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">Magnet</a> in right loop. Unlimited <a target="glossary" class="glossarylink" href="/glossary.php#Buy-In">buy-in</a> balls per player (operator option).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Moving .44 Magnum on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is used to shoot pinballs at targets, <a target="glossary" class="glossarylink" href="/glossary.php#Sinkhole">sinkhole</a>, and <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kevin&nbsp;O'Connor' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kevin%20O%27Connor">Kevin&nbsp;O'Connor</a></span>, <span title="Click here to perform a search for all pinball games that 'Pat&nbsp;McMahon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20McMahon">Pat&nbsp;McMahon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Slomiany' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Slomiany">Scott&nbsp;Slomiany</a></span>, <span title="Click here to perform a search for all pinball games that 'Adam&nbsp;Rhine' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Adam%20Rhine">Adam&nbsp;Rhine</a></span>, <span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Morris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Morris">Brian&nbsp;Morris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Zofia&nbsp;Bil' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Zofia%20Bil">Zofia&nbsp;Bil</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Vince&nbsp;Pontarelli' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Vince%20Pontarelli">Vince&nbsp;Pontarelli</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Vince&nbsp;Pontarelli' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Vince%20Pontarelli">Vince&nbsp;Pontarelli</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Craig&nbsp;Sylla' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Craig%20Sylla">Craig&nbsp;Sylla</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Sample (test) games had a <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> in front of the Warehouse entrance. This was removed before full production, but the latest software still supports it.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"you feel lucky?' You will when you get DIRTY HARRY."<br>
+"Do you feel lucky? You should. Because DIRTY HARRY just arrived on the scene. He's packing his famous .44 Magnum, a steely take-charge attitude, and a long list of players' most wanted pinball features. So answer the question. `Do"<br>
+"A Direct Hit!"<br>
+"Set your sights on a winner!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Spin June 1995, pp. 39. pp. (Backglass)<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/684/dirtyhar.htm" target="rulesheet">Dirty Harry Guide (Jan/11/1995), by PAPA</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?dirtyharry">http://pinball.jameswest.com/ownerslists/ownerslist.php?dirtyharry</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#684">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=WZ632FjPFBs">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 414 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/684/Williams_1995_Dirty_Harry_Export_Game_ROM_L_2.zip" >Export Game ROM L-2</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 512 KB</td><td align=left nowrap width="5%">&nbsp;BIN&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/684/Williams_1995_Dirty_Harry_French_ROM.bin" >French ROM</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/684/dh_lx2.zip" >PinMAME Romset (LX-2)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 14 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/684/Williams_1995_Dirty_Harry_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 212 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/684/Williams_1995_Dirty_Harry_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=664" 
+><span title="Image # 664: Dirty Harry Playfield "><img src="https://www.ipdb.org/images/684/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 664: Dirty Harry Playfield "><br>Playfield</span></a><br><font size="-2">442x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=4619" 
+><span title="Image # 4619: Dirty Harry Flyer, Front "><img src="https://www.ipdb.org/images/684/tn_684f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4619: Dirty Harry Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">892x1159</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=4620" 
+><span title="Image # 4620: Dirty Harry Flyer, Back "><img src="https://www.ipdb.org/images/684/tn_684f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4620: Dirty Harry Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">892x1159</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=5353" 
+><span title="Image # 5353: Dirty Harry Machine, Right "><img src="https://www.ipdb.org/images/684/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 5353: Dirty Harry Machine, Right "><br>Machine, Right</span></a><br><font size="-2">500x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=8666" 
+><span title="Image # 8666: Dirty Harry Full Machine "><img src="https://www.ipdb.org/images/684/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 8666: Dirty Harry Full Machine "><br>Full Machine</span></a><br><font size="-2">649x946</font><br>[Steve Nordseth]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=8667" 
+><span title="Image # 8667: Dirty Harry Cabinet Right "><img src="https://www.ipdb.org/images/684/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 8667: Dirty Harry Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">656x710</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=8668" 
+><span title="Image # 8668: Dirty Harry Cabinet Left "><img src="https://www.ipdb.org/images/684/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 8668: Dirty Harry Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">650x749</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=8669" 
+><span title="Image # 8669: Dirty Harry Playfield "><img src="https://www.ipdb.org/images/684/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8669: Dirty Harry Playfield "><br>Playfield</span></a><br><font size="-2">654x872</font><br>[Steve Nordseth]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=14457" 
+><span title="Image # 14457: Dirty Harry Backglass "><img src="https://www.ipdb.org/images/684/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 14457: Dirty Harry Backglass "><br>Backglass</span></a><br><font size="-2">1024x721</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=15002" 
+><span title="Image # 15002: Dirty Harry Lower Playfield "><img src="https://www.ipdb.org/images/684/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15002: Dirty Harry Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">896x600</font><br>[Michael Sciulli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=15003" 
+><span title="Image # 15003: Dirty Harry Upper Playfield "><img src="https://www.ipdb.org/images/684/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 15003: Dirty Harry Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">896x600</font><br>[Michael Sciulli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22018" 
+><span title="Image # 22018: Dirty Harry Full Machine "><img src="https://www.ipdb.org/images/684/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 22018: Dirty Harry Full Machine "><br>Full Machine</span></a><br><font size="-2">600x859</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22019" 
+><span title="Image # 22019: Dirty Harry Cabinet - Front "><img src="https://www.ipdb.org/images/684/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 22019: Dirty Harry Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">500x315</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22020" 
+><span title="Image # 22020: Dirty Harry Cabinet - Left "><img src="https://www.ipdb.org/images/684/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 22020: Dirty Harry Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">500x490</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22021" 
+><span title="Image # 22021: Dirty Harry Cabinet - Rear "><img src="https://www.ipdb.org/images/684/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22021: Dirty Harry Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22022" 
+><span title="Image # 22022: Dirty Harry Cabinet - Right "><img src="https://www.ipdb.org/images/684/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 22022: Dirty Harry Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">500x451</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22023" 
+><span title="Image # 22023: Dirty Harry Upper Playfield "><img src="https://www.ipdb.org/images/684/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22023: Dirty Harry Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22024" 
+><span title="Image # 22024: Dirty Harry Lower Playfield "><img src="https://www.ipdb.org/images/684/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22024: Dirty Harry Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22025" 
+><span title="Image # 22025: Dirty Harry Lower Right Playfield "><img src="https://www.ipdb.org/images/684/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22025: Dirty Harry Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22026" 
+><span title="Image # 22026: Dirty Harry Middle Right Playfield "><img src="https://www.ipdb.org/images/684/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22026: Dirty Harry Middle Right Playfield "><br>Middle Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22027" 
+><span title="Image # 22027: Dirty Harry Upper Right Playfield "><img src="https://www.ipdb.org/images/684/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22027: Dirty Harry Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22028" 
+><span title="Image # 22028: Dirty Harry Lower Left Playfield "><img src="https://www.ipdb.org/images/684/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22028: Dirty Harry Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22029" 
+><span title="Image # 22029: Dirty Harry Middle Left Playfield "><img src="https://www.ipdb.org/images/684/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22029: Dirty Harry Middle Left Playfield "><br>Middle Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22030" 
+><span title="Image # 22030: Dirty Harry Upper Left Playfield "><img src="https://www.ipdb.org/images/684/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22030: Dirty Harry Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22031" 
+><span title="Image # 22031: Dirty Harry Playfield Detail "><img src="https://www.ipdb.org/images/684/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22031: Dirty Harry Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22032" 
+><span title="Image # 22032: Dirty Harry Playfield Detail "><img src="https://www.ipdb.org/images/684/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22032: Dirty Harry Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22033" 
+><span title="Image # 22033: Dirty Harry Playfield Detail "><img src="https://www.ipdb.org/images/684/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22033: Dirty Harry Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22034" 
+><span title="Image # 22034: Dirty Harry Playfield Detail "><img src="https://www.ipdb.org/images/684/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22034: Dirty Harry Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22035" 
+><span title="Image # 22035: Dirty Harry Playfield Detail "><img src="https://www.ipdb.org/images/684/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22035: Dirty Harry Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22036" 
+><span title="Image # 22036: Dirty Harry Playfield Underside "><img src="https://www.ipdb.org/images/684/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22036: Dirty Harry Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22037" 
+><span title="Image # 22037: Dirty Harry Playfield Underside "><img src="https://www.ipdb.org/images/684/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22037: Dirty Harry Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22038" 
+><span title="Image # 22038: Dirty Harry Cabinet - Inside "><img src="https://www.ipdb.org/images/684/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22038: Dirty Harry Cabinet - Inside "><br>Cabinet - Inside</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22039" 
+><span title="Image # 22039: Dirty Harry Backbox Electronics "><img src="https://www.ipdb.org/images/684/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22039: Dirty Harry Backbox Electronics "><br>Backbox Electronics</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22040" 
+><span title="Image # 22040: Dirty Harry Backbox Light Panel "><img src="https://www.ipdb.org/images/684/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22040: Dirty Harry Backbox Light Panel "><br>Backbox Light Panel</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=22041" 
+><span title="Image # 22041: Dirty Harry Backbox "><img src="https://www.ipdb.org/images/684/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 22041: Dirty Harry Backbox "><br>Backbox</span></a><br><font size="-2">600x665</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=26156" 
+><span title="Image # 26156: Dirty Harry Sample Game Playfield "><img src="https://www.ipdb.org/images/684/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 26156: Dirty Harry Sample Game Playfield "><br>Sample Game Playfield</span></a><br><font size="-2">800x809</font><br>[Larry Scott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=26157" 
+><span title="Image # 26157: Dirty Harry Sample Game Drop Target "><img src="https://www.ipdb.org/images/684/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26157: Dirty Harry Sample Game Drop Target "><br>Sample Game Drop Target</span></a><br><font size="-2">800x600</font><br>[Larry Scott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=26158" 
+><span title="Image # 26158: Dirty Harry Sample Game Drop Target - Detail "><img src="https://www.ipdb.org/images/684/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26158: Dirty Harry Sample Game Drop Target - Detail "><br>Sample Game Drop Target - Detail</span></a><br><font size="-2">640x480</font><br>[Larry Scott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=27667" 
+><span title="Image # 27667: Dirty Harry Sample Game Drop Target - Decal "><img src="https://www.ipdb.org/images/684/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 27667: Dirty Harry Sample Game Drop Target - Decal "><br>Sample Game Drop Target - Decal</span></a><br><font size="-2">500x570</font><br>[Larry Scott]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=29092" 
+><span title="Image # 29092: Dirty Harry Backglass - Illuminated "><img src="https://www.ipdb.org/images/684/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29092: Dirty Harry Backglass - Illuminated "><br>Backglass - Illuminated</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=29093" 
+><span title="Image # 29093: Dirty Harry Instruction Card "><img src="https://www.ipdb.org/images/684/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29093: Dirty Harry Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=42530" 
+><span title="Image # 42530: Dirty Harry Amendment Form 16-10007 "><img src="https://www.ipdb.org/images/684/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 42530: Dirty Harry Amendment Form 16-10007 "><br>Amendment Form 16-10007</span></a><br><font size="-2">1000x767</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=684&amp;picno=50257" 
+><span title="Image # 50257: Dirty Harry Playfield - Ball View "><img src="https://www.ipdb.org/images/684/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50257: Dirty Harry Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Sean Casey]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

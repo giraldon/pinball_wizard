@@ -1,0 +1,219 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Genco 'Seven Up'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Genco Seven Up 7 Up, 7-Up, Seven-Up Flipperless Passive bumpers (19). Replays earned are displayed using lights across the bottom edge of the backglass.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Genco 'Seven Up' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Seven Up</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2103">Seven Up</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2103">2103</a> <I>/ March, 1941 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">5.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2103" target="showrate2103">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2103" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Genco'"><a href="search.pl?searchtype=advanced&amp;mfgid=130">Genco Manufacturing Company, <font size="-1">of Chicago, Illinois, USA</font> (1931-1958)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1941</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2103">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (19). <a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replays</a> earned are displayed using lights across the bottom edge of the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>One game example pictured in this listing shows the two diamonds on its <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> each overlaid with an image of a bomb. This <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> probably came from the <a target="glossary" class="glossarylink" href="/glossary.php#Conversion_Kit">conversion&nbsp;kit</a> <span title="Click here to open a new window and display Victory Games' 1942 'Sink the Japs'"><a target="game3829" href="machine.cgi?id=3829">Victory Games' 1942 'Sink the Japs'</a></span> which used 'Seven Up' as its source game.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has a serial number tag of 9812. The coin door has the same style of serial number tag, number 24665, indicating it came from a different game by the same manufacturer. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>'s serial number was found obliterated and later painted over. <br><br>It was likely an <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a> who reunited this conversion <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> with the original game's <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps, as either a matter of convenience or of necessity, because wartime conversion games became unpopular after the war ended (see "Portland Arcade Play Off 50% in Peacetime.", <u>The Billboard</u>, 4 May 1946: 122).<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Coin Slot, Vol 3 No. 1, Fall 1986, page 30<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=ItnxeyAa1Mo">Example of Play (at YouTube) [09:45]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=1991" 
+><span title="Image # 1991: Seven Up Backglass "><img src="https://www.ipdb.org/images/2103/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 1991: Seven Up Backglass "><br>Backglass</span></a><br><font size="-2">514x496</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=1992" 
+><span title="Image # 1992: Seven Up Playfield "><img src="https://www.ipdb.org/images/2103/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 1992: Seven Up Playfield "><br>Playfield</span></a><br><font size="-2">350x584</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=5629" 
+><span title="Image # 5629: Seven Up Backglass "><img src="https://www.ipdb.org/images/2103/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 5629: Seven Up Backglass "><br>Backglass</span></a><br><font size="-2">446x440</font><br>[Frank Laughlin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=22672" 
+><span title="Image # 22672: Seven Up Backglass "><img src="https://www.ipdb.org/images/2103/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 22672: Seven Up Backglass "><br>Backglass</span></a><br><font size="-2">271x268</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=22673" 
+><span title="Image # 22673: Seven Up Playfield "><img src="https://www.ipdb.org/images/2103/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 22673: Seven Up Playfield "><br>Playfield</span></a><br><font size="-2">382x300</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=22674" 
+><span title="Image # 22674: Seven Up Cabinet - Full View 
+(The coin door is not original to this game.)"><img src="https://www.ipdb.org/images/2103/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 22674: Seven Up Cabinet - Full View 
+(The coin door is not original to this game.)"><br>Cabinet - Full View*</span></a><br><font size="-2">270x294</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=22675" 
+><span title="Image # 22675: Seven Up Cabinet - Front View 
+(The coin door is not original to this game.)"><img src="https://www.ipdb.org/images/2103/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 22675: Seven Up Cabinet - Front View 
+(The coin door is not original to this game.)"><br>Cabinet - Front View*</span></a><br><font size="-2">175x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=32548" 
+><span title="Image # 32548: Seven Up Instructions/Score Card "><img src="https://www.ipdb.org/images/2103/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32548: Seven Up Instructions/Score Card "><br>Instructions/Score Card</span></a><br><font size="-2">820x549</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=32549" 
+><span title="Image # 32549: Seven Up Instructions/Score Card "><img src="https://www.ipdb.org/images/2103/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 32549: Seven Up Instructions/Score Card "><br>Instructions/Score Card</span></a><br><font size="-2">771x521</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=32550" 
+><span title="Image # 32550: Seven Up Instructions/Score Card "><img src="https://www.ipdb.org/images/2103/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 32550: Seven Up Instructions/Score Card "><br>Instructions/Score Card</span></a><br><font size="-2">854x569</font><br>[Mark Ford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=32683" 
+><span title="Image # 32683: Seven Up Cabinet - Front "><img src="https://www.ipdb.org/images/2103/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 32683: Seven Up Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x617</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=32684" 
+><span title="Image # 32684: Seven Up Backbox Insert "><img src="https://www.ipdb.org/images/2103/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 32684: Seven Up Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">726x736</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=32685" 
+><span title="Image # 32685: Seven Up Inside Backbox "><img src="https://www.ipdb.org/images/2103/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 32685: Seven Up Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">890x1162</font><br>[Mark Ford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=33144" 
+><span title="Image # 33144: Seven Up Scorecard "><img src="https://www.ipdb.org/images/2103/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 33144: Seven Up Scorecard "><br>Scorecard</span></a><br><font size="-2">1024x696</font><br>[Frank Laughlin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42380" 
+><span title="Image # 42380: Seven Up Flyer "><img src="https://www.ipdb.org/images/2103/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 42380: Seven Up Flyer "><br>Flyer</span></a><br><font size="-2">1200x1650</font><br>[Mike Pacak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42381" 
+><span title="Image # 42381: Seven Up Illuminated Backglass "><img src="https://www.ipdb.org/images/2103/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 42381: Seven Up Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">962x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42382" 
+><span title="Image # 42382: Seven Up Illuminated Playfield 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><img src="https://www.ipdb.org/images/2103/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42382: Seven Up Illuminated Playfield 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42383" 
+><span title="Image # 42383: Seven Up Illuminated Playfield without Glass 
+(This wartime game had 'bomb' images placed over the original diamond designs. )"><img src="https://www.ipdb.org/images/2103/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42383: Seven Up Illuminated Playfield without Glass 
+(This wartime game had 'bomb' images placed over the original diamond designs. )"><br>Illuminated Playfield without Glass*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42384" 
+><span title="Image # 42384: Seven Up Illuminated Playfield with Glass 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><img src="https://www.ipdb.org/images/2103/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42384: Seven Up Illuminated Playfield with Glass 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><br>Illuminated Playfield with Glass*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42385" 
+><span title="Image # 42385: Seven Up Illuminated Playfield 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><img src="https://www.ipdb.org/images/2103/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42385: Seven Up Illuminated Playfield 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42386" 
+><span title="Image # 42386: Seven Up Lower Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><img src="https://www.ipdb.org/images/2103/tn_image-B14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42386: Seven Up Lower Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><br>Lower Diamond with Bomb Overlay*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42387" 
+><span title="Image # 42387: Seven Up Lower Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><img src="https://www.ipdb.org/images/2103/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42387: Seven Up Lower Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><br>Lower Diamond with Bomb Overlay*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42388" 
+><span title="Image # 42388: Seven Up Upper Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><img src="https://www.ipdb.org/images/2103/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42388: Seven Up Upper Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs.)"><br>Upper Diamond with Bomb Overlay*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42389" 
+><span title="Image # 42389: Seven Up Upper Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs. )"><img src="https://www.ipdb.org/images/2103/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42389: Seven Up Upper Diamond with Bomb Overlay 
+(This wartime game had 'bomb' images placed over the original diamond designs. )"><br>Upper Diamond with Bomb Overlay*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42390" 
+><span title="Image # 42390: Seven Up Playfield Serial Number Tag 
+(This tag was affixed to the underside of the playfield. Serial number 9812.)"><img src="https://www.ipdb.org/images/2103/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42390: Seven Up Playfield Serial Number Tag 
+(This tag was affixed to the underside of the playfield. Serial number 9812.)"><br>Playfield Serial Number Tag*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42391" 
+><span title="Image # 42391: Seven Up Inside Coin Door 
+(Serial number 24665.)"><img src="https://www.ipdb.org/images/2103/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42391: Seven Up Inside Coin Door 
+(Serial number 24665.)"><br>Inside Coin Door*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=42392" 
+><span title="Image # 42392: Seven Up Coin Door Serial Number Tag 
+(This tag is located on the inside of the coin door. Serial number 24665.)"><img src="https://www.ipdb.org/images/2103/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42392: Seven Up Coin Door Serial Number Tag 
+(This tag is located on the inside of the coin door. Serial number 24665.)"><br>Coin Door Serial Number Tag*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=44782" 
+><span title="Image # 44782: Seven Up Under Upper Playfield 
+(The selenium rectifier on this game, like most Genco games, was dead so the modification on the transformer in this image is a bypass to a standard silicon bridge rectifier. This is needed to get power to the game.)"><img src="https://www.ipdb.org/images/2103/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 44782: Seven Up Under Upper Playfield 
+(The selenium rectifier on this game, like most Genco games, was dead so the modification on the transformer in this image is a bypass to a standard silicon bridge rectifier. This is needed to get power to the game.)"><br>Under Upper Playfield*</span></a><br><font size="-2">936x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=44783" 
+><span title="Image # 44783: Seven Up Under Lower Playfield "><img src="https://www.ipdb.org/images/2103/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 44783: Seven Up Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">994x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=53212" 
+><span title="Image # 53212: Seven Up Backbox - Right "><img src="https://www.ipdb.org/images/2103/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=42 height=100 alt="Image # 53212: Seven Up Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">493x1165</font><br>[Sean Kavanagh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2103&amp;picno=53213" 
+><span title="Image # 53213: Seven Up Cabinet - Right "><img src="https://www.ipdb.org/images/2103/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 53213: Seven Up Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1114x498</font><br>[Sean Kavanagh]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Riverboat Gambler'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Riverboat Gambler Mechanical Backbox Animation Flippers (2), Pop bumpers (3), 4-bank drop target, 3-bank drop target. Buttons on lockdown bar are used to bet on roulette wheel animation in backglass.  Linda Deal (aka Doane) Pat McMahon Ward Pemberton Paul Heitsch Dan Forden Mark Ritchie Dwight Sullivan Paul Heitsch ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Riverboat Gambler' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Riverboat Gambler</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1966">Riverboat Gambler</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1966">1966</a> <I>/ November, 1990 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1966" target="showrate1966"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1966" target="showrate1966">32 ratings/22 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1966" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1990</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50007</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>RG</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=9">Williams System 11C</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,200 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1966">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Gambling</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a>, 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a>. Buttons on <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> are used to bet on <a target="glossary" class="glossarylink" href="/glossary.php#Roulette_Wheel">roulette&nbsp;wheel</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> in <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ward&nbsp;Pemberton' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ward%20Pemberton">Ward&nbsp;Pemberton</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Linda&nbsp;Deal&nbsp;(aka&nbsp;Doane)' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Linda%20Deal%20%28aka%20Doane%29">Linda&nbsp;Deal&nbsp;(aka&nbsp;Doane)</a></span>, <span title="Click here to perform a search for all pinball games that 'Pat&nbsp;McMahon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pat%20McMahon">Pat&nbsp;McMahon</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span>, <span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span>, <span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Ritchie">Mark&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dwight&nbsp;Sullivan' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dwight%20Sullivan">Dwight&nbsp;Sullivan</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Mark Ritchie reportedly sings the song that plays during the game.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Come on Board for Profits!"<br>
+"A Sure Bet Winner!"<br>
+"Don't Miss the Boat!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Atlanta Journal & Atlanta Constitution November 26, 1995, pp. G4:1.<br>
+Chicago Tribune August 8, 1993, pp. Sect. 13, p. 4:2,5:1,29:1. pp. (Flyer)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a> pp. 118<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1966/RGAMBLE.HTM" target="rulesheet">Riverboat Gambler Rulesheet Version 1.53, by Scott Peihler</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/1966/RGAMBLER.TXT" target="rulesheet">Riverboat Gambler Quick Tips, by Scott Piehler</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/1966/RGAMBQT.TXT" target="rulesheet">Riverboat Gambler Quick Take (Jan/23/1998), by Scott Piehler</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1966">http://www.pinballowners.com/owners/1966</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#1966">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 239 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/Williams_1990_Riverboat_Gambler_Game_ROM_L_3.zip" >Game ROM L-3</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 236 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/rvrbt_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 107 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/Williams_1990_Riverboat_Gambler_Amendment_Operator_Handbook.pdf" onClick="return purchasemanual();">Amendment to Operators Handbook</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/Williams_1990_Riverboat_Gambler_Benutzer_Handbuch.pdf" onClick="return purchasemanual();">German Operator Handbook (Bedienungsanleitung)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 526 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/Williams_1990_Riverboat_Gambler_Operator_Handbook.pdf" onClick="return purchasemanual();">Operator Handbook</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 175 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/Williams_1990_Riverboat_Gambler_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1966/Williams_1990_Riverboat_Gambler_Reproduction_Score_And_Instruction_Cards.zip" >Reproduction Score And Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=4535" 
+><span title="Image # 4535: Riverboat Gambler Flyer, Front "><img src="https://www.ipdb.org/images/1966/tn_1966f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4535: Riverboat Gambler Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=4536" 
+><span title="Image # 4536: Riverboat Gambler Flyer, Back "><img src="https://www.ipdb.org/images/1966/tn_1966f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4536: Riverboat Gambler Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14860" 
+><span title="Image # 14860: Riverboat Gambler Backglass "><img src="https://www.ipdb.org/images/1966/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 14860: Riverboat Gambler Backglass "><br>Backglass</span></a><br><font size="-2">879x827</font><br>[David Kaszuba]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14861" 
+><span title="Image # 14861: Riverboat Gambler Backglass "><img src="https://www.ipdb.org/images/1966/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 14861: Riverboat Gambler Backglass "><br>Backglass</span></a><br><font size="-2">833x895</font><br>[David Kaszuba]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14862" 
+><span title="Image # 14862: Riverboat Gambler Backglass - Illuminated "><img src="https://www.ipdb.org/images/1966/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 14862: Riverboat Gambler Backglass - Illuminated "><br>Backglass - Illuminated</span></a><br><font size="-2">913x809</font><br>[David Kaszuba]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14863" 
+><span title="Image # 14863: Riverboat Gambler Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 14863: Riverboat Gambler Playfield "><br>Playfield</span></a><br><font size="-2">960x1280</font><br>[David Kaszuba]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14864" 
+><span title="Image # 14864: Riverboat Gambler Upper Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 14864: Riverboat Gambler Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x790</font><br>[David Kaszuba]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14865" 
+><span title="Image # 14865: Riverboat Gambler Lower Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 14865: Riverboat Gambler Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1019x953</font><br>[David Kaszuba]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14866" 
+><span title="Image # 14866: Riverboat Gambler Backbox - Left "><img src="https://www.ipdb.org/images/1966/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=39 height=100 alt="Image # 14866: Riverboat Gambler Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">417x1077</font><br>[David Kaszuba]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=14867" 
+><span title="Image # 14867: Riverboat Gambler Front View "><img src="https://www.ipdb.org/images/1966/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 14867: Riverboat Gambler Front View "><br>Front View</span></a><br><font size="-2">657x1195</font><br>[David Kaszuba]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=18626" 
+><span title="Image # 18626: Riverboat Gambler Production Translite "><img src="https://www.ipdb.org/images/1966/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 18626: Riverboat Gambler Production Translite "><br>Production Translite</span></a><br><font size="-2">611x427</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=18627" 
+><span title="Image # 18627: Riverboat Gambler Duratrans Prototype "><img src="https://www.ipdb.org/images/1966/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 18627: Riverboat Gambler Duratrans Prototype "><br>Duratrans Prototype</span></a><br><font size="-2">513x382</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=18628" 
+><span title="Image # 18628: Riverboat Gambler Duratrans Prototype "><img src="https://www.ipdb.org/images/1966/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 18628: Riverboat Gambler Duratrans Prototype "><br>Duratrans Prototype</span></a><br><font size="-2">464x635</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=18629" 
+><span title="Image # 18629: Riverboat Gambler Duratrans Prototype "><img src="https://www.ipdb.org/images/1966/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18629: Riverboat Gambler Duratrans Prototype "><br>Duratrans Prototype</span></a><br><font size="-2">640x480</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19490" 
+><span title="Image # 19490: Riverboat Gambler Lower Backglass "><img src="https://www.ipdb.org/images/1966/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 19490: Riverboat Gambler Lower Backglass "><br>Lower Backglass</span></a><br><font size="-2">360x278</font><br>[Bob Graham]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19491" 
+><span title="Image # 19491: Riverboat Gambler Backglass "><img src="https://www.ipdb.org/images/1966/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 19491: Riverboat Gambler Backglass "><br>Backglass</span></a><br><font size="-2">360x312</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19492" 
+><span title="Image # 19492: Riverboat Gambler Machine "><img src="https://www.ipdb.org/images/1966/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 19492: Riverboat Gambler Machine "><br>Machine</span></a><br><font size="-2">265x360</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19493" 
+><span title="Image # 19493: Riverboat Gambler Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 19493: Riverboat Gambler Playfield "><br>Playfield</span></a><br><font size="-2">303x360</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19494" 
+><span title="Image # 19494: Riverboat Gambler Upper Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19494: Riverboat Gambler Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">360x270</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19495" 
+><span title="Image # 19495: Riverboat Gambler Middle Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19495: Riverboat Gambler Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">360x270</font><br>[Bob Graham]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=19496" 
+><span title="Image # 19496: Riverboat Gambler Lower Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 19496: Riverboat Gambler Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">360x242</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=44953" 
+><span title="Image # 44953: Riverboat Gambler German Flyer "><img src="https://www.ipdb.org/images/1966/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 44953: Riverboat Gambler German Flyer "><br>German Flyer</span></a><br><font size="-2">417x579</font><br>[Bernard Marrou]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=46262" 
+><span title="Image # 46262: Riverboat Gambler Original Backglass Art 
+(Artist is Pat McMahon. Colored pencils on paper. Length and width unavailable.)"><img src="https://www.ipdb.org/images/1966/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 46262: Riverboat Gambler Original Backglass Art 
+(Artist is Pat McMahon. Colored pencils on paper. Length and width unavailable.)"><br>Original Backglass Art*</span></a><br><font size="-2">585x408</font><br>[Harold Balde]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=56707" 
+><span title="Image # 56707: Riverboat Gambler Backglass and Lower Panel "><img src="https://www.ipdb.org/images/1966/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 56707: Riverboat Gambler Backglass and Lower Panel "><br>Backglass and Lower Panel</span></a><br><font size="-2">1024x998</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=56708" 
+><span title="Image # 56708: Riverboat Gambler Backbox - Right "><img src="https://www.ipdb.org/images/1966/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=37 height=100 alt="Image # 56708: Riverboat Gambler Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">598x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=56709" 
+><span title="Image # 56709: Riverboat Gambler Cabinet - Right "><img src="https://www.ipdb.org/images/1966/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 56709: Riverboat Gambler Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x471</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=56710" 
+><span title="Image # 56710: Riverboat Gambler Cabinet - Front 
+(The holes on each side of the coin door had held the bolts for a security bar.)"><img src="https://www.ipdb.org/images/1966/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 56710: Riverboat Gambler Cabinet - Front 
+(The holes on each side of the coin door had held the bolts for a security bar.)"><br>Cabinet - Front*</span></a><br><font size="-2">1024x752</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=58948" 
+><span title="Image # 58948: Riverboat Gambler Illuminated Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58948: Riverboat Gambler Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Alexander Moebius]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=58949" 
+><span title="Image # 58949: Riverboat Gambler Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58949: Riverboat Gambler Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Alexander Moebius]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=58950" 
+><span title="Image # 58950: Riverboat Gambler Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/1966/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58950: Riverboat Gambler Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1200x1600</font><br>[Alexander Moebius]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=58951" 
+><span title="Image # 58951: Riverboat Gambler Apron and Lockdown Bar "><img src="https://www.ipdb.org/images/1966/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58951: Riverboat Gambler Apron and Lockdown Bar "><br>Apron and Lockdown Bar</span></a><br><font size="-2">1200x900</font><br>[Alexander Moebius]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=61588" 
+><span title="Image # 61588: Riverboat Gambler Artist Signature on Backglass "><img src="https://www.ipdb.org/images/1966/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 61588: Riverboat Gambler Artist Signature on Backglass "><br>Artist Signature on Backglass</span></a><br><font size="-2">1200x791</font><br>[Marco Rossignoli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=63806" 
+><span title="Image # 63806: Riverboat Gambler Backglass "><img src="https://www.ipdb.org/images/1966/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 63806: Riverboat Gambler Backglass "><br>Backglass</span></a><br><font size="-2">1200x834</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=63807" 
+><span title="Image # 63807: Riverboat Gambler Apron and Lockdown Bar "><img src="https://www.ipdb.org/images/1966/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=49 alt="Image # 63807: Riverboat Gambler Apron and Lockdown Bar "><br>Apron and Lockdown Bar</span></a><br><font size="-2">1200x587</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=63808" 
+><span title="Image # 63808: Riverboat Gambler Cabinet - Front View "><img src="https://www.ipdb.org/images/1966/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 63808: Riverboat Gambler Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">779x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=70376" 
+><span title="Image # 70376: Riverboat Gambler Factory Sample Ramp - Front 
+(This is a pre-production part and may not fit production games. Part number 03-8451.)"><img src="https://www.ipdb.org/images/1966/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 70376: Riverboat Gambler Factory Sample Ramp - Front 
+(This is a pre-production part and may not fit production games. Part number 03-8451.)"><br>Factory Sample Ramp - Front*</span></a><br><font size="-2">1200x1025</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=70377" 
+><span title="Image # 70377: Riverboat Gambler Factory Sample Ramp - Detail 
+(This is a pre-production part and may not fit production games. Part number 03-8451.)"><img src="https://www.ipdb.org/images/1966/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 70377: Riverboat Gambler Factory Sample Ramp - Detail 
+(This is a pre-production part and may not fit production games. Part number 03-8451.)"><br>Factory Sample Ramp - Detail*</span></a><br><font size="-2">1200x900</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=70378" 
+><span title="Image # 70378: Riverboat Gambler Factory Sample Ramp - Detail 
+(The ramp flap has broken off. This is a pre-production part and may not fit production games. Part number 03-8451.)"><img src="https://www.ipdb.org/images/1966/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 70378: Riverboat Gambler Factory Sample Ramp - Detail 
+(The ramp flap has broken off. This is a pre-production part and may not fit production games. Part number 03-8451.)"><br>Factory Sample Ramp - Detail*</span></a><br><font size="-2">1037x1200</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1966&amp;picno=70379" 
+><span title="Image # 70379: Riverboat Gambler Factory Sample Ramp - Back 
+(This is a pre-production part and may not fit production games. Part number 03-8451.)"><img src="https://www.ipdb.org/images/1966/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 70379: Riverboat Gambler Factory Sample Ramp - Back 
+(This is a pre-production part and may not fit production games. Part number 03-8451.)"><br>Factory Sample Ramp - Back*</span></a><br><font size="-2">1200x1078</font><br>[James Loflin]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

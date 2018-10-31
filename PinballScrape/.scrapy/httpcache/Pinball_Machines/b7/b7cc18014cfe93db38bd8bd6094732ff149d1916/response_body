@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Hurricane'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Hurricane Mechanical Backbox Animation Flippers (2), Pop bumpers (3), Standup targets (4), Ramps (2), 3-bank drop targets (1), 3-ball Multiball, Topper, The Juggler (a ball popper arch), Rotating Ferris wheels (2). Mechanical backbox animation (spinning disc).  John Youssi Python Anghelo Barry Oursler Gerald Hedberg Paul Heitsch Mark Penacho Paul Heitsch ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Hurricane' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Hurricane</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1257">Hurricane</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1257">1257</a> <I>/ August, 1991 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1257" target="showrate1257"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.5</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1257" target="showrate1257">82 ratings/60 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1257" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50012</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=27">Williams WPC (Dot Matrix)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1257">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Happiness - Circus/Carnival</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>, Topper, The Juggler (a ball popper arch), Rotating Ferris wheels (2). <a target="glossary" class="glossarylink" href="/glossary.php#Mechanical_Backbox_Animation">Mechanical&nbsp;backbox&nbsp;animation</a> (spinning disc).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span>, <span title="Click here to perform a search for all pinball games that 'Python&nbsp;Anghelo' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Python%20Anghelo">Python&nbsp;Anghelo</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gerald&nbsp;Hedberg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gerald%20Hedberg">Gerald&nbsp;Hedberg</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Heitsch' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Heitsch">Paul&nbsp;Heitsch</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Penacho' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Penacho">Mark&nbsp;Penacho</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>John Youssi's signature is on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and Python Anghelo's signature is on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>The Ferris wheels on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> each carry the ball for a portion of its rotation. This feature appeared earlier on <span title="Click here to open a new window and display Williams' 1988 'Cyclone'"><a target="game617" href="machine.cgi?id=617">Williams' 1988 'Cyclone'</a></span>. The idea appears even earlier on <span title="Click here to open a new window and display Allied Amusement's 1935 'Barrel Roll'"><a target="game179" href="machine.cgi?id=179">Allied Amusement's 1935 'Barrel Roll'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Hang on to your hat... with rides and games and a whole playfield of carnival attractions, Williams really takes you on a wild ride!"<br>
+"Hurricane Is Blowing into Town!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1257/hurrican.htm" target="rulesheet">Hurricane Guide Version 1.2.1 (Jun/10/1995), by Keefer</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?hurricane">http://pinball.jameswest.com/ownerslists/ownerslist.php?hurricane</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#1257">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 192 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Williams_1991_Hurricane_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 482 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/hurr_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 342 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Williams_1991_Hurricane_Sound_ROMs.zip" >Sound ROMs</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Williams_1991_Hurricane_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 259 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Williams_1991_Hurricane_Operators_Handbook.pdf" onClick="return purchasemanual();">Operators Handbook</a></td><td> [Williams Electronic Games]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 166 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Williams_1991_Hurricane_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 5 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Williams_1991_Hurricane_Service_Bulletin_37.pdf" >Service Bulletin #37</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 699 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1257/Hurricane_Backbox_Lamp_Locations.pdf" >Backbox Lamp Locations and Wiring</a></td><td> [Jeff Sucidlo]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=4506" 
+><span title="Image # 4506: Hurricane Flyer, Front "><img src="https://www.ipdb.org/images/1257/tn_1257f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4506: Hurricane Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=4507" 
+><span title="Image # 4507: Hurricane Flyer, Back "><img src="https://www.ipdb.org/images/1257/tn_1257f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4507: Hurricane Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=7191" 
+><span title="Image # 7191: Hurricane Translite "><img src="https://www.ipdb.org/images/1257/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 7191: Hurricane Translite "><br>Translite</span></a><br><font size="-2">453x465</font><br>[Mike Messersmith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=7192" 
+><span title="Image # 7192: Hurricane Full Machine "><img src="https://www.ipdb.org/images/1257/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 7192: Hurricane Full Machine "><br>Full Machine</span></a><br><font size="-2">255x629</font><br>[Mike Messersmith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=7193" 
+><span title="Image # 7193: Hurricane Playfield "><img src="https://www.ipdb.org/images/1257/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 7193: Hurricane Playfield "><br>Playfield</span></a><br><font size="-2">450x586</font><br>[Mike Messersmith]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=15424" 
+><span title="Image # 15424: Hurricane Cabinet "><img src="https://www.ipdb.org/images/1257/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 15424: Hurricane Cabinet "><br>Cabinet</span></a><br><font size="-2">505x675</font><br>[HighwayGames]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=21792" 
+><span title="Image # 21792: Hurricane Upper Playfield "><img src="https://www.ipdb.org/images/1257/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 21792: Hurricane Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=21793" 
+><span title="Image # 21793: Hurricane Playfield "><img src="https://www.ipdb.org/images/1257/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 21793: Hurricane Playfield "><br>Playfield</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=21794" 
+><span title="Image # 21794: Hurricane Cabinet - Left "><img src="https://www.ipdb.org/images/1257/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 21794: Hurricane Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x567</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=21795" 
+><span title="Image # 21795: Hurricane Cabinet - Right "><img src="https://www.ipdb.org/images/1257/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 21795: Hurricane Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=21796" 
+><span title="Image # 21796: Hurricane Backbox - Left "><img src="https://www.ipdb.org/images/1257/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 21796: Hurricane Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">520x720</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=21797" 
+><span title="Image # 21797: Hurricane Front "><img src="https://www.ipdb.org/images/1257/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 21797: Hurricane Front "><br>Front</span></a><br><font size="-2">940x720</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=26280" 
+><span title="Image # 26280: Hurricane Under Playfield "><img src="https://www.ipdb.org/images/1257/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26280: Hurricane Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=26281" 
+><span title="Image # 26281: Hurricane Behind Backglass "><img src="https://www.ipdb.org/images/1257/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26281: Hurricane Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=26282" 
+><span title="Image # 26282: Hurricane Inside Backbox "><img src="https://www.ipdb.org/images/1257/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26282: Hurricane Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=42047" 
+><span title="Image # 42047: Hurricane Behind Backglass 
+(The backglass, the round rotating translite, and the topper cover have all been removed to show bulb locations.)"><img src="https://www.ipdb.org/images/1257/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42047: Hurricane Behind Backglass 
+(The backglass, the round rotating translite, and the topper cover have all been removed to show bulb locations.)"><br>Behind Backglass*</span></a><br><font size="-2">1200x1600</font><br>[Jeff Sucidlo]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=46219" 
+><span title="Image # 46219: Hurricane Backglass - Artist Signature "><img src="https://www.ipdb.org/images/1257/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 46219: Hurricane Backglass - Artist Signature "><br>Backglass - Artist Signature</span></a><br><font size="-2">1024x576</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=46220" 
+><span title="Image # 46220: Hurricane Playfield - Artist Signature "><img src="https://www.ipdb.org/images/1257/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 46220: Hurricane Playfield - Artist Signature "><br>Playfield - Artist Signature</span></a><br><font size="-2">1024x576</font><br>[Jasper van Eeden]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=50293" 
+><span title="Image # 50293: Hurricane Playfield - Ball View "><img src="https://www.ipdb.org/images/1257/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50293: Hurricane Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=50294" 
+><span title="Image # 50294: Hurricane Cabinet - Left "><img src="https://www.ipdb.org/images/1257/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 50294: Hurricane Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">954x900</font><br>[Sean Casey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=50295" 
+><span title="Image # 50295: Hurricane Cabinet - Right "><img src="https://www.ipdb.org/images/1257/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 50295: Hurricane Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">772x900</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=60189" 
+><span title="Image # 60189: Hurricane Blank Playfield "><img src="https://www.ipdb.org/images/1257/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 60189: Hurricane Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1022x2500</font><br>[Hansjoerg Reiter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=60190" 
+><span title="Image # 60190: Hurricane Ferris Wheels Mechanism "><img src="https://www.ipdb.org/images/1257/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 60190: Hurricane Ferris Wheels Mechanism "><br>Ferris Wheels Mechanism</span></a><br><font size="-2">1200x910</font><br>[Hansjoerg Reiter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=60191" 
+><span title="Image # 60191: Hurricane The Juggler "><img src="https://www.ipdb.org/images/1257/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 60191: Hurricane The Juggler "><br>The Juggler</span></a><br><font size="-2">1200x940</font><br>[Hansjoerg Reiter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1257&amp;picno=69353" 
+><span title="Image # 69353: Hurricane Topper "><img src="https://www.ipdb.org/images/1257/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=33 alt="Image # 69353: Hurricane Topper "><br>Topper</span></a><br><font size="-2">448x150</font><br>[Timmy Vierboom]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

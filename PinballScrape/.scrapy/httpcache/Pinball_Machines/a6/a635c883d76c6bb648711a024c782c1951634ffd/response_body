@@ -1,0 +1,292 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Happy Clown'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Happy Clown Mechanical Backbox Animation Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (7), Kick-out holes (2), Projection roto unit under playfield, Stationary post between flippers, Backbox animation (illuminated clown face bounces up and down whenever 1-point values are scored).
+
+Maximum displayed point score is 1,999 points per player.
+
+Replay wheel maximum: 26
+
+Sound: 3 bells, knocker.  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Happy Clown' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Happy Clown</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1114">Happy Clown</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1114">1114</a> <I>/ November, 1964 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1114" target="showrate1114"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1114" target="showrate1114">49 ratings/27 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1114" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1964</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>214</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,235 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1114">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Happiness - Circus/Carnival</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (7), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), Projection roto unit under <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, Stationary post between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (illuminated clown face bounces up and down whenever 1-point values are scored).<br><br>Maximum displayed point score is 1,999 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 26<br><br>Sound: 3 bells, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Gottlieb documentation unusually shows two production runs for this game:<br>November 1964 for a quantity of 2,825 games.<br>February 1965 for a quantity of 410 games.<br><br>The game in the manufacturer's flyer shows a ball shooter with a plastic beehive escutcheon. Machines from later in production reportedly had the beehive replaced with the newer full metal <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plunger</a> housing (flat, not beehive) and a heavier duty ball lift. The two production run quantities may coincide with this change of shooter escutcheon. There may be other differences between the two runs of which we are not aware. Happy Clown appears to be the last Gottlieb <a target="glossary" class="glossarylink" href="/glossary.php#Pin_Game">pin&nbsp;game</a> produced with the beehive escutcheon.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/Tilt-The-Pinball-Book-Communications/dp/0916870146/ref=sr_1_1?ie=UTF8&qid=1395981626&sr=8-1&keywords=Tilt+The+Pinball+Book" target="booksourcelink">Tilt The Pinball Book</a>, page 102<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 72<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 207<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1114">http://www.pinballowners.com/owners/1114</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=1083" 
+><span title="Image # 1083: Happy Clown Backglass "><img src="https://www.ipdb.org/images/1114/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 1083: Happy Clown Backglass "><br>Backglass</span></a><br><font size="-2">466x434</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=1086" 
+><span title="Image # 1086: Happy Clown Playfield "><img src="https://www.ipdb.org/images/1114/tn_Playfield2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 1086: Happy Clown Playfield "><br>Playfield</span></a><br><font size="-2">482x714</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=4657" 
+><span title="Image # 4657: Happy Clown Flyer "><img src="https://www.ipdb.org/images/1114/tn_1114f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4657: Happy Clown Flyer "><br>Flyer</span></a><br><font size="-2">607x792</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=10875" 
+><span title="Image # 10875: Happy Clown Backglass "><img src="https://www.ipdb.org/images/1114/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 10875: Happy Clown Backglass "><br>Backglass</span></a><br><font size="-2">400x363</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=16306" 
+><span title="Image # 16306: Happy Clown Backglass Animation "><img src="https://www.ipdb.org/images/1114/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16306: Happy Clown Backglass Animation "><br>Backglass Animation</span></a><br><font size="-2">480x360</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=16307" 
+><span title="Image # 16307: Happy Clown Upper Playfield "><img src="https://www.ipdb.org/images/1114/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16307: Happy Clown Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">512x384</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=16308" 
+><span title="Image # 16308: Happy Clown Middle Playfield "><img src="https://www.ipdb.org/images/1114/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16308: Happy Clown Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">480x360</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=16309" 
+><span title="Image # 16309: Happy Clown Lower Playfield "><img src="https://www.ipdb.org/images/1114/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 16309: Happy Clown Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">446x358</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=18095" 
+><span title="Image # 18095: Happy Clown Metal Ball Shooter Escutcheon "><img src="https://www.ipdb.org/images/1114/tn_image-A.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18095: Happy Clown Metal Ball Shooter Escutcheon "><br>Metal Ball Shooter Escutcheon</span></a><br><font size="-2">857x643</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=18591" 
+><span title="Image # 18591: Happy Clown Playfield 
+(The green center targets are not original to this game.)"><img src="https://www.ipdb.org/images/1114/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18591: Happy Clown Playfield 
+(The green center targets are not original to this game.)"><br>Playfield*</span></a><br><font size="-2">960x1280</font><br>[Bradley Joe Cunningham]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=18592" 
+><span title="Image # 18592: Happy Clown Upper Playfield 
+(The green center targets are not original to this game.)"><img src="https://www.ipdb.org/images/1114/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18592: Happy Clown Upper Playfield 
+(The green center targets are not original to this game.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>[Bradley Joe Cunningham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=18593" 
+><span title="Image # 18593: Happy Clown Lower Playfield 
+(The green center targets are not original to this game.)"><img src="https://www.ipdb.org/images/1114/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18593: Happy Clown Lower Playfield 
+(The green center targets are not original to this game.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Bradley Joe Cunningham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=18594" 
+><span title="Image # 18594: Happy Clown Cabinet - Left "><img src="https://www.ipdb.org/images/1114/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 18594: Happy Clown Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x917</font><br>[Bradley Joe Cunningham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21132" 
+><span title="Image # 21132: Happy Clown Backglass Animation "><img src="https://www.ipdb.org/images/1114/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21132: Happy Clown Backglass Animation "><br>Backglass Animation</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21133" 
+><span title="Image # 21133: Happy Clown Playboard Autoclamp "><img src="https://www.ipdb.org/images/1114/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21133: Happy Clown Playboard Autoclamp "><br>Playboard Autoclamp</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21134" 
+><span title="Image # 21134: Happy Clown Ball Lift "><img src="https://www.ipdb.org/images/1114/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21134: Happy Clown Ball Lift "><br>Ball Lift</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21135" 
+><span title="Image # 21135: Happy Clown Backglass - Detail "><img src="https://www.ipdb.org/images/1114/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21135: Happy Clown Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">600x800</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21136" 
+><span title="Image # 21136: Happy Clown Playfield Projection Roto-unit "><img src="https://www.ipdb.org/images/1114/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21136: Happy Clown Playfield Projection Roto-unit "><br>Playfield Projection Roto-unit</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21137" 
+><span title="Image # 21137: Happy Clown Clown Target "><img src="https://www.ipdb.org/images/1114/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21137: Happy Clown Clown Target "><br>Clown Target</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21138" 
+><span title="Image # 21138: Happy Clown Flipper Area "><img src="https://www.ipdb.org/images/1114/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21138: Happy Clown Flipper Area "><br>Flipper Area</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21143" 
+><span title="Image # 21143: Happy Clown Under Playfield "><img src="https://www.ipdb.org/images/1114/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21143: Happy Clown Under Playfield "><br>Under Playfield</span></a><br><font size="-2">600x800</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21146" 
+><span title="Image # 21146: Happy Clown Playfield - Detail "><img src="https://www.ipdb.org/images/1114/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 21146: Happy Clown Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">600x800</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21147" 
+><span title="Image # 21147: Happy Clown Underside Projection Roto-unit "><img src="https://www.ipdb.org/images/1114/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21147: Happy Clown Underside Projection Roto-unit "><br>Underside Projection Roto-unit</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21148" 
+><span title="Image # 21148: Happy Clown Serial-Number 
+(Owner states this is serial number 07390.)"><img src="https://www.ipdb.org/images/1114/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21148: Happy Clown Serial-Number 
+(Owner states this is serial number 07390.)"><br>Serial-Number*</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=21149" 
+><span title="Image # 21149: Happy Clown Tilt-And Fuse-Board "><img src="https://www.ipdb.org/images/1114/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21149: Happy Clown Tilt-And Fuse-Board "><br>Tilt-And Fuse-Board</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=22106" 
+><span title="Image # 22106: Happy Clown Backbox Animation From Behind 
+(This game was exported to Germany with serial number 07390.)"><img src="https://www.ipdb.org/images/1114/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22106: Happy Clown Backbox Animation From Behind 
+(This game was exported to Germany with serial number 07390.)"><br>Backbox Animation From Behind*</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=22107" 
+><span title="Image # 22107: Happy Clown Plexiglas Backglass - Reverse 
+(This game was exported to Germany with serial number 07390.)"><img src="https://www.ipdb.org/images/1114/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22107: Happy Clown Plexiglas Backglass - Reverse 
+(This game was exported to Germany with serial number 07390.)"><br>Plexiglas Backglass - Reverse*</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=22108" 
+><span title="Image # 22108: Happy Clown Scoreboard In Service Position 
+(This game was exported to Germany with serial number 07390.)"><img src="https://www.ipdb.org/images/1114/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22108: Happy Clown Scoreboard In Service Position 
+(This game was exported to Germany with serial number 07390.)"><br>Scoreboard In Service Position*</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=22109" 
+><span title="Image # 22109: Happy Clown Backbox Animation - Detail "><img src="https://www.ipdb.org/images/1114/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22109: Happy Clown Backbox Animation - Detail "><br>Backbox Animation - Detail</span></a><br><font size="-2">600x800</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24096" 
+><span title="Image # 24096: Happy Clown Backglass "><img src="https://www.ipdb.org/images/1114/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24096: Happy Clown Backglass "><br>Backglass</span></a><br><font size="-2">795x600</font><br>[Terry Callies]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24097" 
+><span title="Image # 24097: Happy Clown Playfield "><img src="https://www.ipdb.org/images/1114/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 24097: Happy Clown Playfield "><br>Playfield</span></a><br><font size="-2">600x961</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24098" 
+><span title="Image # 24098: Happy Clown Under Playfield "><img src="https://www.ipdb.org/images/1114/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 24098: Happy Clown Under Playfield "><br>Under Playfield</span></a><br><font size="-2">335x600</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24099" 
+><span title="Image # 24099: Happy Clown Inside Cabinet "><img src="https://www.ipdb.org/images/1114/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 24099: Happy Clown Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">430x600</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24100" 
+><span title="Image # 24100: Happy Clown Inside Backbox "><img src="https://www.ipdb.org/images/1114/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 24100: Happy Clown Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">900x600</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24101" 
+><span title="Image # 24101: Happy Clown Cabinet - Left "><img src="https://www.ipdb.org/images/1114/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 24101: Happy Clown Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">594x600</font><br>[Terry Callies]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24102" 
+><span title="Image # 24102: Happy Clown Cabinet - Right "><img src="https://www.ipdb.org/images/1114/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 24102: Happy Clown Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">695x600</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24103" 
+><span title="Image # 24103: Happy Clown Cabinet - Front View "><img src="https://www.ipdb.org/images/1114/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 24103: Happy Clown Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">365x600</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=24104" 
+><span title="Image # 24104: Happy Clown Inside Coin Door "><img src="https://www.ipdb.org/images/1114/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 24104: Happy Clown Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">872x600</font><br>[Terry Callies]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=25690" 
+><span title="Image # 25690: Happy Clown Illuminated Projection Roto-Unit "><img src="https://www.ipdb.org/images/1114/tn_image-A39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25690: Happy Clown Illuminated Projection Roto-Unit "><br>Illuminated Projection Roto-Unit</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=25691" 
+><span title="Image # 25691: Happy Clown Illuminated Backglass "><img src="https://www.ipdb.org/images/1114/tn_image-A40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25691: Happy Clown Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">800x600</font><br>[Christian Jacobs]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=30366" 
+><span title="Image # 30366: Happy Clown Backglass - Detail "><img src="https://www.ipdb.org/images/1114/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30366: Happy Clown Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=40349" 
+><span title="Image # 40349: Happy Clown Sample Game - Upper Left Target 
+(Serial number 01045 S.)"><img src="https://www.ipdb.org/images/1114/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 40349: Happy Clown Sample Game - Upper Left Target 
+(Serial number 01045 S.)"><br>Sample Game - Upper Left Target*</span></a><br><font size="-2">1024x680</font><br>[Tony Mather]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=40350" 
+><span title="Image # 40350: Happy Clown Sample Game - Upper Right Target 
+(Serial number 01045 S.)"><img src="https://www.ipdb.org/images/1114/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 40350: Happy Clown Sample Game - Upper Right Target 
+(Serial number 01045 S.)"><br>Sample Game - Upper Right Target*</span></a><br><font size="-2">1024x680</font><br>[Tony Mather]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=46764" 
+><span title="Image # 46764: Happy Clown Illuminated Backglass 
+(Serial number 08280.)"><img src="https://www.ipdb.org/images/1114/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 46764: Happy Clown Illuminated Backglass 
+(Serial number 08280.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1084x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=49801" 
+><span title="Image # 49801: Happy Clown Inside Cabinet 
+(Serial number 08505.)"><img src="https://www.ipdb.org/images/1114/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 49801: Happy Clown Inside Cabinet 
+(Serial number 08505.)"><br>Inside Cabinet*</span></a><br><font size="-2">934x1280</font><br>[Ken Gutstein]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=49802" 
+><span title="Image # 49802: Happy Clown Knocker and Bells 
+(The smaller bell is for 10 points. The larger bell is for 100 points. The 1-point bell is in the backbox. Serial number 08505.)"><img src="https://www.ipdb.org/images/1114/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49802: Happy Clown Knocker and Bells 
+(The smaller bell is for 10 points. The larger bell is for 100 points. The 1-point bell is in the backbox. Serial number 08505.)"><br>Knocker and Bells*</span></a><br><font size="-2">1200x900</font><br>[Ken Gutstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=49803" 
+><span title="Image # 49803: Happy Clown Maintenance Reminder Sign 
+(Serial number 08505.)"><img src="https://www.ipdb.org/images/1114/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49803: Happy Clown Maintenance Reminder Sign 
+(Serial number 08505.)"><br>Maintenance Reminder Sign*</span></a><br><font size="-2">1200x900</font><br>[Ken Gutstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=49804" 
+><span title="Image # 49804: Happy Clown Motor Switch Chart 
+(Serial number 08505.)"><img src="https://www.ipdb.org/images/1114/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 49804: Happy Clown Motor Switch Chart 
+(Serial number 08505.)"><br>Motor Switch Chart*</span></a><br><font size="-2">1200x1197</font><br>[Ken Gutstein]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1114&amp;picno=50275" 
+><span title="Image # 50275: Happy Clown Manufacturer's Certificate 
+(Serial number 08505.)"><img src="https://www.ipdb.org/images/1114/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50275: Happy Clown Manufacturer's Certificate 
+(Serial number 08505.)"><br>Manufacturer's Certificate*</span></a><br><font size="-2">1200x900</font><br>[Ken Gutstein]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

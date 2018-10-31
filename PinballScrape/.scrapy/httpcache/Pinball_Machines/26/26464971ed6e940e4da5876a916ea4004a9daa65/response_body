@@ -1,0 +1,207 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Airway'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Airway 1 cent or 5 cent play. 10 balls for 5 cents. Snap traps (10). Measures 36 inches long, 18 inches wide, 40 inches high in the back, and 37 1/2 inches high in the front.  Herbert G. Breitenstein ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Airway' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Airway</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="37">Airway</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=37">37</a> <I>/ February, 1933 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=37" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1933</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Pure Mechanical (PM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=PM#PM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=37">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Aviation</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>1 cent or 5 cent play. 10 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Snap_Trap">Snap&nbsp;traps</a> (10). Measures 36 inches long, 18 inches wide, 40 inches high in the back, and 37 1/2 inches high in the front.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Herbert&nbsp;G.&nbsp;Breitenstein' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Herbert%20G.%20Breitenstein">Herbert&nbsp;G.&nbsp;Breitenstein</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>According to the January 1953 issue of <I>Bally-Who</I>, a monthly newsletter from Bally, 'Airway' was the first <a target="glossary" class="glossarylink" href="/glossary.php#Pin_Game">pin&nbsp;game</a> with a (non-electric) score totalizer. It was a sensational success in the United States and popularized <a target="glossary" class="glossarylink" href="/glossary.php#Pin_Game">pin&nbsp;games</a> in Europe.<br><br>An improved version with a better <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a> mechanism and it's name in the bottom casting was released in April, 1933.<br><br>Initial price was $22.50. The price was increased to $25.50 effective May-15-1933.<br><br>According to <I>Bally-Who</I>, the first game with an electrically-operated score totalizer was <span title="Click here to open a new window and display Bally's 1933 'Rocket'"><a target="game1987" href="machine.cgi?id=1987">Bally's 1933 'Rocket'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Feb-25-1933, Back Cover<br>
+Automatic Age, May 1933, page 50<br>
+Bally-Who, Vol 5 No.1, January 1953, page 1<br>
+Marketplace Pictorial History, page 28, October 1981<br>
+PinGame Journal, No. 41/42 Sept/Oct 1995, pg 42<br>
+Tilt! Pinball Machines 1931-1958, page 13<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, pages 86, 92, 124,  and 157<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=36" 
+><span title="Image # 36: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 36: Airway Playfield "><br>Playfield</span></a><br><font size="-2">446x655</font><br>[Richard Conger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=37" 
+><span title="Image # 37: Airway Cabinet - Full View "><img src="https://www.ipdb.org/images/37/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 37: Airway Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">498x595</font><br>[Hal O'Rourke]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10346" 
+><span title="Image # 10346: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 10346: Airway Playfield "><br>Playfield</span></a><br><font size="-2">446x1024</font><br>[Todd Svec]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10347" 
+><span title="Image # 10347: Airway Under Playfield "><img src="https://www.ipdb.org/images/37/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 10347: Airway Under Playfield "><br>Under Playfield</span></a><br><font size="-2">446x1024</font><br>[Todd Svec]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10348" 
+><span title="Image # 10348: Airway Under Playfield "><img src="https://www.ipdb.org/images/37/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 10348: Airway Under Playfield "><br>Under Playfield</span></a><br><font size="-2">473x1024</font><br>[Todd Svec]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10349" 
+><span title="Image # 10349: Airway Upper Playfield "><img src="https://www.ipdb.org/images/37/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 10349: Airway Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x794</font><br>[Todd Svec]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10350" 
+><span title="Image # 10350: Airway Middle Playfield "><img src="https://www.ipdb.org/images/37/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 10350: Airway Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x830</font><br>[Todd Svec]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10351" 
+><span title="Image # 10351: Airway Lower Playfield "><img src="https://www.ipdb.org/images/37/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 10351: Airway Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x830</font><br>[Todd Svec]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10352" 
+><span title="Image # 10352: Airway Legs "><img src="https://www.ipdb.org/images/37/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=36 height=100 alt="Image # 10352: Airway Legs "><br>Legs</span></a><br><font size="-2">367x1024</font><br>[Todd Svec]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10353" 
+><span title="Image # 10353: Airway Cabinet - Front "><img src="https://www.ipdb.org/images/37/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10353: Airway Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[Ms. Cira Drake]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=10354" 
+><span title="Image # 10354: Airway Cabinet - Full View "><img src="https://www.ipdb.org/images/37/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10354: Airway Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">640x480</font><br>[Ms. Cira Drake]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=15405" 
+><span title="Image # 15405: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 15405: Airway Playfield "><br>Playfield</span></a><br><font size="-2">725x1103</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=15406" 
+><span title="Image # 15406: Airway Cabinet - Front View "><img src="https://www.ipdb.org/images/37/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 15406: Airway Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">700x1361</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=15407" 
+><span title="Image # 15407: Airway Cabinet - Full View "><img src="https://www.ipdb.org/images/37/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 15407: Airway Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">725x1109</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=16161" 
+><span title="Image # 16161: Airway Marketplace Ad Reprint 
+(Marketplace Pictorial History, page 28, October 1981)"><img src="https://www.ipdb.org/images/37/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 16161: Airway Marketplace Ad Reprint 
+(Marketplace Pictorial History, page 28, October 1981)"><br>Marketplace Ad Reprint*</span></a><br><font size="-2">700x911</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=18301" 
+><span title="Image # 18301: Airway Cabinet - Left "><img src="https://www.ipdb.org/images/37/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18301: Airway Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">680x510</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=18302" 
+><span title="Image # 18302: Airway Cabinet - Right "><img src="https://www.ipdb.org/images/37/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18302: Airway Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">480x360</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=18303" 
+><span title="Image # 18303: Airway Cabinet - Front "><img src="https://www.ipdb.org/images/37/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18303: Airway Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">680x510</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=20409" 
+><span title="Image # 20409: Airway Game Not Tilted "><img src="https://www.ipdb.org/images/37/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20409: Airway Game Not Tilted "><br>Game Not Tilted</span></a><br><font size="-2">320x240</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=20410" 
+><span title="Image # 20410: Airway Game Tilted "><img src="https://www.ipdb.org/images/37/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20410: Airway Game Tilted "><br>Game Tilted</span></a><br><font size="-2">320x240</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=22384" 
+><span title="Image # 22384: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 22384: Airway Playfield "><br>Playfield</span></a><br><font size="-2">398x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=22385" 
+><span title="Image # 22385: Airway Upper Playfield "><img src="https://www.ipdb.org/images/37/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 22385: Airway Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x531</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=22386" 
+><span title="Image # 22386: Airway Lower Playfield "><img src="https://www.ipdb.org/images/37/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 22386: Airway Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x531</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=22387" 
+><span title="Image # 22387: Airway Playfield - Detail "><img src="https://www.ipdb.org/images/37/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 22387: Airway Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">596x426</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=22388" 
+><span title="Image # 22388: Airway Cabinet - Rear View 
+(Owner stated legs are not original.)"><img src="https://www.ipdb.org/images/37/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 22388: Airway Cabinet - Rear View 
+(Owner stated legs are not original.)"><br>Cabinet - Rear View*</span></a><br><font size="-2">800x531</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=26383" 
+><span title="Image # 26383: Airway Billboard Ad 
+(The Billboard, Feb-25-1933, Back Cover)"><img src="https://www.ipdb.org/images/37/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 26383: Airway Billboard Ad 
+(The Billboard, Feb-25-1933, Back Cover)"><br>Billboard Ad*</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=27520" 
+><span title="Image # 27520: Airway Instructions "><img src="https://www.ipdb.org/images/37/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27520: Airway Instructions "><br>Instructions</span></a><br><font size="-2">400x299</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=36668" 
+><span title="Image # 36668: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36668: Airway Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Jonathan Friedman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=36669" 
+><span title="Image # 36669: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36669: Airway Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Jonathan Friedman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=36670" 
+><span title="Image # 36670: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36670: Airway Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Jonathan Friedman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=36671" 
+><span title="Image # 36671: Airway Playfield "><img src="https://www.ipdb.org/images/37/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 36671: Airway Playfield "><br>Playfield</span></a><br><font size="-2">632x1024</font><br>[Jonathan Friedman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=37&amp;picno=36672" 
+><span title="Image # 36672: Airway Score Card "><img src="https://www.ipdb.org/images/37/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36672: Airway Score Card "><br>Score Card</span></a><br><font size="-2">1024x768</font><br>[Jonathan Friedman]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

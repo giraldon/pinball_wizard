@@ -1,0 +1,191 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Contact'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Contact Widebody Flippers (4), Pop bumpers (3), Standup targets (4), Kick-out holes (2), Ball kickers (2), 4-bank drop targets (1), Swinging target (1), Horseshoe lane (1), Up-post between flippers.
+
+This game has Dual Action Flippers which allows the inner flippers to operate first, or all four flippers to operate, depending on how far the flipper buttons are pressed.
+
+Sound: electronic, knocker  Christian Marche Steve Kordek Ron Crouse Randy Pfeiffer ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Contact' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Contact</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="558">Contact</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=558">558</a> <I>/ May 31, 1978 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=558" target="showrate558">9 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=558" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May 31, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>482</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=1">Williams System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,502 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=558">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Aliens - Fantasy - Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kickers</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Swinging_Target">Swinging&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">Horseshoe&nbsp;lane</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.<br><br>This game has Dual Action <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> which allows the inner <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> to operate first, or all four <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> to operate, depending on how far the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons are pressed.<br><br>Sound: electronic, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a><P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Randy&nbsp;Pfeiffer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Randy%20Pfeiffer">Randy&nbsp;Pfeiffer</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ron&nbsp;Crouse' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ron%20Crouse">Ron&nbsp;Crouse</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>William's first wide-body pinball having dual action <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> layout strongly resembles <span title="Click here to open a new window and display Williams' 1976 'Space Mission'"><a target="game2253" href="machine.cgi?id=2253">Williams' 1976 'Space Mission'</a></span>.<br><br>Production Floor Records for Contact:<br>Production Start Date: May-31-1978<br>Production End Date: Nov-28-1978<br>Production Floor Quantity: 2502<br>First ship date: May-31-1978<br>Last ship date: Nov-30-1978<br><br>Product History Record for Contact: <br>Quantity produced for USA/Canada: 1485*<br>Quantity produced for export: 1000*<br>Total quantity produced: 2485*<br>Price to Distributor: $1335.00<br>*These quantities may be sales estimates.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 54 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Game_ROM_L_1.zip" >Game ROM L-1</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 50 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/cntct_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 9 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Backbox_Connector_Schematics.pdf" onClick="return purchasemanual();">Backbox Connector Schematics</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 18 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_CPU_Board_Schematics.pdf" onClick="return purchasemanual();">CPU Board Schematics</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 25 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Display_Board_Schematics.pdf" onClick="return purchasemanual();">Display Board Schematics</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 25 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Driver_Board_Schematics.pdf" onClick="return purchasemanual();">Driver Board Schematics</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 28 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Manual.pdf" onClick="return purchasemanual();">English Manual (July 1978)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Instruction_Cards.pdf" >Instruction Cards</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 596 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Manual_Amendment_16P_482_110_September_1978_bad_copy.pdf" onClick="return purchasemanual();">Manual Amendment (16P-482-110, September 1978, bad copy)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Power_Supply_Schematics.pdf" onClick="return purchasemanual();">Power Supply Schematics</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 19 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Sound_Board_Schematics.pdf" onClick="return purchasemanual();">Sound Board Schematics</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 12 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Other_Wiring_Diagrams.pdf" >Other Wiring Diagrams</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 9 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/558/Williams_1978_Contact_Playfield_Wiring_Diagrams.pdf" >Playfield Wiring Diagrams</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=522" 
+><span title="Image # 522: Contact Dual Action Flippers 
+(The dual action flippers could be activated so that either the lower or both of the flippers would flip depending on how far in the flipper buttons were pressed.)"><img src="https://www.ipdb.org/images/558/tn_Dual_Action_Flippers.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 522: Contact Dual Action Flippers 
+(The dual action flippers could be activated so that either the lower or both of the flippers would flip depending on how far in the flipper buttons were pressed.)"><br>Dual Action Flippers*</span></a><br><font size="-2">213x140</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=523" 
+><span title="Image # 523: Contact Backglass "><img src="https://www.ipdb.org/images/558/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 523: Contact Backglass "><br>Backglass</span></a><br><font size="-2">589x534</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=4437" 
+><span title="Image # 4437: Contact Flyer, Front "><img src="https://www.ipdb.org/images/558/tn_558f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 4437: Contact Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">606x794</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=4438" 
+><span title="Image # 4438: Contact Flyer, Back "><img src="https://www.ipdb.org/images/558/tn_558f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 4438: Contact Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">606x794</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16628" 
+><span title="Image # 16628: Contact Backglass "><img src="https://www.ipdb.org/images/558/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 16628: Contact Backglass "><br>Backglass</span></a><br><font size="-2">940x768</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16629" 
+><span title="Image # 16629: Contact Illuminated Playfield "><img src="https://www.ipdb.org/images/558/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16629: Contact Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x1365</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16630" 
+><span title="Image # 16630: Contact Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/558/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16630: Contact Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16631" 
+><span title="Image # 16631: Contact Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/558/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16631: Contact Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16632" 
+><span title="Image # 16632: Contact Illuminated Playfield "><img src="https://www.ipdb.org/images/558/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16632: Contact Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x1365</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16633" 
+><span title="Image # 16633: Contact Cabinet - Left "><img src="https://www.ipdb.org/images/558/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 16633: Contact Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">863x762</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16634" 
+><span title="Image # 16634: Contact Cabinet - Right "><img src="https://www.ipdb.org/images/558/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 16634: Contact Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">871x762</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16635" 
+><span title="Image # 16635: Contact Cabinet - Front "><img src="https://www.ipdb.org/images/558/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16635: Contact Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16636" 
+><span title="Image # 16636: Contact Inside Front Door "><img src="https://www.ipdb.org/images/558/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16636: Contact Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16637" 
+><span title="Image # 16637: Contact Under Playfield "><img src="https://www.ipdb.org/images/558/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16637: Contact Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16638" 
+><span title="Image # 16638: Contact Inside Cabinet "><img src="https://www.ipdb.org/images/558/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16638: Contact Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16639" 
+><span title="Image # 16639: Contact Backglass - Reverse "><img src="https://www.ipdb.org/images/558/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16639: Contact Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16640" 
+><span title="Image # 16640: Contact Behind Backglass "><img src="https://www.ipdb.org/images/558/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 16640: Contact Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">509x465</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16641" 
+><span title="Image # 16641: Contact Inside Backbox "><img src="https://www.ipdb.org/images/558/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16641: Contact Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16642" 
+><span title="Image # 16642: Contact Inside Backbox "><img src="https://www.ipdb.org/images/558/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16642: Contact Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16643" 
+><span title="Image # 16643: Contact Cabinet - Front View "><img src="https://www.ipdb.org/images/558/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 16643: Contact Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">814x1365</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=16644" 
+><span title="Image # 16644: Contact Cabinet - Full View "><img src="https://www.ipdb.org/images/558/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 16644: Contact Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">949x1337</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=558&amp;picno=42896" 
+><span title="Image # 42896: Contact Illuminated Backglass "><img src="https://www.ipdb.org/images/558/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 42896: Contact Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">600x688</font><br>[Craig Selby]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Flyer&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

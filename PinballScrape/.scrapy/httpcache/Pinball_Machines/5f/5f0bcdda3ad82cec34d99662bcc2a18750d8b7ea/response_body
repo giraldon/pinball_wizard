@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Daval 'Spot-Lite'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Daval Spot-Lite 10 balls for 5 cents. Two kicker jets, eight flicker-flash lights on playfield. Electric ball tilt, electric outball trough, small lighted backglass. Pushing the coin slide resets the pedestal tilt mechanism and returns all balls on playfield to the player for the new game. Balls landing in playfield score pockets light corresponding score values on backglass. Landing a ball in the Outball Return hole at top of playfield returns to the player all balls in bottom outball trough. A timer under the playfield ends the game and voids score when time is up. Tilting the game lights a red tilt light on backglass and voids score. Original playfield lamps were painted different colors. Powered by dry cell battery.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Daval 'Spot-Lite' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Spot-Lite</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2320">Spot-Lite</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2320">2320</a> <I>/ May, 1935 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.2 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2320" target="showrate2320">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2320" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Daval'"><a href="search.pl?searchtype=advanced&amp;mfgid=99">Daval Mfg Company Incorporated, G.B., <font size="-1">of Chicago, Illinois, USA</font> (1934-1939)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May, 1935</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2320">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>10 balls for 5 cents. Two <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> jets, eight flicker-flash lights on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Electric ball <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a>, electric outball trough, small lighted <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Pushing the coin slide resets the pedestal <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a> mechanism and returns all balls on <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to the player for the new game. Balls landing in <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> score pockets light corresponding score values on <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Landing a ball in the Outball Return hole at top of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> returns to the player all balls in bottom outball trough. A timer under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> ends the game and voids score when time is up. Tilting the game lights a red <a target="glossary" class="glossarylink" href="/glossary.php#Tilt">tilt</a> light on <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and voids score. Original <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> lamps were painted different colors. Powered by dry cell battery.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a> page 45<br>
+Coin Machine Journal, May 1935, page 75<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=2207" 
+><span title="Image # 2207: Spot-Lite Front View 
+(Playfield lamps are painted different colors but here they show the wear of use over time. Some bulbs may have been replaced with clear ones.)"><img src="https://www.ipdb.org/images/2320/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 2207: Spot-Lite Front View 
+(Playfield lamps are painted different colors but here they show the wear of use over time. Some bulbs may have been replaced with clear ones.)"><br>Front View*</span></a><br><font size="-2">400x544</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=5313" 
+><span title="Image # 5313: Spot-Lite Playfield 
+(Playfield lamps are painted different colors but here they show the wear of use over time. Some bulbs may have been replaced with clear ones.)"><img src="https://www.ipdb.org/images/2320/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 5313: Spot-Lite Playfield 
+(Playfield lamps are painted different colors but here they show the wear of use over time. Some bulbs may have been replaced with clear ones.)"><br>Playfield*</span></a><br><font size="-2">381x576</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=34718" 
+><span title="Image # 34718: Spot-Lite Playfield - Detail 
+(The original colored lamps have been replaced with clear ones in this image. The rubber band shown here is not original to this game. Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34718: Spot-Lite Playfield - Detail 
+(The original colored lamps have been replaced with clear ones in this image. The rubber band shown here is not original to this game. Serial number 11824 is stamped on the outside of the cabinet.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=34720" 
+><span title="Image # 34720: Spot-Lite Front View 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 34720: Spot-Lite Front View 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><br>Front View*</span></a><br><font size="-2">530x916</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=34721" 
+><span title="Image # 34721: Spot-Lite Under Playfield 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 34721: Spot-Lite Under Playfield 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><br>Under Playfield*</span></a><br><font size="-2">590x1000</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=34764" 
+><span title="Image # 34764: Spot-Lite Illuminated Backglass 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 34764: Spot-Lite Illuminated Backglass 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1024x647</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=34765" 
+><span title="Image # 34765: Spot-Lite China Balls 
+(The steel ball and coin are included here to show scale. Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34765: Spot-Lite China Balls 
+(The steel ball and coin are included here to show scale. Serial number 11824 is stamped on the outside of the cabinet.)"><br>China Balls*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=34766" 
+><span title="Image # 34766: Spot-Lite Ad "><img src="https://www.ipdb.org/images/2320/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34766: Spot-Lite Ad "><br>Ad</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40280" 
+><span title="Image # 40280: Spot-Lite Upper Playfield 
+(The colored bulb covers are intended to replicate the original bulbs which were painted different colors. Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40280: Spot-Lite Upper Playfield 
+(The colored bulb covers are intended to replicate the original bulbs which were painted different colors. Serial number 11824 is stamped on the outside of the cabinet.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40281" 
+><span title="Image # 40281: Spot-Lite Lower Playfield 
+(The colored bulb covers are intended to replicate the original bulbs which were painted different colors. Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40281: Spot-Lite Lower Playfield 
+(The colored bulb covers are intended to replicate the original bulbs which were painted different colors. Serial number 11824 is stamped on the outside of the cabinet.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40282" 
+><span title="Image # 40282: Spot-Lite Score Card 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40282: Spot-Lite Score Card 
+(Serial number 11824 is stamped on the outside of the cabinet.)"><br>Score Card*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40283" 
+><span title="Image # 40283: Spot-Lite Front View 
+(The front door is a reproduction. Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 40283: Spot-Lite Front View 
+(The front door is a reproduction. Serial number 11824 is stamped on the outside of the cabinet.)"><br>Front View*</span></a><br><font size="-2">838x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40284" 
+><span title="Image # 40284: Spot-Lite Rear Access Door Removed 
+(The transformer and line cord are a conversion and replaced the batteries that were original to this game. Serial number 11824 is stamped on the outside of the cabinet.)"><img src="https://www.ipdb.org/images/2320/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 40284: Spot-Lite Rear Access Door Removed 
+(The transformer and line cord are a conversion and replaced the batteries that were original to this game. Serial number 11824 is stamped on the outside of the cabinet.)"><br>Rear Access Door Removed*</span></a><br><font size="-2">862x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40285" 
+><span title="Image # 40285: Spot-Lite Cabinet - Right 
+(The line cord visible in this image is part of an AC conversion and replaced the batteries that were original to this game.)"><img src="https://www.ipdb.org/images/2320/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40285: Spot-Lite Cabinet - Right 
+(The line cord visible in this image is part of an AC conversion and replaced the batteries that were original to this game.)"><br>Cabinet - Right*</span></a><br><font size="-2">1024x768</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=40286" 
+><span title="Image # 40286: Spot-Lite Original Colored Playfield Bulbs "><img src="https://www.ipdb.org/images/2320/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 40286: Spot-Lite Original Colored Playfield Bulbs "><br>Original Colored Playfield Bulbs</span></a><br><font size="-2">815x393</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2320&amp;picno=57589" 
+><span title="Image # 57589: Spot-Lite Coin Machine Journal Ad 
+(Coin Machine Journal, May 1935, page 75)"><img src="https://www.ipdb.org/images/2320/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=35 height=100 alt="Image # 57589: Spot-Lite Coin Machine Journal Ad 
+(Coin Machine Journal, May 1935, page 75)"><br>Coin Machine Journal Ad*</span></a><br><font size="-2">529x1530</font><br>[Gordon Hasse]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

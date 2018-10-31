@@ -1,0 +1,245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Chicago Coin 'Fox Hunt'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Chicago Coin Fox Hunt Flipperless 5 balls for 5 cents. Passive bumpers (14). Backglass light animation (horses advance). At start of game, the five horses light up at top of backglass. Hitting any numbered bumper 1 to 5 advances the correspondingly numbered horse downward on the backglass towards its correspondingly numbered fox at bottom left corner of backglass. Hitting the red bumper simultaneously advances all horses either 1, 2, or 3 steps, on a mystery basis. Each horse reaching its fox lights that fox on the backglass for the remainder of the game. Lighting any fox does not end the game and more than one fox can be made to light, up to having all five lit.
+
+Backglass scoring advances in 200-point increments only. Hitting a yellow bumper scores 200 points. The red bumper scores from 200 to 1000 points on a mystery basis in addition to advancing all horses 1, 2, or 3 times on a mystery basis. Each of two rebound rubbers at the entrance of the sole outlane has a visible thin wire switch in front of it to score 200 points.
+
+The Selection feature is tied to the backglass hundreds point value as follows:
+
+Selection 1 lights only when 00 points is lit.
+Selection 2 lights only when 200 points is lit.
+Selection 3 lights only when 400 points is lit.
+Selection 4 lights only when 600 points is lit.
+Selection 5 lights only when 800 points is lit.
+
+In this way, the Selection changes as the score changes. Each time the lit Selection is the same as any lit fox, the word WINNER lights up on the backglass and the two green posts at playfield bottom also light up, all to signify to the player that the outlane rollover has lit for Special. The WINNER light and the Special rollover both stay lit only as long as the Selection mat<ignore>ches a lit fox. When lit, the Special rollover awards one replay for each lit fox, up to 5 replays (for five foxes). Replays are displayed on the backglass and can count into the seventies. 
+
+All bumpers remain lit throughout game play except whenever WINNER and Special are lit, then the five numbered bumpers go dark even though they still score points and still advance backglass horses. When the WINNER and Special lights turn off, the numbered bumpers relight.
+
+A knock-off button located on bottom of cabinet decrements the backglass replay counter one credit per each push of the button. A time clock shuts game off, disabling both the knock-off button and the ability to start a game without insertion of a coin even if replays are on the backglass. Once the time clock shuts game off, a coin must be inserted to start the next game.
+
+Operator option selects mode for either Free Play or Regular operation:
+• Free Play - Coin slide can be pushed in without a coin to start a game only if there are replays shown on the backglass. The backglass decrements the replay count when this is done. This game is wired for only one coin meter. The coin meter records only games played. That is, the meter records the coined games plus the free games played off. Knocked-off replays are not recorded.
+• Regular - Coin slide cannot be pushed in without a coin to start a game even if there are replays shown on the backglass. All games must be started by coining. Replays on backglass can never be played off. They can only be knocked-off for payout by the location. The coin meter records the games played and the knocked-off replays.
+
+Sound: 1 bell  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Chicago Coin 'Fox Hunt' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Fox Hunt</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="945">Fox Hunt</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=945">945</a> <I>/ September 17, 1940 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=945" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Chicago Coin'"><a href="search.pl?searchtype=advanced&amp;mfgid=81">Chicago Coin Machine Manufacturing Company (1932-1977)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September 17, 1940</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>84</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,503 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=945">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Fox Hunting</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (14). <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (horses advance). At start of game, the five horses light up at top of <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Hitting any numbered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> 1 to 5 advances the correspondingly numbered horse downward on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> towards its correspondingly numbered fox at bottom left corner of <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Hitting the red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> simultaneously advances all horses either 1, 2, or 3 steps, on a mystery basis. Each horse reaching its fox lights that fox on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> for the remainder of the game. Lighting any fox does not end the game and more than one fox can be made to light, up to having all five lit.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> scoring advances in 200-point increments only. Hitting a yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> scores 200 points. The red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> scores from 200 to 1000 points on a mystery basis in addition to advancing all horses 1, 2, or 3 times on a mystery basis. Each of two rebound <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubbers</a> at the entrance of the sole <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> has a visible thin wire switch in front of it to score 200 points.<br><br>The Selection feature is tied to the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> hundreds point value as follows:<br><br>Selection 1 lights only when 00 points is lit.<br>Selection 2 lights only when 200 points is lit.<br>Selection 3 lights only when 400 points is lit.<br>Selection 4 lights only when 600 points is lit.<br>Selection 5 lights only when 800 points is lit.<br><br>In this way, the Selection changes as the score changes. Each time the lit Selection is the same as any lit fox, the word WINNER lights up on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and the two green posts at <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> bottom also light up, all to signify to the player that the <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> has lit for Special. The WINNER light and the Special <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> both stay lit only as long as the Selection mat<ignore>ches a lit fox. When lit, the Special <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> awards one <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> for each lit fox, up to 5 <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> (for five foxes). <a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replays</a> are displayed on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and can count into the seventies. <br><br>All <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> remain lit throughout game play except whenever WINNER and Special are lit, then the five numbered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> go dark even though they still score points and still advance <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> horses. When the WINNER and Special lights turn off, the numbered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> relight.<br><br>A knock-off button located on bottom of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> decrements the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> counter one credit per each push of the button. A <a target="glossary" class="glossarylink" href="/glossary.php#Time_Clock">time&nbsp;clock</a> shuts game off, disabling both the knock-off button and the ability to start a game without insertion of a coin even if <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> are on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Once the <a target="glossary" class="glossarylink" href="/glossary.php#Time_Clock">time&nbsp;clock</a> shuts game off, a coin must be inserted to start the next game.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Operator">Operator</a> option selects <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a> for either <a target="glossary" class="glossarylink" href="/glossary.php#Free_Play">Free&nbsp;Play</a> or Regular operation:<br>• <a target="glossary" class="glossarylink" href="/glossary.php#Free_Play">Free&nbsp;Play</a> - Coin slide can be pushed in without a coin to start a game only if there are <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> shown on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> decrements the <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> count when this is done. This game is wired for only one coin meter. The coin meter records only games played. That is, the meter records the coined games plus the free games played off. Knocked-off <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> are not recorded.<br>• Regular - Coin slide cannot be pushed in without a coin to start a game even if there are <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> shown on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. All games must be started by <a target="glossary" class="glossarylink" href="/glossary.php#Coining">coining</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replays</a> on <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> can never be played off. They can only be knocked-off for payout by the location. The coin meter records the games played and the knocked-off <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a>.<br><br>Sound: 1 bell<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The switches beneath the <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">passive&nbsp;bumpers</a> are not a spoon switch pushed by a post to complete the circuit nor are they a carbon ring touched by a post to complete the circuit. These switches on this game were described to us as a post touching the inside of a riveted brass ring mounted on a metal plate. A close-up picture of this switch is included in this listing and can also be seen in the listing for <span title="Click here to open a new window and display Unknown Manufacturer's 1942 'Dive Bomber'"><a target="game3849" href="machine.cgi?id=3849">Unknown Manufacturer's 1942 'Dive Bomber'</a></span>, itself a conversion of <span title="Click here to open a new window and display Genco's 1940 'Formation'"><a target="game918" href="machine.cgi?id=918">Genco's 1940 'Formation'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?https://www.youtube.com/watch?v=TimlRylVL_Y">Explanation of Game Play (at YouTube) [10:36]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=28021" 
+><span title="Image # 28021: Fox Hunt Illuminated Front View 
+(Based on our description of game operation, the playfield lighting displayed here is not correct.)"><img src="https://www.ipdb.org/images/945/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28021: Fox Hunt Illuminated Front View 
+(Based on our description of game operation, the playfield lighting displayed here is not correct.)"><br>Illuminated Front View*</span></a><br><font size="-2">300x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=28022" 
+><span title="Image # 28022: Fox Hunt Cabinet - Left "><img src="https://www.ipdb.org/images/945/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 28022: Fox Hunt Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">350x283</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=43128" 
+><span title="Image # 43128: Fox Hunt Backglass "><img src="https://www.ipdb.org/images/945/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 43128: Fox Hunt Backglass "><br>Backglass</span></a><br><font size="-2">488x549</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=43129" 
+><span title="Image # 43129: Fox Hunt Playfield "><img src="https://www.ipdb.org/images/945/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 43129: Fox Hunt Playfield "><br>Playfield</span></a><br><font size="-2">689x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=43130" 
+><span title="Image # 43130: Fox Hunt Cabinet - Right 
+(The cabinet of this game has been repainted but we present it here to show its other attributes.)"><img src="https://www.ipdb.org/images/945/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 43130: Fox Hunt Cabinet - Right 
+(The cabinet of this game has been repainted but we present it here to show its other attributes.)"><br>Cabinet - Right*</span></a><br><font size="-2">579x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=59386" 
+><span title="Image # 59386: Fox Hunt Instruction/Score Cards "><img src="https://www.ipdb.org/images/945/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 59386: Fox Hunt Instruction/Score Cards "><br>Instruction/Score Cards</span></a><br><font size="-2">1034x1293</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71230" 
+><span title="Image # 71230: Fox Hunt Backglass 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 71230: Fox Hunt Backglass 
+(The cabinet trim has been refinished.)"><br>Backglass*</span></a><br><font size="-2">1200x1579</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71231" 
+><span title="Image # 71231: Fox Hunt Backbox - Right 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 71231: Fox Hunt Backbox - Right 
+(The cabinet trim has been refinished.)"><br>Backbox - Right*</span></a><br><font size="-2">1200x1631</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71232" 
+><span title="Image # 71232: Fox Hunt Illuminated Backglass - Right 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71232: Fox Hunt Illuminated Backglass - Right 
+(The cabinet trim has been refinished.)"><br>Illuminated Backglass - Right*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71233" 
+><span title="Image # 71233: Fox Hunt Backglass - Detail 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71233: Fox Hunt Backglass - Detail 
+(The cabinet trim has been refinished.)"><br>Backglass - Detail*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71234" 
+><span title="Image # 71234: Fox Hunt Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/945/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71234: Fox Hunt Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71235" 
+><span title="Image # 71235: Fox Hunt Illuminated Playfield 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71235: Fox Hunt Illuminated Playfield 
+(The cabinet trim has been refinished.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71236" 
+><span title="Image # 71236: Fox Hunt Upper Playfield 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71236: Fox Hunt Upper Playfield 
+(The cabinet trim has been refinished.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71237" 
+><span title="Image # 71237: Fox Hunt Lower Playfield 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71237: Fox Hunt Lower Playfield 
+(The cabinet trim has been refinished.)"><br>Lower Playfield*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71238" 
+><span title="Image # 71238: Fox Hunt Playfield - Gambling Notice "><img src="https://www.ipdb.org/images/945/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 71238: Fox Hunt Playfield - Gambling Notice "><br>Playfield - Gambling Notice</span></a><br><font size="-2">1200x1097</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71239" 
+><span title="Image # 71239: Fox Hunt Stripped Playfield "><img src="https://www.ipdb.org/images/945/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 71239: Fox Hunt Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1200x1697</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71240" 
+><span title="Image # 71240: Fox Hunt Backbox - Left 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 71240: Fox Hunt Backbox - Left 
+(The cabinet trim has been refinished.)"><br>Backbox - Left*</span></a><br><font size="-2">1200x2064</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71241" 
+><span title="Image # 71241: Fox Hunt Backbox - Right 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 71241: Fox Hunt Backbox - Right 
+(The cabinet trim has been refinished.)"><br>Backbox - Right*</span></a><br><font size="-2">1200x2152</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71242" 
+><span title="Image # 71242: Fox Hunt Cabinet - Left 
+(The cabinet trim has been refinished. The refinished legs are not original to this game but may be the same style as the originals.)"><img src="https://www.ipdb.org/images/945/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71242: Fox Hunt Cabinet - Left 
+(The cabinet trim has been refinished. The refinished legs are not original to this game but may be the same style as the originals.)"><br>Cabinet - Left*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71243" 
+><span title="Image # 71243: Fox Hunt Cabinet - Right 
+(The cabinet trim has been refinished. The refinished legs are not original to this game but may be the same style as the originals.)"><img src="https://www.ipdb.org/images/945/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71243: Fox Hunt Cabinet - Right 
+(The cabinet trim has been refinished. The refinished legs are not original to this game but may be the same style as the originals.)"><br>Cabinet - Right*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71244" 
+><span title="Image # 71244: Fox Hunt Cabinet - Front 
+(The cabinet trim has been refinished. The refinished legs are not original to this game but may be the same style as the originals.)"><img src="https://www.ipdb.org/images/945/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71244: Fox Hunt Cabinet - Front 
+(The cabinet trim has been refinished. The refinished legs are not original to this game but may be the same style as the originals.)"><br>Cabinet - Front*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71245" 
+><span title="Image # 71245: Fox Hunt Backglass - Reverse "><img src="https://www.ipdb.org/images/945/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 71245: Fox Hunt Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1200x1320</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71246" 
+><span title="Image # 71246: Fox Hunt Backbox Insert 
+(The cabinet trim has been refinished.)"><img src="https://www.ipdb.org/images/945/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 71246: Fox Hunt Backbox Insert 
+(The cabinet trim has been refinished.)"><br>Backbox Insert*</span></a><br><font size="-2">1200x1496</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71247" 
+><span title="Image # 71247: Fox Hunt Backbox Insert "><img src="https://www.ipdb.org/images/945/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 71247: Fox Hunt Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1200x1566</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71248" 
+><span title="Image # 71248: Fox Hunt Inside Backbox - Score Unit "><img src="https://www.ipdb.org/images/945/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71248: Fox Hunt Inside Backbox - Score Unit "><br>Inside Backbox - Score Unit</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71249" 
+><span title="Image # 71249: Fox Hunt Under Playfield "><img src="https://www.ipdb.org/images/945/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 71249: Fox Hunt Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1108x2354</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71250" 
+><span title="Image # 71250: Fox Hunt Under Playfield - Detail "><img src="https://www.ipdb.org/images/945/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71250: Fox Hunt Under Playfield - Detail "><br>Under Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71251" 
+><span title="Image # 71251: Fox Hunt Under Playfield - Time Clock "><img src="https://www.ipdb.org/images/945/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 71251: Fox Hunt Under Playfield - Time Clock "><br>Under Playfield - Time Clock</span></a><br><font size="-2">900x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71252" 
+><span title="Image # 71252: Fox Hunt Under Playfield - Time Clock Mechanism "><img src="https://www.ipdb.org/images/945/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71252: Fox Hunt Under Playfield - Time Clock Mechanism "><br>Under Playfield - Time Clock Mechanism</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71253" 
+><span title="Image # 71253: Fox Hunt Under Playfield - Passive Bumper Switch "><img src="https://www.ipdb.org/images/945/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71253: Fox Hunt Under Playfield - Passive Bumper Switch "><br>Under Playfield - Passive Bumper Switch</span></a><br><font size="-2">740x987</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=945&amp;picno=71254" 
+><span title="Image # 71254: Fox Hunt Inside Cabinet 
+(The transformer shown here is a replacement.)"><img src="https://www.ipdb.org/images/945/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71254: Fox Hunt Inside Cabinet 
+(The transformer shown here is a replacement.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

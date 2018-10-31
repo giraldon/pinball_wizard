@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Data East 'Batman'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Data East Batman Flippers (2), Multiball (3)  B. Farris Todd Farris Paul Faris Joe Kaminkow Ed Cebula Brian Schmidt Kristina Donofrio Neil Falconer Harry Cline Brian Schmidt ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Data East 'Batman' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Batman</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="195">Batman</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=195">195</a> <I>/ July, 1991 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=195" target="showrate195"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=195" target="showrate195">41 ratings/32 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=195" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Data East'"><a href="search.pl?searchtype=advanced&amp;mfgid=98">Data East Pinball, Incorporated (1986-1994)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>July, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500-5511-01</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=24">DataEast/Sega Version 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,500 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=195">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (3)</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Kaminkow' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Kaminkow">Joe&nbsp;Kaminkow</a></span>, <span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Cebula' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Cebula">Ed&nbsp;Cebula</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'B.&nbsp;Farris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=B.%20Farris">B.&nbsp;Farris</a></span>, <span title="Click here to perform a search for all pinball games that 'Todd&nbsp;Farris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Todd%20Farris">Todd&nbsp;Farris</a></span>, <span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Faris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Faris">Paul&nbsp;Faris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Schmidt' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Schmidt">Brian&nbsp;Schmidt</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Kristina&nbsp;Donofrio' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kristina%20Donofrio">Kristina&nbsp;Donofrio</a></span>, <span title="Click here to perform a search for all pinball games that 'Neil&nbsp;Falconer' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Neil%20Falconer">Neil&nbsp;Falconer</a></span>, <span title="Click here to perform a search for all pinball games that 'Harry&nbsp;Cline' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Harry%20Cline">Harry&nbsp;Cline</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Fred Young did voice characterizations on this game.<br><br>'Batman' was the first pinball machine to use the BSMT-2000 (Brian Schmidt Music Technology) Sound System. (Brian states the first game machine of any kind to use it was the arcade game 'Ghost Town'.)<br><br>We previously listed the Manufacture Date as August, 1991.<br>This game was produced from July 1991 to October 1991.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Wait 'Til They Get a Load of Me!"<br>
+"Insane Collections. No Joke."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+PinGame Journal pp. Issue 4<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 134<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+Pinball (Zsolnay), page 64<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/195">http://www.pinballowners.com/owners/195</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 29 KB</td><td align=left nowrap width="5%">&nbsp;03&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/Data_East_1991_Batman_Game_ROMs_V1_03.03" >Game ROMs V1.03</a></td><td> [Data East USA, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 28 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/btmn_101.zip" >PinMAME Romset (1.01)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 368 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/btmn_103.zip" >PinMAME Romset (1.03)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 92 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/btmn_g13.zip" >PinMAME Romset (1.03) Germany</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 370 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/btmn_106.zip" >PinMAME Romset (1.06)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 371 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/Data_East_1991_Batman_ROMs.zip" >ROMs</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/Data_East_1991_Batman_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Data East USA]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 86 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/195/Data_East_1991_Batman_Instruction_card.pdf" >instruction card</a></td><td> [Data East (Stern)]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=176" 
+><span title="Image # 176: Batman Overall view "><img src="https://www.ipdb.org/images/195/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 176: Batman Overall view "><br>Overall view</span></a><br><font size="-2">316x630</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=3224" 
+><span title="Image # 3224: Batman Flyer, Front "><img src="https://www.ipdb.org/images/195/tn_195f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 3224: Batman Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">609x785</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=3225" 
+><span title="Image # 3225: Batman Flyer, Page 2 "><img src="https://www.ipdb.org/images/195/tn_195f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 3225: Batman Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">612x787</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=3226" 
+><span title="Image # 3226: Batman Flyer, Page 3 "><img src="https://www.ipdb.org/images/195/tn_195f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 3226: Batman Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">612x787</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=3227" 
+><span title="Image # 3227: Batman Flyer, Back "><img src="https://www.ipdb.org/images/195/tn_195f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3227: Batman Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">601x777</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=14225" 
+><span title="Image # 14225: Batman Backglass "><img src="https://www.ipdb.org/images/195/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14225: Batman Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=14226" 
+><span title="Image # 14226: Batman Playfield "><img src="https://www.ipdb.org/images/195/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 14226: Batman Playfield "><br>Playfield</span></a><br><font size="-2">924x1365</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33346" 
+><span title="Image # 33346: Batman Illuminated Playfield "><img src="https://www.ipdb.org/images/195/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33346: Batman Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x1365</font><br>[Stephen Azzam]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33347" 
+><span title="Image # 33347: Batman Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/195/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33347: Batman Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Stephen Azzam]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33348" 
+><span title="Image # 33348: Batman Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/195/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33348: Batman Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Stephen Azzam]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33349" 
+><span title="Image # 33349: Batman Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/195/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33349: Batman Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Stephen Azzam]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33350" 
+><span title="Image # 33350: Batman Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/195/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33350: Batman Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Stephen Azzam]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33351" 
+><span title="Image # 33351: Batman Joker Targets "><img src="https://www.ipdb.org/images/195/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33351: Batman Joker Targets "><br>Joker Targets</span></a><br><font size="-2">1024x768</font><br>[Stephen Azzam]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33352" 
+><span title="Image # 33352: Batman Joker Ramp "><img src="https://www.ipdb.org/images/195/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 33352: Batman Joker Ramp "><br>Joker Ramp</span></a><br><font size="-2">1024x1420</font><br>[Stephen Azzam]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=33353" 
+><span title="Image # 33353: Batman Bat Cave "><img src="https://www.ipdb.org/images/195/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33353: Batman Bat Cave "><br>Bat Cave</span></a><br><font size="-2">1024x1365</font><br>[Stephen Azzam]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35832" 
+><span title="Image # 35832: Batman Backbox - Right "><img src="https://www.ipdb.org/images/195/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 35832: Batman Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">411x565</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35833" 
+><span title="Image # 35833: Batman Cabinet - Right "><img src="https://www.ipdb.org/images/195/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35833: Batman Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35834" 
+><span title="Image # 35834: Batman Backbox "><img src="https://www.ipdb.org/images/195/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 35834: Batman Backbox "><br>Backbox</span></a><br><font size="-2">480x592</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35835" 
+><span title="Image # 35835: Batman Backbox - Left "><img src="https://www.ipdb.org/images/195/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 35835: Batman Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">287x563</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35836" 
+><span title="Image # 35836: Batman Cabinet - Left "><img src="https://www.ipdb.org/images/195/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35836: Batman Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35837" 
+><span title="Image # 35837: Batman Lower Left Playfield "><img src="https://www.ipdb.org/images/195/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35837: Batman Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35838" 
+><span title="Image # 35838: Batman Lower Right Playfield "><img src="https://www.ipdb.org/images/195/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35838: Batman Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35839" 
+><span title="Image # 35839: Batman Middle Leftt Playfield "><img src="https://www.ipdb.org/images/195/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35839: Batman Middle Leftt Playfield "><br>Middle Leftt Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35840" 
+><span title="Image # 35840: Batman Upper Playfield "><img src="https://www.ipdb.org/images/195/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35840: Batman Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35841" 
+><span title="Image # 35841: Batman Flippers "><img src="https://www.ipdb.org/images/195/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35841: Batman Flippers "><br>Flippers</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35842" 
+><span title="Image # 35842: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35842: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35843" 
+><span title="Image # 35843: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35843: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35844" 
+><span title="Image # 35844: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35844: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35845" 
+><span title="Image # 35845: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35845: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35846" 
+><span title="Image # 35846: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35846: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35847" 
+><span title="Image # 35847: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35847: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35848" 
+><span title="Image # 35848: Batman Playfield - Ball View "><img src="https://www.ipdb.org/images/195/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35848: Batman Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35849" 
+><span title="Image # 35849: Batman Backglass "><img src="https://www.ipdb.org/images/195/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35849: Batman Backglass "><br>Backglass</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35850" 
+><span title="Image # 35850: Batman Backbox "><img src="https://www.ipdb.org/images/195/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 35850: Batman Backbox "><br>Backbox</span></a><br><font size="-2">451x555</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35851" 
+><span title="Image # 35851: Batman Cabinet - Front View "><img src="https://www.ipdb.org/images/195/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 35851: Batman Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">215x392</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35852" 
+><span title="Image # 35852: Batman Cabinet - Front View "><img src="https://www.ipdb.org/images/195/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 35852: Batman Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">297x429</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=35853" 
+><span title="Image # 35853: Batman Cabinet - Front "><img src="https://www.ipdb.org/images/195/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 35853: Batman Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">506x479</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46892" 
+><span title="Image # 46892: Batman Illuminated Backglass "><img src="https://www.ipdb.org/images/195/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 46892: Batman Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">857x892</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46893" 
+><span title="Image # 46893: Batman Playfield "><img src="https://www.ipdb.org/images/195/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 46893: Batman Playfield "><br>Playfield</span></a><br><font size="-2">966x1152</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46894" 
+><span title="Image # 46894: Batman Backbox - Left "><img src="https://www.ipdb.org/images/195/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 46894: Batman Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">606x1202</font><br>[Maurizio Iannuzzelli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46895" 
+><span title="Image # 46895: Batman Backbox - Right "><img src="https://www.ipdb.org/images/195/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=34 height=100 alt="Image # 46895: Batman Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">424x1263</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46896" 
+><span title="Image # 46896: Batman Cabinet - Left "><img src="https://www.ipdb.org/images/195/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 46896: Batman Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1154x916</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46897" 
+><span title="Image # 46897: Batman Cabinet - Right "><img src="https://www.ipdb.org/images/195/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 46897: Batman Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1120x719</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=46898" 
+><span title="Image # 46898: Batman Cabinet - Full View "><img src="https://www.ipdb.org/images/195/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46898: Batman Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">972x1296</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=50219" 
+><span title="Image # 50219: Batman Playfield - Ball View "><img src="https://www.ipdb.org/images/195/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50219: Batman Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Sean Casey]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=50220" 
+><span title="Image # 50220: Batman Cabinet - Left "><img src="https://www.ipdb.org/images/195/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 50220: Batman Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1014x900</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=50221" 
+><span title="Image # 50221: Batman Cabinet - Right "><img src="https://www.ipdb.org/images/195/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 50221: Batman Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">670x878</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=50698" 
+><span title="Image # 50698: Batman Backglass "><img src="https://www.ipdb.org/images/195/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 50698: Batman Backglass "><br>Backglass</span></a><br><font size="-2">1200x1015</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=59098" 
+><span title="Image # 59098: Batman Illuminated Playfield "><img src="https://www.ipdb.org/images/195/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59098: Batman Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x900</font><br>[Gustavo Frei]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=59099" 
+><span title="Image # 59099: Batman Playfield - Detail "><img src="https://www.ipdb.org/images/195/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 59099: Batman Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Gustavo Frei]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=59100" 
+><span title="Image # 59100: Batman Stripped Playfield "><img src="https://www.ipdb.org/images/195/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 59100: Batman Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">900x1200</font><br>[Gustavo Frei]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=195&amp;picno=62622" 
+><span title="Image # 62622: Batman Backglass - Detail "><img src="https://www.ipdb.org/images/195/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 62622: Batman Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x887</font><br>[Lee Buck]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Photo&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

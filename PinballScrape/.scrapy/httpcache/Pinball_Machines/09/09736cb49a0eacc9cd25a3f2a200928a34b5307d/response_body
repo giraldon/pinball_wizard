@@ -1,0 +1,230 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'Gilligan's Island'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway Gilligan's Island  John Youssi Ward Pemberton Dan Langlois Jon Hey Mike Boon Jon Hey ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'Gilligan's Island' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Gilligan's Island</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1004">Gilligan's Island</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1004">1004</a> <I>/ May, 1991 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1004" target="showrate1004"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1004" target="showrate1004">70 ratings/60 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1004" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>20003</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>GI</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=27">Williams WPC (Dot Matrix)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,100 units &nbsp;&nbsp;<font size="-1">(<i>approximate</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1004">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed Theme</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ward&nbsp;Pemberton' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ward%20Pemberton">Ward&nbsp;Pemberton</a></span>, <span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Langlois' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Langlois">Dan&nbsp;Langlois</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Hey' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Hey">Jon&nbsp;Hey</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Hey' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Hey">Jon&nbsp;Hey</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mike&nbsp;Boon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mike%20Boon">Mike&nbsp;Boon</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Voice-over artist Tim Kitzrow provided the voice of Mr. Howell.<br><br>First pinball game with a <a target="glossary" class="glossarylink" href="/glossary.php#Dot_Matrix_Display">Dot&nbsp;Matrix&nbsp;Display</a> (DMD) released by Williams/Bally, although <span title="Click here to open a new window and display Williams' 1991 'Terminator 2: Judgment Day'"><a target="game2524" href="machine.cgi?id=2524">Williams' 1991 'Terminator 2: Judgment Day'</a></span> was the first Williams/Bally standard pinball game *designed* with a DMD.  That game took longer to complete the design and begin production and so was released later.<br><br>The promotional video released WMS/Bally also claims the coin door latch was redesigned to ensure the general illumination (GI) is not shorted out on the coin door.  It also claims the  ball poppers were redesigned to use a single piece mechanism connected by a screw rather than the prior two piece system connected by a pin that caused some mechanical problems.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"More Points than Rescue Attempts (Points means features of the game)"<br>
+"Charts New Course to Profitable Paradise"<br>
+"Gilligan's Back!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+PinGame Journal pp. Issue 2<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 132<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 138<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1004/gilligan.htm" target="rulesheet">Gilligan's Island Guide, by Keefer</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?gilligan">http://pinball.jameswest.com/ownerslists/ownerslist.php?gilligan</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=oQcAs8doLws">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 181 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/Bally_1991_Gilligan_s_Island_Game_ROM_L_9.zip" >Game ROM L-9</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 172 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/gi_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 166 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/gi_l4.zip" >PinMAME Romset (L-4)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 167 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/gi_l6.zip" >PinMAME Romset (L-6)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 508 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/gi_l9.zip" >PinMAME Romset (L-9)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 385 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/Bally_1991_Gilligan_s_Island_Sound_ROM_L_2.zip" >Sound ROM L-2</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/Bally_1991_Gilligan_s_Island_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 177 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1004/Bally_1991_Gilligan_s_Island_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=986" 
+><span title="Image # 986: Gilligan's Island Lower playfield "><img src="https://www.ipdb.org/images/1004/tn_Lower_playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 986: Gilligan's Island Lower playfield "><br>Lower playfield</span></a><br><font size="-2">401x347</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=4035" 
+><span title="Image # 4035: Gilligan's Island Flyer, Front "><img src="https://www.ipdb.org/images/1004/tn_1004f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4035: Gilligan's Island Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1145</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=4036" 
+><span title="Image # 4036: Gilligan's Island Flyer, Back "><img src="https://www.ipdb.org/images/1004/tn_1004f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4036: Gilligan's Island Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1145</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10216" 
+><span title="Image # 10216: Gilligan's Island Full Machine with Custom Topper 
+(Note that this machine includes a custom 'topper' on the backbox.)"><img src="https://www.ipdb.org/images/1004/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 10216: Gilligan's Island Full Machine with Custom Topper 
+(Note that this machine includes a custom 'topper' on the backbox.)"><br>Full Machine with Custom "Topper"*</span></a><br><font size="-2">550x855</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10217" 
+><span title="Image # 10217: Gilligan's Island Cabinet Right "><img src="https://www.ipdb.org/images/1004/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 10217: Gilligan's Island Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">483x514</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10218" 
+><span title="Image # 10218: Gilligan's Island Cabinet Left "><img src="https://www.ipdb.org/images/1004/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 10218: Gilligan's Island Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">450x444</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10219" 
+><span title="Image # 10219: Gilligan's Island Cabinet Front "><img src="https://www.ipdb.org/images/1004/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 10219: Gilligan's Island Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">500x414</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10220" 
+><span title="Image # 10220: Gilligan's Island Backbox "><img src="https://www.ipdb.org/images/1004/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 10220: Gilligan's Island Backbox "><br>Backbox</span></a><br><font size="-2">487x526</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10221" 
+><span title="Image # 10221: Gilligan's Island Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10221: Gilligan's Island Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10222" 
+><span title="Image # 10222: Gilligan's Island Playfield Underside "><img src="https://www.ipdb.org/images/1004/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10222: Gilligan's Island Playfield Underside "><br>Playfield Underside</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10223" 
+><span title="Image # 10223: Gilligan's Island Playfield Arch 
+(Note that this machine includes custom pricing and instruction cards.)"><img src="https://www.ipdb.org/images/1004/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10223: Gilligan's Island Playfield Arch 
+(Note that this machine includes custom pricing and instruction cards.)"><br>Playfield Arch*</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10224" 
+><span title="Image # 10224: Gilligan's Island Upper Right Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10224: Gilligan's Island Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10225" 
+><span title="Image # 10225: Gilligan's Island Right Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10225: Gilligan's Island Right Playfield "><br>Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10226" 
+><span title="Image # 10226: Gilligan's Island Left Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10226: Gilligan's Island Left Playfield "><br>Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10227" 
+><span title="Image # 10227: Gilligan's Island Lower Right Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10227: Gilligan's Island Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10228" 
+><span title="Image # 10228: Gilligan's Island Lower Left Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10228: Gilligan's Island Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10229" 
+><span title="Image # 10229: Gilligan's Island Playfield Detail "><img src="https://www.ipdb.org/images/1004/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10229: Gilligan's Island Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10230" 
+><span title="Image # 10230: Gilligan's Island Upper Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 10230: Gilligan's Island Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">500x397</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10231" 
+><span title="Image # 10231: Gilligan's Island Upper Left Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10231: Gilligan's Island Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10232" 
+><span title="Image # 10232: Gilligan's Island Playfield Detail "><img src="https://www.ipdb.org/images/1004/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10232: Gilligan's Island Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10233" 
+><span title="Image # 10233: Gilligan's Island Playfield Detail "><img src="https://www.ipdb.org/images/1004/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10233: Gilligan's Island Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10234" 
+><span title="Image # 10234: Gilligan's Island Playfield Detail "><img src="https://www.ipdb.org/images/1004/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10234: Gilligan's Island Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=10235" 
+><span title="Image # 10235: Gilligan's Island Cabinet Inside "><img src="https://www.ipdb.org/images/1004/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10235: Gilligan's Island Cabinet Inside "><br>Cabinet Inside</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=28126" 
+><span title="Image # 28126: Gilligan's Island Blank Playfield "><img src="https://www.ipdb.org/images/1004/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 28126: Gilligan's Island Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">979x2000</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=42885" 
+><span title="Image # 42885: Gilligan's Island Playfield - Detail "><img src="https://www.ipdb.org/images/1004/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42885: Gilligan's Island Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=42886" 
+><span title="Image # 42886: Gilligan's Island Instruction Card "><img src="https://www.ipdb.org/images/1004/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42886: Gilligan's Island Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=42887" 
+><span title="Image # 42887: Gilligan's Island Behind Backglass "><img src="https://www.ipdb.org/images/1004/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42887: Gilligan's Island Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=42888" 
+><span title="Image # 42888: Gilligan's Island Inside Backbox "><img src="https://www.ipdb.org/images/1004/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42888: Gilligan's Island Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=50273" 
+><span title="Image # 50273: Gilligan's Island Playfield - Ball View "><img src="https://www.ipdb.org/images/1004/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50273: Gilligan's Island Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=66787" 
+><span title="Image # 66787: Gilligan's Island Backglass "><img src="https://www.ipdb.org/images/1004/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 66787: Gilligan's Island Backglass "><br>Backglass</span></a><br><font size="-2">1200x995</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=66788" 
+><span title="Image # 66788: Gilligan's Island Playfield - Detail "><img src="https://www.ipdb.org/images/1004/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 66788: Gilligan's Island Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x943</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=66789" 
+><span title="Image # 66789: Gilligan's Island Playfield - Detail "><img src="https://www.ipdb.org/images/1004/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 66789: Gilligan's Island Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x968</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=66790" 
+><span title="Image # 66790: Gilligan's Island Playfield - Detail "><img src="https://www.ipdb.org/images/1004/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 66790: Gilligan's Island Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x936</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1004&amp;picno=66791" 
+><span title="Image # 66791: Gilligan's Island Cabinet - Front View "><img src="https://www.ipdb.org/images/1004/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 66791: Gilligan's Island Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x2332</font><br>[Jean-Pierre Renault]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

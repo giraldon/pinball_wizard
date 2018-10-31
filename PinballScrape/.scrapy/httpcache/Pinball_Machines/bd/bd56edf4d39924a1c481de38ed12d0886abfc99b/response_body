@@ -1,0 +1,254 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Sonic 'Faces'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Sonic Faces Flippers (3), Pop bumpers (2), Slingshots (2), Standup targets (5), Spinning targets (2), Kick-out hole (1). Upper left ball gate is controlled by a relay under the playfield to open as an earned feature of play.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Sonic 'Faces' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Faces</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="806">Faces</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=806">806</a> <I>/ December, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=806" target="showrate806"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.2</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=806" target="showrate806">19 ratings/14 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=806" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Sonic'"><a href="search.pl?searchtype=advanced&amp;mfgid=282">Segasa d.b.a. Sonic, <font size="-1">of Spain</font> <i>[Trade Name: Sonic</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=806">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). Upper left ball <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a> is controlled by a relay under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to open as an earned feature of play.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>According to the <i>Encyclopedia of Pinball Volume 2</i>, the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> design of this game was influenced by <span title="Click here to open a new window and display Williams' 1976 'Grand Prix'"><a target="game1072" href="machine.cgi?id=1072">Williams' 1976 'Grand Prix'</a></span>.<br><br>The manufacturer's flyer shows a <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> with all <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a> being red in color and round in shape. Of the several <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> pictured in this listing, only one <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> (from France) mat<ignore>ches the flyer game in this way. Of the remaining examples, all but one use the round red targets to advance only the red bonus, with round green targets to advance the green bonus, and a round yellow target to change the bonus selection. These several mat<ignore>ching <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> suggest a target change occurred during production and after the flyer was made. All <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> discussed in this paragraph have red posts.<br><br>The remaining <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has all square yellow targets and its <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> caps do not have the red circles as do the flyer game and the other <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a>. What is interesting about this example is that all but one of its <a target="glossary" class="glossarylink" href="/glossary.php#Light_Shields">light&nbsp;shields</a> have a unique color scheme, not explained by <a target="glossary" class="glossarylink" href="/glossary.php#Red_Fade">red&nbsp;fade</a>. All posts are white, not red. Additionally, the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> area under the right <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">spinning&nbsp;target</a> shows an original value of ‘10,000 W/L’  but was covered with an appliqué reducing the value to 1,000 points. Since the game in the flyer also shows 1,000 points for this <a target="glossary" class="glossarylink" href="/glossary.php#Spinner">spinner</a> (and may or may not have this appliqué), it appears that this <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> could be a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> or Early Production version. Under the <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a>, the number ‘011’ is stamped, but its significance is unknown to us. The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> has serial number 471, a number that we would expect of a game made well into the production run. It’s possible the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> did not start out in its <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/806/Sonic_1976_Faces_Instruction_Manual_Production_Model_no_schematics.pdf" onClick="return purchasemanual();">Instruction Manual (Production Model, no schematics)</a></td><td> [Sonic]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/806/Sonic_1976_Faces_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Sonic]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=6778" 
+><span title="Image # 6778: Faces Backbox "><img src="https://www.ipdb.org/images/806/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 6778: Faces Backbox "><br>Backbox</span></a><br><font size="-2">499x480</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=6779" 
+><span title="Image # 6779: Faces Backbox "><img src="https://www.ipdb.org/images/806/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 6779: Faces Backbox "><br>Backbox</span></a><br><font size="-2">433x640</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=6780" 
+><span title="Image # 6780: Faces Full Machine "><img src="https://www.ipdb.org/images/806/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 6780: Faces Full Machine "><br>Full Machine</span></a><br><font size="-2">362x625</font><br>[Pinball World]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=13051" 
+><span title="Image # 13051: Faces Playfield "><img src="https://www.ipdb.org/images/806/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 13051: Faces Playfield "><br>Playfield</span></a><br><font size="-2">872x815</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=15487" 
+><span title="Image # 15487: Faces Upper Playfield "><img src="https://www.ipdb.org/images/806/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15487: Faces Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Schuyler]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=15488" 
+><span title="Image # 15488: Faces Middle Playfield "><img src="https://www.ipdb.org/images/806/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15488: Faces Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Schuyler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=15489" 
+><span title="Image # 15489: Faces Lower Playfield "><img src="https://www.ipdb.org/images/806/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15489: Faces Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Bob Schuyler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=16060" 
+><span title="Image # 16060: Faces Front "><img src="https://www.ipdb.org/images/806/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16060: Faces Front "><br>Front</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=18939" 
+><span title="Image # 18939: Faces Backglass "><img src="https://www.ipdb.org/images/806/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 18939: Faces Backglass "><br>Backglass</span></a><br><font size="-2">400x400</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=20134" 
+><span title="Image # 20134: Faces Flyer, Front "><img src="https://www.ipdb.org/images/806/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 20134: Faces Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">1023x1336</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=20135" 
+><span title="Image # 20135: Faces Flyer, Back "><img src="https://www.ipdb.org/images/806/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 20135: Faces Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">1024x1336</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=22182" 
+><span title="Image # 22182: Faces Illuminated Backglass "><img src="https://www.ipdb.org/images/806/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 22182: Faces Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">680x586</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=22183" 
+><span title="Image # 22183: Faces Playfield "><img src="https://www.ipdb.org/images/806/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22183: Faces Playfield "><br>Playfield</span></a><br><font size="-2">600x800</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=22184" 
+><span title="Image # 22184: Faces Cabinet - Left "><img src="https://www.ipdb.org/images/806/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 22184: Faces Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">588x583</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=22185" 
+><span title="Image # 22185: Faces Cabinet - Right "><img src="https://www.ipdb.org/images/806/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 22185: Faces Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">557x587</font><br>[Mark Schneider]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=22186" 
+><span title="Image # 22186: Faces Front View "><img src="https://www.ipdb.org/images/806/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 22186: Faces Front View "><br>Front View</span></a><br><font size="-2">284x584</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=22187" 
+><span title="Image # 22187: Faces Full View "><img src="https://www.ipdb.org/images/806/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 22187: Faces Full View "><br>Full View</span></a><br><font size="-2">353x574</font><br>[Mark Schneider]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=30352" 
+><span title="Image # 30352: Faces Backglass - Detail "><img src="https://www.ipdb.org/images/806/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30352: Faces Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=40627" 
+><span title="Image # 40627: Faces Spinning Target 
+(Both sides of the target have the same image.)"><img src="https://www.ipdb.org/images/806/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40627: Faces Spinning Target 
+(Both sides of the target have the same image.)"><br>Spinning Target*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=40628" 
+><span title="Image # 40628: Faces Relay-controlled Gate "><img src="https://www.ipdb.org/images/806/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40628: Faces Relay-controlled Gate "><br>Relay-controlled Gate</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=40629" 
+><span title="Image # 40629: Faces Relay-controlled Gate "><img src="https://www.ipdb.org/images/806/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40629: Faces Relay-controlled Gate "><br>Relay-controlled Gate</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=40630" 
+><span title="Image # 40630: Faces Relay for Gate "><img src="https://www.ipdb.org/images/806/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40630: Faces Relay for Gate "><br>Relay for Gate</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=43877" 
+><span title="Image # 43877: Faces Backglass "><img src="https://www.ipdb.org/images/806/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 43877: Faces Backglass "><br>Backglass</span></a><br><font size="-2">1024x884</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=43878" 
+><span title="Image # 43878: Faces Playfield "><img src="https://www.ipdb.org/images/806/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 43878: Faces Playfield "><br>Playfield</span></a><br><font size="-2">786x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=54051" 
+><span title="Image # 54051: Faces Playfield "><img src="https://www.ipdb.org/images/806/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 54051: Faces Playfield "><br>Playfield</span></a><br><font size="-2">1200x1474</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=54052" 
+><span title="Image # 54052: Faces Upper Playfield "><img src="https://www.ipdb.org/images/806/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 54052: Faces Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x881</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=54053" 
+><span title="Image # 54053: Faces Middle Playfield "><img src="https://www.ipdb.org/images/806/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 54053: Faces Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x893</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=54054" 
+><span title="Image # 54054: Faces Lower Playfield "><img src="https://www.ipdb.org/images/806/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 54054: Faces Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x714</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=54055" 
+><span title="Image # 54055: Faces Instruction Card "><img src="https://www.ipdb.org/images/806/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 54055: Faces Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x605</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=55216" 
+><span title="Image # 55216: Faces Alternate Light Shield Colors 
+(Serial number 471.)"><img src="https://www.ipdb.org/images/806/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55216: Faces Alternate Light Shield Colors 
+(Serial number 471.)"><br>Alternate Light Shield Colors*</span></a><br><font size="-2">900x1200</font><br>[James Barron]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=55217" 
+><span title="Image # 55217: Faces Alternate Bumper Caps 
+(Serial number 471.)"><img src="https://www.ipdb.org/images/806/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55217: Faces Alternate Bumper Caps 
+(Serial number 471.)"><br>Alternate Bumper Caps*</span></a><br><font size="-2">1200x900</font><br>[James Barron]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=55218" 
+><span title="Image # 55218: Faces Alternate Standup Targets 
+(Serial number 471.)"><img src="https://www.ipdb.org/images/806/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 55218: Faces Alternate Standup Targets 
+(Serial number 471.)"><br>Alternate Standup Targets*</span></a><br><font size="-2">1200x900</font><br>[James Barron]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=55305" 
+><span title="Image # 55305: Faces Playfield Appliqué 
+(The original 10,000 points value of the spinning target was reduced to 1,000 points. Serial number 471.)"><img src="https://www.ipdb.org/images/806/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55305: Faces Playfield Appliqué 
+(The original 10,000 points value of the spinning target was reduced to 1,000 points. Serial number 471.)"><br>Playfield Appliqué*</span></a><br><font size="-2">900x1200</font><br>[James Barron]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=55306" 
+><span title="Image # 55306: Faces Playfield Stamped Number 
+(The significance of this number 011 is unknown to us. The backbox has serial number 471.)"><img src="https://www.ipdb.org/images/806/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 55306: Faces Playfield Stamped Number 
+(The significance of this number 011 is unknown to us. The backbox has serial number 471.)"><br>Playfield Stamped Number*</span></a><br><font size="-2">900x1200</font><br>[James Barron]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=61348" 
+><span title="Image # 61348: Faces Backglass - Reverse "><img src="https://www.ipdb.org/images/806/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 61348: Faces Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">800x688</font><br>[James Schidlowsky]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=65258" 
+><span title="Image # 65258: Faces Spinning Target - Obverse "><img src="https://www.ipdb.org/images/806/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 65258: Faces Spinning Target - Obverse "><br>Spinning Target - Obverse</span></a><br><font size="-2">449x404</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69280" 
+><span title="Image # 69280: Faces Illuminated Backglass "><img src="https://www.ipdb.org/images/806/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 69280: Faces Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1040</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69281" 
+><span title="Image # 69281: Faces Illuminated Front View "><img src="https://www.ipdb.org/images/806/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 69281: Faces Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">989x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69282" 
+><span title="Image # 69282: Faces Kick-out Hole "><img src="https://www.ipdb.org/images/806/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 69282: Faces Kick-out Hole "><br>Kick-out Hole</span></a><br><font size="-2">1200x717</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69283" 
+><span title="Image # 69283: Faces Playfield - Detail "><img src="https://www.ipdb.org/images/806/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 69283: Faces Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1259</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69284" 
+><span title="Image # 69284: Faces Illuminated Playfield - Detail "><img src="https://www.ipdb.org/images/806/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69284: Faces Illuminated Playfield - Detail "><br>Illuminated Playfield - Detail</span></a><br><font size="-2">1200x899</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69285" 
+><span title="Image # 69285: Faces Playfield - Detail "><img src="https://www.ipdb.org/images/806/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 69285: Faces Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">861x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69286" 
+><span title="Image # 69286: Faces Bumper Cap "><img src="https://www.ipdb.org/images/806/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 69286: Faces Bumper Cap "><br>Bumper Cap</span></a><br><font size="-2">1024x967</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69287" 
+><span title="Image # 69287: Faces Change Bonus Target "><img src="https://www.ipdb.org/images/806/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 69287: Faces Change Bonus Target "><br>Change Bonus Target</span></a><br><font size="-2">1024x894</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69288" 
+><span title="Image # 69288: Faces Backbox - Left "><img src="https://www.ipdb.org/images/806/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=40 height=100 alt="Image # 69288: Faces Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">643x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69289" 
+><span title="Image # 69289: Faces Cabinet - Right "><img src="https://www.ipdb.org/images/806/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 69289: Faces Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1600x640</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69290" 
+><span title="Image # 69290: Faces Cabinet - Front "><img src="https://www.ipdb.org/images/806/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 69290: Faces Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x846</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=806&amp;picno=69291" 
+><span title="Image # 69291: Faces Inside Backbox "><img src="https://www.ipdb.org/images/806/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 69291: Faces Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x969</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

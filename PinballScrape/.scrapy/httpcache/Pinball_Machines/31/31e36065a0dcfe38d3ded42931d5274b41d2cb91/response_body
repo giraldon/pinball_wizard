@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Twin Win'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Twin Win Flippers (4), Pop bumpers (2), Mushroom bumpers (4), Slingshots (2), Standup targets (14), Kick-out holes (2), Spinning disc (1). Pressing button in place of ball shooter will kick ball into play from between flippers to the spinning disc.  Dave Christensen Jim Patla ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Twin Win' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Twin Win</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2689">Twin Win</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2689">2689</a> <I>/ February, 1974 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2689" target="showrate2689"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2689" target="showrate2689">16 ratings/14 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2689" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>June 11, 1971</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1974</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>920</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,570 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2689">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Auto Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">Mushroom&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (14), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), Spinning disc (1). Pressing button in place of ball shooter will kick ball into play from between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> to the spinning disc.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Patla' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Patla">Jim&nbsp;Patla</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Christensen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Christensen">Dave&nbsp;Christensen</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The girl on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> wears a hat button that indicates "Sharon", a probable reference to the Sharon Speedway in Hartford, Ohio. Opened in 1929, they describe themselves as "one of the oldest, continuously running weekly racetracks in the United States".</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a> page 12<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 58<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0890091188/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0890091188&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Portfolio</a>, page 81<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 33<br>
+Pinball The Lure of the Silverball, page 115<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2689">http://www.pinballowners.com/owners/2689</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 874 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2689/Bally_1974_Twin_Win_Manual.pdf" onClick="return purchasemanual();">Manual</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 618 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2689/Twin_Win.pdf" onClick="return purchasemanual();">Playfield Chart from 1976 Parts Catalog</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2689/Bally_1974_Twin_Win_Schematic_Diagram_paginated.pdf" onClick="return purchasemanual();">Schematic Diagram (paginated)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=2552" 
+><span title="Image # 2552: Twin Win Overall view "><img src="https://www.ipdb.org/images/2689/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 2552: Twin Win Overall view "><br>Overall view</span></a><br><font size="-2">410x660</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=2553" 
+><span title="Image # 2553: Twin Win Backglass - Adult Version 
+(Created by Dave Christensen.Photographed at Chicago Pinball Expo 1986.)"><img src="https://www.ipdb.org/images/2689/tn_Original_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 2553: Twin Win Backglass - Adult Version 
+(Created by Dave Christensen.Photographed at Chicago Pinball Expo 1986.)"><br>Backglass - Adult Version*</span></a><br><font size="-2">482x429</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=3906" 
+><span title="Image # 3906: Twin Win Flyer, Front "><img src="https://www.ipdb.org/images/2689/tn_2689f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3906: Twin Win Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">582x782</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=3907" 
+><span title="Image # 3907: Twin Win Flyer, Back "><img src="https://www.ipdb.org/images/2689/tn_2689f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 3907: Twin Win Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">782x582</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=5906" 
+><span title="Image # 5906: Twin Win Production Backglass "><img src="https://www.ipdb.org/images/2689/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 5906: Twin Win Production Backglass "><br>Production Backglass</span></a><br><font size="-2">1000x873</font><br>[Mark Gibson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=6479" 
+><span title="Image # 6479: Twin Win Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 6479: Twin Win Playfield "><br>Playfield</span></a><br><font size="-2">1024x1299</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=19645" 
+><span title="Image # 19645: Twin Win Backglass "><img src="https://www.ipdb.org/images/2689/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 19645: Twin Win Backglass "><br>Backglass</span></a><br><font size="-2">795x677</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=19646" 
+><span title="Image # 19646: Twin Win Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19646: Twin Win Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[Bob Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21926" 
+><span title="Image # 21926: Twin Win Backglass "><img src="https://www.ipdb.org/images/2689/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 21926: Twin Win Backglass "><br>Backglass</span></a><br><font size="-2">817x802</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21927" 
+><span title="Image # 21927: Twin Win Illuminated Backglass "><img src="https://www.ipdb.org/images/2689/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 21927: Twin Win Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">854x834</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21928" 
+><span title="Image # 21928: Twin Win Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 21928: Twin Win Playfield "><br>Playfield</span></a><br><font size="-2">800x1152</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21929" 
+><span title="Image # 21929: Twin Win Illuminated Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 21929: Twin Win Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">724x1152</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21930" 
+><span title="Image # 21930: Twin Win Upper Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21930: Twin Win Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21931" 
+><span title="Image # 21931: Twin Win Middle Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21931: Twin Win Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21932" 
+><span title="Image # 21932: Twin Win Middle Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21932: Twin Win Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21933" 
+><span title="Image # 21933: Twin Win Lower Playfield "><img src="https://www.ipdb.org/images/2689/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21933: Twin Win Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21934" 
+><span title="Image # 21934: Twin Win Cabinet - Left "><img src="https://www.ipdb.org/images/2689/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 21934: Twin Win Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">878x787</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21935" 
+><span title="Image # 21935: Twin Win Cabinet - Right "><img src="https://www.ipdb.org/images/2689/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 21935: Twin Win Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">914x774</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21936" 
+><span title="Image # 21936: Twin Win Cabinet - Front "><img src="https://www.ipdb.org/images/2689/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 21936: Twin Win Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">894x864</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=21937" 
+><span title="Image # 21937: Twin Win Inside Backbox "><img src="https://www.ipdb.org/images/2689/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 21937: Twin Win Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">846x836</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=45739" 
+><span title="Image # 45739: Twin Win Playfield 
+(Serial number 1520.)"><img src="https://www.ipdb.org/images/2689/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 45739: Twin Win Playfield 
+(Serial number 1520.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=45740" 
+><span title="Image # 45740: Twin Win Cabinet - Full View 
+(Serial number 1520.)"><img src="https://www.ipdb.org/images/2689/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 45740: Twin Win Cabinet - Full View 
+(Serial number 1520.)"><br>Cabinet - Full View*</span></a><br><font size="-2">928x1508</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2689&amp;picno=53583" 
+><span title="Image # 53583: Twin Win Backglass - Detail "><img src="https://www.ipdb.org/images/2689/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 53583: Twin Win Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">758x1619</font><br>[Bruce Brigham]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

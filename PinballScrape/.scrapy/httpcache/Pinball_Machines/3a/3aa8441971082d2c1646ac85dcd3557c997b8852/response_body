@@ -1,0 +1,197 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Exhibit 'Basketball'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Exhibit Basketball Basket Ball Flipperless Reclined backbox. Backglass light animation (basketball players move around court and score baskets).
+
+This is a one-player game with two scoring sequences, the Blue Team and the Red Team.  Five balls per game, using one or two coins. The first coin starts the game and lites the words 'Blue Team' on the backglass. The player can choose to insert a second coin at this time to lite the words 'Red Team' as well. There are 14 yellow bumpers, 3 blue bumpers, and 3 red bumpers. These bumpers, when hit, lite animated basketball players on the backglass to move across the court and score baskets.
+
+Game play:
+
+At the start of each game, an animated player is shown in the 'start' position on the backglass. The yellow bumpers are live, while the blue and red bumpers are dead. To score a basket for either team, any five of the yellow bumpers must first be hit. Each 'yellow hit' causes the backglass animation sequence to step just once, and the animated player is shown in stop-motion, moving in and between the stationary players on the backglass. Once the animation has reached the fifth step, the yellow bumpers cease to advance (they go dead) and the blue and red bumpers become live. If the ball in play next hits a blue bumper, an automated seven-step sequence begins, showing the animated player heading towards the right-side basket, and he sinks the ball through it, scoring for the Blue Team. However, if a red bumper was hit instead, then the animated player is shown heading towards the left-side basket and scores it for the Red Team. Only one blue or red bumper need be hit to initiate the automatic stepping sequence, which takes approximately two seconds to complete.
+
+After a basket is scored, the yellow bumpers are live again, the red and blue bumpers are dead again, the animated player is back at his start position, and game play continues. It is possible to have the same ball in play hit a live blue or red bumper, score a basket, and still be in play to hit the yellow bumpers once they go live again.
+
+A ball falling through either the Red Team rollover or the Blue Team rollover in lower playfield will automatically score a basket for that Team, even if the prerequisite five yellow bumpers have not been achieved. This is done using a shortened animated sequence, which is actually the last three steps of the longer animation sequence, and shows the ball sinking through the hoop.
+
+The playfield bottom has five ball traps and one OUT trough. A skillful shot from the plunger sending a ball through the top rollover will return to the player all balls sitting in the OUT trough. The balls in the traps can only be released upon insertion of a coin to start a new game.
+
+If a second coin is not inserted at start of game, the Red Team bumpers and animation sequence still operate during play, and the Red Team score still increments on the backglass. However, because the words 'Red Team' are not lit, the Instructions indicate that its score does not 'count'.  Since there are no replays to win and no payout mechanism of any kind, perhaps the player's incentive to insert a second coin was based on a wholesome enjoyment of the game, or maybe anticipation of under-the-counter payouts by the location owner.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Exhibit 'Basketball' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Basketball</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4669">Basketball</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4669">4669</a> <I>/ February, 1938 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4669" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Exhibit'"><a href="search.pl?searchtype=advanced&amp;mfgid=117">Exhibit Supply Company, <font size="-1">of Chicago, Illinois,<br> USA</font> (1932-1957) <i>[Trade Name: ESCO</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1938</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4669">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Basketball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+Novelty Play&nbsp;<a href="glossary.php#Novelty_Play" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Reclined <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (basketball players move around court and score baskets).<br><br>This is a one-player game with two scoring sequences, the Blue Team and the Red Team.  Five balls per game, using one or two coins. The first coin starts the game and lites the words 'Blue Team' on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. The player can choose to <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> a second coin at this time to lite the words 'Red Team' as well. There are 14 yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a>, 3 blue <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a>, and 3 red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a>. These <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a>, when hit, lite animated basketball players on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> to move across the court and score baskets.<br><br>Game play:<br><br>At the start of each game, an animated player is shown in the "start" position on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. The yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> are live, while the blue and red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> are dead. To score a basket for either team, any five of the yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> must first be hit. Each "yellow hit" causes the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> sequence to step just once, and the animated player is shown in stop-motion, moving in and between the stationary players on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Once the <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> has reached the fifth step, the yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> cease to advance (they go dead) and the blue and red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> become live. If the ball in play next hits a blue <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a>, an automated seven-step sequence begins, showing the animated player heading towards the right-side basket, and he sinks the ball through it, scoring for the Blue Team. However, if a red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> was hit instead, then the animated player is shown heading towards the left-side basket and scores it for the Red Team. Only one blue or red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> need be hit to initiate the automatic stepping sequence, which takes approximately two seconds to complete.<br><br>After a basket is scored, the yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> are live again, the red and blue <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> are dead again, the animated player is back at his start position, and game play continues. It is possible to have the same ball in play hit a live blue or red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a>, score a basket, and still be in play to hit the yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> once they go live again.<br><br>A ball falling through either the Red Team <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> or the Blue Team <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> in lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> will automatically score a basket for that Team, even if the prerequisite five yellow <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> have not been achieved. This is done using a shortened animated sequence, which is actually the last three steps of the longer <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> sequence, and shows the ball sinking through the hoop.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> bottom has five ball <a target="glossary" class="glossarylink" href="/glossary.php#Trap">traps</a> and one OUT trough. A skillful shot from the <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plunger</a> sending a ball through the top <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> will return to the player all balls sitting in the OUT trough. The balls in the <a target="glossary" class="glossarylink" href="/glossary.php#Trap">traps</a> can only be released upon insertion of a coin to start a new game.<br><br>If a second coin is not inserted at start of game, the Red Team <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> sequence still operate during play, and the Red Team score still increments on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. However, because the words 'Red Team' are not lit, the Instructions indicate that its score does not "count".  Since there are no <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replays</a> to win and no payout mechanism of any kind, perhaps the player's incentive to <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> a second coin was based on a wholesome enjoyment of the game, or maybe anticipation of under-the-counter payouts by the location owner.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> pictures were photographed to illustrate each step of the <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> sequence for the yellow, blue, and red <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a>. They do not represent an actual game in progress, therefore the Red Team lamp in the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and the Team scores may not track logically across the sequences.<br><br>Also shown is the clever <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> mechanism for automating the seven-step <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> sequence. A ball in channel device is mounted at an incline. Each time the stepper unit is energized, the ball is kicked up the channel and, when it rolls back down, it activates a switch to step the unit again, which kicks the ball back uphill again, etc. This continues until the <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> sequence has completed.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> has been repainted by the owner to m<ignore>atch the evident original color and artwork.<br><br>These patents were referenced on the Instruction card:<br><br>Patent 1973814 [GAME APPARATUS] filed May 23, 1934 and granted Sept 18, 1934 to C.R. Kirk.<br><br>Patent	2012518 [GAME APPARATUS] filed Dec 5, 1934 and granted Aug 27, 1935 to Joseph W. Orcutt, Harry A. Stearns, and Thomas L. Wall.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 347 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4669/usp1973814.pdf" >U.S. Patent No. 1,973,814</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 248 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4669/usp_2012518.pdf" >U.S. Patent No. 2,012,518</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=8163" 
+><span title="Image # 8163: Basketball Billboard Ad "><img src="https://www.ipdb.org/images/4669/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 8163: Basketball Billboard Ad "><br>Billboard Ad</span></a><br><font size="-2">780x1073</font><br>[Jack Atkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28868" 
+><span title="Image # 28868: Basketball Start Of Game "><img src="https://www.ipdb.org/images/4669/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 28868: Basketball Start Of Game "><br>Start Of Game</span></a><br><font size="-2">426x458</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28869" 
+><span title="Image # 28869: Basketball Yellow Step 1 "><img src="https://www.ipdb.org/images/4669/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 28869: Basketball Yellow Step 1 "><br>Yellow Step 1</span></a><br><font size="-2">466x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28870" 
+><span title="Image # 28870: Basketball Yellow Step 2 "><img src="https://www.ipdb.org/images/4669/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 28870: Basketball Yellow Step 2 "><br>Yellow Step 2</span></a><br><font size="-2">453x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28871" 
+><span title="Image # 28871: Basketball Yellow Step 3 "><img src="https://www.ipdb.org/images/4669/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 28871: Basketball Yellow Step 3 "><br>Yellow Step 3</span></a><br><font size="-2">467x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28872" 
+><span title="Image # 28872: Basketball Yellow Step 4 "><img src="https://www.ipdb.org/images/4669/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 28872: Basketball Yellow Step 4 "><br>Yellow Step 4</span></a><br><font size="-2">457x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28873" 
+><span title="Image # 28873: Basketball Yellow Step 5 "><img src="https://www.ipdb.org/images/4669/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 28873: Basketball Yellow Step 5 "><br>Yellow Step 5</span></a><br><font size="-2">443x449</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28874" 
+><span title="Image # 28874: Basketball Blue Step 1 "><img src="https://www.ipdb.org/images/4669/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 28874: Basketball Blue Step 1 "><br>Blue Step 1</span></a><br><font size="-2">463x462</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28875" 
+><span title="Image # 28875: Basketball Blue Step 2 "><img src="https://www.ipdb.org/images/4669/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 28875: Basketball Blue Step 2 "><br>Blue Step 2</span></a><br><font size="-2">428x442</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28876" 
+><span title="Image # 28876: Basketball Blue Step 3 "><img src="https://www.ipdb.org/images/4669/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 28876: Basketball Blue Step 3 "><br>Blue Step 3</span></a><br><font size="-2">442x444</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28877" 
+><span title="Image # 28877: Basketball Blue Step 4 "><img src="https://www.ipdb.org/images/4669/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 28877: Basketball Blue Step 4 "><br>Blue Step 4</span></a><br><font size="-2">440x441</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28878" 
+><span title="Image # 28878: Basketball Blue Step 5 "><img src="https://www.ipdb.org/images/4669/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 28878: Basketball Blue Step 5 "><br>Blue Step 5</span></a><br><font size="-2">443x442</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28879" 
+><span title="Image # 28879: Basketball Blue Step 6 "><img src="https://www.ipdb.org/images/4669/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 28879: Basketball Blue Step 6 "><br>Blue Step 6</span></a><br><font size="-2">432x440</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28880" 
+><span title="Image # 28880: Basketball Blue Step 7 "><img src="https://www.ipdb.org/images/4669/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 28880: Basketball Blue Step 7 "><br>Blue Step 7</span></a><br><font size="-2">419x440</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28881" 
+><span title="Image # 28881: Basketball Red Step 1 "><img src="https://www.ipdb.org/images/4669/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 28881: Basketball Red Step 1 "><br>Red Step 1</span></a><br><font size="-2">384x418</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28882" 
+><span title="Image # 28882: Basketball Red Step 2 "><img src="https://www.ipdb.org/images/4669/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 28882: Basketball Red Step 2 "><br>Red Step 2</span></a><br><font size="-2">425x436</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28883" 
+><span title="Image # 28883: Basketball Red Step 3 "><img src="https://www.ipdb.org/images/4669/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 28883: Basketball Red Step 3 "><br>Red Step 3</span></a><br><font size="-2">427x431</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28884" 
+><span title="Image # 28884: Basketball Red Step 4 "><img src="https://www.ipdb.org/images/4669/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 28884: Basketball Red Step 4 "><br>Red Step 4</span></a><br><font size="-2">415x410</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28885" 
+><span title="Image # 28885: Basketball Red Step 5 "><img src="https://www.ipdb.org/images/4669/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 28885: Basketball Red Step 5 "><br>Red Step 5</span></a><br><font size="-2">376x412</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28886" 
+><span title="Image # 28886: Basketball Red Step 6 "><img src="https://www.ipdb.org/images/4669/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 28886: Basketball Red Step 6 "><br>Red Step 6</span></a><br><font size="-2">435x433</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28887" 
+><span title="Image # 28887: Basketball Red Step 7 "><img src="https://www.ipdb.org/images/4669/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 28887: Basketball Red Step 7 "><br>Red Step 7</span></a><br><font size="-2">409x429</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28888" 
+><span title="Image # 28888: Basketball Playfield "><img src="https://www.ipdb.org/images/4669/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28888: Basketball Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28889" 
+><span title="Image # 28889: Basketball Instructions "><img src="https://www.ipdb.org/images/4669/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28889: Basketball Instructions "><br>Instructions</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28890" 
+><span title="Image # 28890: Basketball Cabinet - Left "><img src="https://www.ipdb.org/images/4669/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 28890: Basketball Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x406</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28891" 
+><span title="Image # 28891: Basketball Automated Step Mechanism 
+(The step coil at center of picture kicks ball uphill, which rolls back down and activates a switch to step coil again. This repeats until step sequence is completed.)"><img src="https://www.ipdb.org/images/4669/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28891: Basketball Automated Step Mechanism 
+(The step coil at center of picture kicks ball uphill, which rolls back down and activates a switch to step coil again. This repeats until step sequence is completed.)"><br>Automated Step Mechanism*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28892" 
+><span title="Image # 28892: Basketball Stepper Units 
+(From left to right: yellow, red, and blue stepper units. They are reset simultaneously by the solenoid at left, via a common linkage bar.)"><img src="https://www.ipdb.org/images/4669/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28892: Basketball Stepper Units 
+(From left to right: yellow, red, and blue stepper units. They are reset simultaneously by the solenoid at left, via a common linkage bar.)"><br>Stepper Units*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4669&amp;picno=28893" 
+><span title="Image # 28893: Basketball Front View "><img src="https://www.ipdb.org/images/4669/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 28893: Basketball Front View "><br>Front View</span></a><br><font size="-2">468x618</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

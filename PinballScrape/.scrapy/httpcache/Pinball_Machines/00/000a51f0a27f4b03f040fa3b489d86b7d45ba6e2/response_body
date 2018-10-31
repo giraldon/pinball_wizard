@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Valco 'Original Flipper'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Valco Original Flipper Redemption Game Flippers (2), Pop bumpers (2), Standup targets (6). 
+This game is EM with some electronic sounds added.
+The player receives a token every 300 points.
+Tokens can be changed for a prize.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Valco 'Original Flipper' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Original Flipper</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5220">Original Flipper</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5220">5220</a> <I>/ 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5220" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Valco'"><a href="search.pl?searchtype=advanced&amp;mfgid=576">Valco Automatenbouw B.V., <font size="-1">of Bergen op Zoom, Holland</font></a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5220">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Redemption Game&nbsp;<a href="glossary.php#Redemption_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6). <br>This game is <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> with some electronic sounds added.<br>The player receives a <a target="glossary" class="glossarylink" href="/glossary.php#Token">token</a> every 300 points.<br><a target="glossary" class="glossarylink" href="/glossary.php#Token">Tokens</a> can be changed for a prize.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This is a carnival arcade <a target="glossary" class="glossarylink" href="/glossary.php#Redemption_Game">redemption&nbsp;game</a> located in Holland and made in Italy. Initially, the name of the manufacturer was unknown to us and to the <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a>, Van der Meer, whom we had contacted at their website for more information. A senior staff member supplied this detailed reply:<br><br><i>The pinball games are the only ones of their kind known in Holland. There are a few in private use, but the rest (36 and 2 in reserve) are in use in the fair by Van der Meer. They are made in Italy but they are sold in the Netherlands by Valco Automatenbouw in [the city of] Bergen op Zoom. They are about 35 years old [as of 2009].<br><br>On the site you can see some changes of the machines, at this moment there are little LED's build in to make it more attractive. In winter time they will be painted again (outside).<br><br>We don't know how many were built exactly. The machines work by Euro's (money), 1 ball 50 ct. or 5 for 2 euro coin. At every 300 points you will get a yellow coin and with these coins you can buy prizes; the more coins, the bigger the prize. When you play with one ball, 4000 points or more (=10 yellow coins) you get 40 coins extra. At every 300 points you will hear a funny sound and when the ball falls down (end of game) you will also hear a funny sound.</i><br><br>Henk de Jager, a collector in Holland, tells us about the manufacturer:<br><br><i>"I know the Valco company, owner was Mr. Leo Vale. The Vale family was very well-known in the coin machine business during the 70s and 80s. The brother of Mr. Leo Vale, Harry Vale, had been the official Bally distributor for the Netherlands some time in the 70s. Valco was a small company producing skill games for use on (travelling) fairs. The company's address was Zeelandhaven 12 at Bergen op Zoom (Netherlands). For many years, I didn't hear anything about that firm, so I checked out at the Chamber of Commerce and I found the company was liquidated in 2009."</i><P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=u8YvU6reuIQ">Example of Play (at YouTube) [00:32]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33709" 
+><span title="Image # 33709: Original Flipper Backglass "><img src="https://www.ipdb.org/images/5220/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33709: Original Flipper Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33710" 
+><span title="Image # 33710: Original Flipper Illuminated Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33710: Original Flipper Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33711" 
+><span title="Image # 33711: Original Flipper Illuminated Front View "><img src="https://www.ipdb.org/images/5220/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33711: Original Flipper Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33712" 
+><span title="Image # 33712: Original Flipper Illuminated Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33712: Original Flipper Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33713" 
+><span title="Image # 33713: Original Flipper Illuminated Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33713: Original Flipper Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33714" 
+><span title="Image # 33714: Original Flipper Score Card "><img src="https://www.ipdb.org/images/5220/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33714: Original Flipper Score Card "><br>Score Card</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33715" 
+><span title="Image # 33715: Original Flipper Illuminated Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33715: Original Flipper Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33716" 
+><span title="Image # 33716: Original Flipper Illuminated Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 33716: Original Flipper Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=33717" 
+><span title="Image # 33717: Original Flipper Front View "><img src="https://www.ipdb.org/images/5220/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 33717: Original Flipper Front View "><br>Front View</span></a><br><font size="-2">942x760</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41956" 
+><span title="Image # 41956: Original Flipper Inside Front Door "><img src="https://www.ipdb.org/images/5220/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41956: Original Flipper Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41957" 
+><span title="Image # 41957: Original Flipper Inside Rear Access Door "><img src="https://www.ipdb.org/images/5220/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41957: Original Flipper Inside Rear Access Door "><br>Inside Rear Access Door</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41958" 
+><span title="Image # 41958: Original Flipper Under Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41958: Original Flipper Under Playfield "><br>Under Playfield</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41959" 
+><span title="Image # 41959: Original Flipper Under Playfield "><img src="https://www.ipdb.org/images/5220/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41959: Original Flipper Under Playfield "><br>Under Playfield</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41960" 
+><span title="Image # 41960: Original Flipper Inside Cabinet "><img src="https://www.ipdb.org/images/5220/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41960: Original Flipper Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41961" 
+><span title="Image # 41961: Original Flipper Inside Cabinet "><img src="https://www.ipdb.org/images/5220/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41961: Original Flipper Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41962" 
+><span title="Image # 41962: Original Flipper Inside Backbox "><img src="https://www.ipdb.org/images/5220/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41962: Original Flipper Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41963" 
+><span title="Image # 41963: Original Flipper Inside Backbox - Token Dispensers "><img src="https://www.ipdb.org/images/5220/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41963: Original Flipper Inside Backbox - Token Dispensers "><br>Inside Backbox - Token Dispensers</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41964" 
+><span title="Image # 41964: Original Flipper Inside Backbox - Score Reels "><img src="https://www.ipdb.org/images/5220/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41964: Original Flipper Inside Backbox - Score Reels "><br>Inside Backbox - Score Reels</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5220&amp;picno=41965" 
+><span title="Image # 41965: Original Flipper Inside Backbox - Score Reel "><img src="https://www.ipdb.org/images/5220/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41965: Original Flipper Inside Backbox - Score Reel "><br>Inside Backbox - Score Reel</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

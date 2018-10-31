@@ -1,0 +1,509 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Eight Ball Deluxe'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Eight Ball Deluxe 8 ball deluxe Flippers (3), Pop bumpers (3), Kick-out hole (1), 7-bank drop targets (1), 4-in-line drop targets, Stand-alone drop target (1). Backbox hinges downward.
+
+This original version EBD differs from the later Bally/Midway version as follows:
+1) Apron (cardholder) is yellow/white, not black.
+2) Front of cabinet has same art theme as sides, not solid black.
+3) Backbox has white wood frame around backglass.
+4) Playfield lamps are individual light sockets and not mounted on PCB boards.
+5) Backglass is not hinged and lifts completely out of backbox.  Margaret Hudson George Christian ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Eight Ball Deluxe' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Eight Ball Deluxe</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="762">Eight Ball Deluxe</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=762">762</a> <I>/ April, 1981 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=762" target="showrate762"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=762" target="showrate762">83 ratings/66 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=762" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>September 15, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1981</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1220</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>8BD, EBD</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>8,250 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=762">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Billiards</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 4-in-line <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>, Stand-alone <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> (1). <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> hinges downward.<br><br>This original version EBD differs from the later Bally/Midway version as follows:<br>1) <a target="glossary" class="glossarylink" href="/glossary.php#Apron">Apron</a> (cardholder) is yellow/white, not black.<br>2) Front of <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> has same art theme as sides, not solid black.<br>3) <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> has white wood frame around <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.<br>4) <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> lamps are individual light sockets and not mounted on <a target="glossary" class="glossarylink" href="/glossary.php#PCB">PCB</a> boards.<br>5) <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> is not hinged and lifts completely out of <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Christian' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Christian">George&nbsp;Christian</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Margaret&nbsp;Hudson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Margaret%20Hudson">Margaret&nbsp;Hudson</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Unlike other Bally electronic pinball games, their documentation for this game shows the model number only as 1220, not 1220-E.<br><br>Roughly 400 of the first games produced had white <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> caps and bodies instead of the more familiar golden ones. Pictured here is a game with serial number 1394 having these white <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumpers</a>.<br><br>Some of the first games had plastic <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a>. The one pictured here is serial number 1007. It has the white <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">pop&nbsp;bumper</a> bodies but its <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps were replaced with the later version.<br><br>This game was very successful, and was produced again as Model 0B87, <span title="Click here to open a new window and display Bally Midway's 1984 'Eight Ball Deluxe'"><a target="game5021" href="machine.cgi?id=5021">Bally Midway's 1984 'Eight Ball Deluxe'</a></span>.<br><br><font color="FF0000">We are seeking the manual for this game that indicates Model 1220 on its cover, not 0B87.</font><br><br><font color="FF0000">We are also seeking the schematic diagram known to exist for the alpha-numeric proto<ignore>type version of this game.</font><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, pages 44-45<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 194<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 108, 117, 197, and 309<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 118<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 80<br>
+Pinball The Lure of the Silverball, page 88<br>
+Pinball (Zsolnay), page 42<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, page 174<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/762/ebd.htm" target="rulesheet">Eight Ball Deluxe Rulesheet (Sep/21/1993), by Stephen Jonke</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/762">http://www.pinballowners.com/owners/762</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/eballdlx.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/eballdlb.zip" >PinMAME Romset (Alternate)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 62 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_Prototype_ROM_Rev_1.zip" >Prototype ROM Rev. 1</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_Prototype_ROM_Rev_2.zip" >Prototype ROM Rev. 2</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 61 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_Prototype_ROM_Rev_3.zip" >Prototype ROM Rev. 3</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 60 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_Prototype_ROM_Rev_4.zip" >Prototype ROM Rev. 4</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 19 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_ROMs.zip" >ROMs</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 38 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_English_Manual_includes_paginated_schematics.pdf" onClick="return purchasemanual();">English Manual (includes paginated schematics)</a></td><td> [Bally Midway Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/762/Bally_1981_Eight_Ball_Deluxe_German_Instruction_Manual.pdf" onClick="return purchasemanual();">German Manual (no schematics)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=740" 
+><span title="Image # 740: Eight Ball Deluxe Original Pop Bumpers "><img src="https://www.ipdb.org/images/762/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 740: Eight Ball Deluxe Original Pop Bumpers "><br>Original Pop Bumpers</span></a><br><font size="-2">342x498</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=3153" 
+><span title="Image # 3153: Eight Ball Deluxe Front View "><img src="https://www.ipdb.org/images/762/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 3153: Eight Ball Deluxe Front View "><br>Front View</span></a><br><font size="-2">555x1197</font><br>[David O'Neil]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=3154" 
+><span title="Image # 3154: Eight Ball Deluxe Playfield "><img src="https://www.ipdb.org/images/762/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 3154: Eight Ball Deluxe Playfield "><br>Playfield</span></a><br><font size="-2">960x1280</font><br>[David O'Neil]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=4181" 
+><span title="Image # 4181: Eight Ball Deluxe Flyer, Front "><img src="https://www.ipdb.org/images/762/tn_762f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4181: Eight Ball Deluxe Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">844x1093</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=4182" 
+><span title="Image # 4182: Eight Ball Deluxe Flyer, Back "><img src="https://www.ipdb.org/images/762/tn_762f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 4182: Eight Ball Deluxe Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">852x1145</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=6508" 
+><span title="Image # 6508: Eight Ball Deluxe Backglass "><img src="https://www.ipdb.org/images/762/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 6508: Eight Ball Deluxe Backglass "><br>Backglass</span></a><br><font size="-2">1024x911</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=6530" 
+><span title="Image # 6530: Eight Ball Deluxe Prototype BackboxPlay The Best "><img src="https://www.ipdb.org/images/762/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 6530: Eight Ball Deluxe Prototype BackboxPlay The Best "><br>Prototype Backbox<br>"Play The Best"</span></a><br><font size="-2">1024x987</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=6531" 
+><span title="Image # 6531: Eight Ball Deluxe Prototype BackboxTry Me, I'm Easy "><img src="https://www.ipdb.org/images/762/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 6531: Eight Ball Deluxe Prototype BackboxTry Me, I'm Easy "><br>Prototype Backbox<Br>"Try Me, I'm Easy"</span></a><br><font size="-2">1024x939</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=9006" 
+><span title="Image # 9006: Eight Ball Deluxe Original Pop Bumpers 
+(This game has serial number EBD 1394.)"><img src="https://www.ipdb.org/images/762/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9006: Eight Ball Deluxe Original Pop Bumpers 
+(This game has serial number EBD 1394.)"><br>Original Pop Bumpers*</span></a><br><font size="-2">640x480</font><br>[Will B. Ready]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=9007" 
+><span title="Image # 9007: Eight Ball Deluxe Lower Playfield 
+(This game has serial number EBD 1394.)"><img src="https://www.ipdb.org/images/762/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9007: Eight Ball Deluxe Lower Playfield 
+(This game has serial number EBD 1394.)"><br>Lower Playfield*</span></a><br><font size="-2">640x480</font><br>[Will B. Ready]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=9008" 
+><span title="Image # 9008: Eight Ball Deluxe Playfield Detail 
+(Notice the white pop bumper cap. This game has serial number EBD 1394.)"><img src="https://www.ipdb.org/images/762/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9008: Eight Ball Deluxe Playfield Detail 
+(Notice the white pop bumper cap. This game has serial number EBD 1394.)"><br>Playfield Detail*</span></a><br><font size="-2">640x480</font><br>[Will B. Ready]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12541" 
+><span title="Image # 12541: Eight Ball Deluxe Backglass "><img src="https://www.ipdb.org/images/762/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12541: Eight Ball Deluxe Backglass "><br>Backglass</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12542" 
+><span title="Image # 12542: Eight Ball Deluxe Backglass - Reverse "><img src="https://www.ipdb.org/images/762/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 12542: Eight Ball Deluxe Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">500x291</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12543" 
+><span title="Image # 12543: Eight Ball Deluxe Playfield "><img src="https://www.ipdb.org/images/762/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12543: Eight Ball Deluxe Playfield "><br>Playfield</span></a><br><font size="-2">400x533</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12544" 
+><span title="Image # 12544: Eight Ball Deluxe Upper Playfield "><img src="https://www.ipdb.org/images/762/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12544: Eight Ball Deluxe Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">550x413</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12545" 
+><span title="Image # 12545: Eight Ball Deluxe Upper Playfield "><img src="https://www.ipdb.org/images/762/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12545: Eight Ball Deluxe Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">550x413</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12546" 
+><span title="Image # 12546: Eight Ball Deluxe Middle Playfield "><img src="https://www.ipdb.org/images/762/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12546: Eight Ball Deluxe Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">550x413</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12547" 
+><span title="Image # 12547: Eight Ball Deluxe Playfield "><img src="https://www.ipdb.org/images/762/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12547: Eight Ball Deluxe Playfield "><br>Playfield</span></a><br><font size="-2">550x413</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12548" 
+><span title="Image # 12548: Eight Ball Deluxe Lower Playfield "><img src="https://www.ipdb.org/images/762/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12548: Eight Ball Deluxe Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">550x413</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12549" 
+><span title="Image # 12549: Eight Ball Deluxe Cabinet - Left "><img src="https://www.ipdb.org/images/762/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 12549: Eight Ball Deluxe Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">600x271</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12550" 
+><span title="Image # 12550: Eight Ball Deluxe Cabinet - Right "><img src="https://www.ipdb.org/images/762/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 12550: Eight Ball Deluxe Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">600x346</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12551" 
+><span title="Image # 12551: Eight Ball Deluxe Front "><img src="https://www.ipdb.org/images/762/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 12551: Eight Ball Deluxe Front "><br>Front</span></a><br><font size="-2">500x394</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12552" 
+><span title="Image # 12552: Eight Ball Deluxe Backbox "><img src="https://www.ipdb.org/images/762/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 12552: Eight Ball Deluxe Backbox "><br>Backbox</span></a><br><font size="-2">400x476</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12553" 
+><span title="Image # 12553: Eight Ball Deluxe Inside Backbox "><img src="https://www.ipdb.org/images/762/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12553: Eight Ball Deluxe Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=12554" 
+><span title="Image # 12554: Eight Ball Deluxe Full View "><img src="https://www.ipdb.org/images/762/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 12554: Eight Ball Deluxe Full View "><br>Full View</span></a><br><font size="-2">450x677</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=21909" 
+><span title="Image # 21909: Eight Ball Deluxe Backglass "><img src="https://www.ipdb.org/images/762/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 21909: Eight Ball Deluxe Backglass "><br>Backglass</span></a><br><font size="-2">990x912</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=21910" 
+><span title="Image # 21910: Eight Ball Deluxe Backglass - Reverse "><img src="https://www.ipdb.org/images/762/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 21910: Eight Ball Deluxe Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">964x870</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=24037" 
+><span title="Image # 24037: Eight Ball Deluxe Prototype Backbox Play Bally Games "><img src="https://www.ipdb.org/images/762/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 24037: Eight Ball Deluxe Prototype Backbox Play Bally Games "><br>Prototype Backbox "Play Bally Games"</span></a><br><font size="-2">605x592</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=24038" 
+><span title="Image # 24038: Eight Ball Deluxe Prototype Backbox Fifth Place High Score "><img src="https://www.ipdb.org/images/762/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 24038: Eight Ball Deluxe Prototype Backbox Fifth Place High Score "><br>Prototype Backbox "Fifth Place" High Score</span></a><br><font size="-2">610x595</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25903" 
+><span title="Image # 25903: Eight Ball Deluxe Early Production Backglass 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 25903: Eight Ball Deluxe Early Production Backglass 
+(Serial number 1007.)"><br>Early Production Backglass*</span></a><br><font size="-2">376x518</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25904" 
+><span title="Image # 25904: Eight Ball Deluxe Early Production Backglass - Reverse 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 25904: Eight Ball Deluxe Early Production Backglass - Reverse 
+(Serial number 1007.)"><br>Early Production Backglass - Reverse*</span></a><br><font size="-2">834x583</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25905" 
+><span title="Image # 25905: Eight Ball Deluxe Early Production Plastic Playfield 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 25905: Eight Ball Deluxe Early Production Plastic Playfield 
+(Serial number 1007.)"><br>Early Production Plastic Playfield*</span></a><br><font size="-2">604x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25906" 
+><span title="Image # 25906: Eight Ball Deluxe Early Production Plastic Playfield 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 25906: Eight Ball Deluxe Early Production Plastic Playfield 
+(Serial number 1007.)"><br>Early Production Plastic Playfield*</span></a><br><font size="-2">583x888</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25907" 
+><span title="Image # 25907: Eight Ball Deluxe Early Production Plastic Playfield Edge 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 25907: Eight Ball Deluxe Early Production Plastic Playfield Edge 
+(Serial number 1007.)"><br>Early Production Plastic Playfield Edge*</span></a><br><font size="-2">574x594</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25908" 
+><span title="Image # 25908: Eight Ball Deluxe Under Early Production Plastic Playfield 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 25908: Eight Ball Deluxe Under Early Production Plastic Playfield 
+(Serial number 1007.)"><br>Under Early Production Plastic Playfield*</span></a><br><font size="-2">287x425</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=25909" 
+><span title="Image # 25909: Eight Ball Deluxe Early Production Cabinet - Left 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/762/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 25909: Eight Ball Deluxe Early Production Cabinet - Left 
+(Serial number 1007.)"><br>Early Production Cabinet - Left*</span></a><br><font size="-2">454x594</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=28160" 
+><span title="Image # 28160: Eight Ball Deluxe Playfield "><img src="https://www.ipdb.org/images/762/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 28160: Eight Ball Deluxe Playfield "><br>Playfield</span></a><br><font size="-2">1024x1572</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=28161" 
+><span title="Image # 28161: Eight Ball Deluxe Lower Playfield "><img src="https://www.ipdb.org/images/762/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 28161: Eight Ball Deluxe Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=28162" 
+><span title="Image # 28162: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/762/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 28162: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=28163" 
+><span title="Image # 28163: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/762/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 28163: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=28164" 
+><span title="Image # 28164: Eight Ball Deluxe Playfield - Detail "><img src="https://www.ipdb.org/images/762/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 28164: Eight Ball Deluxe Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=29982" 
+><span title="Image # 29982: Eight Ball Deluxe Original Backglass Artwork 
+(Artist is Margaret Hudson.Acrylic paint on illustration board.Dimensions are unavailable.)"><img src="https://www.ipdb.org/images/762/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 29982: Eight Ball Deluxe Original Backglass Artwork 
+(Artist is Margaret Hudson.Acrylic paint on illustration board.Dimensions are unavailable.)"><br>Original Backglass Artwork*</span></a><br><font size="-2">1024x776</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=37204" 
+><span title="Image # 37204: Eight Ball Deluxe Stripped Playfield "><img src="https://www.ipdb.org/images/762/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37204: Eight Ball Deluxe Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=37205" 
+><span title="Image # 37205: Eight Ball Deluxe Stripped Lower Playfield "><img src="https://www.ipdb.org/images/762/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37205: Eight Ball Deluxe Stripped Lower Playfield "><br>Stripped Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=37557" 
+><span title="Image # 37557: Eight Ball Deluxe Bare Playfield 
+(Described to us as New Old Stock.)"><img src="https://www.ipdb.org/images/762/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 37557: Eight Ball Deluxe Bare Playfield 
+(Described to us as New Old Stock.)"><br>Bare Playfield*</span></a><br><font size="-2">502x1058</font><br>[Jesse Kujawa]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58771" 
+><span title="Image # 58771: Eight Ball Deluxe Prototype Game - Illuminated Backglass 
+(Unlike other prototypes of this game, this one records only the highest score. Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 58771: Eight Ball Deluxe Prototype Game - Illuminated Backglass 
+(Unlike other prototypes of this game, this one records only the highest score. Serial number EED9201.)"><br>Prototype Game - Illuminated Backglass*</span></a><br><font size="-2">987x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58772" 
+><span title="Image # 58772: Eight Ball Deluxe Prototype Game - Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58772: Eight Ball Deluxe Prototype Game - Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Playfield*</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58773" 
+><span title="Image # 58773: Eight Ball Deluxe Prototype Game - Upper Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58773: Eight Ball Deluxe Prototype Game - Upper Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58774" 
+><span title="Image # 58774: Eight Ball Deluxe Prototype Game - Upper Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58774: Eight Ball Deluxe Prototype Game - Upper Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58775" 
+><span title="Image # 58775: Eight Ball Deluxe Prototype Game - Upper Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58775: Eight Ball Deluxe Prototype Game - Upper Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58776" 
+><span title="Image # 58776: Eight Ball Deluxe Prototype Game - Middle Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58776: Eight Ball Deluxe Prototype Game - Middle Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Middle Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58777" 
+><span title="Image # 58777: Eight Ball Deluxe Prototype Game - Middle Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58777: Eight Ball Deluxe Prototype Game - Middle Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Middle Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58778" 
+><span title="Image # 58778: Eight Ball Deluxe Prototype Game - Middle Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58778: Eight Ball Deluxe Prototype Game - Middle Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Middle Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58779" 
+><span title="Image # 58779: Eight Ball Deluxe Prototype Game - Lower Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58779: Eight Ball Deluxe Prototype Game - Lower Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58780" 
+><span title="Image # 58780: Eight Ball Deluxe Prototype Game - Lower Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58780: Eight Ball Deluxe Prototype Game - Lower Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58781" 
+><span title="Image # 58781: Eight Ball Deluxe Prototype Game - Backbox - Left 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 58781: Eight Ball Deluxe Prototype Game - Backbox - Left 
+(Serial number EED9201.)"><br>Prototype Game - Backbox - Left*</span></a><br><font size="-2">818x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58782" 
+><span title="Image # 58782: Eight Ball Deluxe Prototype Game - Backbox - Right 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 58782: Eight Ball Deluxe Prototype Game - Backbox - Right 
+(Serial number EED9201.)"><br>Prototype Game - Backbox - Right*</span></a><br><font size="-2">656x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58783" 
+><span title="Image # 58783: Eight Ball Deluxe Prototype Game - Cabinet - Left 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 58783: Eight Ball Deluxe Prototype Game - Cabinet - Left 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Left*</span></a><br><font size="-2">763x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58784" 
+><span title="Image # 58784: Eight Ball Deluxe Prototype Game - Cabinet - Left 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58784: Eight Ball Deluxe Prototype Game - Cabinet - Left 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Left*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58785" 
+><span title="Image # 58785: Eight Ball Deluxe Prototype Game - Cabinet - Right 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58785: Eight Ball Deluxe Prototype Game - Cabinet - Right 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Right*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58786" 
+><span title="Image # 58786: Eight Ball Deluxe Prototype Game - Cabinet - Front 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 58786: Eight Ball Deluxe Prototype Game - Cabinet - Front 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Front*</span></a><br><font size="-2">877x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58787" 
+><span title="Image # 58787: Eight Ball Deluxe Prototype Game - Cabinet - Bottom Front 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58787: Eight Ball Deluxe Prototype Game - Cabinet - Bottom Front 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Bottom Front*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58788" 
+><span title="Image # 58788: Eight Ball Deluxe Prototype Game - Cabinet - Bottom Rear 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58788: Eight Ball Deluxe Prototype Game - Cabinet - Bottom Rear 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Bottom Rear*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58789" 
+><span title="Image # 58789: Eight Ball Deluxe Prototype Game - Cabinet - Full View 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 58789: Eight Ball Deluxe Prototype Game - Cabinet - Full View 
+(Serial number EED9201.)"><br>Prototype Game - Cabinet - Full View*</span></a><br><font size="-2">628x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58790" 
+><span title="Image # 58790: Eight Ball Deluxe Prototype Game - Backbox Insert - Front 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 58790: Eight Ball Deluxe Prototype Game - Backbox Insert - Front 
+(Serial number EED9201.)"><br>Prototype Game - Backbox Insert - Front*</span></a><br><font size="-2">788x763</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58791" 
+><span title="Image # 58791: Eight Ball Deluxe Prototype Game - Illuminated Backbox Insert 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 58791: Eight Ball Deluxe Prototype Game - Illuminated Backbox Insert 
+(Serial number EED9201.)"><br>Prototype Game - Illuminated Backbox Insert*</span></a><br><font size="-2">876x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58792" 
+><span title="Image # 58792: Eight Ball Deluxe Prototype Game - Inside Backbox 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58792: Eight Ball Deluxe Prototype Game - Inside Backbox 
+(Serial number EED9201.)"><br>Prototype Game - Inside Backbox*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58793" 
+><span title="Image # 58793: Eight Ball Deluxe Prototype Game - Inside Backbox - Detail 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58793: Eight Ball Deluxe Prototype Game - Inside Backbox - Detail 
+(Serial number EED9201.)"><br>Prototype Game - Inside Backbox - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58794" 
+><span title="Image # 58794: Eight Ball Deluxe Prototype Game - Inside Backbox - Detail 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-66.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58794: Eight Ball Deluxe Prototype Game - Inside Backbox - Detail 
+(Serial number EED9201.)"><br>Prototype Game - Inside Backbox - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58795" 
+><span title="Image # 58795: Eight Ball Deluxe Prototype Game - Inside Backbox - Detail 
+(The owner states this Squawk and Talk board may not be original to this prototype game because it doesn't have a serial number sticker and the sound ROM on this board has been updated. Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-67.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58795: Eight Ball Deluxe Prototype Game - Inside Backbox - Detail 
+(The owner states this Squawk and Talk board may not be original to this prototype game because it doesn't have a serial number sticker and the sound ROM on this board has been updated. Serial number EED9201.)"><br>Prototype Game - Inside Backbox - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58796" 
+><span title="Image # 58796: Eight Ball Deluxe Prototype Game - Under Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-68.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58796: Eight Ball Deluxe Prototype Game - Under Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Under Playfield*</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58797" 
+><span title="Image # 58797: Eight Ball Deluxe Prototype Game - Under Upper Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-69.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58797: Eight Ball Deluxe Prototype Game - Under Upper Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Under Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58798" 
+><span title="Image # 58798: Eight Ball Deluxe Prototype Game - Under Middle Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-70.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58798: Eight Ball Deluxe Prototype Game - Under Middle Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Under Middle Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58799" 
+><span title="Image # 58799: Eight Ball Deluxe Prototype Game - Under Lower Playfield 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-71.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58799: Eight Ball Deluxe Prototype Game - Under Lower Playfield 
+(Serial number EED9201.)"><br>Prototype Game - Under Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58800" 
+><span title="Image # 58800: Eight Ball Deluxe Prototype Game - Under Playfield - Detail 
+(Slingshot kicker mechanism with coil removed to see the tapered plunger. Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-72.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58800: Eight Ball Deluxe Prototype Game - Under Playfield - Detail 
+(Slingshot kicker mechanism with coil removed to see the tapered plunger. Serial number EED9201.)"><br>Prototype Game - Under Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58801" 
+><span title="Image # 58801: Eight Ball Deluxe Prototype Game - Under Playfield - Detail 
+(Slingshot kicker mechanism. Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-73.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58801: Eight Ball Deluxe Prototype Game - Under Playfield - Detail 
+(Slingshot kicker mechanism. Serial number EED9201.)"><br>Prototype Game - Under Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58802" 
+><span title="Image # 58802: Eight Ball Deluxe Prototype Game - Under Playfield - Detail 
+(Flipper mechanism with coil removed to see the tapered plunger. Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-74.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58802: Eight Ball Deluxe Prototype Game - Under Playfield - Detail 
+(Flipper mechanism with coil removed to see the tapered plunger. Serial number EED9201.)"><br>Prototype Game - Under Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58803" 
+><span title="Image # 58803: Eight Ball Deluxe Prototype Game - Inside Cabinet - Front 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-75.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58803: Eight Ball Deluxe Prototype Game - Inside Cabinet - Front 
+(Serial number EED9201.)"><br>Prototype Game - Inside Cabinet - Front*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58804" 
+><span title="Image # 58804: Eight Ball Deluxe Prototype Game - Inside Cabinet - Rear 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-76.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58804: Eight Ball Deluxe Prototype Game - Inside Cabinet - Rear 
+(Serial number EED9201.)"><br>Prototype Game - Inside Cabinet - Rear*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58834" 
+><span title="Image # 58834: Eight Ball Deluxe Prototype Game - Power Supply Module "><img src="https://www.ipdb.org/images/762/tn_image-77.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58834: Eight Ball Deluxe Prototype Game - Power Supply Module "><br>Prototype Game - Power Supply Module</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58835" 
+><span title="Image # 58835: Eight Ball Deluxe Prototype Game - Backbox Insert - Reverse 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-80.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 58835: Eight Ball Deluxe Prototype Game - Backbox Insert - Reverse 
+(Serial number EED9201.)"><br>Prototype Game - Backbox Insert - Reverse*</span></a><br><font size="-2">1150x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58836" 
+><span title="Image # 58836: Eight Ball Deluxe Prototype Game - Inside Cabinet - Score Display 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-78.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58836: Eight Ball Deluxe Prototype Game - Inside Cabinet - Score Display 
+(Serial number EED9201.)"><br>Prototype Game - Inside Cabinet - Score Display*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58837" 
+><span title="Image # 58837: Eight Ball Deluxe Prototype Game - Pop Bumper Mechanisms 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-81.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58837: Eight Ball Deluxe Prototype Game - Pop Bumper Mechanisms 
+(Serial number EED9201.)"><br>Prototype Game - Pop Bumper Mechanisms*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58838" 
+><span title="Image # 58838: Eight Ball Deluxe Prototype Game - Lamp Diodes 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-79.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58838: Eight Ball Deluxe Prototype Game - Lamp Diodes 
+(Serial number EED9201.)"><br>Prototype Game - Lamp Diodes*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58839" 
+><span title="Image # 58839: Eight Ball Deluxe Prototype Game - Backglass - Reverse 
+(Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-82.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 58839: Eight Ball Deluxe Prototype Game - Backglass - Reverse 
+(Serial number EED9201.)"><br>Prototype Game - Backglass - Reverse*</span></a><br><font size="-2">1082x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=58840" 
+><span title="Image # 58840: Eight Ball Deluxe Prototype Game - Coil Stop Comparison 
+(Left to Right: Williams WPC games, Bally production games, Bally prototype Eight Ball Deluxe. Reportedly, Bally 'Safecracker' used a similarly tapered plunger and coil stop in the backbox 'Magic Token' dispenser but the lengths are slightly different. Serial number EED9201.)"><img src="https://www.ipdb.org/images/762/tn_image-83.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 58840: Eight Ball Deluxe Prototype Game - Coil Stop Comparison 
+(Left to Right: Williams WPC games, Bally production games, Bally prototype Eight Ball Deluxe. Reportedly, Bally 'Safecracker' used a similarly tapered plunger and coil stop in the backbox 'Magic Token' dispenser but the lengths are slightly different. Serial number EED9201.)"><br>Prototype Game - Coil Stop Comparison*</span></a><br><font size="-2">1079x701</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=762&amp;picno=70560" 
+><span title="Image # 70560: Eight Ball Deluxe Pre-Production Backglass Art 
+(Artist is Margaret Hudson.Pencil on trace paper.Dimensions approximately 14 inches by 15 inches.)"><img src="https://www.ipdb.org/images/762/tn_image-84.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 70560: Eight Ball Deluxe Pre-Production Backglass Art 
+(Artist is Margaret Hudson.Pencil on trace paper.Dimensions approximately 14 inches by 15 inches.)"><br>Pre-Production Backglass Art*</span></a><br><font size="-2">1200x1132</font><br>[James Loflin]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

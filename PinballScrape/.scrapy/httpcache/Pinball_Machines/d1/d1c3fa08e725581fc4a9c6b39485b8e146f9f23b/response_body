@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Zaccaria 'Farfalla'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Zaccaria Farfalla Pop bumpers (4). One 3-bank, two 4-bank, and one 6-bank drop targets. Six flippers (two on the main playfield, two on the upper transparent playfield, and two outlane-save flippers). Timed 'bonus ball'. Elevated ball shooter lane. An audio jack located on the cabinet front underneath the ball shooter allows listening to the game via headphones.  Lorenzo Rimondini ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Zaccaria 'Farfalla' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Farfalla</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="824">Farfalla</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=824">824</a> <I>/ September, 1983 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=824" target="showrate824"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=824" target="showrate824">31 ratings/20 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=824" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Zaccaria'"><a href="search.pl?searchtype=advanced&amp;mfgid=356">Zaccaria, <font size="-1">of Bologna, Italy</font> (1974-1987)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1983</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=36">Zaccaria Generation 2</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=824">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4). One 3-bank, two 4-bank, and one 6-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>. Six <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> (two on the main <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, two on the upper <a target="glossary" class="glossarylink" href="/glossary.php#Transparent">transparent</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, and two outlane-save flippers). Timed "bonus ball". Elevated ball shooter lane. An audio jack located on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> front underneath the ball shooter allows listening to the game via headphones.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Lorenzo&nbsp;Rimondini' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lorenzo%20Rimondini">Lorenzo&nbsp;Rimondini</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Game uses a 1B1165/1 MPU, five 1B13123 (7 Digit) Display boards, a 1B11136 or 1B11136/0 Sound board, a 1B1166 driver board, and a 1B11167/0 Power Supply board.<br><br>Farfalla is Italian for "butterfly".<br><br>In the Files Section is a partial manual for this game and its Table of Contents indicates it has pages printed in Italian, German, English, and French. However, only the Italian language pages are included. The document has no front cover and it's last page indicates Farfalla is Serial Number 1532 which may be the model number for this game.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 148 (Italian backglass)<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 230 (Italian backglass)<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.zaccaria-pinball.com/rulesheets/farfalla.html" target="rulesheet">David Gersic's Rules Sheet</a>&nbsp;&nbsp;<font size="-1"><I>(External Site)</i></font><br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 24 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/farfalla.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/farfallg.zip" >PinMAME Romset (German)</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/farfalli.zip" >PinMAME Romset (Italian)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 24 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/Zaccaria_1983_Farfalla_ROMs.zip" >ROMs</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/Zaccaria_1983_Farfalla_Manual.pdf" onClick="return purchasemanual();">English Manual (an amalgamation of more than one manual)</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/Zaccaria_1983_Farfalla_Partial_Manual_Italian_language_only_missing_pages_12_42.pdf" onClick="return purchasemanual();">Partial Manual (Italian language only; missing pages 12-42)</a></td><td> [Zaccaria]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 5 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/824/Zaccaria_1983_Farfalla_Schematics.pdf" onClick="return purchasemanual();">Schematics</a></td><td> [Zaccaria]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=3407" 
+><span title="Image # 3407: Farfalla Flyer, Back "><img src="https://www.ipdb.org/images/824/tn_824f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 3407: Farfalla Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">566x788</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=3408" 
+><span title="Image # 3408: Farfalla Flyer, Page 2 "><img src="https://www.ipdb.org/images/824/tn_824f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 3408: Farfalla Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">554x796</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=3409" 
+><span title="Image # 3409: Farfalla Flyer, Page 3 "><img src="https://www.ipdb.org/images/824/tn_824f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 3409: Farfalla Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">552x782</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=3704" 
+><span title="Image # 3704: Farfalla Flyer, Front "><img src="https://www.ipdb.org/images/824/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 3704: Farfalla Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">603x864</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=6148" 
+><span title="Image # 6148: Farfalla Backglass "><img src="https://www.ipdb.org/images/824/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 6148: Farfalla Backglass "><br>Backglass</span></a><br><font size="-2">690x638</font><br>[Riffhard]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=8573" 
+><span title="Image # 8573: Farfalla Backglass "><img src="https://www.ipdb.org/images/824/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 8573: Farfalla Backglass "><br>Backglass</span></a><br><font size="-2">899x758</font><br>[David Gersic]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=8574" 
+><span title="Image # 8574: Farfalla Cabinet - Front "><img src="https://www.ipdb.org/images/824/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8574: Farfalla Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">899x671</font><br>[David Gersic]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=8575" 
+><span title="Image # 8575: Farfalla Cabinet - Left "><img src="https://www.ipdb.org/images/824/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=38 alt="Image # 8575: Farfalla Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">897x341</font><br>[David Gersic]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=8576" 
+><span title="Image # 8576: Farfalla Backbox - Right "><img src="https://www.ipdb.org/images/824/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 8576: Farfalla Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">349x799</font><br>[David Gersic]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=8577" 
+><span title="Image # 8577: Farfalla Playfield "><img src="https://www.ipdb.org/images/824/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8577: Farfalla Playfield "><br>Playfield</span></a><br><font size="-2">649x861</font><br>[David Gersic]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=11985" 
+><span title="Image # 11985: Farfalla Backglass "><img src="https://www.ipdb.org/images/824/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 11985: Farfalla Backglass "><br>Backglass</span></a><br><font size="-2">618x586</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=11986" 
+><span title="Image # 11986: Farfalla Playfield "><img src="https://www.ipdb.org/images/824/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 11986: Farfalla Playfield "><br>Playfield</span></a><br><font size="-2">574x876</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=15318" 
+><span title="Image # 15318: Farfalla Upper Playfield "><img src="https://www.ipdb.org/images/824/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15318: Farfalla Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Kirk Weaver]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=21088" 
+><span title="Image # 21088: Farfalla Backglass - Detail (Italian Version) "><img src="https://www.ipdb.org/images/824/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21088: Farfalla Backglass - Detail (Italian Version) "><br>Backglass - Detail (Italian Version)</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=21089" 
+><span title="Image # 21089: Farfalla Backglass - Detail (USA Version) "><img src="https://www.ipdb.org/images/824/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21089: Farfalla Backglass - Detail (USA Version) "><br>Backglass - Detail (USA Version)</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22002" 
+><span title="Image # 22002: Farfalla Upper Playfield "><img src="https://www.ipdb.org/images/824/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22002: Farfalla Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22003" 
+><span title="Image # 22003: Farfalla Upper Playfield "><img src="https://www.ipdb.org/images/824/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22003: Farfalla Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22004" 
+><span title="Image # 22004: Farfalla Middle Playfield "><img src="https://www.ipdb.org/images/824/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22004: Farfalla Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22005" 
+><span title="Image # 22005: Farfalla Lower Playfield "><img src="https://www.ipdb.org/images/824/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22005: Farfalla Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22006" 
+><span title="Image # 22006: Farfalla Under Playfield "><img src="https://www.ipdb.org/images/824/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 22006: Farfalla Under Playfield "><br>Under Playfield</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22007" 
+><span title="Image # 22007: Farfalla Inside Backbox "><img src="https://www.ipdb.org/images/824/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22007: Farfalla Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=22008" 
+><span title="Image # 22008: Farfalla Inside Backbox "><img src="https://www.ipdb.org/images/824/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22008: Farfalla Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=25703" 
+><span title="Image # 25703: Farfalla Backglass Insert - Italian Version "><img src="https://www.ipdb.org/images/824/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 25703: Farfalla Backglass Insert - Italian Version "><br>Backglass Insert - Italian Version</span></a><br><font size="-2">800x586</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=25704" 
+><span title="Image # 25704: Farfalla Backglass Insert Reverse - Italian Version "><img src="https://www.ipdb.org/images/824/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 25704: Farfalla Backglass Insert Reverse - Italian Version "><br>Backglass Insert Reverse - Italian Version</span></a><br><font size="-2">800x593</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=52446" 
+><span title="Image # 52446: Farfalla Playfield "><img src="https://www.ipdb.org/images/824/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 52446: Farfalla Playfield "><br>Playfield</span></a><br><font size="-2">1200x1865</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=52447" 
+><span title="Image # 52447: Farfalla Upper Playfield "><img src="https://www.ipdb.org/images/824/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 52447: Farfalla Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x975</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=52448" 
+><span title="Image # 52448: Farfalla Middle Playfield "><img src="https://www.ipdb.org/images/824/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 52448: Farfalla Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x1086</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=52449" 
+><span title="Image # 52449: Farfalla Lower Playfield "><img src="https://www.ipdb.org/images/824/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 52449: Farfalla Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x880</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=52450" 
+><span title="Image # 52450: Farfalla Elevated Playfield "><img src="https://www.ipdb.org/images/824/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52450: Farfalla Elevated Playfield "><br>Elevated Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=52451" 
+><span title="Image # 52451: Farfalla Instruction Card "><img src="https://www.ipdb.org/images/824/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 52451: Farfalla Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1200x636</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=54061" 
+><span title="Image # 54061: Farfalla Backglass "><img src="https://www.ipdb.org/images/824/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 54061: Farfalla Backglass "><br>Backglass</span></a><br><font size="-2">1024x896</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=54062" 
+><span title="Image # 54062: Farfalla Backbox - Right "><img src="https://www.ipdb.org/images/824/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=42 height=100 alt="Image # 54062: Farfalla Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">677x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=54063" 
+><span title="Image # 54063: Farfalla Cabinet - Right "><img src="https://www.ipdb.org/images/824/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 54063: Farfalla Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x369</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=54064" 
+><span title="Image # 54064: Farfalla Cabinet - Front View "><img src="https://www.ipdb.org/images/824/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 54064: Farfalla Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">794x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=824&amp;picno=66754" 
+><span title="Image # 66754: Farfalla Playfield - Detail 
+(A copyright date of 1983 is shown.)"><img src="https://www.ipdb.org/images/824/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 66754: Farfalla Playfield - Detail 
+(A copyright date of 1983 is shown.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x876</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,253 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Miss-O'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Miss-O MissO, Miss-Q Flippers (2), Pop bumpers (4), Passive bumpers (4), Slingshots (2), Standup targets (5), Kick-out holes (2), Horseshoe lane. 3 or 5 ball play.
+
+Maximum displayed point score is 9,999 points.
+
+This is a replay game that also has an extra ball feature which cannot be disabled, awarding one extra ball per ball in play, if earned. To qualify for extra ball, making A-B-C-D targets light the correspondingly lettered bumpers at top of playfield. Lighting all four A-B-C-D bumpers light the two horseshoe inserts, qualifying the horseshoe lane rollover button (which does not light) to award the extra ball. The schematic indicates that flashing bulbs are to be used for the horseshoe inserts. A ball rolling over the horseshoe lane button at this point will turn off the flashing horseshoe inserts and quietly award the extra ball, with no knocker sound. There are no inserts or text on the playfield or backglass to indicate the extra ball has been awarded, thus this event may go unnoticed by an uninformed player. Once the current ball in play reaches the outhole, the ball counter does not increment, the ball is served again to the shooter lane, and the A-B-C-D bumpers turn off to allow a new extra ball to be earned.  Christian Marche Norm Clark ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Miss-O' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Miss-O</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1612">Miss-O</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1612">1612</a> <I>/ February 25, 1969 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1612" target="showrate1612"><img src="stars/6stars.png" height=18 width=201 border=0 alt="[ 6 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1612" target="showrate1612">10 ratings/9 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1612" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February 25, 1969</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>356</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,351 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1612">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Billiards</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">Horseshoe&nbsp;lane</a>. 3 or 5 ball play.<br><br>Maximum displayed point score is 9,999 points.<br><br>This is a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> game that also has an extra ball feature which cannot be disabled, awarding one extra ball per ball in play, if earned. To qualify for extra ball, making A-B-C-D targets light the correspondingly lettered <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> at top of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Lighting all four A-B-C-D <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> light the two horseshoe <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a>, qualifying the <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">horseshoe&nbsp;lane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> button (which does not light) to award the extra ball. The schematic indicates that flashing bulbs are to be used for the horseshoe <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a>. A ball rolling over the <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">horseshoe&nbsp;lane</a> button at this point will turn off the flashing horseshoe <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> and quietly award the extra ball, with no <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a> sound. There are no <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> or text on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> or <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> to indicate the extra ball has been awarded, thus this event may go unnoticed by an uninformed player. Once the current ball in play reaches the <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a>, the ball counter does not increment, the ball is served again to the shooter lane, and the A-B-C-D <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a> turn off to allow a new extra ball to be earned.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Norm&nbsp;Clark' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Norm%20Clark">Norm&nbsp;Clark</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> version of this game is <span title="Click here to open a new window and display Williams' 1968 'Cue-T'"><a target="game611" href="machine.cgi?id=611">Williams' 1968 'Cue-T'</a></span>. Compare the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> to that of <span title="Click here to open a new window and display Williams' 1966 '8 Ball'"><a target="game764" href="machine.cgi?id=764">Williams' 1966 '8 Ball'</a></span>.<br><br>The original name for this game was 'Miss Q' (a play on the billiards term 'mis-cue') but Williams learned the French translation of that was sexually derogatory, so they had to quickly alter the name. It is believed this change occurred before production started.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 74<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1612">http://www.pinballowners.com/owners/1612</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 841 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1612/Williams_1969_Miss_O_Manual.pdf" onClick="return purchasemanual();">Instruction Manual</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 22 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1612/Williams_1969_Miss_O_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1612/Williams_1969_Miss_O_Schematic_Diagram.pdf" onClick="return purchasemanual();">Schematic Diagram (paginated)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1612/Williams_1969_Miss_O_Promotional_Photo_Large_Size.pdf" >Promotional Photo - Large Size</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=1555" 
+><span title="Image # 1555: Miss-O Backglass "><img src="https://www.ipdb.org/images/1612/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 1555: Miss-O Backglass "><br>Backglass</span></a><br><font size="-2">392x433</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=4276" 
+><span title="Image # 4276: Miss-O Flyer "><img src="https://www.ipdb.org/images/1612/tn_1612f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 4276: Miss-O Flyer "><br>Flyer</span></a><br><font size="-2">844x1075</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=8103" 
+><span title="Image # 8103: Miss-O Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8103: Miss-O Playfield "><br>Playfield</span></a><br><font size="-2">640x480</font><br>[Steve Marion]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=8104" 
+><span title="Image # 8104: Miss-O Cabinet - Left "><img src="https://www.ipdb.org/images/1612/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 8104: Miss-O Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">426x442</font><br>[Steve Marion]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=8105" 
+><span title="Image # 8105: Miss-O Upper Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8105: Miss-O Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Steve Marion]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=8106" 
+><span title="Image # 8106: Miss-O Middle Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8106: Miss-O Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[Steve Marion]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=8107" 
+><span title="Image # 8107: Miss-O Lower Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8107: Miss-O Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Steve Marion]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=10046" 
+><span title="Image # 10046: Miss-O Illuminated Front View "><img src="https://www.ipdb.org/images/1612/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 10046: Miss-O Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">336x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=10047" 
+><span title="Image # 10047: Miss-O Backglass - Detail "><img src="https://www.ipdb.org/images/1612/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10047: Miss-O Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=16833" 
+><span title="Image # 16833: Miss-O Under Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16833: Miss-O Under Playfield "><br>Under Playfield</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=16834" 
+><span title="Image # 16834: Miss-O Inside Cabinet "><img src="https://www.ipdb.org/images/1612/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16834: Miss-O Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=16835" 
+><span title="Image # 16835: Miss-O Inside Backbox "><img src="https://www.ipdb.org/images/1612/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16835: Miss-O Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">450x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=22516" 
+><span title="Image # 22516: Miss-O German Press Release 
+(From the German trade magazine Münzautomat, January 1969.)"><img src="https://www.ipdb.org/images/1612/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 22516: Miss-O German Press Release 
+(From the German trade magazine Münzautomat, January 1969.)"><br>German Press Release*</span></a><br><font size="-2">720x1050</font><br>[ÖRly Bird]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38101" 
+><span title="Image # 38101: Miss-O Backglass "><img src="https://www.ipdb.org/images/1612/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 38101: Miss-O Backglass "><br>Backglass</span></a><br><font size="-2">305x339</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38102" 
+><span title="Image # 38102: Miss-O Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38102: Miss-O Playfield "><br>Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38103" 
+><span title="Image # 38103: Miss-O Upper Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38103: Miss-O Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38104" 
+><span title="Image # 38104: Miss-O Upper Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38104: Miss-O Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38105" 
+><span title="Image # 38105: Miss-O Upper Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38105: Miss-O Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38106" 
+><span title="Image # 38106: Miss-O Upper Right Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38106: Miss-O Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38107" 
+><span title="Image # 38107: Miss-O Upper Right Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38107: Miss-O Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38108" 
+><span title="Image # 38108: Miss-O Upper Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38108: Miss-O Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38109" 
+><span title="Image # 38109: Miss-O Center Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38109: Miss-O Center Playfield "><br>Center Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38110" 
+><span title="Image # 38110: Miss-O Right Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38110: Miss-O Right Playfield "><br>Right Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38111" 
+><span title="Image # 38111: Miss-O Lower Left Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38111: Miss-O Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38112" 
+><span title="Image # 38112: Miss-O Lower Right Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38112: Miss-O Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38113" 
+><span title="Image # 38113: Miss-O Lower Right Playfield "><img src="https://www.ipdb.org/images/1612/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38113: Miss-O Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">480x640</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38114" 
+><span title="Image # 38114: Miss-O Cabinet - Front "><img src="https://www.ipdb.org/images/1612/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 38114: Miss-O Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">324x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38115" 
+><span title="Image # 38115: Miss-O Cabinet - Right "><img src="https://www.ipdb.org/images/1612/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 38115: Miss-O Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">582x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38116" 
+><span title="Image # 38116: Miss-O Backbox - Right "><img src="https://www.ipdb.org/images/1612/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 38116: Miss-O Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">258x336</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=38117" 
+><span title="Image # 38117: Miss-O Cabinet - Front View "><img src="https://www.ipdb.org/images/1612/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 38117: Miss-O Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">215x321</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39452" 
+><span title="Image # 39452: Miss-O French Score Card - 5 Balls "><img src="https://www.ipdb.org/images/1612/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 39452: Miss-O French Score Card - 5 Balls "><br>French Score Card - 5 Balls</span></a><br><font size="-2">1024x587</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39453" 
+><span title="Image # 39453: Miss-O French Score Card - 3 Balls "><img src="https://www.ipdb.org/images/1612/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 39453: Miss-O French Score Card - 3 Balls "><br>French Score Card - 3 Balls</span></a><br><font size="-2">1024x569</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39454" 
+><span title="Image # 39454: Miss-O French Instruction Card With Match "><img src="https://www.ipdb.org/images/1612/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 39454: Miss-O French Instruction Card With Match "><br>French Instruction Card With Match</span></a><br><font size="-2">1024x575</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39455" 
+><span title="Image # 39455: Miss-O French Instruction Card Without Match "><img src="https://www.ipdb.org/images/1612/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 39455: Miss-O French Instruction Card Without Match "><br>French Instruction Card Without Match</span></a><br><font size="-2">1024x556</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39581" 
+><span title="Image # 39581: Miss-O Playfield Plastics "><img src="https://www.ipdb.org/images/1612/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 39581: Miss-O Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1277</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39582" 
+><span title="Image # 39582: Miss-O Playfield Plastics "><img src="https://www.ipdb.org/images/1612/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 39582: Miss-O Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1107</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39583" 
+><span title="Image # 39583: Miss-O Playfield Plastics "><img src="https://www.ipdb.org/images/1612/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 39583: Miss-O Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1105</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39584" 
+><span title="Image # 39584: Miss-O Playfield Plastic "><img src="https://www.ipdb.org/images/1612/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 39584: Miss-O Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1024x1507</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39585" 
+><span title="Image # 39585: Miss-O Backbox - Right "><img src="https://www.ipdb.org/images/1612/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 39585: Miss-O Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">768x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39586" 
+><span title="Image # 39586: Miss-O Playfield - Detail "><img src="https://www.ipdb.org/images/1612/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39586: Miss-O Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1365</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39587" 
+><span title="Image # 39587: Miss-O Playfield - Detail "><img src="https://www.ipdb.org/images/1612/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39587: Miss-O Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1365</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39654" 
+><span title="Image # 39654: Miss-O Cabinet - Front "><img src="https://www.ipdb.org/images/1612/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39654: Miss-O Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x765</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=39655" 
+><span title="Image # 39655: Miss-O Cabinet - Right "><img src="https://www.ipdb.org/images/1612/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 39655: Miss-O Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x410</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=52246" 
+><span title="Image # 52246: Miss-O Backglass "><img src="https://www.ipdb.org/images/1612/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 52246: Miss-O Backglass "><br>Backglass</span></a><br><font size="-2">1200x1524</font><br>[Brett Pauly]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=52247" 
+><span title="Image # 52247: Miss-O Backglass - Reverse "><img src="https://www.ipdb.org/images/1612/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 52247: Miss-O Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">680x820</font><br>[Brett Pauly]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1612&amp;picno=70280" 
+><span title="Image # 70280: Miss-O Promotional Photo "><img src="https://www.ipdb.org/images/1612/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 70280: Miss-O Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">1200x1534</font><br>[Duncan Brown]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

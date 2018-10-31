@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'Harley-Davidson'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway Harley-Davidson Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (8), Kick-out holes (3), 3-bank drop targets (2), Spinning targets (2), Left and right crossover return lanes, Shaker motor.  Mark Sprenger Mark Sprenger Barry Oursler Gerald Hedberg Dan Forden Jim Strompolis Dan Forden ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'Harley-Davidson' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Harley-Davidson</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1126">Harley-Davidson</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1126">1126</a> <I>/ February, 1991 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1126" target="showrate1126"><img src="stars/6stars.png" height=18 width=201 border=0 alt="[ 6 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1126" target="showrate1126">17 ratings/15 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1126" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1991</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>20001</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>HD</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=10">Williams WPC (Alpha Numeric)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,187 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1126">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Motorcycles/Motocross</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), Left and right <a target="glossary" class="glossarylink" href="/glossary.php#Crossover_Return_Lane">crossover&nbsp;return&nbsp;lanes</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Shaker_Motor">Shaker&nbsp;motor</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Sprenger' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Sprenger">Mark&nbsp;Sprenger</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Sprenger' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Sprenger">Mark&nbsp;Sprenger</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gerald&nbsp;Hedberg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gerald%20Hedberg">Gerald&nbsp;Hedberg</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dan&nbsp;Forden' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dan%20Forden">Dan&nbsp;Forden</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jim&nbsp;Strompolis' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jim%20Strompolis">Jim&nbsp;Strompolis</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This game was intended to emulate the success of Gottlieb's 'Silver Slugger' which was a low-cost game with earnings that rivaled expensive Williams/Bally games like 'Diner'. Hence it has virtually no <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>, toys, or <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a>.<br><br>The original title was 'Poker Night' with a theme centering around a congregation of poker-playing, pizza-eating men. Reportedly, one target was required to 'answer the phone'.<br><br>This was the last Bally game to have alphanumeric score displays.<br><br><P>We had heard there was a second run of this game by this manufacturer. We asked Ken Fedesna, Executive VP/General Manager over Williams/Bally/Midway from 1988 until their close of pinball production in 1999, who checked his information and found no evidence of a second run. In searching, he came up with this detailed information about the first (and only) run:<P style="padding-left:30px;"><I>1) On 10/19/90 we released 15 <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototypes</a> to be built starting 11/15/90.<br>2) The first screened pla<ignore>yfields for these protos arrived on 11/12, at which time Engineering in combination with the manufacturing proto<ignore>type line started putting them together on 11/14. <br>3) The 15 proto<ignore>type games were all completed by 12/10/90. On 12/10 we released 250 samples to be built starting on 1/7/91. <br>4) On 12/20, we had a management discussion regarding the cost to build this game and what we would sell it for. It was decided to offer the game to distributors for a selling price of $2045 net. <br>5) The 250 sample games were completed by the end of February, 1991. <br>6) Production started in April of 1991 and was completed by June of 1991. <br>7) There were a total of 2202 games built and sold (inclusive of the 15 proto<ignore>types, samples, and production).<br><br>We would always build approximately 15 proto<ignore>types (combination of engineering personnel and manufacturing personnel) to prove out the design and provide early field testing units for earning potential. We would then build 200 to 250 samples on the sample production line to make sure we had all the design/manufacturing bugs worked out. These 250 samples would then be sold to distribution in order for them to get an idea of the game's potential. From these samples, we would then ask for the first production sale's orders. Harley was an experiment to see if we could bring to market a more simple playing game with a lower cost.</i></P><P><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Rev up for Long-Term Profits"<br>
+"Kickstart a Legend"<br>
+"Live to Ride...Ride to Live (standard Harley Davidson slogan)"<br>
+"Born to be Wild"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 131<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764316877/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764316877&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Memories</a>, pages 181-184<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 137<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1126/harley.htm" target="rulesheet">Harley Davidson Guide, by Chuck</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1126">http://www.pinballowners.com/owners/1126</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 73 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/Bally_1991_Harley_Davidson_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 121 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/Bally_1991_Harley_Davidson_Game_ROM_L_3.zip" >Game ROM L-3</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 195 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/hd_l1.zip" >PinMAME Romset (L-1)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 293 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/hd_l3.zip" >PinMAME Romset (L-3)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 59 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/Bally_1991_Harley_Davidson_Operations_Manual_January_1991_paginated_schematics.pdf" onClick="return purchasemanual();">Operations Manual (January 1991, paginated schematics)</a></td><td> [Midway Manufacturing Company]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 154 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/Bally_1991_Harley_Davidson_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 81 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1126/Bally_1991_Harley_Davidson_Reproduction_Score_And_Instruction_Cards_Including_German_Cards.zip" >Reproduction Score And Instruction Cards (Including German Cards)</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=4043" 
+><span title="Image # 4043: Harley-Davidson Flyer, Front "><img src="https://www.ipdb.org/images/1126/tn_1126f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4043: Harley-Davidson Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">887x1145</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=4044" 
+><span title="Image # 4044: Harley-Davidson Flyer, Back "><img src="https://www.ipdb.org/images/1126/tn_1126f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4044: Harley-Davidson Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">887x1145</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=29461" 
+><span title="Image # 29461: Harley-Davidson Blank Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29461: Harley-Davidson Blank Playfield "><br>Blank Playfield</span></a><br><font size="-2">1024x768</font><br>[Matt Walsh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=29462" 
+><span title="Image # 29462: Harley-Davidson Center Blank Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29462: Harley-Davidson Center Blank Playfield "><br>Center Blank Playfield</span></a><br><font size="-2">1024x768</font><br>[Matt Walsh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=29463" 
+><span title="Image # 29463: Harley-Davidson Upper Blank Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29463: Harley-Davidson Upper Blank Playfield "><br>Upper Blank Playfield</span></a><br><font size="-2">1024x768</font><br>[Matt Walsh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=29464" 
+><span title="Image # 29464: Harley-Davidson Lower Blank Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29464: Harley-Davidson Lower Blank Playfield "><br>Lower Blank Playfield</span></a><br><font size="-2">1024x768</font><br>[Matt Walsh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31814" 
+><span title="Image # 31814: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31814: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><br>Backglass - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31815" 
+><span title="Image # 31815: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31815: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><br>Backglass - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31816" 
+><span title="Image # 31816: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31816: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><br>Backglass - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31817" 
+><span title="Image # 31817: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31817: Harley-Davidson Backglass - Detail 
+(Serial number I656432.)"><br>Backglass - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31818" 
+><span title="Image # 31818: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31818: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31819" 
+><span title="Image # 31819: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31819: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31820" 
+><span title="Image # 31820: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31820: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31821" 
+><span title="Image # 31821: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31821: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31822" 
+><span title="Image # 31822: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31822: Harley-Davidson Playfield - Detail 
+(Serial number I656432.)"><br>Playfield - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31823" 
+><span title="Image # 31823: Harley-Davidson Card Holder - Detail 
+(Serial number I656432. The paper sticker with No. 1013 is an Australian serial number.)"><img src="https://www.ipdb.org/images/1126/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31823: Harley-Davidson Card Holder - Detail 
+(Serial number I656432. The paper sticker with No. 1013 is an Australian serial number.)"><br>Card Holder - Detail*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31824" 
+><span title="Image # 31824: Harley-Davidson Light Shields 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 31824: Harley-Davidson Light Shields 
+(From a game with serial number I656432.)"><br>Light Shields*</span></a><br><font size="-2">1024x989</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31825" 
+><span title="Image # 31825: Harley-Davidson Light Shields 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 31825: Harley-Davidson Light Shields 
+(From a game with serial number I656432.)"><br>Light Shields*</span></a><br><font size="-2">1024x925</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31826" 
+><span title="Image # 31826: Harley-Davidson Light Shields 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 31826: Harley-Davidson Light Shields 
+(From a game with serial number I656432.)"><br>Light Shields*</span></a><br><font size="-2">1024x821</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31827" 
+><span title="Image # 31827: Harley-Davidson Light Shield 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=24 alt="Image # 31827: Harley-Davidson Light Shield 
+(From a game with serial number I656432.)"><br>Light Shield*</span></a><br><font size="-2">1024x249</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31828" 
+><span title="Image # 31828: Harley-Davidson English Instructions For Germany 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 31828: Harley-Davidson English Instructions For Germany 
+(From a game with serial number I656432.)"><br>English Instructions For Germany*</span></a><br><font size="-2">906x488</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31829" 
+><span title="Image # 31829: Harley-Davidson German Instructions 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 31829: Harley-Davidson German Instructions 
+(From a game with serial number I656432.)"><br>German Instructions*</span></a><br><font size="-2">906x483</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31830" 
+><span title="Image # 31830: Harley-Davidson Cabinet - Left 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31830: Harley-Davidson Cabinet - Left 
+(Serial number I656432.)"><br>Cabinet - Left*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31831" 
+><span title="Image # 31831: Harley-Davidson Cabinet - Left 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31831: Harley-Davidson Cabinet - Left 
+(Serial number I656432.)"><br>Cabinet - Left*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31832" 
+><span title="Image # 31832: Harley-Davidson Backbox - Left 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 31832: Harley-Davidson Backbox - Left 
+(Serial number I656432.)"><br>Backbox - Left*</span></a><br><font size="-2">446x1024</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31833" 
+><span title="Image # 31833: Harley-Davidson Cabinet - Right 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 31833: Harley-Davidson Cabinet - Right 
+(Serial number I656432.)"><br>Cabinet - Right*</span></a><br><font size="-2">738x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31834" 
+><span title="Image # 31834: Harley-Davidson Front 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31834: Harley-Davidson Front 
+(Serial number I656432.)"><br>Front*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31837" 
+><span title="Image # 31837: Harley-Davidson Illuminated Backglass 
+(From a game with serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 31837: Harley-Davidson Illuminated Backglass 
+(From a game with serial number I656432.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1024x868</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=31838" 
+><span title="Image # 31838: Harley-Davidson Middle Playfield 
+(Serial number I656432.)"><img src="https://www.ipdb.org/images/1126/tn_image-A27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31838: Harley-Davidson Middle Playfield 
+(Serial number I656432.)"><br>Middle Playfield*</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=62753" 
+><span title="Image # 62753: Harley-Davidson Illuminated Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 62753: Harley-Davidson Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">900x1200</font><br>[Billy van de ven]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=62754" 
+><span title="Image # 62754: Harley-Davidson Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 62754: Harley-Davidson Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Billy van de ven]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=62755" 
+><span title="Image # 62755: Harley-Davidson Inside Backbox "><img src="https://www.ipdb.org/images/1126/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 62755: Harley-Davidson Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Billy van de ven]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=62756" 
+><span title="Image # 62756: Harley-Davidson Under Playfield "><img src="https://www.ipdb.org/images/1126/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 62756: Harley-Davidson Under Playfield "><br>Under Playfield</span></a><br><font size="-2">900x1200</font><br>[Billy van de ven]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1126&amp;picno=62757" 
+><span title="Image # 62757: Harley-Davidson Inside Cabinet "><img src="https://www.ipdb.org/images/1126/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 62757: Harley-Davidson Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">900x1200</font><br>[Billy van de ven]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

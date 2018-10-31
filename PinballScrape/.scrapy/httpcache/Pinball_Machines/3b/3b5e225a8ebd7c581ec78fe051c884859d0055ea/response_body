@@ -1,0 +1,199 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Hi Dolly'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Hi Dolly Flippers (2), Pop bumpers (3), Passive bumpers (6), Standup targets (7), Roto-targets (2), Left and right dual outlanes. No slingshots. 3 or 5 ball play.
+
+Maximum displayed point score is 1,999 points per player.
+
+Sound: 3 bells, knocker.  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Hi Dolly' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Hi Dolly</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1158">Hi Dolly</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1158">1158</a> <I>/ April, 1965 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1158" target="showrate1158"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.1</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1158" target="showrate1158">7 ratings/7 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1158" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1965</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>216</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,600 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1158">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Girls - Romance - Women</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (7), <a target="glossary" class="glossarylink" href="/glossary.php#Roto-target">Roto-targets</a> (2), Left and right <a target="glossary" class="glossarylink" href="/glossary.php#Dual_Outlanes">dual&nbsp;outlanes</a>. No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>. 3 or 5 ball play.<br><br>Maximum displayed point score is 1,999 points per player.<br><br>Sound: 3 bells, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<!-- 2120 == 1964 'Ship-Mates' -->
+<!-- 816 == 1957 'Falstaff' -->
+<!-- 2330 == 1963 'Square <a target="glossary" class="glossarylink" href="/glossary.php#Head">Head</a>' -->
+<!-- 758 == 1961 'Egg <a target="glossary" class="glossarylink" href="/glossary.php#Head">Head</a>' -->
+<!-- 2525 == 1960 'Texan' -->
+<!-- 1114 == 1964 'Happy Clown' -->
+<!-- 988 == 1963 'Gaucho' -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Artist Roy Parker placed on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> male characters from some of the previous games he did for Gottlieb. We list the referenced games as they appear on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, from left to right:<br><br><a target="game2120" href="machine.cgi?id=2120">1964 'Ship-Mates'</a><br><a target="game816" href="machine.cgi?id=816">1957 'Falstaff'</a><br><a target="game2330" href="machine.cgi?id=2330">1963 'Square <a target="glossary" class="glossarylink" href="/glossary.php#Head">Head</a>'</a><br><a target="game758" href="machine.cgi?id=758">1961 'Egg <a target="glossary" class="glossarylink" href="/glossary.php#Head">Head</a>'</a><br><a target="game2525" href="machine.cgi?id=2525">1960 'Texan'</a><br><a target="game1114" href="machine.cgi?id=1114">1964 'Happy Clown'</a><br><a target="game988" href="machine.cgi?id=988">1963 'Gaucho'</a><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 179<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 52<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 179<br>
+The Pinball Compendium Electro-mechanical Era, page 148<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1158">http://www.pinballowners.com/owners/1158</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=4668" 
+><span title="Image # 4668: Hi Dolly Flyer "><img src="https://www.ipdb.org/images/1158/tn_1158f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 4668: Hi Dolly Flyer "><br>Flyer</span></a><br><font size="-2">612x853</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=5239" 
+><span title="Image # 5239: Hi Dolly Backglass "><img src="https://www.ipdb.org/images/1158/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 5239: Hi Dolly Backglass "><br>Backglass</span></a><br><font size="-2">570x431</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=5311" 
+><span title="Image # 5311: Hi Dolly Score Card "><img src="https://www.ipdb.org/images/1158/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5311: Hi Dolly Score Card "><br>Score Card</span></a><br><font size="-2">1024x1330</font><br>[Scott Phillips]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=7329" 
+><span title="Image # 7329: Hi Dolly Backglass "><img src="https://www.ipdb.org/images/1158/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 7329: Hi Dolly Backglass "><br>Backglass</span></a><br><font size="-2">600x518</font><br>[Alan Tate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=7330" 
+><span title="Image # 7330: Hi Dolly Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 7330: Hi Dolly Playfield "><br>Playfield</span></a><br><font size="-2">725x1289</font><br>[Alan Tate]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=13981" 
+><span title="Image # 13981: Hi Dolly Backglass "><img src="https://www.ipdb.org/images/1158/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 13981: Hi Dolly Backglass "><br>Backglass</span></a><br><font size="-2">700x559</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=13982" 
+><span title="Image # 13982: Hi Dolly Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 13982: Hi Dolly Playfield "><br>Playfield</span></a><br><font size="-2">725x955</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=14943" 
+><span title="Image # 14943: Hi Dolly Lit Backglass "><img src="https://www.ipdb.org/images/1158/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 14943: Hi Dolly Lit Backglass "><br>Lit Backglass</span></a><br><font size="-2">1024x845</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=14944" 
+><span title="Image # 14944: Hi Dolly Lit Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 14944: Hi Dolly Lit Playfield "><br>Lit Playfield</span></a><br><font size="-2">1024x1195</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24810" 
+><span title="Image # 24810: Hi Dolly Illuminated Backglass "><img src="https://www.ipdb.org/images/1158/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 24810: Hi Dolly Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">445x337</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24811" 
+><span title="Image # 24811: Hi Dolly Upper Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24811: Hi Dolly Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">443x334</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24812" 
+><span title="Image # 24812: Hi Dolly Upper Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24812: Hi Dolly Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">446x334</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24813" 
+><span title="Image # 24813: Hi Dolly Middle Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24813: Hi Dolly Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">441x332</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24814" 
+><span title="Image # 24814: Hi Dolly Lower Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24814: Hi Dolly Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">447x337</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24815" 
+><span title="Image # 24815: Hi Dolly Cabinet - Right "><img src="https://www.ipdb.org/images/1158/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 24815: Hi Dolly Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">446x196</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24816" 
+><span title="Image # 24816: Hi Dolly Backbox - Left "><img src="https://www.ipdb.org/images/1158/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 24816: Hi Dolly Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">442x755</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24817" 
+><span title="Image # 24817: Hi Dolly Backbox - Right "><img src="https://www.ipdb.org/images/1158/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 24817: Hi Dolly Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">445x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24818" 
+><span title="Image # 24818: Hi Dolly Front "><img src="https://www.ipdb.org/images/1158/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 24818: Hi Dolly Front "><br>Front</span></a><br><font size="-2">441x241</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24819" 
+><span title="Image # 24819: Hi Dolly Under Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 24819: Hi Dolly Under Playfield "><br>Under Playfield</span></a><br><font size="-2">447x644</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24820" 
+><span title="Image # 24820: Hi Dolly Inside Cabinet "><img src="https://www.ipdb.org/images/1158/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 24820: Hi Dolly Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">447x598</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24821" 
+><span title="Image # 24821: Hi Dolly Inside Cabinet "><img src="https://www.ipdb.org/images/1158/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 24821: Hi Dolly Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">443x329</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24822" 
+><span title="Image # 24822: Hi Dolly Inside Backbox "><img src="https://www.ipdb.org/images/1158/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 24822: Hi Dolly Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">423x336</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24823" 
+><span title="Image # 24823: Hi Dolly Behind Backglass "><img src="https://www.ipdb.org/images/1158/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24823: Hi Dolly Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">450x337</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=24824" 
+><span title="Image # 24824: Hi Dolly Backglass - Reverse "><img src="https://www.ipdb.org/images/1158/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 24824: Hi Dolly Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">447x331</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=48939" 
+><span title="Image # 48939: Hi Dolly Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 48939: Hi Dolly Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Bruce Brigham]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=48940" 
+><span title="Image # 48940: Hi Dolly Upper Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 48940: Hi Dolly Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=48941" 
+><span title="Image # 48941: Hi Dolly Lower Playfield "><img src="https://www.ipdb.org/images/1158/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 48941: Hi Dolly Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Bruce Brigham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1158&amp;picno=48942" 
+><span title="Image # 48942: Hi Dolly Roto-Targets "><img src="https://www.ipdb.org/images/1158/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 48942: Hi Dolly Roto-Targets "><br>Roto-Targets</span></a><br><font size="-2">1200x900</font><br>[Bruce Brigham]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,266 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'The Incredible Hulk'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb The Incredible Hulk Flippers (2), Pop bumpers (2), 7-bank drop targets (1), Standup targets (3), Ball kickers (2), Spinning target (1). No slingshots.  Gordon Morison Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'The Incredible Hulk' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>The Incredible Hulk</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5350">The Incredible Hulk</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5350">5350</a> <I>/ 1979 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">5.8 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=5350" target="showrate5350">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5350" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>1979</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=15">Gottlieb System 80</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5350">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kickers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1). No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>An unknown (small) quantity of <span title="Click here to open a new window and display Gottlieb's 1979 'The Incredible Hulk'"><a target="game1266" href="machine.cgi?id=1266">Gottlieb's 1979 'The Incredible Hulk'</a></span> (Model #433) games were experimentally built with the then-new Gottlieb System 80 MPU platform and called Model #500. This new platform provided more functionality, allowing for more <a target="glossary" class="glossarylink" href="/glossary.php#Solenoid">solenoids</a>, lamps, and switches. Model #500 had attract lighting, a strobing High Score To Date, and a third coin slot. Reportedly, there are four known examples held by collectors.<br><br>We do not know if these <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> Hulks are included in the Model #433 Production Run quantity of 6,150 units.<br><br>The first of two games pictured here has Sample serial number 01447 S. This number is stamped in the wood of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> just above the shooter gauge and also appears on stickers affixed to the power supply and driver boards. On the top of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, this number has been "over-stamped" in ink, as 00447 and as 01447, without the 'S'. Probably 00447 was stamped first, in error, and had to be corrected. The inside of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> appears to be a standard System 1 <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>. The power supply is mounted on metal "standoffs" that connect it electrically to the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> grounding. The <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> Driver Board pictured has a sticker in the upper right corner with "SYS II" hand written on it. Diagnostics via the coin door test switch are identical to later System 80 diagnostics. Some of its circuit boards pictured here are known to be replacements and are not original. We have marked them as such and included them, in case questions arose about them, and until such time that pictures of original boards are received by us. <br><br>The second game has Sample serial number 01443 S stamped just above the shooter gauge while the top of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> is ink-stamped 01443, no ‘S’. The game was at auction so we were unable to obtain specific images of inside the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> to compare with the first Sample game.<br><br>See the Files Section of this listing for a transcript of an email discussion of Model #500 which includes references to some of the pictures shown here.<br><br>Pictured in this listing are three images of a <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> presented to us as a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> having no gray paint masking on the reverse side thus it doesn't have the silkscreened words such as "High Score to Date", "Game Over", and "<a target="glossary" class="glossarylink" href="/glossary.php#Tilt">Tilt</a>". This glass appears to be mounted in a <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> but we were unable to verify whether or not this glass came from the factory mounted in a game and, if so, if its MPU is System 1 or System 80 to know if it belongs in this listing as Model 500. Without more information available to us, we have marked these <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> images as Alternate Artwork and we show close-ups of two areas where the colors were indeed different than the production <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a>.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 42 KB</td><td align=left nowrap width="5%">&nbsp;DOC&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/5350/Pinball_Email_discussion_of_Incredible_Hulk_500_dated_113008.doc" >Email Discussion of Incredible Hulk #500 on 11/30/2008</a></td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=38904" 
+><span title="Image # 38904: The Incredible Hulk Playboard Switch Matrix Schematic "><img src="https://www.ipdb.org/images/5350/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38904: The Incredible Hulk Playboard Switch Matrix Schematic "><br>Playboard Switch Matrix Schematic</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=38905" 
+><span title="Image # 38905: The Incredible Hulk Playboard Illumination Schematic "><img src="https://www.ipdb.org/images/5350/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38905: The Incredible Hulk Playboard Illumination Schematic "><br>Playboard Illumination Schematic</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=38906" 
+><span title="Image # 38906: The Incredible Hulk Litebox Cable Schematic "><img src="https://www.ipdb.org/images/5350/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38906: The Incredible Hulk Litebox Cable Schematic "><br>Litebox Cable Schematic</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=38907" 
+><span title="Image # 38907: The Incredible Hulk Bottom Board Schematic "><img src="https://www.ipdb.org/images/5350/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38907: The Incredible Hulk Bottom Board Schematic "><br>Bottom Board Schematic</span></a><br><font size="-2">1024x768</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39927" 
+><span title="Image # 39927: The Incredible Hulk Sample Game - Backglass 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 39927: The Incredible Hulk Sample Game - Backglass 
+(Serial number 01447 S.)"><br>Sample Game - Backglass*</span></a><br><font size="-2">690x684</font><br>[Chris Hibler]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39928" 
+><span title="Image # 39928: The Incredible Hulk Sample Game - Upper Playfield 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39928: The Incredible Hulk Sample Game - Upper Playfield 
+(Serial number 01447 S.)"><br>Sample Game - Upper Playfield*</span></a><br><font size="-2">1024x683</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39929" 
+><span title="Image # 39929: The Incredible Hulk Sample Game - Middle Playfield 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39929: The Incredible Hulk Sample Game - Middle Playfield 
+(Serial number 01447 S.)"><br>Sample Game - Middle Playfield*</span></a><br><font size="-2">1024x683</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39930" 
+><span title="Image # 39930: The Incredible Hulk Sample Game - Lower Playfield 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39930: The Incredible Hulk Sample Game - Lower Playfield 
+(Serial number 01447 S.)"><br>Sample Game - Lower Playfield*</span></a><br><font size="-2">1024x683</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39931" 
+><span title="Image # 39931: The Incredible Hulk Sample Game - Green Bridges 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39931: The Incredible Hulk Sample Game - Green Bridges 
+(Serial number 01447 S.)"><br>Sample Game - Green Bridges*</span></a><br><font size="-2">1024x683</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39932" 
+><span title="Image # 39932: The Incredible Hulk Sample Game - MPU (Not Original) 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 39932: The Incredible Hulk Sample Game - MPU (Not Original) 
+(Serial number 01447 S.)"><br>Sample Game - MPU (Not Original)*</span></a><br><font size="-2">1024x732</font><br>[Chris Hibler]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39933" 
+><span title="Image # 39933: The Incredible Hulk Sample Game - Power Supply 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 39933: The Incredible Hulk Sample Game - Power Supply 
+(Serial number 01447 S.)"><br>Sample Game - Power Supply*</span></a><br><font size="-2">1024x1386</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39934" 
+><span title="Image # 39934: The Incredible Hulk Sample Game - Driver Board 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39934: The Incredible Hulk Sample Game - Driver Board 
+(Serial number 01447 S.)"><br>Sample Game - Driver Board*</span></a><br><font size="-2">1024x683</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39935" 
+><span title="Image # 39935: The Incredible Hulk Sample Game - Inside Cabinet 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 39935: The Incredible Hulk Sample Game - Inside Cabinet 
+(Serial number 01447 S.)"><br>Sample Game - Inside Cabinet*</span></a><br><font size="-2">1024x1536</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39936" 
+><span title="Image # 39936: The Incredible Hulk Sample Game - Sound Card (Not Original) 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39936: The Incredible Hulk Sample Game - Sound Card (Not Original) 
+(Serial number 01447 S.)"><br>Sample Game - Sound Card (Not Original)*</span></a><br><font size="-2">1024x683</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39937" 
+><span title="Image # 39937: The Incredible Hulk Sample Game - Cabinet - Left 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 39937: The Incredible Hulk Sample Game - Cabinet - Left 
+(Serial number 01447 S.)"><br>Sample Game - Cabinet - Left*</span></a><br><font size="-2">434x455</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39938" 
+><span title="Image # 39938: The Incredible Hulk Sample Game - Cabinet - Right 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 39938: The Incredible Hulk Sample Game - Cabinet - Right 
+(Serial number 01447 S.)"><br>Sample Game - Cabinet - Right*</span></a><br><font size="-2">436x446</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39939" 
+><span title="Image # 39939: The Incredible Hulk Sample Game - Cabinet - Front 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 39939: The Incredible Hulk Sample Game - Cabinet - Front 
+(Serial number 01447 S.)"><br>Sample Game - Cabinet - Front*</span></a><br><font size="-2">587x457</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39940" 
+><span title="Image # 39940: The Incredible Hulk Sample Game - Inside Backbox 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 39940: The Incredible Hulk Sample Game - Inside Backbox 
+(Serial number 01447 S.)"><br>Sample Game - Inside Backbox*</span></a><br><font size="-2">590x457</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39941" 
+><span title="Image # 39941: The Incredible Hulk Sample game - Backglass - Reverse 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 39941: The Incredible Hulk Sample game - Backglass - Reverse 
+(Serial number 01447 S.)"><br>Sample game - Backglass - Reverse*</span></a><br><font size="-2">511x457</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39942" 
+><span title="Image # 39942: The Incredible Hulk Manual "><img src="https://www.ipdb.org/images/5350/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 39942: The Incredible Hulk Manual "><br>Manual</span></a><br><font size="-2">341x369</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=39943" 
+><span title="Image # 39943: The Incredible Hulk Sample Game - Serial Number Overstrike 
+(Serial numbers 00447 and 01447 shown here, in ink, on top of the backbox. Probably 00447 was stamped in error, and had to be corrected. Elsewhere, the cabinet was stamped in the wood as 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 39943: The Incredible Hulk Sample Game - Serial Number Overstrike 
+(Serial numbers 00447 and 01447 shown here, in ink, on top of the backbox. Probably 00447 was stamped in error, and had to be corrected. Elsewhere, the cabinet was stamped in the wood as 01447 S.)"><br>Sample Game - Serial Number Overstrike*</span></a><br><font size="-2">944x744</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=40620" 
+><span title="Image # 40620: The Incredible Hulk Sample Game - Serial Number Stamp 
+(Serial number 01447 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 40620: The Incredible Hulk Sample Game - Serial Number Stamp 
+(Serial number 01447 S.)"><br>Sample Game - Serial Number Stamp*</span></a><br><font size="-2">799x545</font><br>[Chris Hibler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51388" 
+><span title="Image # 51388: The Incredible Hulk Sample Game - Illuminated Backglass 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 51388: The Incredible Hulk Sample Game - Illuminated Backglass 
+(Serial number 01443 S.)"><br>Sample Game - Illuminated Backglass*</span></a><br><font size="-2">375x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51389" 
+><span title="Image # 51389: The Incredible Hulk Sample Game - Playfield 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 51389: The Incredible Hulk Sample Game - Playfield 
+(Serial number 01443 S.)"><br>Sample Game - Playfield*</span></a><br><font size="-2">375x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51390" 
+><span title="Image # 51390: The Incredible Hulk Sample Game - Backbox - Left 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 51390: The Incredible Hulk Sample Game - Backbox - Left 
+(Serial number 01443 S.)"><br>Sample Game - Backbox - Left*</span></a><br><font size="-2">337x500</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51391" 
+><span title="Image # 51391: The Incredible Hulk Sample Game - Backbox - Right 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 51391: The Incredible Hulk Sample Game - Backbox - Right 
+(Serial number 01443 S.)"><br>Sample Game - Backbox - Right*</span></a><br><font size="-2">287x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51392" 
+><span title="Image # 51392: The Incredible Hulk Sample Game - Cabinet - Left 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 51392: The Incredible Hulk Sample Game - Cabinet - Left 
+(Serial number 01443 S.)"><br>Sample Game - Cabinet - Left*</span></a><br><font size="-2">500x350</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51393" 
+><span title="Image # 51393: The Incredible Hulk Sample Game - Cabinet - Right 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 51393: The Incredible Hulk Sample Game - Cabinet - Right 
+(Serial number 01443 S.)"><br>Sample Game - Cabinet - Right*</span></a><br><font size="-2">387x500</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51394" 
+><span title="Image # 51394: The Incredible Hulk Sample Game - Cabinet - Front 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 51394: The Incredible Hulk Sample Game - Cabinet - Front 
+(Serial number 01443 S.)"><br>Sample Game - Cabinet - Front*</span></a><br><font size="-2">500x351</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51395" 
+><span title="Image # 51395: The Incredible Hulk Sample Game - Cabinet - Full View 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 51395: The Incredible Hulk Sample Game - Cabinet - Full View 
+(Serial number 01443 S.)"><br>Sample Game - Cabinet - Full View*</span></a><br><font size="-2">355x500</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=51396" 
+><span title="Image # 51396: The Incredible Hulk Sample Game - Serial Number 
+(Serial number 01443 S.)"><img src="https://www.ipdb.org/images/5350/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 51396: The Incredible Hulk Sample Game - Serial Number 
+(Serial number 01443 S.)"><br>Sample Game - Serial Number*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=64075" 
+><span title="Image # 64075: The Incredible Hulk Cabinet - Front View "><img src="https://www.ipdb.org/images/5350/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 64075: The Incredible Hulk Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">774x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=64076" 
+><span title="Image # 64076: The Incredible Hulk Cabinet - Left "><img src="https://www.ipdb.org/images/5350/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 64076: The Incredible Hulk Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x467</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=64077" 
+><span title="Image # 64077: The Incredible Hulk Cabinet - Front "><img src="https://www.ipdb.org/images/5350/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 64077: The Incredible Hulk Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x816</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=64078" 
+><span title="Image # 64078: The Incredible Hulk French Instruction Card - 3 Ball "><img src="https://www.ipdb.org/images/5350/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 64078: The Incredible Hulk French Instruction Card - 3 Ball "><br>French Instruction Card - 3 Ball</span></a><br><font size="-2">1200x871</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=65557" 
+><span title="Image # 65557: The Incredible Hulk Alternate Backglass Art "><img src="https://www.ipdb.org/images/5350/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 65557: The Incredible Hulk Alternate Backglass Art "><br>Alternate Backglass Art</span></a><br><font size="-2">576x500</font><br>[Derek Fugate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=65558" 
+><span title="Image # 65558: The Incredible Hulk Alternate Backglass Art "><img src="https://www.ipdb.org/images/5350/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65558: The Incredible Hulk Alternate Backglass Art "><br>Alternate Backglass Art</span></a><br><font size="-2">576x432</font><br>[Derek Fugate]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5350&amp;picno=65559" 
+><span title="Image # 65559: The Incredible Hulk Alternate Backglass Art "><img src="https://www.ipdb.org/images/5350/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65559: The Incredible Hulk Alternate Backglass Art "><br>Alternate Backglass Art</span></a><br><font size="-2">576x432</font><br>[Derek Fugate]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

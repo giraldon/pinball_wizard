@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Stars'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Stars Flippers (2), Pop bumper (1), Slingshots (2), Standup targets (5), 3-bank drop targets (2), Spinning targets (2), Mini-post screw between flippers.  Jorge Obregon Steve Kirk ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Stars' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Stars</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2366">Stars</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2366">2366</a> <I>/ March, 1978 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2366" target="showrate2366"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2366" target="showrate2366">26 ratings/23 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2366" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=302">Stern Electronics, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1977-1984) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1978</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>103</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=21">Stern M-100 MPU</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>5,127 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2366">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space - Space Exploration</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumper</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (5), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post_Screw">Mini-post&nbsp;screw</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kirk' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kirk">Steve&nbsp;Kirk</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jorge&nbsp;Obregon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jorge%20Obregon">Jorge&nbsp;Obregon</a></span></td></tr>
+<!-- 2377 == Stingray -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Stars' is one of two 4-player games made by Stern Electronics that has a switch setting to convert the game to 2-player operation. This is accomplished by setting CPU Switch 25 to its OFF position. <a target="glossary" class="glossarylink" href="/glossary.php#Designer">Designer</a> Mike Kubin tells us that there were certain markets that wanted only 2-player games, although he could not recall which countries they were. Because the 3rd and 4th player score displays would be disabled for this, and likely were not even installed, Stern made a special 2-player <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> for these games. We do not know how many games were shipped with the 2-player <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.<br><br>Stern discontinued the 2-player CPU option in subsequent games. The game that preceded this one in production, <a target="game2377" href="machine.cgi?id=2377">Stingray</a>, is the other game that had this option, and a 2-player <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> can be seen in that listing.<br><br>Interestingly, Service Bulletin #8 states that Switch 27 should be set to ON because when set to OFF it will only put one player up, suggesting trouble-free single-player operation. The game manual lists Switch 27 as Not Used. We don’t know the effect this Switch 27, when set to OFF, has on Switch 25 or on any other game operation.<br><br>Stern programmer Alan McNeil told us that the <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post_Screw">mini-post&nbsp;screw</a> between the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> was known as a Kirk Post (for <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> Steve Kirk).<br><br>Manufacturer data for Stars:<br>Production Start Date: 3/17/78<br>Production End Date: 6/27/78<br>Quantity produced: 5127<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 218<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 245<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2366">http://www.pinballowners.com/owners/2366</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 3 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Game_ROMs.zip" >Game ROMs</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/stars.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Manual.pdf" onClick="return purchasemanual();">English Manual (with paginated schematics)</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 180 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Playfield_Parts_Diagram.pdf" onClick="return purchasemanual();">Playfield Parts Diagram</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 12 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Service_Bulletin_7_ROM_Sets_July_7_1978.pdf" >Service Bulletin #7 - R<ignore>OM Sets (July 7, 1978)</a></td><td> [Stern Electronics&#46; Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Service_Bulletin_8_ROM_Sets_October_16_1978.pdf" >Service Bulletin #8 - R<ignore>OM Sets (October 16, 1978)</a></td><td> [Stern Electronics&#46; Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Multimedia Files: </b></td><td align=right nowrap> 53 KB</td><td align=left nowrap width="5%">&nbsp;WAV&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Bonus_Countdown_Sound.wav" >Bonus Countdown Sound</a></td><td> [Josh Kaplan]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 130 KB</td><td align=left nowrap width="5%">&nbsp;WAV&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Spinner_Sound.wav" >Spinner Sound</a></td><td> [Josh Kaplan]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 12 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Engineering_Bulletin_9_Momentary_Coil_Information_Q1_to_14_Q16_undated.pdf" >Engineering Bulletin #9 - Momentary Coil Information Q1 to 14 & Q16 (undated)</a></td><td> [Stern Electronics&#46; Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2366/Stern_1978_Stars_Promotional_Photo_Large_Size.jpg" >Promotional Photo - Large Size</a></td><td> [Stern Electronics&#46; Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=2247" 
+><span title="Image # 2247: Stars Backglass "><img src="https://www.ipdb.org/images/2366/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 2247: Stars Backglass "><br>Backglass</span></a><br><font size="-2">511x427</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=3652" 
+><span title="Image # 3652: Stars Flyer "><img src="https://www.ipdb.org/images/2366/tn_2366f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3652: Stars Flyer "><br>Flyer</span></a><br><font size="-2">577x780</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=5400" 
+><span title="Image # 5400: Stars Illuminated Backglass "><img src="https://www.ipdb.org/images/2366/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5400: Stars Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x768</font><br>[Tim Maleck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=5401" 
+><span title="Image # 5401: Stars Inside Backbox "><img src="https://www.ipdb.org/images/2366/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5401: Stars Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x600</font><br>[Tim Maleck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=5402" 
+><span title="Image # 5402: Stars Cabinet - Front "><img src="https://www.ipdb.org/images/2366/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 5402: Stars Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">610x631</font><br>[Tim Maleck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=5403" 
+><span title="Image # 5403: Stars Cabinet - Left "><img src="https://www.ipdb.org/images/2366/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 5403: Stars Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">650x768</font><br>[Tim Maleck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=5404" 
+><span title="Image # 5404: Stars Playfield "><img src="https://www.ipdb.org/images/2366/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 5404: Stars Playfield "><br>Playfield</span></a><br><font size="-2">718x746</font><br>[Tim Maleck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=6685" 
+><span title="Image # 6685: Stars Backglass "><img src="https://www.ipdb.org/images/2366/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 6685: Stars Backglass "><br>Backglass</span></a><br><font size="-2">720x575</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=6686" 
+><span title="Image # 6686: Stars Cabinet - Right "><img src="https://www.ipdb.org/images/2366/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 6686: Stars Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">720x540</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=6687" 
+><span title="Image # 6687: Stars Playfield "><img src="https://www.ipdb.org/images/2366/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 6687: Stars Playfield "><br>Playfield</span></a><br><font size="-2">720x1234</font><br>[John Kirby]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=6688" 
+><span title="Image # 6688: Stars Under Playfield "><img src="https://www.ipdb.org/images/2366/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 6688: Stars Under Playfield "><br>Under Playfield</span></a><br><font size="-2">360x720</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=6689" 
+><span title="Image # 6689: Stars Lower Playfield "><img src="https://www.ipdb.org/images/2366/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 6689: Stars Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">720x500</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=6690" 
+><span title="Image # 6690: Stars Upper Playfield "><img src="https://www.ipdb.org/images/2366/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 6690: Stars Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">720x424</font><br>[John Kirby]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=20518" 
+><span title="Image # 20518: Stars Spinner and Lit Inserts "><img src="https://www.ipdb.org/images/2366/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 20518: Stars Spinner and Lit Inserts "><br>Spinner and Lit Inserts</span></a><br><font size="-2">575x465</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=20519" 
+><span title="Image # 20519: Stars Spinner and Inserts "><img src="https://www.ipdb.org/images/2366/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20519: Stars Spinner and Inserts "><br>Spinner and Inserts</span></a><br><font size="-2">640x480</font><br>[Josh Kaplan]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=20520" 
+><span title="Image # 20520: Stars Left Spinner Lane "><img src="https://www.ipdb.org/images/2366/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20520: Stars Left Spinner Lane "><br>Left Spinner Lane</span></a><br><font size="-2">640x480</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=20521" 
+><span title="Image # 20521: Stars Chimes Unit "><img src="https://www.ipdb.org/images/2366/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20521: Stars Chimes Unit "><br>Chimes Unit</span></a><br><font size="-2">640x480</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=20522" 
+><span title="Image # 20522: Stars Backglass - Detail "><img src="https://www.ipdb.org/images/2366/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 20522: Stars Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">617x479</font><br>[Josh Kaplan]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2366&amp;picno=62183" 
+><span title="Image # 62183: Stars Promotional Photo "><img src="https://www.ipdb.org/images/2366/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 62183: Stars Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">1200x1509</font><br>[Duncan Brown]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

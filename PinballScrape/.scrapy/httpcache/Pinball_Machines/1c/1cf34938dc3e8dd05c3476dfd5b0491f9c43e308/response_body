@@ -1,0 +1,305 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Cyclone'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Cyclone Mechanical Backbox Animation Flippers (2), Pop bumpers (3), Ramps (2), Drop target (1), Scoop (1), Ball kicker (1), Rotating playfield Ferris wheel (1). Shooter channel has elevated skill shot to drop ball to a kicker which propels ball into play. The drop target guards a cellar hole which feeds the scoop. Mini-post screw between flippers. Mechanical backbox animation (ferris wheel revolves). Ferris Wheel  Python Anghelo Barry Oursler Joe Joos Jr. Chris Granner Bill Pfutzenreuter ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Cyclone' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Cyclone</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="617">Cyclone</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=617">617</a> <I>/ February, 1988 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=617" target="showrate617"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.9</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=617" target="showrate617">155 ratings/104 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=617" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1988</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>564</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=8">Williams System 11B</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>9,408 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=617">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Happiness - Circus/Carnival</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">Drop&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Scoop">Scoop</a> (1), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> (1), Rotating <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> Ferris wheel (1). Shooter channel has elevated <a target="glossary" class="glossarylink" href="/glossary.php#Skill_Shot">skill&nbsp;shot</a> to drop ball to a <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> which propels ball into play. The <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> guards a <a target="glossary" class="glossarylink" href="/glossary.php#Cellar_Hole">cellar&nbsp;hole</a> which feeds the <a target="glossary" class="glossarylink" href="/glossary.php#Scoop">scoop</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Mini-Post_Screw">Mini-post&nbsp;screw</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Mechanical_Backbox_Animation">Mechanical&nbsp;backbox&nbsp;animation</a> (ferris wheel revolves).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Ferris Wheel</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Python&nbsp;Anghelo' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Python%20Anghelo">Python&nbsp;Anghelo</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Joos&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Joos%20Jr.">Joe&nbsp;Joos&nbsp;Jr.</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Chris&nbsp;Granner' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Chris%20Granner">Chris&nbsp;Granner</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Pfutzenreuter' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Pfutzenreuter">Bill&nbsp;Pfutzenreuter</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Careful study of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> in the flyer seems to show a quantity of eight flags flying over the amusement park. We do not know if these flags were installed throughout the production run, and many <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> that we have seen do not have all or any of these flags. The flags look fragile enough to not survive the life of the game. As well, some <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> may now contain reproduction flags that have since been made available.<br><br>The Ferris wheel on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> carries the ball for a portion of its rotation. This idea appears earlier on <span title="Click here to open a new window and display Allied Amusement's 1935 'Barrel Roll'"><a target="game179" href="machine.cgi?id=179">Allied Amusement's 1935 'Barrel Roll'</a></span>.<br><br>Included in this listing are three pictures of a game for the Japanese market, coined for yen. The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> has a spinning light show instead of the mechanical spinning wheel. We do not know how many of these were made.<br><br>Mark Ritchie told us that he did the voice of the Carnival Barker in this game.<br><br>The speaker panel on the game shown in the manufacturer's flyer is actually one from <span title="Click here to open a new window and display Williams' 1987 'F-14 Tomcat'"><a target="game804" href="machine.cgi?id=804">Williams' 1987 'F-14 Tomcat'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"Ride Cyclone ... for a streak of good luck!"<br>
+"It'll blow you away!"<br>
+"From the most powerful force in the pinball universe. Feel it and be awed!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 124<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 100<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1555217311/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1555217311&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Slot Machines and Coin-Op Games</a>, page 60<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/617/cyclone.htm" target="rulesheet">Cyclone Rulesheet Version 1.0 (Oct/17/1994), by TJ</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?cyclone">http://pinball.jameswest.com/ownerslists/ownerslist.php?cyclone</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#617">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/Williams_1988_Cyclone_Game_ROM_L_1.zip" >Game ROM L-1</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 181 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/Williams_1988_Cyclone_Game_ROM_L_5.zip" >Game ROM L-5</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 80 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/cycln_l4.zip" >PinMAME Romset (L-4)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 178 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/cycln_l5.zip" >PinMAME Romset (L-5)</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/Williams_1988_Cyclone_Manual_Schematics.pdf" onClick="return purchasemanual();">Manual & Schematics</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/Williams_1988_Cyclone_Parts_Manual.pdf" onClick="return purchasemanual();">Parts Manual</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/Williams_1988_Cyclone_Service_Bulletin_Book_1989_includes_Cyclone_SS47_SS49_SS50_SS52.pdf" >Service Bulletin Book 1989 (includes Cyclone SS47, SS49, SS50, SS52)</a></td><td> [Williams/Bally/Midway]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 210 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/617/Williams_1988_Cyclone_German_Instruction_Card.pdf" >German Instruction Card</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=592" 
+><span title="Image # 592: Cyclone Playfield "><img src="https://www.ipdb.org/images/617/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 592: Cyclone Playfield "><br>Playfield</span></a><br><font size="-2">411x530</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=593" 
+><span title="Image # 593: Cyclone Cabinet - Front View "><img src="https://www.ipdb.org/images/617/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 593: Cyclone Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">472x694</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=594" 
+><span title="Image # 594: Cyclone Backglass "><img src="https://www.ipdb.org/images/617/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 594: Cyclone Backglass "><br>Backglass</span></a><br><font size="-2">392x430</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=4607" 
+><span title="Image # 4607: Cyclone Flyer - Front "><img src="https://www.ipdb.org/images/617/tn_617f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4607: Cyclone Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=4608" 
+><span title="Image # 4608: Cyclone Flyer - Back 
+(The speaker panel on the game shown here is actually one from Williams' 1987 F-14 Tomcat machine.)"><img src="https://www.ipdb.org/images/617/tn_617f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4608: Cyclone Flyer - Back 
+(The speaker panel on the game shown here is actually one from Williams' 1987 F-14 Tomcat machine.)"><br>Flyer - Back*</span></a><br><font size="-2">887x1153</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=9822" 
+><span title="Image # 9822: Cyclone Translite "><img src="https://www.ipdb.org/images/617/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 9822: Cyclone Translite "><br>Translite</span></a><br><font size="-2">1024x1009</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=9824" 
+><span title="Image # 9824: Cyclone Playfield "><img src="https://www.ipdb.org/images/617/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 9824: Cyclone Playfield "><br>Playfield</span></a><br><font size="-2">1024x1112</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=9825" 
+><span title="Image # 9825: Cyclone Upper Playfield "><img src="https://www.ipdb.org/images/617/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9825: Cyclone Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=9826" 
+><span title="Image # 9826: Cyclone Middle Playfield "><img src="https://www.ipdb.org/images/617/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9826: Cyclone Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=9827" 
+><span title="Image # 9827: Cyclone Lower Playfield "><img src="https://www.ipdb.org/images/617/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9827: Cyclone Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Christopher Wolf]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=9828" 
+><span title="Image # 9828: Cyclone Cabinet - Front "><img src="https://www.ipdb.org/images/617/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 9828: Cyclone Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x739</font><br>[Christopher Wolf]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10758" 
+><span title="Image # 10758: Cyclone Coin Door "><img src="https://www.ipdb.org/images/617/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10758: Cyclone Coin Door "><br>Coin Door</span></a><br><font size="-2">1024x768</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10759" 
+><span title="Image # 10759: Cyclone Upper Playfield "><img src="https://www.ipdb.org/images/617/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10759: Cyclone Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10760" 
+><span title="Image # 10760: Cyclone Middle Playfield "><img src="https://www.ipdb.org/images/617/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10760: Cyclone Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10761" 
+><span title="Image # 10761: Cyclone Middle Playfield "><img src="https://www.ipdb.org/images/617/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10761: Cyclone Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10762" 
+><span title="Image # 10762: Cyclone Lower Playfield "><img src="https://www.ipdb.org/images/617/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10762: Cyclone Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10763" 
+><span title="Image # 10763: Cyclone Left Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10763: Cyclone Left Playfield - Detail "><br>Left Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10764" 
+><span title="Image # 10764: Cyclone Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10764: Cyclone Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10765" 
+><span title="Image # 10765: Cyclone Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10765: Cyclone Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10766" 
+><span title="Image # 10766: Cyclone Right Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10766: Cyclone Right Playfield - Detail "><br>Right Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10767" 
+><span title="Image # 10767: Cyclone Right Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10767: Cyclone Right Playfield - Detail "><br>Right Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10768" 
+><span title="Image # 10768: Cyclone Center Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10768: Cyclone Center Playfield - Detail "><br>Center Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10770" 
+><span title="Image # 10770: Cyclone Lower Right Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10770: Cyclone Lower Right Playfield - Detail "><br>Lower Right Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10771" 
+><span title="Image # 10771: Cyclone Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10771: Cyclone Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10772" 
+><span title="Image # 10772: Cyclone Right Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10772: Cyclone Right Playfield - Detail "><br>Right Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10774" 
+><span title="Image # 10774: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10774: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10775" 
+><span title="Image # 10775: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10775: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10776" 
+><span title="Image # 10776: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10776: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10777" 
+><span title="Image # 10777: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10777: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10778" 
+><span title="Image # 10778: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10778: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10779" 
+><span title="Image # 10779: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10779: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10780" 
+><span title="Image # 10780: Cyclone Playfield - Ball View "><img src="https://www.ipdb.org/images/617/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10780: Cyclone Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10781" 
+><span title="Image # 10781: Cyclone Playfield - Detail "><img src="https://www.ipdb.org/images/617/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10781: Cyclone Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10782" 
+><span title="Image # 10782: Cyclone Under Lower Playfield "><img src="https://www.ipdb.org/images/617/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10782: Cyclone Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10783" 
+><span title="Image # 10783: Cyclone Under Middle Playfield "><img src="https://www.ipdb.org/images/617/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10783: Cyclone Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10784" 
+><span title="Image # 10784: Cyclone Under Middle Playfield "><img src="https://www.ipdb.org/images/617/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10784: Cyclone Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10785" 
+><span title="Image # 10785: Cyclone Under Upper Playfield "><img src="https://www.ipdb.org/images/617/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10785: Cyclone Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10786" 
+><span title="Image # 10786: Cyclone Inside Lower Cabinet "><img src="https://www.ipdb.org/images/617/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10786: Cyclone Inside Lower Cabinet "><br>Inside Lower Cabinet</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10787" 
+><span title="Image # 10787: Cyclone Behind Backglass "><img src="https://www.ipdb.org/images/617/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10787: Cyclone Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10788" 
+><span title="Image # 10788: Cyclone Inside Backbox "><img src="https://www.ipdb.org/images/617/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10788: Cyclone Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=10789" 
+><span title="Image # 10789: Cyclone Cabinet - Left "><img src="https://www.ipdb.org/images/617/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10789: Cyclone Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x600</font><br>[George Bulte]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=37438" 
+><span title="Image # 37438: Cyclone Translite - Reverse "><img src="https://www.ipdb.org/images/617/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 37438: Cyclone Translite - Reverse "><br>Translite - Reverse</span></a><br><font size="-2">1024x641</font><br>[Jesse Kujawa]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=37439" 
+><span title="Image # 37439: Cyclone Manuals and Paperwork "><img src="https://www.ipdb.org/images/617/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 37439: Cyclone Manuals and Paperwork "><br>Manuals and Paperwork</span></a><br><font size="-2">1024x1034</font><br>[Jesse Kujawa]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=48994" 
+><span title="Image # 48994: Cyclone Japanese Export Version 
+(The mechanical spinning wheel has been replaced on this game with a spinning light show.)"><img src="https://www.ipdb.org/images/617/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 48994: Cyclone Japanese Export Version 
+(The mechanical spinning wheel has been replaced on this game with a spinning light show.)"><br>Japanese Export Version*</span></a><br><font size="-2">480x477</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=48995" 
+><span title="Image # 48995: Cyclone Japanese Export Version 
+(Several reproduction flags have been placed on this playfield, including a Japanese flag.)"><img src="https://www.ipdb.org/images/617/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 48995: Cyclone Japanese Export Version 
+(Several reproduction flags have been placed on this playfield, including a Japanese flag.)"><br>Japanese Export Version*</span></a><br><font size="-2">336x558</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=48996" 
+><span title="Image # 48996: Cyclone Japanese Export Version 
+(This machine is coined for yen.)"><img src="https://www.ipdb.org/images/617/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 48996: Cyclone Japanese Export Version 
+(This machine is coined for yen.)"><br>Japanese Export Version*</span></a><br><font size="-2">282x521</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=50250" 
+><span title="Image # 50250: Cyclone Cabinet - Left "><img src="https://www.ipdb.org/images/617/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 50250: Cyclone Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">830x900</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=50251" 
+><span title="Image # 50251: Cyclone Cabinet - Right "><img src="https://www.ipdb.org/images/617/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 50251: Cyclone Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">722x876</font><br>[Sean Casey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=50848" 
+><span title="Image # 50848: Cyclone Backbox - Left "><img src="https://www.ipdb.org/images/617/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=35 height=100 alt="Image # 50848: Cyclone Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">559x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=50849" 
+><span title="Image # 50849: Cyclone Cabinet - Left "><img src="https://www.ipdb.org/images/617/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=47 alt="Image # 50849: Cyclone Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x563</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=50850" 
+><span title="Image # 50850: Cyclone Cabinet - Front "><img src="https://www.ipdb.org/images/617/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 50850: Cyclone Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x870</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=50851" 
+><span title="Image # 50851: Cyclone Cabinet - Front View "><img src="https://www.ipdb.org/images/617/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 50851: Cyclone Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">707x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=70366" 
+><span title="Image # 70366: Cyclone Original Backglass Artwork 
+(Artist is Python Anghelo.Media are unconfirmed.Dimensions 30 inches by 20 inches including mounting board.)"><img src="https://www.ipdb.org/images/617/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 70366: Cyclone Original Backglass Artwork 
+(Artist is Python Anghelo.Media are unconfirmed.Dimensions 30 inches by 20 inches including mounting board.)"><br>Original Backglass Artwork*</span></a><br><font size="-2">1200x805</font><br>[James Loflin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=617&amp;picno=70367" 
+><span title="Image # 70367: Cyclone Original Backglass Artwork - Detail 
+(Artist is Python Anghelo.Media are unconfirmed.Dimensions 30 inches by 20 inches including mounting board.)"><img src="https://www.ipdb.org/images/617/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 70367: Cyclone Original Backglass Artwork - Detail 
+(Artist is Python Anghelo.Media are unconfirmed.Dimensions 30 inches by 20 inches including mounting board.)"><br>Original Backglass Artwork - Detail*</span></a><br><font size="-2">1200x902</font><br>[James Loflin]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

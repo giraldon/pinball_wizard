@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Orbitor 1'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Orbitor 1 Widebody Flippers (2), Spinning bumpers (2), Slingshots (2), Standup targets (8), 7-bank drop targets (1), 3-bank drop targets (2), Spinning target (1), Kick-out hole (1), 2-ball multiball, speech. Clear, contoured plastic playfield has a 'moon surface'-like substrate. Playfield slopes down and in towards the spinning bumpers which fling the ball away. The playfield slopes behind the flippers, allowing balls to be flipped backwards and then rescued for a forward-flipping shot. The kick-out hole always tr<ignore>aps the ball landing in it, until released for multiball.  Dixie Rinehart Art Myers Joe Joos Jr. Joe Joos Jr. ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Orbitor 1' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Orbitor 1</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1725">Orbitor 1</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1725">1725</a> <I>/ February, 1982 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1725" target="showrate1725"><img src="stars/6stars.png" height=18 width=201 border=0 alt="[ 6 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>5.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1725" target="showrate1725">31 ratings/27 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1725" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=302">Stern Electronics, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1977-1984) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1982</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>165</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>O1</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=34">Stern M-200 MPU</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>889 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1725">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Bumper">Spinning&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (8), 7-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), 2-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>, speech. Clear, contoured plastic <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has a "moon surface"-like substrate. <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> slopes down and in towards the <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Bumper">spinning&nbsp;bumpers</a> which fling the ball away. The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> slopes behind the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, allowing balls to be flipped backwards and then rescued for a forward-flipping shot. The <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">kick-out&nbsp;hole</a> always tr<ignore>aps the ball landing in it, until released for <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dixie&nbsp;Rinehart' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dixie%20Rinehart">Dixie&nbsp;Rinehart</a></span>, <span title="Click here to perform a search for all pinball games that 'Art&nbsp;Myers' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Art%20Myers">Art&nbsp;Myers</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Joos&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Joos%20Jr.">Joe&nbsp;Joos&nbsp;Jr.</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Joos&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Joos%20Jr.">Joe&nbsp;Joos&nbsp;Jr.</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Early games had no speech but a retrofit was made available.  Most famous quote: "Shoot pinball again", spoken every time a ball is placed in the shooter lane. <br><br><I>Rotating target <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumpers</a></i> add spin in addition to bounce, making the physics of the curved <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> difficult for the inexperienced Orbitor-1 player. <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> is (smooth) molded Plexiglas, with the moonscape surface artwork suspended beneath it. The moonscape is lit from below by a fluorescent tube. <br><br>Drop all the targets in the two 3-target banks to advance bonus. Drop all the "Orbitor" targets and then hit all the Orbiter targets behind them to start multi-ball, or hit the captured ball hard and it'll bounce out and start multi-ball. <br><br>This game has a novel "minimum play time" feature which cannot be disabled by the <a target="glossary" class="glossarylink" href="/glossary.php#Operator">operator</a>. Game play is standardized at 3 or 5 balls, however, if the player has not had the specified minimum amount of play after his 3 or 5 balls, the game will continue to provide free balls until the minimum time is reached.<br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is made of a clear protective plastic cover and a rigid <a target="glossary" class="glossarylink" href="/glossary.php#Translite">translite</a> behind which are raised 3D features.<br><br>The flyer refers to the <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Bumper">spinning&nbsp;bumpers</a> as "revolving discs" and the manufacturer's parts list indicates these discs can spin either clockwise or counterclockwise, depending on which of two spinning motors is installed.<br><br>Click <a href=http://www.flippers.be/stern_orbitor_one_history.html target=”flippers.be”>here</a> for an interesting article with photographs about the development of Orbitor 1.<br><br>'Orbitor 1' was the last pinball machine produced by Stern Electronics. Ted Salveson wrote in his <I>Coin Machine Trader</I> (October 1982, page 2) that the last Orbitor 1 game shipped from the factory on August 10, 1982. Salveson wrote that, according to an authority from the factory, their suspension of pinball production would not be permanent. Salveson reasoned that video games would become their main interest.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"ORBITOR I - A Stern Revolution!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 123-124<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 250<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 137<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1725">http://www.pinballowners.com/owners/1725</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/orbitor1.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 90 B</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_Read_File_for_Speech_ROMs.txt" >Read File for Speech ROMs</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_ROMs.zip" >ROMs</a></td><td> [Stern Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 916 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_German_Manual.pdf" onClick="return purchasemanual();">German Manual</a></td><td> [Stella Electronic Apparate GMBH]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 2 KB</td><td align=left nowrap width="5%">&nbsp;716&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/MOD1.716" >After-Factory Modified U1 For No Timed Game</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 KB</td><td align=left nowrap width="5%">&nbsp;716&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/mod5.716" >After-Factory Modified U5 For No Timed Game</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 KB</td><td align=left nowrap width="5%">&nbsp;716&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_Speech_Chip_U10.716" >Speech Chip U10</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 KB</td><td align=left nowrap width="5%">&nbsp;716&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_Speech_Chip_U9.716" >Speech Chip U9</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 10 MB</td><td align=left nowrap width="5%">&nbsp;MPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1725/Stern_1982_Orbitor_1_To_Drain_or_Not_To_Drain.mpg" >To Drain or Not To Drain</a></td><td> [Hans Balk]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=3195" 
+><span title="Image # 3195: Orbitor 1 Backglass "><img src="https://www.ipdb.org/images/1725/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 3195: Orbitor 1 Backglass "><br>Backglass</span></a><br><font size="-2">622x515</font><br>[Hans Balk]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=3196" 
+><span title="Image # 3196: Orbitor 1 Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3196: Orbitor 1 Playfield "><br>Playfield</span></a><br><font size="-2">742x1003</font><br>[Hans Balk]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=3197" 
+><span title="Image # 3197: Orbitor 1 Upper playfield "><img src="https://www.ipdb.org/images/1725/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 3197: Orbitor 1 Upper playfield "><br>Upper playfield</span></a><br><font size="-2">688x385</font><br>[Toni Angler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=3641" 
+><span title="Image # 3641: Orbitor 1 Flyer, Front "><img src="https://www.ipdb.org/images/1725/tn_1725f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3641: Orbitor 1 Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">597x771</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=11175" 
+><span title="Image # 11175: Orbitor 1 Flyer, Back "><img src="https://www.ipdb.org/images/1725/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 11175: Orbitor 1 Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">608x763</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=11176" 
+><span title="Image # 11176: Orbitor 1 Promotional Photo "><img src="https://www.ipdb.org/images/1725/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 11176: Orbitor 1 Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">570x728</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=11317" 
+><span title="Image # 11317: Orbitor 1 Cabinet - Front View "><img src="https://www.ipdb.org/images/1725/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 11317: Orbitor 1 Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">620x851</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=12942" 
+><span title="Image # 12942: Orbitor 1 Lit Backglass "><img src="https://www.ipdb.org/images/1725/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 12942: Orbitor 1 Lit Backglass "><br>Lit Backglass</span></a><br><font size="-2">919x872</font><br>[Pascal Villedieu]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=16305" 
+><span title="Image # 16305: Orbitor 1 Cabinet - Right "><img src="https://www.ipdb.org/images/1725/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 16305: Orbitor 1 Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">349x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18697" 
+><span title="Image # 18697: Orbitor 1 Illuminated Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18697: Orbitor 1 Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">598x800</font><br>[Henrik Maurer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18698" 
+><span title="Image # 18698: Orbitor 1 Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18698: Orbitor 1 Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">800x598</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18699" 
+><span title="Image # 18699: Orbitor 1 Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18699: Orbitor 1 Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">598x800</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18700" 
+><span title="Image # 18700: Orbitor 1 Backglass "><img src="https://www.ipdb.org/images/1725/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18700: Orbitor 1 Backglass "><br>Backglass</span></a><br><font size="-2">800x598</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18701" 
+><span title="Image # 18701: Orbitor 1 Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18701: Orbitor 1 Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">800x598</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18702" 
+><span title="Image # 18702: Orbitor 1 Backglass "><img src="https://www.ipdb.org/images/1725/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18702: Orbitor 1 Backglass "><br>Backglass</span></a><br><font size="-2">800x598</font><br>[Henrik Maurer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18703" 
+><span title="Image # 18703: Orbitor 1 Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18703: Orbitor 1 Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">800x598</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18704" 
+><span title="Image # 18704: Orbitor 1 Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18704: Orbitor 1 Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">800x598</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=18705" 
+><span title="Image # 18705: Orbitor 1 Illuminated Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 18705: Orbitor 1 Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">598x800</font><br>[Henrik Maurer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21101" 
+><span title="Image # 21101: Orbitor 1 Outhole 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21101: Orbitor 1 Outhole 
+(Serial number 1292.)"><br>Outhole*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21102" 
+><span title="Image # 21102: Orbitor 1 Inside Cabinet 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 21102: Orbitor 1 Inside Cabinet 
+(Serial number 1292.)"><br>Inside Cabinet*</span></a><br><font size="-2">1024x912</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21103" 
+><span title="Image # 21103: Orbitor 1 Inside Cabinet - Right 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 21103: Orbitor 1 Inside Cabinet - Right 
+(Serial number 1292.)"><br>Inside Cabinet - Right*</span></a><br><font size="-2">1024x916</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21104" 
+><span title="Image # 21104: Orbitor 1 Under Playfield 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 21104: Orbitor 1 Under Playfield 
+(Serial number 1292.)"><br>Under Playfield*</span></a><br><font size="-2">1017x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21105" 
+><span title="Image # 21105: Orbitor 1 Underside Bumper Opto Detail 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21105: Orbitor 1 Underside Bumper Opto Detail 
+(Serial number 1292.)"><br>Underside Bumper Opto Detail*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21106" 
+><span title="Image # 21106: Orbitor 1 Under Playfield - Right 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21106: Orbitor 1 Under Playfield - Right 
+(Serial number 1292.)"><br>Under Playfield - Right*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21107" 
+><span title="Image # 21107: Orbitor 1 Under Playfield - Left 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21107: Orbitor 1 Under Playfield - Left 
+(Serial number 1292.)"><br>Under Playfield - Left*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21108" 
+><span title="Image # 21108: Orbitor 1 Revolving Disc 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21108: Orbitor 1 Revolving Disc 
+(Serial number 1292.)"><br>Revolving Disc*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21109" 
+><span title="Image # 21109: Orbitor 1 Playfield - Ball View 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21109: Orbitor 1 Playfield - Ball View 
+(Serial number 1292.)"><br>Playfield - Ball View*</span></a><br><font size="-2">1024x768</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21110" 
+><span title="Image # 21110: Orbitor 1 Cabinet - Front View 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 21110: Orbitor 1 Cabinet - Front View 
+(Serial number 1292.)"><br>Cabinet - Front View*</span></a><br><font size="-2">941x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=21111" 
+><span title="Image # 21111: Orbitor 1 Cabinet - Front 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/1725/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 21111: Orbitor 1 Cabinet - Front 
+(Serial number 1292.)"><br>Cabinet - Front*</span></a><br><font size="-2">1024x722</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=41736" 
+><span title="Image # 41736: Orbitor 1 Clear Playfield "><img src="https://www.ipdb.org/images/1725/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=47 alt="Image # 41736: Orbitor 1 Clear Playfield "><br>Clear Playfield</span></a><br><font size="-2">1182x558</font><br>[Ed Klamp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=41737" 
+><span title="Image # 41737: Orbitor 1 Clear Playfield - Middle Left "><img src="https://www.ipdb.org/images/1725/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41737: Orbitor 1 Clear Playfield - Middle Left "><br>Clear Playfield - Middle Left</span></a><br><font size="-2">1200x1600</font><br>[Ed Klamp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=41738" 
+><span title="Image # 41738: Orbitor 1 Clear Playfield - Middle Right "><img src="https://www.ipdb.org/images/1725/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 41738: Orbitor 1 Clear Playfield - Middle Right "><br>Clear Playfield - Middle Right</span></a><br><font size="-2">1200x1600</font><br>[Ed Klamp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=41739" 
+><span title="Image # 41739: Orbitor 1 Clear Playfield - Lower Left "><img src="https://www.ipdb.org/images/1725/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41739: Orbitor 1 Clear Playfield - Lower Left "><br>Clear Playfield - Lower Left</span></a><br><font size="-2">1200x900</font><br>[Ed Klamp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=41740" 
+><span title="Image # 41740: Orbitor 1 Clear Playfield - Lower Right "><img src="https://www.ipdb.org/images/1725/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41740: Orbitor 1 Clear Playfield - Lower Right "><br>Clear Playfield - Lower Right</span></a><br><font size="-2">1200x900</font><br>[Ed Klamp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=44257" 
+><span title="Image # 44257: Orbitor 1 Backglass "><img src="https://www.ipdb.org/images/1725/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 44257: Orbitor 1 Backglass "><br>Backglass</span></a><br><font size="-2">1200x1099</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=69646" 
+><span title="Image # 69646: Orbitor 1 Illuminated Front View 
+(Serial number 1613.)"><img src="https://www.ipdb.org/images/1725/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69646: Orbitor 1 Illuminated Front View 
+(Serial number 1613.)"><br>Illuminated Front View*</span></a><br><font size="-2">1200x1600</font><br>[Timmy Vierboom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1725&amp;picno=69647" 
+><span title="Image # 69647: Orbitor 1 Inside Cabinet - Serial Number 
+(Located in the coin box area. Serial number 1613.)"><img src="https://www.ipdb.org/images/1725/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69647: Orbitor 1 Inside Cabinet - Serial Number 
+(Located in the coin box area. Serial number 1613.)"><br>Inside Cabinet - Serial Number*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

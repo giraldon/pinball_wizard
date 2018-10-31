@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stern 'Metallica (Pro LED)'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stern Metallica (Pro LED) The backbox translite shows art caricatures of the band members.
+
+Factory-installed illumination: 
+Backbox - one fluorescent tube. 
+Playfield - (<I>not yet confirmed by visual inspection</I>)
+Cabinet - (<I>not yet confirmed by visual inspection</I>)  John Borg Mark Galvez Tom Kyzivat Jack Liddon Kelly Mazurowski Rory O'Donnell Scott Melchionda Lyman F. Sheats Jr. Lonnie D. Ropp Mike Kyzivat ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stern 'Metallica (Pro LED)' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Metallica (Pro LED)</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="6178">Metallica (Pro LED)</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=6178">6178</a> <I>/ August, 2014 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.7 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=6178" target="showrate6178">8 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=6178" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stern'"><a href="search.pl?searchtype=advanced&amp;mfgid=303">Stern Pinball, Incorporated, <font size="-1">of Chicago, Illinois,<br> USA</font> (1999-now) <i>[Trade Name: Stern</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 2014</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>I-00E0</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>MetProLed</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=54">Stern S.A.M. Board System</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=6178">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Licensed Theme - Music</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Translite">translite</a> shows art caricatures of the band members.<br><br>Factory-installed illumination: <br><a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> - one fluorescent tube. <br><a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> - (<I>not yet confirmed by visual inspection</I>)<br><a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> - (<I>not yet confirmed by visual inspection</I>)<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Borg' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Borg">John&nbsp;Borg</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Galvez' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Galvez">Mark&nbsp;Galvez</a></span>, <span title="Click here to perform a search for all pinball games that 'Tom&nbsp;Kyzivat' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tom%20Kyzivat">Tom&nbsp;Kyzivat</a></span>, <span title="Click here to perform a search for all pinball games that 'Jack&nbsp;Liddon' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jack%20Liddon">Jack&nbsp;Liddon</a></span>, <span title="Click here to perform a search for all pinball games that 'Kelly&nbsp;Mazurowski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Kelly%20Mazurowski">Kelly&nbsp;Mazurowski</a></span>, <span title="Click here to perform a search for all pinball games that 'Rory&nbsp;O'Donnell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rory%20O%27Donnell">Rory&nbsp;O'Donnell</a></span>, <span title="Click here to perform a search for all pinball games that 'Scott&nbsp;Melchionda' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Scott%20Melchionda">Scott&nbsp;Melchionda</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lyman%20F.%20Sheats%20Jr.">Lyman&nbsp;F.&nbsp;Sheats&nbsp;Jr.</a></span>, <span title="Click here to perform a search for all pinball games that 'Lonnie&nbsp;D.&nbsp;Ropp' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Lonnie%20D.%20Ropp">Lonnie&nbsp;D.&nbsp;Ropp</a></span>, <span title="Click here to perform a search for all pinball games that 'Mike&nbsp;Kyzivat' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mike%20Kyzivat">Mike&nbsp;Kyzivat</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Brendon Small provided the voices for "Sparky" and "The Snake".<br><br>This is a version of <span title="Click here to open a new window and display Stern's 2013 'Metallica (Pro)'"><a target="game6028" href="machine.cgi?id=6028">Stern's 2013 'Metallica (Pro)'</a></span> that the manufacturer advertises on their website as "upfitted with vivid, energy-efficient LED lighting." Other than press releases, we have found no flyer, manual, or other manufacturer advertisements specific to this version to detail if all, or only a large portion, of the incandescent bulbs were replaced with LEDs. Stern has confirmed with us that this version has shipped.<br><br>MSRP when new: $5,595.00<br><br>If any owner or distributor had receipt of this game prior to our listed date of August 2014, please contact us.<br><br><font color="FF0000">We would like to hear from an owner of a 'Pro LED' version game that has not been altered since it has left the factory, so that we can document what types of factory illumination were used on the pla<ignore>yfield and on the cab<ignore>inet front.</font><P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 40 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/6178/Stern_2014_Metallica_Pro_LED_Press_Release_New_Game_Announcement.pdf" >Press Release - New Game Announcement</a></td><td> [Stern Pinball, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65399" 
+><span title="Image # 65399: Metallica (Pro LED) Illuminated Backglass 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 65399: Metallica (Pro LED) Illuminated Backglass 
+(Serial number E249370.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1200x1198</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65400" 
+><span title="Image # 65400: Metallica (Pro LED) Illuminated Playfield 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 65400: Metallica (Pro LED) Illuminated Playfield 
+(Serial number E249370.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1842</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65401" 
+><span title="Image # 65401: Metallica (Pro LED) Cabinet - Left 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 65401: Metallica (Pro LED) Cabinet - Left 
+(Serial number E249370.)"><br>Cabinet - Left*</span></a><br><font size="-2">1168x1700</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65402" 
+><span title="Image # 65402: Metallica (Pro LED) Cabinet - Right 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 65402: Metallica (Pro LED) Cabinet - Right 
+(Serial number E249370.)"><br>Cabinet - Right*</span></a><br><font size="-2">1200x1810</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65403" 
+><span title="Image # 65403: Metallica (Pro LED) Cabinet - Front View 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=38 height=100 alt="Image # 65403: Metallica (Pro LED) Cabinet - Front View 
+(Serial number E249370.)"><br>Cabinet - Front View*</span></a><br><font size="-2">938x2477</font><br>[Pinball Universe]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65404" 
+><span title="Image # 65404: Metallica (Pro LED) Model Number 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 65404: Metallica (Pro LED) Model Number 
+(Serial number E249370.)"><br>Model Number*</span></a><br><font size="-2">641x662</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65405" 
+><span title="Image # 65405: Metallica (Pro LED) Upper Playfield 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65405: Metallica (Pro LED) Upper Playfield 
+(Serial number E249370.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65406" 
+><span title="Image # 65406: Metallica (Pro LED) Playfield - Detail 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65406: Metallica (Pro LED) Playfield - Detail 
+(Serial number E249370.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65407" 
+><span title="Image # 65407: Metallica (Pro LED) Playfield - Detail 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 65407: Metallica (Pro LED) Playfield - Detail 
+(Serial number E249370.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x680</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65408" 
+><span title="Image # 65408: Metallica (Pro LED) Inside Backbox 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-A1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 65408: Metallica (Pro LED) Inside Backbox 
+(Serial number E249370.)"><br>Inside Backbox*</span></a><br><font size="-2">1095x1301</font><br>[Pinball Universe]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65409" 
+><span title="Image # 65409: Metallica (Pro LED) Under Playfield 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 65409: Metallica (Pro LED) Under Playfield 
+(Serial number E249370.)"><br>Under Playfield*</span></a><br><font size="-2">1048x1600</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65410" 
+><span title="Image # 65410: Metallica (Pro LED) Under Upper Playfield 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-A9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65410: Metallica (Pro LED) Under Upper Playfield 
+(Serial number E249370.)"><br>Under Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65411" 
+><span title="Image # 65411: Metallica (Pro LED) Under Middle Playfield 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65411: Metallica (Pro LED) Under Middle Playfield 
+(Serial number E249370.)"><br>Under Middle Playfield*</span></a><br><font size="-2">1200x900</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65412" 
+><span title="Image # 65412: Metallica (Pro LED) Under Lower Playfield 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-A7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65412: Metallica (Pro LED) Under Lower Playfield 
+(Serial number E249370.)"><br>Under Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65413" 
+><span title="Image # 65413: Metallica (Pro LED) Playfield Edge Information 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=48 alt="Image # 65413: Metallica (Pro LED) Playfield Edge Information 
+(Serial number E249370.)"><br>Playfield Edge Information*</span></a><br><font size="-2">1200x578</font><br>[Pinball Universe]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65414" 
+><span title="Image # 65414: Metallica (Pro LED) Inside Cabinet 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65414: Metallica (Pro LED) Inside Cabinet 
+(Serial number E249370.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Pinball Universe]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6178&amp;picno=65415" 
+><span title="Image # 65415: Metallica (Pro LED) Inside Cabinet - Detail 
+(Serial number E249370.)"><img src="https://www.ipdb.org/images/6178/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 65415: Metallica (Pro LED) Inside Cabinet - Detail 
+(Serial number E249370.)"><br>Inside Cabinet - Detail*</span></a><br><font size="-2">1200x900</font><br>[Pinball Universe]</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Stern press releases&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

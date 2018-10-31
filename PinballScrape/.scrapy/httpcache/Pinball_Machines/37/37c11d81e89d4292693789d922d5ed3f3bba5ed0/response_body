@@ -1,0 +1,206 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Super Orbit'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Super Orbit Flippers (2), Pop bumpers (3), Slingshot (1), Standup targets (3), Vari-target (1), Spinning target (1), Upper right return ball rollunder, Right outlane ball return gate.  David Moore Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Super Orbit' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Super Orbit</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2437">Super Orbit</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2437">2437</a> <I>/ May, 1983 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">5.3 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2437" target="showrate2437">9 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2437" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May, 1983</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>680</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=16">Gottlieb System 80A</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,100 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2437">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshot</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Upper right return ball <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">rollunder</a>, Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This game has the same <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> layout as the <a target="glossary" class="glossarylink" href="/glossary.php#EM">EM</a> games <span title="Click here to open a new window and display Gottlieb's 1971 'Orbit'"><a target="game1724" href="machine.cgi?id=1724">Gottlieb's 1971 'Orbit'</a></span> and <span title="Click here to open a new window and display Gottlieb's 1972 'Outer Space'"><a target="game1728" href="machine.cgi?id=1728">Gottlieb's 1972 'Outer Space'</a></span> and is possibly the first Gottlieb game to produce a sound effect by pressing the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons in attract <a target="glossary" class="glossarylink" href="/glossary.php#Mode">mode</a>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 2437 sorbit.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 11 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 2437 Gottlieb_1983_Super_Orbit_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=2325" 
+><span title="Image # 2325: Super Orbit Backglass "><img src="https://www.ipdb.org/images/2437/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 2325: Super Orbit Backglass "><br>Backglass</span></a><br><font size="-2">495x506</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=4753" 
+><span title="Image # 4753: Super Orbit Flyer, Front "><img src="https://www.ipdb.org/images/2437/tn_2437f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4753: Super Orbit Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">612x791</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=4754" 
+><span title="Image # 4754: Super Orbit Flyer, Back "><img src="https://www.ipdb.org/images/2437/tn_2437f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4754: Super Orbit Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">612x791</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=16865" 
+><span title="Image # 16865: Super Orbit Playfield "><img src="https://www.ipdb.org/images/2437/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 16865: Super Orbit Playfield "><br>Playfield</span></a><br><font size="-2">800x1148</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=16866" 
+><span title="Image # 16866: Super Orbit Playfield - Ball View "><img src="https://www.ipdb.org/images/2437/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 16866: Super Orbit Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">800x484</font><br>[Michael Tokarski]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=16867" 
+><span title="Image # 16867: Super Orbit Cabinet - Left "><img src="https://www.ipdb.org/images/2437/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 16867: Super Orbit Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x1148</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=16868" 
+><span title="Image # 16868: Super Orbit Cabinet - Right "><img src="https://www.ipdb.org/images/2437/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 16868: Super Orbit Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">648x793</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=16869" 
+><span title="Image # 16869: Super Orbit Cabinet - Front "><img src="https://www.ipdb.org/images/2437/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 16869: Super Orbit Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">800x611</font><br>[Michael Tokarski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=27391" 
+><span title="Image # 27391: Super Orbit Backglass "><img src="https://www.ipdb.org/images/2437/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 27391: Super Orbit Backglass "><br>Backglass</span></a><br><font size="-2">574x524</font><br>[Eric Avedesian]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=27392" 
+><span title="Image # 27392: Super Orbit Backglass - Reverse "><img src="https://www.ipdb.org/images/2437/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 27392: Super Orbit Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x947</font><br>[Eric Avedesian]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53276" 
+><span title="Image # 53276: Super Orbit Bonus Ladder 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 53276: Super Orbit Bonus Ladder 
+(Serial number 1292.)"><br>Bonus Ladder*</span></a><br><font size="-2">1080x1920</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53277" 
+><span title="Image # 53277: Super Orbit Vari-Target 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 53277: Super Orbit Vari-Target 
+(Serial number 1292.)"><br>Vari-Target*</span></a><br><font size="-2">1080x1920</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53278" 
+><span title="Image # 53278: Super Orbit Ball Return Gate 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 53278: Super Orbit Ball Return Gate 
+(Serial number 1292.)"><br>Ball Return Gate*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53279" 
+><span title="Image # 53279: Super Orbit Lockdown Bar - Detail 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 53279: Super Orbit Lockdown Bar - Detail 
+(Serial number 1292.)"><br>Lockdown Bar - Detail*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53280" 
+><span title="Image # 53280: Super Orbit Inside Cabinet 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 53280: Super Orbit Inside Cabinet 
+(Serial number 1292.)"><br>Inside Cabinet*</span></a><br><font size="-2">1080x1920</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53281" 
+><span title="Image # 53281: Super Orbit Serial Number 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 53281: Super Orbit Serial Number 
+(Serial number 1292.)"><br>Serial Number*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53282" 
+><span title="Image # 53282: Super Orbit Speakers 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 53282: Super Orbit Speakers 
+(Serial number 1292.)"><br>Speakers*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=53283" 
+><span title="Image # 53283: Super Orbit Volume Control 
+(Serial number 1292.)"><img src="https://www.ipdb.org/images/2437/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 53283: Super Orbit Volume Control 
+(Serial number 1292.)"><br>Volume Control*</span></a><br><font size="-2">1200x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=57748" 
+><span title="Image # 57748: Super Orbit Backglass "><img src="https://www.ipdb.org/images/2437/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 57748: Super Orbit Backglass "><br>Backglass</span></a><br><font size="-2">1024x989</font><br>[Bernard Garrandaux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=58969" 
+><span title="Image # 58969: Super Orbit Illuminated Playfield "><img src="https://www.ipdb.org/images/2437/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58969: Super Orbit Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Bernard Garrandaux]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65486" 
+><span title="Image # 65486: Super Orbit Backglass "><img src="https://www.ipdb.org/images/2437/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65486: Super Orbit Backglass "><br>Backglass</span></a><br><font size="-2">1200x1186</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65487" 
+><span title="Image # 65487: Super Orbit Illuminated Backglass "><img src="https://www.ipdb.org/images/2437/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 65487: Super Orbit Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1199</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65488" 
+><span title="Image # 65488: Super Orbit Playfield "><img src="https://www.ipdb.org/images/2437/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 65488: Super Orbit Playfield "><br>Playfield</span></a><br><font size="-2">1200x1222</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65489" 
+><span title="Image # 65489: Super Orbit Playfield - Detail "><img src="https://www.ipdb.org/images/2437/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 65489: Super Orbit Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1071</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65490" 
+><span title="Image # 65490: Super Orbit Cabinet - Front View "><img src="https://www.ipdb.org/images/2437/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 65490: Super Orbit Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">753x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65491" 
+><span title="Image # 65491: Super Orbit Illuminated Front View "><img src="https://www.ipdb.org/images/2437/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 65491: Super Orbit Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">829x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65492" 
+><span title="Image # 65492: Super Orbit Cabinet - Full View "><img src="https://www.ipdb.org/images/2437/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 65492: Super Orbit Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1200x1513</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65493" 
+><span title="Image # 65493: Super Orbit Illuminated Full View "><img src="https://www.ipdb.org/images/2437/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 65493: Super Orbit Illuminated Full View "><br>Illuminated Full View</span></a><br><font size="-2">1200x1512</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2437&amp;picno=65494" 
+><span title="Image # 65494: Super Orbit Illuminated Backglass "><img src="https://www.ipdb.org/images/2437/tn_image-A18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 65494: Super Orbit Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1230</font><br>[Bernard Garrandaux]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

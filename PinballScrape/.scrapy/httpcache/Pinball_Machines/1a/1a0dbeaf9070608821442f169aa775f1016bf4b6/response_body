@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Big Hit'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Big Hit Flippers (4), Pop bumpers (2), Vari-targets (2), Star rollovers (3), 5-bank drop targets (2). Ball is launched into play from the outhole through the flippers by pressing right flipper button. No slingshots.
+
+Sound: 3 chimes, 1 bell, knocker.  Gordon Morison Ed Krynski ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Big Hit' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Big Hit</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="253">Big Hit</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=253">253</a> <I>/ March, 1977 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=253" target="showrate253"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=253" target="showrate253">24 ratings/18 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=253" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>March, 1977</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>400</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,200 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=253">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Baseball</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Vari-target">Vari-targets</a> (2), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (3), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (2). Ball is launched into play from the <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a> through the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> by pressing right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button. No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>.<br><br>Sound: 3 chimes, 1 bell, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ed&nbsp;Krynski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ed%20Krynski">Ed&nbsp;Krynski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<!-- 2743 == 1976 'Volley' -->
+<!-- 1281 == 1977 'Jacks Open' -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Shown in this listing are three versions of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> produced by the manufacturer. The flyer shows the "standard version" with unpainted woodgrain in the area between the lower <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> as well as in the area just above the upper <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> (the "swipe" area). A "white version" has white paint in these same areas. A "yellow version" has yellow paint in these same areas. The quantities produced of each are unknown to us.<br><br>Tim Arnold contacted us with the following information for 'Big Hit', <a target="game2743" href="machine.cgi?id=2743">1976 'Volley'</a>, and <a target="game1281" href="machine.cgi?id=1281">1977 'Jacks Open'</a> which explains the different playfields:<br><br><i>I have noticed a mystery on these three games I can solve for you. I have had many examples of these machines over the years. Pla<ignore>yfields with PAINT over [flipper] swipe area and top arch are made of CHIPBOARD! I first saw this at Cleveland Coin back in the day when we were thinking of buying the game off the floor. Our salesman told us to take one in the box as the painted over area was "Pressed wood". I later talked to Cliff Strain [in Sales] at an annual trade show. He told me they were trying new materials because of a spike in the price of plywood. I have had two of these three machines since then, and the paint seems to stick to the wood just fine, but the surface turns rough and bumpley (sic) under the paint.</i><P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933023/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933023&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 2</a>, page 212<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 112<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/253">http://www.pinballowners.com/owners/253</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 74 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/253/Gottlieb_1977_Big_Hit_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=245" 
+><span title="Image # 245: Big Hit Backglass "><img src="https://www.ipdb.org/images/253/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 245: Big Hit Backglass "><br>Backglass</span></a><br><font size="-2">468x435</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=4760" 
+><span title="Image # 4760: Big Hit Flyer "><img src="https://www.ipdb.org/images/253/tn_253f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4760: Big Hit Flyer "><br>Flyer</span></a><br><font size="-2">609x789</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=15106" 
+><span title="Image # 15106: Big Hit Playfield "><img src="https://www.ipdb.org/images/253/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 15106: Big Hit Playfield "><br>Playfield</span></a><br><font size="-2">450x600</font><br>[Tom Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=15108" 
+><span title="Image # 15108: Big Hit Cabinet - Front View "><img src="https://www.ipdb.org/images/253/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 15108: Big Hit Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">450x600</font><br>[Tom Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16088" 
+><span title="Image # 16088: Big Hit Backglass "><img src="https://www.ipdb.org/images/253/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 16088: Big Hit Backglass "><br>Backglass</span></a><br><font size="-2">791x859</font><br>[Brent Sorensen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16089" 
+><span title="Image # 16089: Big Hit Upper Playfield "><img src="https://www.ipdb.org/images/253/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16089: Big Hit Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Brent Sorensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16090" 
+><span title="Image # 16090: Big Hit Middle Playfield "><img src="https://www.ipdb.org/images/253/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16090: Big Hit Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Brent Sorensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16091" 
+><span title="Image # 16091: Big Hit Lower Playfield "><img src="https://www.ipdb.org/images/253/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16091: Big Hit Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Brent Sorensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16092" 
+><span title="Image # 16092: Big Hit Cabinet - Left "><img src="https://www.ipdb.org/images/253/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 16092: Big Hit Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x810</font><br>[Brent Sorensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16093" 
+><span title="Image # 16093: Big Hit Cabinet - Right "><img src="https://www.ipdb.org/images/253/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 16093: Big Hit Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">885x789</font><br>[Brent Sorensen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=16094" 
+><span title="Image # 16094: Big Hit Cabinet - Front "><img src="https://www.ipdb.org/images/253/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 16094: Big Hit Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x774</font><br>[Brent Sorensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=24996" 
+><span title="Image # 24996: Big Hit Backbox "><img src="https://www.ipdb.org/images/253/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 24996: Big Hit Backbox "><br>Backbox</span></a><br><font size="-2">1024x1015</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=28448" 
+><span title="Image # 28448: Big Hit Illuminated Backglass "><img src="https://www.ipdb.org/images/253/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 28448: Big Hit Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">400x457</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35784" 
+><span title="Image # 35784: Big Hit Playfield 
+(Serial number 03400.)"><img src="https://www.ipdb.org/images/253/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35784: Big Hit Playfield 
+(Serial number 03400.)"><br>Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35785" 
+><span title="Image # 35785: Big Hit Upper Playfield 
+(Serial number 03400.)"><img src="https://www.ipdb.org/images/253/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35785: Big Hit Upper Playfield 
+(Serial number 03400.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35786" 
+><span title="Image # 35786: Big Hit Upper Playfield 
+(Serial number 03400.)"><img src="https://www.ipdb.org/images/253/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35786: Big Hit Upper Playfield 
+(Serial number 03400.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35787" 
+><span title="Image # 35787: Big Hit Cabinet - Front View 
+(Serial number 03400.)"><img src="https://www.ipdb.org/images/253/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35787: Big Hit Cabinet - Front View 
+(Serial number 03400.)"><br>Cabinet - Front View*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35788" 
+><span title="Image # 35788: Big Hit Playfield - White Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted white from the factory.)"><img src="https://www.ipdb.org/images/253/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35788: Big Hit Playfield - White Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted white from the factory.)"><br>Playfield - White Version*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35789" 
+><span title="Image # 35789: Big Hit Upper Playfield - White Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted white from the factory.)"><img src="https://www.ipdb.org/images/253/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35789: Big Hit Upper Playfield - White Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted white from the factory.)"><br>Upper Playfield - White Version*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35790" 
+><span title="Image # 35790: Big Hit Middle Playfield - White Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted white from the factory.)"><img src="https://www.ipdb.org/images/253/tn_image-A5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35790: Big Hit Middle Playfield - White Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted white from the factory.)"><br>Middle Playfield - White Version*</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35791" 
+><span title="Image # 35791: Big Hit Two Playfield Versions 
+(The standard playfield is in the foreground. The 'white' version playfield is in the background.)"><img src="https://www.ipdb.org/images/253/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35791: Big Hit Two Playfield Versions 
+(The standard playfield is in the foreground. The 'white' version playfield is in the background.)"><br>Two Playfield Versions*</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35792" 
+><span title="Image # 35792: Big Hit Underneath Playfield "><img src="https://www.ipdb.org/images/253/tn_image-B13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35792: Big Hit Underneath Playfield "><br>Underneath Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35793" 
+><span title="Image # 35793: Big Hit Inside Cabinet "><img src="https://www.ipdb.org/images/253/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35793: Big Hit Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35794" 
+><span title="Image # 35794: Big Hit Motor "><img src="https://www.ipdb.org/images/253/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35794: Big Hit Motor "><br>Motor</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35795" 
+><span title="Image # 35795: Big Hit Drop Target Assembly "><img src="https://www.ipdb.org/images/253/tn_image-B5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 35795: Big Hit Drop Target Assembly "><br>Drop Target Assembly</span></a><br><font size="-2">744x944</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35796" 
+><span title="Image # 35796: Big Hit Upper Playfield "><img src="https://www.ipdb.org/images/253/tn_image-B14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35796: Big Hit Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35797" 
+><span title="Image # 35797: Big Hit Middle Playfield "><img src="https://www.ipdb.org/images/253/tn_image-C13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35797: Big Hit Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35798" 
+><span title="Image # 35798: Big Hit Outhole "><img src="https://www.ipdb.org/images/253/tn_image-C5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35798: Big Hit Outhole "><br>Outhole</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35799" 
+><span title="Image # 35799: Big Hit Cabinet - Full View "><img src="https://www.ipdb.org/images/253/tn_image-B15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35799: Big Hit Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=35800" 
+><span title="Image # 35800: Big Hit Cabinet - Aerial View "><img src="https://www.ipdb.org/images/253/tn_image-B16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35800: Big Hit Cabinet - Aerial View "><br>Cabinet - Aerial View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47890" 
+><span title="Image # 47890: Big Hit Illuminated Backglass "><img src="https://www.ipdb.org/images/253/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 47890: Big Hit Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">914x870</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47891" 
+><span title="Image # 47891: Big Hit Playfield "><img src="https://www.ipdb.org/images/253/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47891: Big Hit Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47892" 
+><span title="Image # 47892: Big Hit Upper Playfield "><img src="https://www.ipdb.org/images/253/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47892: Big Hit Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47893" 
+><span title="Image # 47893: Big Hit Middle Playfield "><img src="https://www.ipdb.org/images/253/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47893: Big Hit Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47894" 
+><span title="Image # 47894: Big Hit Lower Playfield "><img src="https://www.ipdb.org/images/253/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47894: Big Hit Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47895" 
+><span title="Image # 47895: Big Hit Playfield - Drop Targets "><img src="https://www.ipdb.org/images/253/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47895: Big Hit Playfield - Drop Targets "><br>Playfield - Drop Targets</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47896" 
+><span title="Image # 47896: Big Hit Playfield - Ball View "><img src="https://www.ipdb.org/images/253/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47896: Big Hit Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47897" 
+><span title="Image # 47897: Big Hit Backbox - Left "><img src="https://www.ipdb.org/images/253/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 47897: Big Hit Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1004x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47898" 
+><span title="Image # 47898: Big Hit Backbox - Right "><img src="https://www.ipdb.org/images/253/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47898: Big Hit Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47899" 
+><span title="Image # 47899: Big Hit Cabinet - Left "><img src="https://www.ipdb.org/images/253/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47899: Big Hit Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47900" 
+><span title="Image # 47900: Big Hit Cabinet - Right "><img src="https://www.ipdb.org/images/253/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47900: Big Hit Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47901" 
+><span title="Image # 47901: Big Hit Cabinet - Front "><img src="https://www.ipdb.org/images/253/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 47901: Big Hit Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1000x900</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47902" 
+><span title="Image # 47902: Big Hit Under Lower Playfield "><img src="https://www.ipdb.org/images/253/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47902: Big Hit Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47903" 
+><span title="Image # 47903: Big Hit Under Upper Playfield "><img src="https://www.ipdb.org/images/253/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47903: Big Hit Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=47904" 
+><span title="Image # 47904: Big Hit Inside Cabinet "><img src="https://www.ipdb.org/images/253/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 47904: Big Hit Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=61600" 
+><span title="Image # 61600: Big Hit Playfield - Yellow Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted yellow from the factory. Serial number 03505.)"><img src="https://www.ipdb.org/images/253/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 61600: Big Hit Playfield - Yellow Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted yellow from the factory. Serial number 03505.)"><br>Playfield - Yellow Version*</span></a><br><font size="-2">925x900</font><br>[David Hoover]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=61601" 
+><span title="Image # 61601: Big Hit Upper Playfield - Yellow Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted yellow from the factory. Serial number 03505.)"><img src="https://www.ipdb.org/images/253/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61601: Big Hit Upper Playfield - Yellow Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted yellow from the factory. Serial number 03505.)"><br>Upper Playfield - Yellow Version*</span></a><br><font size="-2">1200x900</font><br>[David Hoover]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=61602" 
+><span title="Image # 61602: Big Hit Lower Playfield - Yellow Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted yellow from the factory. Serial number 03505.)"><img src="https://www.ipdb.org/images/253/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 61602: Big Hit Lower Playfield - Yellow Version 
+(In this version, the area between the lower flippers and the upper flipper swipes are painted yellow from the factory. Serial number 03505.)"><br>Lower Playfield - Yellow Version*</span></a><br><font size="-2">1200x900</font><br>[David Hoover]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=253&amp;picno=61867" 
+><span title="Image # 61867: Big Hit Playfield Edge - Yellow Version 
+(This view shows the playfield is composite, not plywood. Serial number 03505.)"><img src="https://www.ipdb.org/images/253/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 61867: Big Hit Playfield Edge - Yellow Version 
+(This view shows the playfield is composite, not plywood. Serial number 03505.)"><br>Playfield Edge - Yellow Version*</span></a><br><font size="-2">1149x900</font><br>[David Hoover]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

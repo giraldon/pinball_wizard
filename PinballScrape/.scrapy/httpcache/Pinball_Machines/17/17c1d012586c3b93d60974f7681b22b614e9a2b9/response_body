@@ -1,0 +1,219 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Hi-Diver'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Hi-Diver High Diver, Hi Diver Mechanical Backbox Animation Flippers (4), Pop bumpers (2), Passive bumpers (4), Slingshots (2), Kick-out holes (3), Standup targets (2). Backbox animation (figures dive from diving-board). A metal pin is placed above each outlane to deflect a ball that drops to it from the lane above. Metal cigarette holders on side woodrails.  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Hi-Diver' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Hi-Diver</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1165">Hi-Diver</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1165">1165</a> <I>/ April, 1959 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1165" target="showrate1165"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1165" target="showrate1165">8 ratings/8 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1165" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1959</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>153</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,650 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1165">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Water Sports</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2). <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (figures dive from diving-board). A metal pin is placed above each <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> to deflect a ball that drops to it from the lane above. Metal cigarette holders on side <a target="glossary" class="glossarylink" href="/glossary.php#Woodrail">woodrails</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<!-- 112 == 1956 Auto Race -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> carries Gottlieb's famous phrase: <I>Amusement Pinballs, as American as Baseball and Hot Dogs!</I><br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is silkscreened with the words "Game Over" but we were notified that a Hi-Diver with serial number D04067 has no lamp socket installed in the hole in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;insert</a> to light those words nor are there factory wires leading to this hole. We don't yet know if this wiring omission was unique to this one game but, reportedly, this lamp does not appear on the schematic. Unlike a similar situation found in all <a target="game112" href="machine.cgi?id=112">1956 Auto Race</a> games, Hi-Diver games do have a Game Over relay providing the <a target="glossary" class="glossarylink" href="/glossary.php#Match">match</a> feature and shutting off power to the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764305794/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764305794&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Collector's Guide to Vintage Coin Machines 2nd Edition</a>, page 105<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+The Pinball Collectors’ Quarterly, No. 4, page 3<br>
+Pinball The Lure of the Silverball, page 46<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 12, 50-52<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1165">http://www.pinballowners.com/owners/1165</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=1137" 
+><span title="Image # 1137: Hi-Diver Backglass "><img src="https://www.ipdb.org/images/1165/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=86 height=100 alt="Image # 1137: Hi-Diver Backglass "><br>Backglass</span></a><br><font size="-2">374x437</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=1138" 
+><span title="Image # 1138: Hi-Diver Backglass "><img src="https://www.ipdb.org/images/1165/tn_Backglass2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 1138: Hi-Diver Backglass "><br>Backglass</span></a><br><font size="-2">492x587</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=1139" 
+><span title="Image # 1139: Hi-Diver Cabinet - Front View "><img src="https://www.ipdb.org/images/1165/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 1139: Hi-Diver Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">307x460</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=1140" 
+><span title="Image # 1140: Hi-Diver Playfield "><img src="https://www.ipdb.org/images/1165/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 1140: Hi-Diver Playfield "><br>Playfield</span></a><br><font size="-2">396x519</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=4669" 
+><span title="Image # 4669: Hi-Diver Flyer "><img src="https://www.ipdb.org/images/1165/tn_1165f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 4669: Hi-Diver Flyer "><br>Flyer</span></a><br><font size="-2">806x1123</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=5309" 
+><span title="Image # 5309: Hi-Diver Score Card "><img src="https://www.ipdb.org/images/1165/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 5309: Hi-Diver Score Card "><br>Score Card</span></a><br><font size="-2">839x1330</font><br>[Scott Phillips]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9606" 
+><span title="Image # 9606: Hi-Diver Backglass "><img src="https://www.ipdb.org/images/1165/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 9606: Hi-Diver Backglass "><br>Backglass</span></a><br><font size="-2">450x512</font><br>[St. Louis Vintage Jukebox Co.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9607" 
+><span title="Image # 9607: Hi-Diver Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9607: Hi-Diver Playfield "><br>Playfield</span></a><br><font size="-2">600x800</font><br>[St. Louis Vintage Jukebox Co.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9608" 
+><span title="Image # 9608: Hi-Diver Cabinet - Left "><img src="https://www.ipdb.org/images/1165/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 9608: Hi-Diver Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">516x567</font><br>[St. Louis Vintage Jukebox Co.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9609" 
+><span title="Image # 9609: Hi-Diver Cabinet - Right "><img src="https://www.ipdb.org/images/1165/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 9609: Hi-Diver Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">540x535</font><br>[St. Louis Vintage Jukebox Co.]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9610" 
+><span title="Image # 9610: Hi-Diver Cabinet - Front "><img src="https://www.ipdb.org/images/1165/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 9610: Hi-Diver Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">676x600</font><br>[St. Louis Vintage Jukebox Co.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9611" 
+><span title="Image # 9611: Hi-Diver Playfield - Detail "><img src="https://www.ipdb.org/images/1165/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 9611: Hi-Diver Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">800x600</font><br>[St. Louis Vintage Jukebox Co.]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=9939" 
+><span title="Image # 9939: Hi-Diver Cabinet - Front View "><img src="https://www.ipdb.org/images/1165/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 9939: Hi-Diver Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">749x1107</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=12374" 
+><span title="Image # 12374: Hi-Diver Upper Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 12374: Hi-Diver Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x683</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=12375" 
+><span title="Image # 12375: Hi-Diver Under Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 12375: Hi-Diver Under Playfield "><br>Under Playfield</span></a><br><font size="-2">600x1079</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=20550" 
+><span title="Image # 20550: Hi-Diver Inside Backbox "><img src="https://www.ipdb.org/images/1165/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 20550: Hi-Diver Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">469x585</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=20551" 
+><span title="Image # 20551: Hi-Diver Cabinet - Rear View "><img src="https://www.ipdb.org/images/1165/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 20551: Hi-Diver Cabinet - Rear View "><br>Cabinet - Rear View</span></a><br><font size="-2">363x582</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22937" 
+><span title="Image # 22937: Hi-Diver Backglass "><img src="https://www.ipdb.org/images/1165/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 22937: Hi-Diver Backglass "><br>Backglass</span></a><br><font size="-2">929x1052</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22938" 
+><span title="Image # 22938: Hi-Diver Backglass - Detail "><img src="https://www.ipdb.org/images/1165/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22938: Hi-Diver Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22939" 
+><span title="Image # 22939: Hi-Diver Backglass - Detail "><img src="https://www.ipdb.org/images/1165/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 22939: Hi-Diver Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22940" 
+><span title="Image # 22940: Hi-Diver Backbox Insert "><img src="https://www.ipdb.org/images/1165/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 22940: Hi-Diver Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">903x1014</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22941" 
+><span title="Image # 22941: Hi-Diver Backbox Animation "><img src="https://www.ipdb.org/images/1165/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 22941: Hi-Diver Backbox Animation "><br>Backbox Animation</span></a><br><font size="-2">945x855</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22942" 
+><span title="Image # 22942: Hi-Diver Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 22942: Hi-Diver Playfield "><br>Playfield</span></a><br><font size="-2">807x1164</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22943" 
+><span title="Image # 22943: Hi-Diver Upper Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 22943: Hi-Diver Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x830</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22944" 
+><span title="Image # 22944: Hi-Diver Middle Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 22944: Hi-Diver Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">891x1200</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22945" 
+><span title="Image # 22945: Hi-Diver Lower Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 22945: Hi-Diver Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1021x906</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22946" 
+><span title="Image # 22946: Hi-Diver Cabinet - Left "><img src="https://www.ipdb.org/images/1165/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 22946: Hi-Diver Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x734</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22947" 
+><span title="Image # 22947: Hi-Diver Cabinet - Rear "><img src="https://www.ipdb.org/images/1165/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 22947: Hi-Diver Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">803x957</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22948" 
+><span title="Image # 22948: Hi-Diver Under Playfield "><img src="https://www.ipdb.org/images/1165/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 22948: Hi-Diver Under Playfield "><br>Under Playfield</span></a><br><font size="-2">807x1157</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22949" 
+><span title="Image # 22949: Hi-Diver Inside Cabinet "><img src="https://www.ipdb.org/images/1165/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 22949: Hi-Diver Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">908x1195</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22950" 
+><span title="Image # 22950: Hi-Diver Inside Cabinet "><img src="https://www.ipdb.org/images/1165/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 22950: Hi-Diver Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">849x1225</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22951" 
+><span title="Image # 22951: Hi-Diver Backglass - Reverse "><img src="https://www.ipdb.org/images/1165/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 22951: Hi-Diver Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">985x950</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22952" 
+><span title="Image # 22952: Hi-Diver Cabinet - Full View "><img src="https://www.ipdb.org/images/1165/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 22952: Hi-Diver Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">814x1061</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=22953" 
+><span title="Image # 22953: Hi-Diver Cabinet - Right "><img src="https://www.ipdb.org/images/1165/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 22953: Hi-Diver Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1006x838</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=35675" 
+><span title="Image # 35675: Hi-Diver Backglass "><img src="https://www.ipdb.org/images/1165/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 35675: Hi-Diver Backglass "><br>Backglass</span></a><br><font size="-2">1024x1108</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1165&amp;picno=71908" 
+><span title="Image # 71908: Hi-Diver Backglass - Game Over Silkscreening 
+(From the game with serial number D04067.)"><img src="https://www.ipdb.org/images/1165/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71908: Hi-Diver Backglass - Game Over Silkscreening 
+(From the game with serial number D04067.)"><br>Backglass - Game Over Silkscreening*</span></a><br><font size="-2">1200x900</font><br>[Steve Anderson]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

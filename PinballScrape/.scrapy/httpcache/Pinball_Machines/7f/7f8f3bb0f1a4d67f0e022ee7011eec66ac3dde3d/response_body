@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Premier 'Rescue 911'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Premier Rescue 911 Flippers (3), Pop bumpers (3), Slingshots (2), Standup targets (9), Captive balls (3), Kick-targets (2), 2-bank drop targets (1), Vertical up-kicker (1), Kicker lane (1). Toy helicopter lifts the ball (magnetically) and flies over to the playfield with it. The player can then 'launch' the ball via the flipper buttons to hit extra targets. The plunger delivers ball to right inlane. Helicopter.  Constantino Mitchell David Moore Jeanine Mitchell Bill Parker Daryl Moore Alycen Hareas Rand Paulin Duane Decker Bob Wilson Jon Norris Craig Beierwaltes ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Premier 'Rescue 911' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Rescue 911</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1951">Rescue 911</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1951">1951</a> <I>/ May, 1994 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1951" target="showrate1951"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1951" target="showrate1951">52 ratings/39 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1951" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Premier'"><a href="search.pl?searchtype=advanced&amp;mfgid=257">Premier Technology (1984-1996) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May, 1994</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>740</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>R911</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=37">Gottlieb System 3</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1951">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Ambulance - Fire Trucks - Police</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (9), <a target="glossary" class="glossarylink" href="/glossary.php#Captive_Ball">Captive&nbsp;balls</a> (3), Kick-targets (2), 2-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Vertical_Up-Kicker">Vertical&nbsp;up-kicker</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">Kicker</a> lane (1). Toy helicopter lifts the ball (magnetically) and flies over to the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> with it. The player can then "launch" the ball via the <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons to hit extra targets. The <a target="glossary" class="glossarylink" href="/glossary.php#Plunger">plunger</a> delivers ball to right <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlane</a>.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Helicopter.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Parker">Bill&nbsp;Parker</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'David&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=David%20Moore">David&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Daryl&nbsp;Moore' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Daryl%20Moore">Daryl&nbsp;Moore</a></span>, <span title="Click here to perform a search for all pinball games that 'Alycen&nbsp;Hareas' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Alycen%20Hareas">Alycen&nbsp;Hareas</a></span>, <span title="Click here to perform a search for all pinball games that 'Rand&nbsp;Paulin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rand%20Paulin">Rand&nbsp;Paulin</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Duane&nbsp;Decker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Duane%20Decker">Duane&nbsp;Decker</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Craig&nbsp;Beierwaltes' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Craig%20Beierwaltes">Craig&nbsp;Beierwaltes</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Bob&nbsp;Wilson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bob%20Wilson">Bob&nbsp;Wilson</a></span>, <span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Norris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Norris">Jon&nbsp;Norris</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Constantino Mitchell told us that he did the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, and some of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art. David Moore did part of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield_Plastics">playfield&nbsp;plastics</a>. Jeanine Mitchell did the color art.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"The game thats built for life."<br>
+"Real-Life rescue adventures in a game that values real life."<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 188<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764321099/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764321099&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Snapshots</a>, pages 36 and 60<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/1951/RESCUE91.HTM" target="rulesheet">Rescue 911 Rulesheet Version 2.0 (Jul/10/1994), by Micharl Dunn</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/1951/R911TIP.TXT" target="rulesheet">Rescue 911 Quick Tips (Jun/2/1994), by Keith Johnson</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1951">http://www.pinballowners.com/owners/1951</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 929 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 1951 rescu911.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 929 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 1951 Premier_1994_Rescue_911_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 9 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>Instruction Manual (includes paginated schematics) <!-- gid 1951 Gottlieb_1994_Rescue_911_Instruction_Manual_includes_paginated_schematics.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [Premier Technology]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1951/Gottlieb_1994_Rescue_911_Reproduction_Kicking_Target_Sticker_Art.pdf" >Reproduction Kicking Target Sticker Art</a></td><td> [Damien D&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=5124" 
+><span title="Image # 5124: Rescue 911 Flyer, Front "><img src="https://www.ipdb.org/images/1951/tn_1951f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5124: Rescue 911 Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=5125" 
+><span title="Image # 5125: Rescue 911 Flyer, Back "><img src="https://www.ipdb.org/images/1951/tn_1951f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5125: Rescue 911 Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">884x1150</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=25256" 
+><span title="Image # 25256: Rescue 911 Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 25256: Rescue 911 Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Chris Poibug]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=25257" 
+><span title="Image # 25257: Rescue 911 Cabinet - Left "><img src="https://www.ipdb.org/images/1951/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 25257: Rescue 911 Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">558x479</font><br>[Chris Poibug]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=27900" 
+><span title="Image # 27900: Rescue 911 Upper Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27900: Rescue 911 Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Christer Andreasson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=27901" 
+><span title="Image # 27901: Rescue 911 Middle Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 27901: Rescue 911 Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Christer Andreasson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=31260" 
+><span title="Image # 31260: Rescue 911 BackBox "><img src="https://www.ipdb.org/images/1951/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 31260: Rescue 911 BackBox "><br>BackBox</span></a><br><font size="-2">1024x1305</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=31261" 
+><span title="Image # 31261: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31261: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=31262" 
+><span title="Image # 31262: Rescue 911 Upper Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31262: Rescue 911 Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=31263" 
+><span title="Image # 31263: Rescue 911 Cabinet - Left "><img src="https://www.ipdb.org/images/1951/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 31263: Rescue 911 Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x903</font><br>[Federico Ravagnati]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=31264" 
+><span title="Image # 31264: Rescue 911 Cabinet - Right "><img src="https://www.ipdb.org/images/1951/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 31264: Rescue 911 Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x723</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=31265" 
+><span title="Image # 31265: Rescue 911 Cabinet - Front "><img src="https://www.ipdb.org/images/1951/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 31265: Rescue 911 Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">912x1560</font><br>[Federico Ravagnati]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37912" 
+><span title="Image # 37912: Rescue 911 Middle Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37912: Rescue 911 Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37913" 
+><span title="Image # 37913: Rescue 911 Cabinet - Front View "><img src="https://www.ipdb.org/images/1951/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 37913: Rescue 911 Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">211x349</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37914" 
+><span title="Image # 37914: Rescue 911 Backbox - Right "><img src="https://www.ipdb.org/images/1951/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 37914: Rescue 911 Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">275x423</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37915" 
+><span title="Image # 37915: Rescue 911 Backbox - Left "><img src="https://www.ipdb.org/images/1951/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 37915: Rescue 911 Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">265x406</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37916" 
+><span title="Image # 37916: Rescue 911 Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37916: Rescue 911 Playfield "><br>Playfield</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37917" 
+><span title="Image # 37917: Rescue 911 Playfield - Left "><img src="https://www.ipdb.org/images/1951/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37917: Rescue 911 Playfield - Left "><br>Playfield - Left</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37918" 
+><span title="Image # 37918: Rescue 911 Playfield - Right "><img src="https://www.ipdb.org/images/1951/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37918: Rescue 911 Playfield - Right "><br>Playfield - Right</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37919" 
+><span title="Image # 37919: Rescue 911 Playfield Detail - Left Flipper "><img src="https://www.ipdb.org/images/1951/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37919: Rescue 911 Playfield Detail - Left Flipper "><br>Playfield Detail - Left Flipper</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37920" 
+><span title="Image # 37920: Rescue 911 Playfield Detail - Center "><img src="https://www.ipdb.org/images/1951/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37920: Rescue 911 Playfield Detail - Center "><br>Playfield Detail - Center</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37921" 
+><span title="Image # 37921: Rescue 911 Kicker Lane "><img src="https://www.ipdb.org/images/1951/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37921: Rescue 911 Kicker Lane "><br>Kicker Lane</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37922" 
+><span title="Image # 37922: Rescue 911 Right Ramp "><img src="https://www.ipdb.org/images/1951/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37922: Rescue 911 Right Ramp "><br>Right Ramp</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37923" 
+><span title="Image # 37923: Rescue 911 Captive Balls "><img src="https://www.ipdb.org/images/1951/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37923: Rescue 911 Captive Balls "><br>Captive Balls</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37924" 
+><span title="Image # 37924: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37924: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37925" 
+><span title="Image # 37925: Rescue 911 Pop Bumpers "><img src="https://www.ipdb.org/images/1951/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37925: Rescue 911 Pop Bumpers "><br>Pop Bumpers</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37926" 
+><span title="Image # 37926: Rescue 911 Captive Balls "><img src="https://www.ipdb.org/images/1951/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37926: Rescue 911 Captive Balls "><br>Captive Balls</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37927" 
+><span title="Image # 37927: Rescue 911 Helicopter "><img src="https://www.ipdb.org/images/1951/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37927: Rescue 911 Helicopter "><br>Helicopter</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37928" 
+><span title="Image # 37928: Rescue 911 Helicopter "><img src="https://www.ipdb.org/images/1951/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37928: Rescue 911 Helicopter "><br>Helicopter</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37929" 
+><span title="Image # 37929: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 37929: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">360x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37930" 
+><span title="Image # 37930: Rescue 911 Vertical Up-kicker "><img src="https://www.ipdb.org/images/1951/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37930: Rescue 911 Vertical Up-kicker "><br>Vertical Up-kicker</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37931" 
+><span title="Image # 37931: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37931: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37932" 
+><span title="Image # 37932: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37932: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37933" 
+><span title="Image # 37933: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37933: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37934" 
+><span title="Image # 37934: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37934: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37935" 
+><span title="Image # 37935: Rescue 911 Upper Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37935: Rescue 911 Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37936" 
+><span title="Image # 37936: Rescue 911 Playfield "><img src="https://www.ipdb.org/images/1951/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37936: Rescue 911 Playfield "><br>Playfield</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37937" 
+><span title="Image # 37937: Rescue 911 Helicopter "><img src="https://www.ipdb.org/images/1951/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37937: Rescue 911 Helicopter "><br>Helicopter</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37938" 
+><span title="Image # 37938: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37938: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37939" 
+><span title="Image # 37939: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37939: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=37940" 
+><span title="Image # 37940: Rescue 911 Playfield - Detail "><img src="https://www.ipdb.org/images/1951/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37940: Rescue 911 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">640x480</font><br>[Mark Culbert]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39089" 
+><span title="Image # 39089: Rescue 911 Whitewood - Obverse "><img src="https://www.ipdb.org/images/1951/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=58 height=100 alt="Image # 39089: Rescue 911 Whitewood - Obverse "><br>Whitewood - Obverse</span></a><br><font size="-2">688x1196</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39090" 
+><span title="Image # 39090: Rescue 911 Whitewood - Obverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39090: Rescue 911 Whitewood - Obverse Detail "><br>Whitewood - Obverse Detail</span></a><br><font size="-2">1024x768</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39091" 
+><span title="Image # 39091: Rescue 911 Whitewood - Obverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39091: Rescue 911 Whitewood - Obverse Detail "><br>Whitewood - Obverse Detail</span></a><br><font size="-2">900x1200</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39092" 
+><span title="Image # 39092: Rescue 911 Whitewood - Obverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39092: Rescue 911 Whitewood - Obverse Detail "><br>Whitewood - Obverse Detail</span></a><br><font size="-2">900x1200</font><br>[Jeff Anderson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39093" 
+><span title="Image # 39093: Rescue 911 Whitewood - Obverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 39093: Rescue 911 Whitewood - Obverse Detail "><br>Whitewood - Obverse Detail</span></a><br><font size="-2">900x1200</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39094" 
+><span title="Image # 39094: Rescue 911 Whitewood - Reverse "><img src="https://www.ipdb.org/images/1951/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 39094: Rescue 911 Whitewood - Reverse "><br>Whitewood - Reverse</span></a><br><font size="-2">664x1200</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39095" 
+><span title="Image # 39095: Rescue 911 Whitewood - Reverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39095: Rescue 911 Whitewood - Reverse Detail "><br>Whitewood - Reverse Detail</span></a><br><font size="-2">1024x768</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39096" 
+><span title="Image # 39096: Rescue 911 Whitewood - Reverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39096: Rescue 911 Whitewood - Reverse Detail "><br>Whitewood - Reverse Detail</span></a><br><font size="-2">1024x768</font><br>[Jeff Anderson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=39097" 
+><span title="Image # 39097: Rescue 911 Whitewood - Reverse Detail "><img src="https://www.ipdb.org/images/1951/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39097: Rescue 911 Whitewood - Reverse Detail "><br>Whitewood - Reverse Detail</span></a><br><font size="-2">1024x768</font><br>[Jeff Anderson]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=68102" 
+><span title="Image # 68102: Rescue 911 Original Backglass Artwork 
+(Artists are Constantino Mitchell and Jeanine Mitchell.Acrylic paint on illustration board.Dimensions 30 inches by 40 inches.)"><img src="https://www.ipdb.org/images/1951/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 68102: Rescue 911 Original Backglass Artwork 
+(Artists are Constantino Mitchell and Jeanine Mitchell.Acrylic paint on illustration board.Dimensions 30 inches by 40 inches.)"><br>Original Backglass Artwork*</span></a><br><font size="-2">1200x900</font><br>[Constantino Mitchell]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=69302" 
+><span title="Image # 69302: Rescue 911 NOS Plastics Set "><img src="https://www.ipdb.org/images/1951/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 69302: Rescue 911 NOS Plastics Set "><br>NOS Plastics Set</span></a><br><font size="-2">1200x842</font><br>[Martin Wiest]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1951&amp;picno=71636" 
+><span title="Image # 71636: Rescue 911 Backglass "><img src="https://www.ipdb.org/images/1951/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 71636: Rescue 911 Backglass "><br>Backglass</span></a><br><font size="-2">1200x990</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

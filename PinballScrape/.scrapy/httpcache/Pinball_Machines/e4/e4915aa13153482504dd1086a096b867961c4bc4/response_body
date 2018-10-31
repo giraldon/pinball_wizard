@@ -1,0 +1,342 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Merry-Go-Round'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Merry-Go-Round Merry Go Round 10 balls for 5 cents. Three rotating playfield discs. Has a bell. Game was advertised as having a gold bakelite playing field and a 40 inch by 20 inch walnut finish cabinet. Battery-operated.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Merry-Go-Round' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Merry-Go-Round</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3104">Merry-Go-Round</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3104">3104</a> <I>/ August, 1934 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3104" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1934</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Pure Mechanical (PM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=PM#PM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3104">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Circus/Carnival - Happiness</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>10 balls for 5 cents. Three rotating <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> discs. Has a bell. Game was advertised as having a gold bakelite playing field and a 40 inch by 20 inch walnut finish <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>. Battery-operated.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Gottlieb referred to the rotating discs as "roto-discs". An earlier game having a similar feature is <span title="Click here to open a new window and display Rock-ola's 1933 'Wings'"><a target="game2791" href="machine.cgi?id=2791">Rock-ola's 1933 'Wings'</a></span>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, Oct-13-1934, page 73<br>
+Marketplace Pictorial History, Page 86, July-August 1981<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=2768" 
+><span title="Image # 2768: Merry-Go-Round Playfield "><img src="https://www.ipdb.org/images/3104/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 2768: Merry-Go-Round Playfield "><br>Playfield</span></a><br><font size="-2">373x537</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=16172" 
+><span title="Image # 16172: Merry-Go-Round Marketplace Ad Reprint 
+(Marketplace Pictorial History, Page 64, April 1981)"><img src="https://www.ipdb.org/images/3104/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 16172: Merry-Go-Round Marketplace Ad Reprint 
+(Marketplace Pictorial History, Page 64, April 1981)"><br>Marketplace Ad Reprint*</span></a><br><font size="-2">700x925</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=16173" 
+><span title="Image # 16173: Merry-Go-Round Marketplace Ad Reprint 
+(Marketplace Pictorial History, Page 86, July-August 1981)"><img src="https://www.ipdb.org/images/3104/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 16173: Merry-Go-Round Marketplace Ad Reprint 
+(Marketplace Pictorial History, Page 86, July-August 1981)"><br>Marketplace Ad Reprint*</span></a><br><font size="-2">700x927</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=26419" 
+><span title="Image # 26419: Merry-Go-Round Billboard Magazine Ad 
+(The Billboard (Magazine), Oct-13-1934, page 73)"><img src="https://www.ipdb.org/images/3104/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 26419: Merry-Go-Round Billboard Magazine Ad 
+(The Billboard (Magazine), Oct-13-1934, page 73)"><br>Billboard Magazine Ad*</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=35208" 
+><span title="Image # 35208: Merry-Go-Round Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 35208: Merry-Go-Round Playfield "><br>Playfield</span></a><br><font size="-2">983x1600</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=35209" 
+><span title="Image # 35209: Merry-Go-Round Cabinet - Right "><img src="https://www.ipdb.org/images/3104/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=38 alt="Image # 35209: Merry-Go-Round Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x385</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42516" 
+><span title="Image # 42516: Merry-Go-Round Flyer, Section 1 of 5 "><img src="https://www.ipdb.org/images/3104/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 42516: Merry-Go-Round Flyer, Section 1 of 5 "><br>Flyer, Section 1 of 5</span></a><br><font size="-2">1200x1650</font><br>[Mike Pacak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42517" 
+><span title="Image # 42517: Merry-Go-Round Flyer, Section 2 of 5 "><img src="https://www.ipdb.org/images/3104/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 42517: Merry-Go-Round Flyer, Section 2 of 5 "><br>Flyer, Section 2 of 5</span></a><br><font size="-2">1200x1650</font><br>[Mike Pacak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42518" 
+><span title="Image # 42518: Merry-Go-Round Flyer, Section 3 of 5 "><img src="https://www.ipdb.org/images/3104/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 42518: Merry-Go-Round Flyer, Section 3 of 5 "><br>Flyer, Section 3 of 5</span></a><br><font size="-2">1200x1650</font><br>[Mike Pacak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42519" 
+><span title="Image # 42519: Merry-Go-Round Flyer, Section 4 of 5 "><img src="https://www.ipdb.org/images/3104/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 42519: Merry-Go-Round Flyer, Section 4 of 5 "><br>Flyer, Section 4 of 5</span></a><br><font size="-2">1200x1678</font><br>[Mike Pacak]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42520" 
+><span title="Image # 42520: Merry-Go-Round Flyer, Section 5 of 5 "><img src="https://www.ipdb.org/images/3104/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 42520: Merry-Go-Round Flyer, Section 5 of 5 "><br>Flyer, Section 5 of 5</span></a><br><font size="-2">1200x1650</font><br>[Mike Pacak]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42521" 
+><span title="Image # 42521: Merry-Go-Round Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42521: Merry-Go-Round Playfield "><br>Playfield</span></a><br><font size="-2">600x800</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42522" 
+><span title="Image # 42522: Merry-Go-Round Upper Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42522: Merry-Go-Round Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42523" 
+><span title="Image # 42523: Merry-Go-Round Cabinet - Left "><img src="https://www.ipdb.org/images/3104/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 42523: Merry-Go-Round Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">736x553</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42524" 
+><span title="Image # 42524: Merry-Go-Round Cabinet - Right "><img src="https://www.ipdb.org/images/3104/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 42524: Merry-Go-Round Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">800x476</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=42525" 
+><span title="Image # 42525: Merry-Go-Round Front View "><img src="https://www.ipdb.org/images/3104/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 42525: Merry-Go-Round Front View "><br>Front View</span></a><br><font size="-2">574x579</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49031" 
+><span title="Image # 49031: Merry-Go-Round Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><img src="https://www.ipdb.org/images/3104/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49031: Merry-Go-Round Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49032" 
+><span title="Image # 49032: Merry-Go-Round Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><img src="https://www.ipdb.org/images/3104/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49032: Merry-Go-Round Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49033" 
+><span title="Image # 49033: Merry-Go-Round Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49033: Merry-Go-Round Playfield "><br>Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49034" 
+><span title="Image # 49034: Merry-Go-Round Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><img src="https://www.ipdb.org/images/3104/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49034: Merry-Go-Round Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><br>Playfield*</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49035" 
+><span title="Image # 49035: Merry-Go-Round Upper Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><img src="https://www.ipdb.org/images/3104/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49035: Merry-Go-Round Upper Playfield 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49036" 
+><span title="Image # 49036: Merry-Go-Round Lower Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49036: Merry-Go-Round Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49037" 
+><span title="Image # 49037: Merry-Go-Round Playfield - Detail 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><img src="https://www.ipdb.org/images/3104/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49037: Merry-Go-Round Playfield - Detail 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49038" 
+><span title="Image # 49038: Merry-Go-Round Playfield - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49038: Merry-Go-Round Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49039" 
+><span title="Image # 49039: Merry-Go-Round Instructions "><img src="https://www.ipdb.org/images/3104/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49039: Merry-Go-Round Instructions "><br>Instructions</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49040" 
+><span title="Image # 49040: Merry-Go-Round Score Card and Shooter Gauge "><img src="https://www.ipdb.org/images/3104/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49040: Merry-Go-Round Score Card and Shooter Gauge "><br>Score Card and Shooter Gauge</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49041" 
+><span title="Image # 49041: Merry-Go-Round Score Card "><img src="https://www.ipdb.org/images/3104/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49041: Merry-Go-Round Score Card "><br>Score Card</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49042" 
+><span title="Image # 49042: Merry-Go-Round Score Card Holder 
+(Made of aluminum.)"><img src="https://www.ipdb.org/images/3104/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49042: Merry-Go-Round Score Card Holder 
+(Made of aluminum.)"><br>Score Card Holder*</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49043" 
+><span title="Image # 49043: Merry-Go-Round Cabinet - Left "><img src="https://www.ipdb.org/images/3104/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49043: Merry-Go-Round Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49044" 
+><span title="Image # 49044: Merry-Go-Round Cabinet - Right "><img src="https://www.ipdb.org/images/3104/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49044: Merry-Go-Round Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49045" 
+><span title="Image # 49045: Merry-Go-Round Cabinet - Front View "><img src="https://www.ipdb.org/images/3104/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49045: Merry-Go-Round Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49046" 
+><span title="Image # 49046: Merry-Go-Round Ball Lift and Shooter Knob "><img src="https://www.ipdb.org/images/3104/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49046: Merry-Go-Round Ball Lift and Shooter Knob "><br>Ball Lift and Shooter Knob</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49047" 
+><span title="Image # 49047: Merry-Go-Round Ball Lift and Shooter Knob "><img src="https://www.ipdb.org/images/3104/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49047: Merry-Go-Round Ball Lift and Shooter Knob "><br>Ball Lift and Shooter Knob</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49048" 
+><span title="Image # 49048: Merry-Go-Round Inside Cabinet "><img src="https://www.ipdb.org/images/3104/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49048: Merry-Go-Round Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49049" 
+><span title="Image # 49049: Merry-Go-Round Inside Cabinet "><img src="https://www.ipdb.org/images/3104/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49049: Merry-Go-Round Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49050" 
+><span title="Image # 49050: Merry-Go-Round Ball Lift Mechanism "><img src="https://www.ipdb.org/images/3104/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49050: Merry-Go-Round Ball Lift Mechanism "><br>Ball Lift Mechanism</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49051" 
+><span title="Image # 49051: Merry-Go-Round Under Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49051: Merry-Go-Round Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49052" 
+><span title="Image # 49052: Merry-Go-Round Under Upper Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49052: Merry-Go-Round Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49053" 
+><span title="Image # 49053: Merry-Go-Round Under Lower Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49053: Merry-Go-Round Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49054" 
+><span title="Image # 49054: Merry-Go-Round Stripped Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 49054: Merry-Go-Round Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">904x1600</font><br>[Michel Poirot]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49055" 
+><span title="Image # 49055: Merry-Go-Round Under Stripped Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49055: Merry-Go-Round Under Stripped Playfield "><br>Under Stripped Playfield</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49056" 
+><span title="Image # 49056: Merry-Go-Round Discs - Obverse "><img src="https://www.ipdb.org/images/3104/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=36 alt="Image # 49056: Merry-Go-Round Discs - Obverse "><br>Discs - Obverse</span></a><br><font size="-2">1189x426</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49057" 
+><span title="Image # 49057: Merry-Go-Round Discs - Reverse "><img src="https://www.ipdb.org/images/3104/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=50 alt="Image # 49057: Merry-Go-Round Discs - Reverse "><br>Discs - Reverse</span></a><br><font size="-2">1199x596</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49058" 
+><span title="Image # 49058: Merry-Go-Round Playfield Parts 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><img src="https://www.ipdb.org/images/3104/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49058: Merry-Go-Round Playfield Parts 
+(The wireform gate at the top of the ball shooter lane is not original to this game.)"><br>Playfield Parts*</span></a><br><font size="-2">1200x1600</font><br>[Michel Poirot]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=49059" 
+><span title="Image # 49059: Merry-Go-Round Bell "><img src="https://www.ipdb.org/images/3104/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 49059: Merry-Go-Round Bell "><br>Bell</span></a><br><font size="-2">756x1492</font><br>[Michel Poirot]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69210" 
+><span title="Image # 69210: Merry-Go-Round Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 69210: Merry-Go-Round Playfield "><br>Playfield</span></a><br><font size="-2">530x476</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69211" 
+><span title="Image # 69211: Merry-Go-Round Upper Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 69211: Merry-Go-Round Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">600x389</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69212" 
+><span title="Image # 69212: Merry-Go-Round Upper Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69212: Merry-Go-Round Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69213" 
+><span title="Image # 69213: Merry-Go-Round Middle Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69213: Merry-Go-Round Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69214" 
+><span title="Image # 69214: Merry-Go-Round Middle Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69214: Merry-Go-Round Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69215" 
+><span title="Image # 69215: Merry-Go-Round Lower Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69215: Merry-Go-Round Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69216" 
+><span title="Image # 69216: Merry-Go-Round Lower Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69216: Merry-Go-Round Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69217" 
+><span title="Image # 69217: Merry-Go-Round Lower Playfield "><img src="https://www.ipdb.org/images/3104/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 69217: Merry-Go-Round Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">517x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69218" 
+><span title="Image # 69218: Merry-Go-Round Playfield - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69218: Merry-Go-Round Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69219" 
+><span title="Image # 69219: Merry-Go-Round Playfield - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69219: Merry-Go-Round Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69220" 
+><span title="Image # 69220: Merry-Go-Round Instructions "><img src="https://www.ipdb.org/images/3104/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69220: Merry-Go-Round Instructions "><br>Instructions</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69221" 
+><span title="Image # 69221: Merry-Go-Round Score Card Holder "><img src="https://www.ipdb.org/images/3104/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69221: Merry-Go-Round Score Card Holder "><br>Score Card Holder</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69222" 
+><span title="Image # 69222: Merry-Go-Round Cabinet - Left "><img src="https://www.ipdb.org/images/3104/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 69222: Merry-Go-Round Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">492x466</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69223" 
+><span title="Image # 69223: Merry-Go-Round Cabinet - Left - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 69223: Merry-Go-Round Cabinet - Left - Detail "><br>Cabinet - Left - Detail</span></a><br><font size="-2">555x499</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69224" 
+><span title="Image # 69224: Merry-Go-Round Cabinet - Right - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 69224: Merry-Go-Round Cabinet - Right - Detail "><br>Cabinet - Right - Detail</span></a><br><font size="-2">547x400</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69225" 
+><span title="Image # 69225: Merry-Go-Round Cabinet - Front View "><img src="https://www.ipdb.org/images/3104/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 69225: Merry-Go-Round Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">784x906</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69226" 
+><span title="Image # 69226: Merry-Go-Round Cabinet - Front View "><img src="https://www.ipdb.org/images/3104/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 69226: Merry-Go-Round Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">316x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69227" 
+><span title="Image # 69227: Merry-Go-Round Cabinet - Rear "><img src="https://www.ipdb.org/images/3104/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 69227: Merry-Go-Round Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">484x445</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69228" 
+><span title="Image # 69228: Merry-Go-Round Cain Door "><img src="https://www.ipdb.org/images/3104/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69228: Merry-Go-Round Cain Door "><br>Cain Door</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69229" 
+><span title="Image # 69229: Merry-Go-Round Coin Door Removed "><img src="https://www.ipdb.org/images/3104/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69229: Merry-Go-Round Coin Door Removed "><br>Coin Door Removed</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69230" 
+><span title="Image # 69230: Merry-Go-Round Coin Slide "><img src="https://www.ipdb.org/images/3104/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69230: Merry-Go-Round Coin Slide "><br>Coin Slide</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69231" 
+><span title="Image # 69231: Merry-Go-Round Ball Shooter and Lift Knobs "><img src="https://www.ipdb.org/images/3104/tn_image-66.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69231: Merry-Go-Round Ball Shooter and Lift Knobs "><br>Ball Shooter and Lift Knobs</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69232" 
+><span title="Image # 69232: Merry-Go-Round Legs "><img src="https://www.ipdb.org/images/3104/tn_image-67.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 69232: Merry-Go-Round Legs "><br>Legs</span></a><br><font size="-2">506x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69233" 
+><span title="Image # 69233: Merry-Go-Round Leg - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-68.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 69233: Merry-Go-Round Leg - Detail "><br>Leg - Detail</span></a><br><font size="-2">498x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69234" 
+><span title="Image # 69234: Merry-Go-Round Leg - Detail "><img src="https://www.ipdb.org/images/3104/tn_image-69.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 69234: Merry-Go-Round Leg - Detail "><br>Leg - Detail</span></a><br><font size="-2">600x423</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69235" 
+><span title="Image # 69235: Merry-Go-Round Coin Box "><img src="https://www.ipdb.org/images/3104/tn_image-70.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69235: Merry-Go-Round Coin Box "><br>Coin Box</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3104&amp;picno=69236" 
+><span title="Image # 69236: Merry-Go-Round Open Coin Box "><img src="https://www.ipdb.org/images/3104/tn_image-71.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 69236: Merry-Go-Round Open Coin Box "><br>Open Coin Box</span></a><br><font size="-2">600x400</font><br>&nbsp;</td>
+<td colspan=3>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

@@ -1,0 +1,276 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Centigrade 37'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Centigrade 37 Mechanical Backbox Animation Flippers (2), Pop bumpers (3), Standup targets (2), 4-bank drop targets (1), Kick-out hole (1). Backbox animation (thermometer advances when playfield targets are hit). Right side of playfield has parallel lanes of serial rollovers. Left and right dual inlanes. Open-elbow right inlane allows ball to pa<ignore>ss from inlane to outlane and vice-versa. No slingshots.
+
+Maximum displayed point score is 199,990 points.  Gordon Morison Allen Edwall ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Centigrade 37' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Centigrade 37</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="480">Centigrade 37</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=480">480</a> <I>/ August, 1977 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=480" target="showrate480"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=480" target="showrate480">64 ratings/44 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=480" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>August, 1977</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>407</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,600 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=480">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Science Fiction</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1). <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">Backbox</a> <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (thermometer advances when <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> targets are hit). Right side of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has parallel lanes of serial <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a>. Left and right dual <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>. Open-elbow right <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlane</a> allows ball to pa<ignore><a target="glossary" class="glossarylink" href="/glossary.php#SS">ss</a> from <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlane</a> to <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> and vice-versa. No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>.<br><br>Maximum displayed point score is 199,990 points.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Allen&nbsp;Edwall' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Allen%20Edwall">Allen&nbsp;Edwall</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Gordon&nbsp;Morison' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Gordon%20Morison">Gordon&nbsp;Morison</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The normal temperature of the human bo<ignore>dy is 37 degrees Centigrade (98.6 degrees Fahrenheit).</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 79<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+The Pinball Compendium Electro-mechanical Era, page 223<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/480">http://www.pinballowners.com/owners/480</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 65 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/480/Gottlieb_1977_Centigrade_37_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=5059" 
+><span title="Image # 5059: Centigrade 37 Flyer "><img src="https://www.ipdb.org/images/480/tn_480f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5059: Centigrade 37 Flyer "><br>Flyer</span></a><br><font size="-2">884x1144</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=11930" 
+><span title="Image # 11930: Centigrade 37 Cabinet - Front View "><img src="https://www.ipdb.org/images/480/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 11930: Centigrade 37 Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">712x960</font><br>[Pascal Villedieu]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=15456" 
+><span title="Image # 15456: Centigrade 37 Backglass "><img src="https://www.ipdb.org/images/480/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 15456: Centigrade 37 Backglass "><br>Backglass</span></a><br><font size="-2">600x570</font><br>[Patrick Dellosso]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=15457" 
+><span title="Image # 15457: Centigrade 37 Playfield "><img src="https://www.ipdb.org/images/480/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 15457: Centigrade 37 Playfield "><br>Playfield</span></a><br><font size="-2">560x603</font><br>[Patrick Dellosso]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=15458" 
+><span title="Image # 15458: Centigrade 37 Cabinet - Right "><img src="https://www.ipdb.org/images/480/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 15458: Centigrade 37 Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">581x600</font><br>[Patrick Dellosso]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=15459" 
+><span title="Image # 15459: Centigrade 37 Cabinet - Front "><img src="https://www.ipdb.org/images/480/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 15459: Centigrade 37 Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">600x579</font><br>[Patrick Dellosso]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=15460" 
+><span title="Image # 15460: Centigrade 37 Cabinet - Back "><img src="https://www.ipdb.org/images/480/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 15460: Centigrade 37 Cabinet - Back "><br>Cabinet - Back</span></a><br><font size="-2">340x601</font><br>[Patrick Dellosso]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=23202" 
+><span title="Image # 23202: Centigrade 37 Playfield "><img src="https://www.ipdb.org/images/480/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23202: Centigrade 37 Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=29280" 
+><span title="Image # 29280: Centigrade 37 Cabinet - Left "><img src="https://www.ipdb.org/images/480/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 29280: Centigrade 37 Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">709x738</font><br>[Vic  Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=29905" 
+><span title="Image # 29905: Centigrade 37 Playfield - Detail "><img src="https://www.ipdb.org/images/480/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 29905: Centigrade 37 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=29907" 
+><span title="Image # 29907: Centigrade 37 Backglass - Detail "><img src="https://www.ipdb.org/images/480/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 29907: Centigrade 37 Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">700x1224</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=29908" 
+><span title="Image # 29908: Centigrade 37 Backglass - Detail "><img src="https://www.ipdb.org/images/480/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 29908: Centigrade 37 Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">700x1138</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=29909" 
+><span title="Image # 29909: Centigrade 37 Playfield - Detail "><img src="https://www.ipdb.org/images/480/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 29909: Centigrade 37 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=30342" 
+><span title="Image # 30342: Centigrade 37 Illuminated Backglass - Detail "><img src="https://www.ipdb.org/images/480/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30342: Centigrade 37 Illuminated Backglass - Detail "><br>Illuminated Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35449" 
+><span title="Image # 35449: Centigrade 37 Backbox - Left "><img src="https://www.ipdb.org/images/480/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35449: Centigrade 37 Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35453" 
+><span title="Image # 35453: Centigrade 37 Cabinet - Front View "><img src="https://www.ipdb.org/images/480/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35453: Centigrade 37 Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35455" 
+><span title="Image # 35455: Centigrade 37 Backbox - Right "><img src="https://www.ipdb.org/images/480/tn_image-A6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35455: Centigrade 37 Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35458" 
+><span title="Image # 35458: Centigrade 37 Cabinet - Right "><img src="https://www.ipdb.org/images/480/tn_image-A27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35458: Centigrade 37 Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35466" 
+><span title="Image # 35466: Centigrade 37 Inside Lower Cabinet "><img src="https://www.ipdb.org/images/480/tn_image-A28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35466: Centigrade 37 Inside Lower Cabinet "><br>Inside Lower Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35467" 
+><span title="Image # 35467: Centigrade 37 Under Playfield "><img src="https://www.ipdb.org/images/480/tn_image-C29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35467: Centigrade 37 Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35501" 
+><span title="Image # 35501: Centigrade 37 Upper Playfield "><img src="https://www.ipdb.org/images/480/tn_image-F29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35501: Centigrade 37 Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35658" 
+><span title="Image # 35658: Centigrade 37 Inside Backbox "><img src="https://www.ipdb.org/images/480/tn_image-G6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35658: Centigrade 37 Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35659" 
+><span title="Image # 35659: Centigrade 37 Animated Advance Unit "><img src="https://www.ipdb.org/images/480/tn_image-G27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35659: Centigrade 37 Animated Advance Unit "><br>Animated Advance Unit</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35814" 
+><span title="Image # 35814: Centigrade 37 Backglass - Reverse "><img src="https://www.ipdb.org/images/480/tn_image-I4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35814: Centigrade 37 Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35815" 
+><span title="Image # 35815: Centigrade 37 Backbox Insert "><img src="https://www.ipdb.org/images/480/tn_image-H6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35815: Centigrade 37 Backbox Insert "><br>Backbox Insert</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35821" 
+><span title="Image # 35821: Centigrade 37 Backglass Animation "><img src="https://www.ipdb.org/images/480/tn_image-I27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35821: Centigrade 37 Backglass Animation "><br>Backglass Animation</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35823" 
+><span title="Image # 35823: Centigrade 37 Lower Playfield "><img src="https://www.ipdb.org/images/480/tn_image-I29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35823: Centigrade 37 Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35827" 
+><span title="Image # 35827: Centigrade 37 Top Rollovers "><img src="https://www.ipdb.org/images/480/tn_image-J28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35827: Centigrade 37 Top Rollovers "><br>Top Rollovers</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35828" 
+><span title="Image # 35828: Centigrade 37 Left Playfield "><img src="https://www.ipdb.org/images/480/tn_image-J29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35828: Centigrade 37 Left Playfield "><br>Left Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=35829" 
+><span title="Image # 35829: Centigrade 37 Right Playfield "><img src="https://www.ipdb.org/images/480/tn_image-L4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35829: Centigrade 37 Right Playfield "><br>Right Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=43765" 
+><span title="Image # 43765: Centigrade 37 Backglass "><img src="https://www.ipdb.org/images/480/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43765: Centigrade 37 Backglass "><br>Backglass</span></a><br><font size="-2">1200x1600</font><br>[Mark Ebner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=43766" 
+><span title="Image # 43766: Centigrade 37 Playfield - Detail "><img src="https://www.ipdb.org/images/480/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43766: Centigrade 37 Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Mark Ebner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=43767" 
+><span title="Image # 43767: Centigrade 37 Cabinet - Front "><img src="https://www.ipdb.org/images/480/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 43767: Centigrade 37 Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Mark Ebner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=43768" 
+><span title="Image # 43768: Centigrade 37 Depopulated Playfield "><img src="https://www.ipdb.org/images/480/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43768: Centigrade 37 Depopulated Playfield "><br>Depopulated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Ebner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=43769" 
+><span title="Image # 43769: Centigrade 37 Depopulated Upper Playfield "><img src="https://www.ipdb.org/images/480/tn_image-B6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43769: Centigrade 37 Depopulated Upper Playfield "><br>Depopulated Upper Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Ebner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=43770" 
+><span title="Image # 43770: Centigrade 37 Depopulated Lower Playfield "><img src="https://www.ipdb.org/images/480/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43770: Centigrade 37 Depopulated Lower Playfield "><br>Depopulated Lower Playfield</span></a><br><font size="-2">1200x1600</font><br>[Mark Ebner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=45695" 
+><span title="Image # 45695: Centigrade 37 Lower Playfield "><img src="https://www.ipdb.org/images/480/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45695: Centigrade 37 Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=52069" 
+><span title="Image # 52069: Centigrade 37 Upper Playfield "><img src="https://www.ipdb.org/images/480/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 52069: Centigrade 37 Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x918</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=52070" 
+><span title="Image # 52070: Centigrade 37 Middle Playfield "><img src="https://www.ipdb.org/images/480/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52070: Centigrade 37 Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=52071" 
+><span title="Image # 52071: Centigrade 37 Lower Playfield "><img src="https://www.ipdb.org/images/480/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 52071: Centigrade 37 Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x928</font><br>[Mark Steinman]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=55365" 
+><span title="Image # 55365: Centigrade 37 Plastics "><img src="https://www.ipdb.org/images/480/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 55365: Centigrade 37 Plastics "><br>Plastics</span></a><br><font size="-2">1200x1713</font><br>[Juan José Lyon ]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=61733" 
+><span title="Image # 61733: Centigrade 37 Illuminated Front View "><img src="https://www.ipdb.org/images/480/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 61733: Centigrade 37 Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">429x757</font><br>[Jesus Maria Rey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=65841" 
+><span title="Image # 65841: Centigrade 37 Backglass 
+(Serial number 4542.)"><img src="https://www.ipdb.org/images/480/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 65841: Centigrade 37 Backglass 
+(Serial number 4542.)"><br>Backglass*</span></a><br><font size="-2">1200x1555</font><br>[Billy Loretelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=65842" 
+><span title="Image # 65842: Centigrade 37 Playfield 
+(Serial number 4542.)"><img src="https://www.ipdb.org/images/480/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65842: Centigrade 37 Playfield 
+(Serial number 4542.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Billy Loretelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=65843" 
+><span title="Image # 65843: Centigrade 37 Playfield 
+(Serial number 4542.)"><img src="https://www.ipdb.org/images/480/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65843: Centigrade 37 Playfield 
+(Serial number 4542.)"><br>Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Billy Loretelli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=65844" 
+><span title="Image # 65844: Centigrade 37 Upper Playfield 
+(Serial number 4542.)"><img src="https://www.ipdb.org/images/480/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65844: Centigrade 37 Upper Playfield 
+(Serial number 4542.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Billy Loretelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=65845" 
+><span title="Image # 65845: Centigrade 37 Cabinet - Right 
+(Serial number 4542.)"><img src="https://www.ipdb.org/images/480/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 65845: Centigrade 37 Cabinet - Right 
+(Serial number 4542.)"><br>Cabinet - Right*</span></a><br><font size="-2">1133x1600</font><br>[Billy Loretelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=67170" 
+><span title="Image # 67170: Centigrade 37 Backglass - Reverse "><img src="https://www.ipdb.org/images/480/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 67170: Centigrade 37 Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">928x1024</font><br>[James Schidlowsky]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=68349" 
+><span title="Image # 68349: Centigrade 37 Sample Game - Backglass 
+(Some areas of red in this backglass appear to have washed out. Serial number 01003 S.)"><img src="https://www.ipdb.org/images/480/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 68349: Centigrade 37 Sample Game - Backglass 
+(Some areas of red in this backglass appear to have washed out. Serial number 01003 S.)"><br>Sample Game - Backglass*</span></a><br><font size="-2">1200x1218</font><br>[Jean-Louis Dufloux]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=480&amp;picno=68350" 
+><span title="Image # 68350: Centigrade 37 Sample Game - Schematic Date 
+(Serial number 01003 S.)"><img src="https://www.ipdb.org/images/480/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 68350: Centigrade 37 Sample Game - Schematic Date 
+(Serial number 01003 S.)"><br>Sample Game - Schematic Date*</span></a><br><font size="-2">491x396</font><br>[Jean-Louis Dufloux]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

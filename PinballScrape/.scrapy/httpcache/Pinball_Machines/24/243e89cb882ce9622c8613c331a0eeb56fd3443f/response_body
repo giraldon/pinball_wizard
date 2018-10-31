@@ -1,0 +1,211 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Hawaiian Beauty'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Hawaiian Beauty Flippers (2), Pop bumpers (3, between the flippers), Gobble holes (2).  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Hawaiian Beauty' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Hawaiian Beauty</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1138">Hawaiian Beauty</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1138">1138</a> <I>/ May, 1954 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1138" target="showrate1138"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>6.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1138" target="showrate1138">7 ratings/6 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1138" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>May, 1954</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>85</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>900 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1138">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>American Places - Travel</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3, between the flippers), <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">Gobble&nbsp;holes</a> (2).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Featured in 11 photos in the booklet included with the album "TOMMY" by the London Symphony Orchestra with Guest Soloists. The packaging also includes a diagram of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> (though modified slightly).</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, front cover and page 88<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=4667" 
+><span title="Image # 4667: Hawaiian Beauty Flyer "><img src="https://www.ipdb.org/images/1138/tn_1138f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4667: Hawaiian Beauty Flyer "><br>Flyer</span></a><br><font size="-2">884x1153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15810" 
+><span title="Image # 15810: Hawaiian Beauty Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=91 height=100 alt="Image # 15810: Hawaiian Beauty Playfield "><br>Playfield</span></a><br><font size="-2">415x454</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15811" 
+><span title="Image # 15811: Hawaiian Beauty Upper Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15811: Hawaiian Beauty Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15812" 
+><span title="Image # 15812: Hawaiian Beauty Middle Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15812: Hawaiian Beauty Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15813" 
+><span title="Image # 15813: Hawaiian Beauty Middle Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15813: Hawaiian Beauty Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15814" 
+><span title="Image # 15814: Hawaiian Beauty Lower Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15814: Hawaiian Beauty Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15815" 
+><span title="Image # 15815: Hawaiian Beauty Cabinet "><img src="https://www.ipdb.org/images/1138/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15815: Hawaiian Beauty Cabinet "><br>Cabinet</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15816" 
+><span title="Image # 15816: Hawaiian Beauty Front "><img src="https://www.ipdb.org/images/1138/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 15816: Hawaiian Beauty Front "><br>Front</span></a><br><font size="-2">390x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=15817" 
+><span title="Image # 15817: Hawaiian Beauty Full View "><img src="https://www.ipdb.org/images/1138/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 15817: Hawaiian Beauty Full View "><br>Full View</span></a><br><font size="-2">337x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19347" 
+><span title="Image # 19347: Hawaiian Beauty Backglass "><img src="https://www.ipdb.org/images/1138/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 19347: Hawaiian Beauty Backglass "><br>Backglass</span></a><br><font size="-2">607x648</font><br>[Jim Zitzer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19348" 
+><span title="Image # 19348: Hawaiian Beauty Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19348: Hawaiian Beauty Playfield "><br>Playfield</span></a><br><font size="-2">960x1280</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19349" 
+><span title="Image # 19349: Hawaiian Beauty Upper Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19349: Hawaiian Beauty Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19350" 
+><span title="Image # 19350: Hawaiian Beauty Middle Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19350: Hawaiian Beauty Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19351" 
+><span title="Image # 19351: Hawaiian Beauty Lower Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19351: Hawaiian Beauty Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19352" 
+><span title="Image # 19352: Hawaiian Beauty Ball View "><img src="https://www.ipdb.org/images/1138/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19352: Hawaiian Beauty Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19353" 
+><span title="Image # 19353: Hawaiian Beauty Cabinet Front "><img src="https://www.ipdb.org/images/1138/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 19353: Hawaiian Beauty Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">864x576</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19354" 
+><span title="Image # 19354: Hawaiian Beauty Inside Cabinet "><img src="https://www.ipdb.org/images/1138/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19354: Hawaiian Beauty Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">960x1280</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19355" 
+><span title="Image # 19355: Hawaiian Beauty Under Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19355: Hawaiian Beauty Under Playfield "><br>Under Playfield</span></a><br><font size="-2">960x1280</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19356" 
+><span title="Image # 19356: Hawaiian Beauty Inside Cabinet "><img src="https://www.ipdb.org/images/1138/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19356: Hawaiian Beauty Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19357" 
+><span title="Image # 19357: Hawaiian Beauty Ball Lifter "><img src="https://www.ipdb.org/images/1138/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19357: Hawaiian Beauty Ball Lifter "><br>Ball Lifter</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19358" 
+><span title="Image # 19358: Hawaiian Beauty Behind Coin Door "><img src="https://www.ipdb.org/images/1138/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19358: Hawaiian Beauty Behind Coin Door "><br>Behind Coin Door</span></a><br><font size="-2">1024x768</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=19359" 
+><span title="Image # 19359: Hawaiian Beauty Front View "><img src="https://www.ipdb.org/images/1138/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19359: Hawaiian Beauty Front View "><br>Front View</span></a><br><font size="-2">960x1280</font><br>[Jim Zitzer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=23160" 
+><span title="Image # 23160: Hawaiian Beauty Right Side View "><img src="https://www.ipdb.org/images/1138/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23160: Hawaiian Beauty Right Side View "><br>Right Side View</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=23161" 
+><span title="Image # 23161: Hawaiian Beauty Backglass "><img src="https://www.ipdb.org/images/1138/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23161: Hawaiian Beauty Backglass "><br>Backglass</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=23162" 
+><span title="Image # 23162: Hawaiian Beauty Lower Playfield, Lit "><img src="https://www.ipdb.org/images/1138/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23162: Hawaiian Beauty Lower Playfield, Lit "><br>Lower Playfield, Lit</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=23163" 
+><span title="Image # 23163: Hawaiian Beauty Lower Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23163: Hawaiian Beauty Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=23164" 
+><span title="Image # 23164: Hawaiian Beauty Backglass Detail "><img src="https://www.ipdb.org/images/1138/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23164: Hawaiian Beauty Backglass Detail "><br>Backglass Detail</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=23165" 
+><span title="Image # 23165: Hawaiian Beauty Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23165: Hawaiian Beauty Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=33765" 
+><span title="Image # 33765: Hawaiian Beauty Backbox "><img src="https://www.ipdb.org/images/1138/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 33765: Hawaiian Beauty Backbox "><br>Backbox</span></a><br><font size="-2">758x1000</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=33766" 
+><span title="Image # 33766: Hawaiian Beauty Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 33766: Hawaiian Beauty Playfield "><br>Playfield</span></a><br><font size="-2">900x1226</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=36063" 
+><span title="Image # 36063: Hawaiian Beauty Motor Board "><img src="https://www.ipdb.org/images/1138/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 36063: Hawaiian Beauty Motor Board "><br>Motor Board</span></a><br><font size="-2">1024x682</font><br>[Bill Medwin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=36064" 
+><span title="Image # 36064: Hawaiian Beauty Stepper Units In BackBox "><img src="https://www.ipdb.org/images/1138/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 36064: Hawaiian Beauty Stepper Units In BackBox "><br>Stepper Units In BackBox</span></a><br><font size="-2">1024x682</font><br>[Bill Medwin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=36065" 
+><span title="Image # 36065: Hawaiian Beauty Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 36065: Hawaiian Beauty Playfield "><br>Playfield</span></a><br><font size="-2">1024x1537</font><br>[Bill Medwin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=36066" 
+><span title="Image # 36066: Hawaiian Beauty Middle Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 36066: Hawaiian Beauty Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x682</font><br>[Bill Medwin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=36067" 
+><span title="Image # 36067: Hawaiian Beauty Lower Playfield "><img src="https://www.ipdb.org/images/1138/tn_image-A31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 36067: Hawaiian Beauty Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x682</font><br>[Bill Medwin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1138&amp;picno=36068" 
+><span title="Image # 36068: Hawaiian Beauty Instruction Card "><img src="https://www.ipdb.org/images/1138/tn_image-A34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=53 alt="Image # 36068: Hawaiian Beauty Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x538</font><br>[Bill Medwin]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

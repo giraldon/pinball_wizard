@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: imem 'BICAR'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game imem BICAR B1CAR Head-to-Head Play Flippers (4), Pop bumpers (4), Slingshots (8), Gobble holes (4), Standup targets (2), Rollunders (2), Gates (2). This game operates on 220v.
+
+This is a head-to-head game where two players at opposite ends of the playfield compete in simultaneous play. Each player has flipper buttons which control only those flippers facing the opponent.
+
+Each player has two gobble holes. The player who has control of the ball operates only the nearest set of flippers. The player who does not have control of the ball operates the two center gates with the left flipper button and operates the opponent's two gobble holes with the right flipper button. The player controlling the center gates and gobble holes can operate them only a maximum of three times as counted by the lamps on the apron. This player is trying to 'capture' the ball while the other player is trying to complete the rollovers to finish 'laps'. Control pas<ignore>ses to the other player when the ball falls into a gobble hole, delivering it to that other player. The rollovers make the green center device rotate.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for imem 'BICAR' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>BICAR</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="6210">BICAR</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=6210">6210</a> <I>/ 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=6210" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'imem'"><a href="search.pl?searchtype=advanced&amp;mfgid=683">imem, <font size="-1">of Salerno, Italy</font></a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=6210">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Auto Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Head-to-Head Play&nbsp;<a href="glossary.php#Head-to-Head_Play" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">Gobble&nbsp;holes</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder">Rollunders</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Gate">Gates</a> (2). This game operates on 220v.<br><br>This is a head-to-head game where two players at opposite ends of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> compete in simultaneous play. Each player has <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> buttons which control only those <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> facing the opponent.<br><br>Each player has two <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">gobble&nbsp;holes</a>. The player who has control of the ball operates only the nearest set of <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. The player who does not have control of the ball operates the two center <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a> with the left <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button and operates the opponent's two <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">gobble&nbsp;holes</a> with the right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button. The player controlling the center <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gates</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">gobble&nbsp;holes</a> can operate them only a maximum of three times as counted by the lamps on the <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a>. This player is trying to "capture" the ball while the other player is trying to complete the <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> to finish "laps". Control pas<ignore>ses to the other player when the ball falls into a <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">gobble&nbsp;hole</a>, delivering it to that other player. The <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> make the green center device rotate.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>We have been unable to determine the function and purpose of the round green rotating disc at center <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. We also don't know what operates the valve in the <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a> <a target="glossary" class="glossarylink" href="/glossary.php#Drain">drain</a> that directs the drained ball to one player or the other, and when. Reportedly, the first player to complete all five "laps" (the 'vantaggio' lamps located on the upper <a target="glossary" class="glossarylink" href="/glossary.php#Apron">aprons</a> of each playfield) is the winner. <br><br>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> shows the manufacture logo in lower case letters.<br><br>Federico Croci, a collector in Italy, has only a vague recollection of the manufacturer name and otherwise has never seen or heard of this game. The <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> do not say "<a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a>" on them, so he wonders if this game was made after 1965.<br><br>Federico translates the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> text as follows:<br><br>biglie giocate = balls played<br>biglia in torretta = ball inside turret (meaning unclear to him)<br><br>Under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, the wood is stamped <b>BREV. INT. 1018</b> which stands for "international patent" [Italian: <I>brevetto internazionale</I>] and the number may be the unique game serial number because it is too short for an Italian patent number.<br><br>If anyone knows anything about this manufacturer, please contact us.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64832" 
+><span title="Image # 64832: BICAR Playfield - Glass On "><img src="https://www.ipdb.org/images/6210/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 64832: BICAR Playfield - Glass On "><br>Playfield - Glass On</span></a><br><font size="-2">1200x1431</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64833" 
+><span title="Image # 64833: BICAR Playfield - Glass On "><img src="https://www.ipdb.org/images/6210/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 64833: BICAR Playfield - Glass On "><br>Playfield - Glass On</span></a><br><font size="-2">1200x1511</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64834" 
+><span title="Image # 64834: BICAR Playfield - Glass Removed "><img src="https://www.ipdb.org/images/6210/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64834: BICAR Playfield - Glass Removed "><br>Playfield - Glass Removed</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64835" 
+><span title="Image # 64835: BICAR Red Player "><img src="https://www.ipdb.org/images/6210/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 64835: BICAR Red Player "><br>Red Player</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64836" 
+><span title="Image # 64836: BICAR Red Player - Downfield View "><img src="https://www.ipdb.org/images/6210/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64836: BICAR Red Player - Downfield View "><br>Red Player - Downfield View</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64837" 
+><span title="Image # 64837: BICAR Green Player "><img src="https://www.ipdb.org/images/6210/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 64837: BICAR Green Player "><br>Green Player</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64838" 
+><span title="Image # 64838: BICAR Green Player - Downfield View "><img src="https://www.ipdb.org/images/6210/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64838: BICAR Green Player - Downfield View "><br>Green Player - Downfield View</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64839" 
+><span title="Image # 64839: BICAR Gates Open "><img src="https://www.ipdb.org/images/6210/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64839: BICAR Gates Open "><br>Gates Open</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64840" 
+><span title="Image # 64840: BICAR Gates Closed "><img src="https://www.ipdb.org/images/6210/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64840: BICAR Gates Closed "><br>Gates Closed</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64841" 
+><span title="Image # 64841: BICAR Pop Bumper "><img src="https://www.ipdb.org/images/6210/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64841: BICAR Pop Bumper "><br>Pop Bumper</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64842" 
+><span title="Image # 64842: BICAR Slingshot "><img src="https://www.ipdb.org/images/6210/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64842: BICAR Slingshot "><br>Slingshot</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64843" 
+><span title="Image # 64843: BICAR Slingshot and Gobble Hole 
+(The large light shield was removed for this picture.)"><img src="https://www.ipdb.org/images/6210/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 64843: BICAR Slingshot and Gobble Hole 
+(The large light shield was removed for this picture.)"><br>Slingshot and Gobble Hole*</span></a><br><font size="-2">1200x2133</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64844" 
+><span title="Image # 64844: BICAR Slingshot and Gobble Hole 
+(The large light shield was removed for this picture.)"><img src="https://www.ipdb.org/images/6210/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 64844: BICAR Slingshot and Gobble Hole 
+(The large light shield was removed for this picture.)"><br>Slingshot and Gobble Hole*</span></a><br><font size="-2">1200x2133</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64845" 
+><span title="Image # 64845: BICAR Manufacturer Plate "><img src="https://www.ipdb.org/images/6210/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64845: BICAR Manufacturer Plate "><br>Manufacturer Plate</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64846" 
+><span title="Image # 64846: BICAR Cabinet - Left "><img src="https://www.ipdb.org/images/6210/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 64846: BICAR Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x871</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64847" 
+><span title="Image # 64847: BICAR Cabinet - Right "><img src="https://www.ipdb.org/images/6210/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 64847: BICAR Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x1002</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64848" 
+><span title="Image # 64848: BICAR Cabinet - Right "><img src="https://www.ipdb.org/images/6210/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 64848: BICAR Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x932</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64849" 
+><span title="Image # 64849: BICAR Cabinet - Front "><img src="https://www.ipdb.org/images/6210/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 64849: BICAR Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x828</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64850" 
+><span title="Image # 64850: BICAR Cabinet - Front - Lockdown Bar Removed "><img src="https://www.ipdb.org/images/6210/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 64850: BICAR Cabinet - Front - Lockdown Bar Removed "><br>Cabinet - Front - Lockdown Bar Removed</span></a><br><font size="-2">1200x816</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64851" 
+><span title="Image # 64851: BICAR Cabinet - Rear 
+(The access door allows the operator to remove the lockdown bar.)"><img src="https://www.ipdb.org/images/6210/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 64851: BICAR Cabinet - Rear 
+(The access door allows the operator to remove the lockdown bar.)"><br>Cabinet - Rear*</span></a><br><font size="-2">1200x922</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64852" 
+><span title="Image # 64852: BICAR Under Red Playfield "><img src="https://www.ipdb.org/images/6210/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 64852: BICAR Under Red Playfield "><br>Under Red Playfield</span></a><br><font size="-2">1200x1485</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64853" 
+><span title="Image # 64853: BICAR Under Playfield - Detail 
+(BREV. INT. stands for 'international patent' [Italian: brevetto internazionale] The number 1018, if not a patent number, is likely a serial number.)"><img src="https://www.ipdb.org/images/6210/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64853: BICAR Under Playfield - Detail 
+(BREV. INT. stands for 'international patent' [Italian: brevetto internazionale] The number 1018, if not a patent number, is likely a serial number.)"><br>Under Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64854" 
+><span title="Image # 64854: BICAR Inside Cabinet - Front "><img src="https://www.ipdb.org/images/6210/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64854: BICAR Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64855" 
+><span title="Image # 64855: BICAR Inside Cabinet - Middle "><img src="https://www.ipdb.org/images/6210/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64855: BICAR Inside Cabinet - Middle "><br>Inside Cabinet - Middle</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6210&amp;picno=64856" 
+><span title="Image # 64856: BICAR Outhole Valve 
+(The valve routes a drained ball either to the same player's ball lift mechanism or to the one for the opponent.)"><img src="https://www.ipdb.org/images/6210/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64856: BICAR Outhole Valve 
+(The valve routes a drained ball either to the same player's ball lift mechanism or to the one for the opponent.)"><br>Outhole Valve*</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

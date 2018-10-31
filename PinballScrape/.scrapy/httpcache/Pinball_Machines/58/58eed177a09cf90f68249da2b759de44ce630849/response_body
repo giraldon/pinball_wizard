@@ -1,0 +1,364 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Firepower'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Firepower Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (10), Kick-out holes (3), Star rollovers (2), Spinning target (1), Left outlane kickback, 3-ball multiball, Speech.
+
+First game to feature Lane Change, which is activated by pressing the right flipper button. First electronic multiball. First animated displays.
+
+Prototype versions feature two 3-bank drop targets. They were replaced by the standup targets in the production version.  Constantino Mitchell Jeanine Mitchell Steve Ritchie John Jung Eugene Jarvis Eugene Jarvis ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Firepower' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Firepower</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="856">Firepower</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=856">856</a> <I>/ February, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=856" target="showrate856"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=856" target="showrate856">152 ratings/117 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=856" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>497</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=3">Williams System 6</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>17,410 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=856">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (10), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), Left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Kickback">kickback</a>, 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>, Speech.<br><br>First game to feature <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;Change</a>, which is activated by pressing the right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button. First electronic <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. First animated displays.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Prototype">Prototype</a> versions feature two 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a>. They were replaced by the <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">standup&nbsp;targets</a> in the production version.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Ritchie">Steve&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Constantino&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Constantino%20Mitchell">Constantino&nbsp;Mitchell</a></span>, <span title="Click here to perform a search for all pinball games that 'Jeanine&nbsp;Mitchell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jeanine%20Mitchell">Jeanine&nbsp;Mitchell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Jung' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Jung">John&nbsp;Jung</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Eugene&nbsp;Jarvis' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Eugene%20Jarvis">Eugene&nbsp;Jarvis</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Eugene&nbsp;Jarvis' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Eugene%20Jarvis">Eugene&nbsp;Jarvis</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>For several Williams games (especially before 1987), Speech Processing was a separate task than Software Programming and may have been done by a different person than whom we list as having done the Software. Paul Dussault did the Speech Processing for this game.<br><br>Eugene Jarvis told us that the background sound for Firepower, and all the other sounds for Firepower, were his own design.<br><br>There is an excellent Firepower website at <a href="http://www.firepowerpinball.com/">http://www.firepowerpinball.com/</a><br><br>Reportedly, the only differences between the L2 and L6 software are the price presets 1, 2, and 3, and the number of maximum credits.<br><br>We asked Steve Ritchie about the first instance of the <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;Change</a> feature, and if other pinball machines at that time might have had similar lane-changing except controlled by a CPU instead of a <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> button. He replies:<P style="padding-left:30px;"><I>FP was the first.  One night I asked Eugene Jarvis if he could "move an unlit light under a ball coming down the lane with the right <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> switch."  He said, "yes", and built the code.  That same night at Williams we were using <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;Change</a>.  No CPU was changing lanes at the time either.</i><P>He also puts to rest any belief that <span title="Click here to open a new window and display Williams' 1980 'Blackout'"><a target="game317" href="machine.cgi?id=317">Williams' 1980 'Blackout'</a></span> was the first game with <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;Change</a> simply because its model number 495 preceded Firepower's number 497:<P style="padding-left:30px;"><I>Blackout was manufactured and designed WELL after Firepower. Williams produced many games out of model number order.</i><P><br><br>Steve comments about the <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> version:<P style="padding-left:30px;"><I>The first 10 games we built had 2 3-banks of drops in place of the standups.  They were so crappy that they were making the game unreliable, so we went with the standups for production.  It was a smart move.  If we had good <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> it would have sold 20,000, but it wasn't working long enough to earn anything with the bad drops....</i></P><br><br>Pictured in this listing is a <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> having a bottom panel design resembling a brick wall. We do not know how many came from the factory with this "brick bottom". Steve comments about this and about another idea considered for cab<ignore>inet construction:<P style="padding-left:30px;"><I>Williams often made 2 sets of stencils for 2 different cab<ignore>inet companies many times. We were selling so many pinball machines that we required at least 2 if not 3 "wood butchers" to keep up with demand, and they were Electronic Sound, Churchill Cab<ignore>inet, and sometimes Lenk-Smith. There may have been others as well. <br><br>I seem to remember that we got the brick pattern Masonite for cab<ignore>inet bottoms because of a production shortage of un-printed Masonite. The tacky brick pattern stuff was popular for paneling basements. Williams probably paid less for the printed stuff, and it was probably all that could be had at the time. <br><br>Particle board (MDF) was experimented with on pinball cab<ignore>inets, and a few were built with disastrous effects. This was due to wishful thinking on the part of some "new guy" engineers and greed on the part of Williams' management.<br><br>A group of us condemned the concept because we knew that there was no hope of making an MDF cab<ignore>inet that would be as durable (and light!!..operators hated the already-heavy pinball machine becoming obese, and the increased shipping weight and $$) as plywood.</i></P>The "brick bottom" shows up on a game from another manufacturer: <span title="Click here to open a new window and display Stern's 1980 'Seawitch'"><a target="game2089" href="machine.cgi?id=2089">Stern's 1980 'Seawitch'</a></span><br><br>A machine with an ornate design on its bottom has been found and is pictured in this listing.<br><br>Also pictured here is an <a target="glossary" class="glossarylink" href="/glossary.php#NOS">NOS</a> <a target="glossary" class="glossarylink" href="/glossary.php#Clear_Coated_Playfield">clear&nbsp;coated&nbsp;playfield</a> with its edge ink-stamped 1982, dated after the original production run had ended and therefore was likely one of many made as replacement stock. Unlike the original run, this <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has "starburst" pattern <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> and the huge round spaceship in the lower <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has a red hue.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 158<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 168<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 113<br>
+Pinball The Lure of the Silverball, page 11<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, page 184<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/856/firepowr.htm" target="rulesheet">Firepower Rulesheet Version 1 (May/20/1999), by Ray Johnson</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?firepower">http://pinball.jameswest.com/ownerslists/ownerslist.php?firepower</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 132 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/frpwr_t6.zip" >"Divided by 10" Scoring PinMAME Romset (L-6)</a></td><td> [Ted Estes]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 74 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/Williams_1980_Firepower_Game_ROM_L_2.zip" >Game ROM L-2</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 65 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/frpwr_l2.zip" >PinMAME Romset (L-2)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 65 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/frpwr_l6.zip" >PinMAME Romset (L-6)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/frpwr_b6.zip" >PinMAME Romset (system 6 7-digit bootleg)</a></td><td> [Oliver Okaegi]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/frpwr_b7.zip" >PinMAME Romset (system 7 7-digit bootleg)</a></td><td> [Oliver Okaegi]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 67 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/frpwr_c7.zip" >PinMAME Romset (System 7-Digit Bootleg) New Version</a></td><td> [Oliver Okaegi]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 532 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/Williams_1980_Firepower_Manual_Amendment_497_6_undated.pdf" onClick="return purchasemanual();">Manual Amendment (497-6, undated)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 15 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/Williams_1980_Firepower_Schematics_paginated_from_manual_dated_March_1980.pdf" onClick="return purchasemanual();">Schematics (paginated, from manual dated March 1980)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/Williams_1980_Firepower_Service_Bulletin_SS20_no_date_wiring_change_for_production_and_test_games.pdf" >Service Bulletin SS20 (no date - wiring change for production and test games)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 9 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/Williams_1980_Firepower_Instruction_Booklet.pdf" >Instruction Booklet (January 1980, OCR searchable)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 10 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/856/Williams_1980_Firepower_Prototype_Drop_Targets_Info.txt" >Prototype Drop Targets Info</a></td><td> [Ted Estes]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=811" 
+><span title="Image # 811: Firepower Prototype Game - Drop Target Decal "><img src="https://www.ipdb.org/images/856/tn_Target_decal.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 811: Firepower Prototype Game - Drop Target Decal "><br>Prototype Game - Drop Target Decal</span></a><br><font size="-2">109x162</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=4625" 
+><span title="Image # 4625: Firepower Flyer, Front "><img src="https://www.ipdb.org/images/856/tn_856f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 4625: Firepower Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">858x1106</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=4626" 
+><span title="Image # 4626: Firepower Flyer, Page 2 "><img src="https://www.ipdb.org/images/856/tn_856f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 4626: Firepower Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">856x1237</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=4627" 
+><span title="Image # 4627: Firepower Flyer, Page 3 "><img src="https://www.ipdb.org/images/856/tn_856f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 4627: Firepower Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">846x944</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=4628" 
+><span title="Image # 4628: Firepower Flyer, Back "><img src="https://www.ipdb.org/images/856/tn_856f4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4628: Firepower Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">852x1103</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=7064" 
+><span title="Image # 7064: Firepower Flyer, Front "><img src="https://www.ipdb.org/images/856/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 7064: Firepower Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">844x1090</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=7065" 
+><span title="Image # 7065: Firepower Flyer, Page 2 "><img src="https://www.ipdb.org/images/856/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 7065: Firepower Flyer, Page 2 "><br>Flyer, Page 2</span></a><br><font size="-2">850x1092</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=7066" 
+><span title="Image # 7066: Firepower Flyer, Page 3 "><img src="https://www.ipdb.org/images/856/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 7066: Firepower Flyer, Page 3 "><br>Flyer, Page 3</span></a><br><font size="-2">851x1092</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=7067" 
+><span title="Image # 7067: Firepower Flyer, Back "><img src="https://www.ipdb.org/images/856/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 7067: Firepower Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">844x1090</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11612" 
+><span title="Image # 11612: Firepower Backglass "><img src="https://www.ipdb.org/images/856/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 11612: Firepower Backglass "><br>Backglass</span></a><br><font size="-2">561x474</font><br>[Joe Iozzia]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11613" 
+><span title="Image # 11613: Firepower Upper Playfield "><img src="https://www.ipdb.org/images/856/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 11613: Firepower Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">624x415</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11614" 
+><span title="Image # 11614: Firepower Middle Playfield "><img src="https://www.ipdb.org/images/856/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 11614: Firepower Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">626x473</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11615" 
+><span title="Image # 11615: Firepower Lower Playfield "><img src="https://www.ipdb.org/images/856/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 11615: Firepower Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">611x471</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11616" 
+><span title="Image # 11616: Firepower Cabinet - Full View "><img src="https://www.ipdb.org/images/856/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 11616: Firepower Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">542x477</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11617" 
+><span title="Image # 11617: Firepower Cabinet - Front View "><img src="https://www.ipdb.org/images/856/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 11617: Firepower Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">295x584</font><br>[Joe Iozzia]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11618" 
+><span title="Image # 11618: Firepower Cabinet - Front "><img src="https://www.ipdb.org/images/856/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 11618: Firepower Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">574x442</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11619" 
+><span title="Image # 11619: Firepower Inside Backbox "><img src="https://www.ipdb.org/images/856/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 11619: Firepower Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x454</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=11620" 
+><span title="Image # 11620: Firepower Illuminated Backglass "><img src="https://www.ipdb.org/images/856/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 11620: Firepower Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">616x458</font><br>[Joe Iozzia]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19150" 
+><span title="Image # 19150: Firepower Cabinet - Full View "><img src="https://www.ipdb.org/images/856/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 19150: Firepower Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">691x968</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19151" 
+><span title="Image # 19151: Firepower Cabinet - Front View "><img src="https://www.ipdb.org/images/856/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19151: Firepower Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">768x1024</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19152" 
+><span title="Image # 19152: Firepower Illuminated Backglass "><img src="https://www.ipdb.org/images/856/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 19152: Firepower Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">572x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19153" 
+><span title="Image # 19153: Firepower Cabinet - Front "><img src="https://www.ipdb.org/images/856/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19153: Firepower Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19154" 
+><span title="Image # 19154: Firepower Inside Coin Door "><img src="https://www.ipdb.org/images/856/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19154: Firepower Inside Coin Door "><br>Inside Coin Door</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19155" 
+><span title="Image # 19155: Firepower Cabinet - Right "><img src="https://www.ipdb.org/images/856/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 19155: Firepower Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">467x452</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19156" 
+><span title="Image # 19156: Firepower Cabinet - Left "><img src="https://www.ipdb.org/images/856/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 19156: Firepower Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">538x480</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19157" 
+><span title="Image # 19157: Firepower Backglass - Reverse "><img src="https://www.ipdb.org/images/856/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19157: Firepower Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19158" 
+><span title="Image # 19158: Firepower Behind Backglass "><img src="https://www.ipdb.org/images/856/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=94 alt="Image # 19158: Firepower Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">505x477</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19159" 
+><span title="Image # 19159: Firepower Inside Backbox "><img src="https://www.ipdb.org/images/856/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 19159: Firepower Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">570x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19160" 
+><span title="Image # 19160: Firepower Inside Backbox - Detail "><img src="https://www.ipdb.org/images/856/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19160: Firepower Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19161" 
+><span title="Image # 19161: Firepower Playfield - Ball View "><img src="https://www.ipdb.org/images/856/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19161: Firepower Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19162" 
+><span title="Image # 19162: Firepower Inside Cabinet "><img src="https://www.ipdb.org/images/856/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19162: Firepower Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19163" 
+><span title="Image # 19163: Firepower Under Playfield "><img src="https://www.ipdb.org/images/856/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19163: Firepower Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19164" 
+><span title="Image # 19164: Firepower Playfield "><img src="https://www.ipdb.org/images/856/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19164: Firepower Playfield "><br>Playfield</span></a><br><font size="-2">768x1024</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19165" 
+><span title="Image # 19165: Firepower Upper Playfield "><img src="https://www.ipdb.org/images/856/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19165: Firepower Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19166" 
+><span title="Image # 19166: Firepower Middle Playfield "><img src="https://www.ipdb.org/images/856/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19166: Firepower Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=19167" 
+><span title="Image # 19167: Firepower Lower Playfield "><img src="https://www.ipdb.org/images/856/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19167: Firepower Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=21949" 
+><span title="Image # 21949: Firepower Spinner sticker "><img src="https://www.ipdb.org/images/856/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 21949: Firepower Spinner sticker "><br>Spinner sticker</span></a><br><font size="-2">90x153</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=21950" 
+><span title="Image # 21950: Firepower Target image "><img src="https://www.ipdb.org/images/856/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 21950: Firepower Target image "><br>Target image</span></a><br><font size="-2">90x92</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=24161" 
+><span title="Image # 24161: Firepower Targets "><img src="https://www.ipdb.org/images/856/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 24161: Firepower Targets "><br>Targets</span></a><br><font size="-2">1024x768</font><br>[Richard Harvey]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=25485" 
+><span title="Image # 25485: Firepower Playfield "><img src="https://www.ipdb.org/images/856/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 25485: Firepower Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Brian A. Batchelor]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=28056" 
+><span title="Image # 28056: Firepower Illuminated Backglass "><img src="https://www.ipdb.org/images/856/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 28056: Firepower Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">923x768</font><br>[Andrew Meckler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=28057" 
+><span title="Image # 28057: Firepower Illuminated Playfield "><img src="https://www.ipdb.org/images/856/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28057: Firepower Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x768</font><br>[Andrew Meckler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=28058" 
+><span title="Image # 28058: Firepower Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/856/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28058: Firepower Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Andrew Meckler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=28059" 
+><span title="Image # 28059: Firepower Playfield - Ball View "><img src="https://www.ipdb.org/images/856/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28059: Firepower Playfield - Ball View "><br>Playfield - Ball View</span></a><br><font size="-2">1024x768</font><br>[Andrew Meckler]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=28751" 
+><span title="Image # 28751: Firepower Instruction Card "><img src="https://www.ipdb.org/images/856/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28751: Firepower Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29285" 
+><span title="Image # 29285: Firepower Pop Bumper Cap "><img src="https://www.ipdb.org/images/856/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 29285: Firepower Pop Bumper Cap "><br>Pop Bumper Cap</span></a><br><font size="-2">946x913</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29370" 
+><span title="Image # 29370: Firepower Playfield Plastics "><img src="https://www.ipdb.org/images/856/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 29370: Firepower Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">1024x1356</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29371" 
+><span title="Image # 29371: Firepower Playfield Plastic "><img src="https://www.ipdb.org/images/856/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 29371: Firepower Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1024x1458</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29372" 
+><span title="Image # 29372: Firepower Playfield Plastic "><img src="https://www.ipdb.org/images/856/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=35 height=100 alt="Image # 29372: Firepower Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">531x1505</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29373" 
+><span title="Image # 29373: Firepower Playfield Plastics "><img src="https://www.ipdb.org/images/856/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=51 height=100 alt="Image # 29373: Firepower Playfield Plastics "><br>Playfield Plastics</span></a><br><font size="-2">788x1560</font><br>[Ian F. McKinnon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29374" 
+><span title="Image # 29374: Firepower Playfield Plastic "><img src="https://www.ipdb.org/images/856/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=32 height=100 alt="Image # 29374: Firepower Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">492x1560</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=29375" 
+><span title="Image # 29375: Firepower Playfield Plastic "><img src="https://www.ipdb.org/images/856/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 29375: Firepower Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">681x1061</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=33937" 
+><span title="Image # 33937: Firepower Playfield - Detail "><img src="https://www.ipdb.org/images/856/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33937: Firepower Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=44747" 
+><span title="Image # 44747: Firepower Backglass "><img src="https://www.ipdb.org/images/856/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 44747: Firepower Backglass "><br>Backglass</span></a><br><font size="-2">1024x938</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=44748" 
+><span title="Image # 44748: Firepower Cabinet - Left "><img src="https://www.ipdb.org/images/856/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=39 alt="Image # 44748: Firepower Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x395</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=44749" 
+><span title="Image # 44749: Firepower Backbox - Left "><img src="https://www.ipdb.org/images/856/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 44749: Firepower Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">660x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=44750" 
+><span title="Image # 44750: Firepower Cabinet - Front "><img src="https://www.ipdb.org/images/856/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 44750: Firepower Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x727</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=50264" 
+><span title="Image # 50264: Firepower Illuminated Front View "><img src="https://www.ipdb.org/images/856/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 50264: Firepower Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1200x1600</font><br>[Ronald Blom]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=53445" 
+><span title="Image # 53445: Firepower Cabinet - Bottom - Brick Wall Pattern "><img src="https://www.ipdb.org/images/856/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 53445: Firepower Cabinet - Bottom - Brick Wall Pattern "><br>Cabinet - Bottom - Brick Wall Pattern</span></a><br><font size="-2">630x1068</font><br>[Lenny Esposito]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66358" 
+><span title="Image # 66358: Firepower Prototype Drop Target Version 
+(The yellow color above each flipper inlane was changed for production games.)"><img src="https://www.ipdb.org/images/856/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66358: Firepower Prototype Drop Target Version 
+(The yellow color above each flipper inlane was changed for production games.)"><br>Prototype Drop Target Version*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66359" 
+><span title="Image # 66359: Firepower Prototype Drop Target Version 
+(The yellow color above each flipper inlane was changed for production games.)"><img src="https://www.ipdb.org/images/856/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66359: Firepower Prototype Drop Target Version 
+(The yellow color above each flipper inlane was changed for production games.)"><br>Prototype Drop Target Version*</span></a><br><font size="-2">1200x1600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66360" 
+><span title="Image # 66360: Firepower Prototype Drop Target Version "><img src="https://www.ipdb.org/images/856/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 66360: Firepower Prototype Drop Target Version "><br>Prototype Drop Target Version</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66361" 
+><span title="Image # 66361: Firepower Prototype Drop Target Version "><img src="https://www.ipdb.org/images/856/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 66361: Firepower Prototype Drop Target Version "><br>Prototype Drop Target Version</span></a><br><font size="-2">1200x900</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66362" 
+><span title="Image # 66362: Firepower Prototype Drop Target Version "><img src="https://www.ipdb.org/images/856/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 66362: Firepower Prototype Drop Target Version "><br>Prototype Drop Target Version</span></a><br><font size="-2">1200x731</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66363" 
+><span title="Image # 66363: Firepower Prototype Drop Target Version "><img src="https://www.ipdb.org/images/856/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 66363: Firepower Prototype Drop Target Version "><br>Prototype Drop Target Version</span></a><br><font size="-2">1200x773</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=66834" 
+><span title="Image # 66834: Firepower Cabinet - Bottom - Ornate Masonite 
+(The serial number is not fully readable due to bad stamping on the cabinet but is in the 8000 series of numbers.)"><img src="https://www.ipdb.org/images/856/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 66834: Firepower Cabinet - Bottom - Ornate Masonite 
+(The serial number is not fully readable due to bad stamping on the cabinet but is in the 8000 series of numbers.)"><br>Cabinet - Bottom - Ornate Masonite*</span></a><br><font size="-2">1200x1600</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=67489" 
+><span title="Image # 67489: Firepower Cabinet  - Dual Speaker Cut Outs "><img src="https://www.ipdb.org/images/856/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 67489: Firepower Cabinet  - Dual Speaker Cut Outs "><br>Cabinet  - Dual Speaker Cut Outs</span></a><br><font size="-2">1200x2000</font><br>[Lenny Esposito]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=67490" 
+><span title="Image # 67490: Firepower Factory Pre-wiring for Drop Targets Installed "><img src="https://www.ipdb.org/images/856/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 67490: Firepower Factory Pre-wiring for Drop Targets Installed "><br>Factory Pre-wiring for Drop Targets Installed</span></a><br><font size="-2">1200x720</font><br>[Lenny Esposito]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=70299" 
+><span title="Image # 70299: Firepower 1982 Playfield - Front 
+(This playfield is clear coated and was described to us as New Old Stock. The huge round spaceship in the lower playfield has a red hue, not a blue hue as found in first-production playfields.)"><img src="https://www.ipdb.org/images/856/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 70299: Firepower 1982 Playfield - Front 
+(This playfield is clear coated and was described to us as New Old Stock. The huge round spaceship in the lower playfield has a red hue, not a blue hue as found in first-production playfields.)"><br>1982 Playfield - Front*</span></a><br><font size="-2">1200x2183</font><br>[George Kalos]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=70300" 
+><span title="Image # 70300: Firepower 1982 Playfield - Reverse 
+(This playfield has starburst inserts, not the plain ones as found in first-production playfields.)"><img src="https://www.ipdb.org/images/856/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 70300: Firepower 1982 Playfield - Reverse 
+(This playfield has starburst inserts, not the plain ones as found in first-production playfields.)"><br>1982 Playfield - Reverse*</span></a><br><font size="-2">1200x1693</font><br>[George Kalos]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=856&amp;picno=70301" 
+><span title="Image # 70301: Firepower 1982 Playfield - Date 
+(The date is MAY 10 1982.)"><img src="https://www.ipdb.org/images/856/tn_image-66.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=32 alt="Image # 70301: Firepower 1982 Playfield - Date 
+(The date is MAY 10 1982.)"><br>1982 Playfield - Date*</span></a><br><font size="-2">1200x383</font><br>[George Kalos]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Photo&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

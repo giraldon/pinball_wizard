@@ -1,0 +1,315 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Stoner 'Click'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Stoner Click Flipperless 5 balls for 5 cents. Passive bumpers (16).  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Stoner 'Click' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Click</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="5278">Click</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=5278">5278</a> <I>/ 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=5278" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Stoner'"><a href="search.pl?searchtype=advanced&amp;mfgid=304">Stoner Manufacturing Company, <font size="-1">of Aurora, Illinois, USA</font> (1933-1941)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=5278">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Girls/Women - Photography - Sports</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Flipperless&nbsp;<a href="glossary.php#Flipperless" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>5 balls for 5 cents. <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (16).</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The manufacturer’s name does not appear on either the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> or the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. The owner of the game pictured here found a loose notice inside the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> indicating that Stoner Mfg Corp. manufactured it. This notice appeared to have been previously glued to the inside of the coin door. No records were known to us of this 'Click' game.<br><br>A search of Billboard ads starting Dec 1941 did not turn up any references to a 'Click' game until Jan 31, 1942 where the distributor National Novelty advertised it for sale, through Jan 1943. Two other distributors, Budco and one other, advertised a 'Click' on April 25, 1942. None of these ads have pictures, and none mention Stoner in them.<br><br>However, in a Billboard ad dated February 14, 1942,  K.C. Novelty Company listed a “Stoner Click” among its used games for sale. Interestingly, they considered this game “used” by this time,  while only two weeks earlier in the same magazine it seemed to have its first ad from National Novelty.<br><br>Stoner is believed to have closed its doors in 1941, and their last games for which there is documentation were produced beginning in August of that year. “Click” appears to be among their last pinball games before closing down, and this could account for the dearth of advertising evidence for it.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36900" 
+><span title="Image # 36900: Click Backglass "><img src="https://www.ipdb.org/images/5278/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36900: Click Backglass "><br>Backglass</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36901" 
+><span title="Image # 36901: Click Upper Backglass "><img src="https://www.ipdb.org/images/5278/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36901: Click Upper Backglass "><br>Upper Backglass</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36902" 
+><span title="Image # 36902: Click Lower Backglass "><img src="https://www.ipdb.org/images/5278/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36902: Click Lower Backglass "><br>Lower Backglass</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36903" 
+><span title="Image # 36903: Click Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36903: Click Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36904" 
+><span title="Image # 36904: Click Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36904: Click Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36905" 
+><span title="Image # 36905: Click Upper Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36905: Click Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36906" 
+><span title="Image # 36906: Click Middle Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36906: Click Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36907" 
+><span title="Image # 36907: Click Lower Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36907: Click Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36908" 
+><span title="Image # 36908: Click Upper Left Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36908: Click Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36909" 
+><span title="Image # 36909: Click Upper Right Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36909: Click Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36910" 
+><span title="Image # 36910: Click Lower Left Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36910: Click Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36911" 
+><span title="Image # 36911: Click Lower Right Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36911: Click Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36912" 
+><span title="Image # 36912: Click Shooter Gauge "><img src="https://www.ipdb.org/images/5278/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36912: Click Shooter Gauge "><br>Shooter Gauge</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36913" 
+><span title="Image # 36913: Click Instructions "><img src="https://www.ipdb.org/images/5278/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36913: Click Instructions "><br>Instructions</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36914" 
+><span title="Image # 36914: Click Coin Slide Patent Numbers "><img src="https://www.ipdb.org/images/5278/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36914: Click Coin Slide Patent Numbers "><br>Coin Slide Patent Numbers</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36915" 
+><span title="Image # 36915: Click Ball Lift And Shooter Knobs "><img src="https://www.ipdb.org/images/5278/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36915: Click Ball Lift And Shooter Knobs "><br>Ball Lift And Shooter Knobs</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36916" 
+><span title="Image # 36916: Click Manufacturer Notice 
+(Owner states this notice appeared to have been previously glued to the inside of the coin door.)"><img src="https://www.ipdb.org/images/5278/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 36916: Click Manufacturer Notice 
+(Owner states this notice appeared to have been previously glued to the inside of the coin door.)"><br>Manufacturer Notice*</span></a><br><font size="-2">620x385</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36917" 
+><span title="Image # 36917: Click Backglass "><img src="https://www.ipdb.org/images/5278/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 36917: Click Backglass "><br>Backglass</span></a><br><font size="-2">536x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36918" 
+><span title="Image # 36918: Click Backglass "><img src="https://www.ipdb.org/images/5278/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36918: Click Backglass "><br>Backglass</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36919" 
+><span title="Image # 36919: Click Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36919: Click Playfield "><br>Playfield</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36920" 
+><span title="Image # 36920: Click Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 36920: Click Playfield "><br>Playfield</span></a><br><font size="-2">597x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36921" 
+><span title="Image # 36921: Click Outhole "><img src="https://www.ipdb.org/images/5278/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36921: Click Outhole "><br>Outhole</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36922" 
+><span title="Image # 36922: Click Cabinet - Left "><img src="https://www.ipdb.org/images/5278/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 36922: Click Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">586x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36923" 
+><span title="Image # 36923: Click Front View "><img src="https://www.ipdb.org/images/5278/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 36923: Click Front View "><br>Front View</span></a><br><font size="-2">217x466</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36924" 
+><span title="Image # 36924: Click Cabinet - Front "><img src="https://www.ipdb.org/images/5278/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36924: Click Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36925" 
+><span title="Image # 36925: Click Coin Door "><img src="https://www.ipdb.org/images/5278/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36925: Click Coin Door "><br>Coin Door</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36926" 
+><span title="Image # 36926: Click Inside Backbox "><img src="https://www.ipdb.org/images/5278/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 36926: Click Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">498x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36927" 
+><span title="Image # 36927: Click Inside Backbox "><img src="https://www.ipdb.org/images/5278/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36927: Click Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36928" 
+><span title="Image # 36928: Click Inside Backbox "><img src="https://www.ipdb.org/images/5278/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36928: Click Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36953" 
+><span title="Image # 36953: Click Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-70.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36953: Click Playfield "><br>Playfield</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36954" 
+><span title="Image # 36954: Click Lower Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-69.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36954: Click Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36955" 
+><span title="Image # 36955: Click Under Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36955: Click Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36956" 
+><span title="Image # 36956: Click Under Lower Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36956: Click Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36957" 
+><span title="Image # 36957: Click Under Lower Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36957: Click Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36958" 
+><span title="Image # 36958: Click Under Lower Playfield - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36958: Click Under Lower Playfield - Detail "><br>Under Lower Playfield - Detail</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36959" 
+><span title="Image # 36959: Click Under Middle Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36959: Click Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36960" 
+><span title="Image # 36960: Click Under Middle Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36960: Click Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36961" 
+><span title="Image # 36961: Click Under Upper Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36961: Click Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36962" 
+><span title="Image # 36962: Click Under Upper Playfield "><img src="https://www.ipdb.org/images/5278/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36962: Click Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36963" 
+><span title="Image # 36963: Click Inside Cabinet "><img src="https://www.ipdb.org/images/5278/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36963: Click Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36964" 
+><span title="Image # 36964: Click Inside Cabinet "><img src="https://www.ipdb.org/images/5278/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36964: Click Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36965" 
+><span title="Image # 36965: Click Inside Cabinet "><img src="https://www.ipdb.org/images/5278/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36965: Click Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36966" 
+><span title="Image # 36966: Click Shooter And Ball Lift Mechanism "><img src="https://www.ipdb.org/images/5278/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36966: Click Shooter And Ball Lift Mechanism "><br>Shooter And Ball Lift Mechanism</span></a><br><font size="-2">480x640</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36967" 
+><span title="Image # 36967: Click Ball Trough And Cash Box "><img src="https://www.ipdb.org/images/5278/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36967: Click Ball Trough And Cash Box "><br>Ball Trough And Cash Box</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36968" 
+><span title="Image # 36968: Click Transformer "><img src="https://www.ipdb.org/images/5278/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36968: Click Transformer "><br>Transformer</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36969" 
+><span title="Image # 36969: Click Cabinet - Number 408 "><img src="https://www.ipdb.org/images/5278/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36969: Click Cabinet - Number 408 "><br>Cabinet - Number 408</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36970" 
+><span title="Image # 36970: Click Cabinet - Number 408 "><img src="https://www.ipdb.org/images/5278/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36970: Click Cabinet - Number 408 "><br>Cabinet - Number 408</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36971" 
+><span title="Image # 36971: Click Cabinet - Number 297 "><img src="https://www.ipdb.org/images/5278/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36971: Click Cabinet - Number 297 "><br>Cabinet - Number 297</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36972" 
+><span title="Image # 36972: Click Backbox - Number 408 
+(This image shows the number 408 stamped on the top left edge of the back of the backbox.)"><img src="https://www.ipdb.org/images/5278/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36972: Click Backbox - Number 408 
+(This image shows the number 408 stamped on the top left edge of the back of the backbox.)"><br>Backbox - Number 408*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36973" 
+><span title="Image # 36973: Click Inspection Tag 
+(Located on inside of coin door.)"><img src="https://www.ipdb.org/images/5278/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36973: Click Inspection Tag 
+(Located on inside of coin door.)"><br>Inspection Tag*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36974" 
+><span title="Image # 36974: Click Inside Backbox "><img src="https://www.ipdb.org/images/5278/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36974: Click Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">360x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36975" 
+><span title="Image # 36975: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36975: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36976" 
+><span title="Image # 36976: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36976: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36977" 
+><span title="Image # 36977: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36977: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36978" 
+><span title="Image # 36978: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36978: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36979" 
+><span title="Image # 36979: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36979: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36980" 
+><span title="Image # 36980: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36980: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36981" 
+><span title="Image # 36981: Click Inside Backbox - Detail "><img src="https://www.ipdb.org/images/5278/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36981: Click Inside Backbox - Detail "><br>Inside Backbox - Detail</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36982" 
+><span title="Image # 36982: Click Cabling From Rear Cabinet To Backbox "><img src="https://www.ipdb.org/images/5278/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36982: Click Cabling From Rear Cabinet To Backbox "><br>Cabling From Rear Cabinet To Backbox</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36983" 
+><span title="Image # 36983: Click Inside Rear Cabinet 
+(Photographed through the backbox cabling access opening. The inside bottom of the cabinet is in view.)"><img src="https://www.ipdb.org/images/5278/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36983: Click Inside Rear Cabinet 
+(Photographed through the backbox cabling access opening. The inside bottom of the cabinet is in view.)"><br>Inside Rear Cabinet*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36984" 
+><span title="Image # 36984: Click Inside Rear Cabinet 
+(Photographed through the backbox cabling access opening. The inside bottom of the cabinet is in view.)"><img src="https://www.ipdb.org/images/5278/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36984: Click Inside Rear Cabinet 
+(Photographed through the backbox cabling access opening. The inside bottom of the cabinet is in view.)"><br>Inside Rear Cabinet*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36985" 
+><span title="Image # 36985: Click Pencil Markings "><img src="https://www.ipdb.org/images/5278/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36985: Click Pencil Markings "><br>Pencil Markings</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36986" 
+><span title="Image # 36986: Click Fuses 
+(Photographed through the front coin door opening.)"><img src="https://www.ipdb.org/images/5278/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36986: Click Fuses 
+(Photographed through the front coin door opening.)"><br>Fuses*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=36987" 
+><span title="Image # 36987: Click Cashbox 
+(Photographed through the front coin door opening.)"><img src="https://www.ipdb.org/images/5278/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36987: Click Cashbox 
+(Photographed through the front coin door opening.)"><br>Cashbox*</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=5278&amp;picno=39431" 
+><span title="Image # 39431: Click Billboard Ad 
+(The Billboard, Feb-14-1942, page 71. This ad shows the manufacturer to be Stoner.)"><img src="https://www.ipdb.org/images/5278/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 39431: Click Billboard Ad 
+(The Billboard, Feb-14-1942, page 71. This ad shows the manufacturer to be Stoner.)"><br>Billboard Ad*</span></a><br><font size="-2">1024x825</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+ebay Jan 2008&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

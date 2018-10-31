@@ -1,0 +1,257 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Ballyround'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Ballyround Bally Round Table Top/Counter Game 7 balls for 1 cent, or 10 balls for 5 cents. This is a Square Machine, advertised as 24 1/2 inches square, and 8 1/4 inches high. One manufacturer ad included in the price a choice of a metal stand or wooden legs, for a total height of 36 1/4 inches. One of the games pictured here measured 23 1/2 inches square and 9 inches high. Both the wooden legs and metal stand attach to the cabinet with screws.  Raymond T. Moloney ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Ballyround' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Ballyround</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="159">Ballyround</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=159">159</a> <I>/ April, 1932 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=159" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1932</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Pure Mechanical (PM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=PM#PM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=159">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Table Top/Counter Game&nbsp;<a href="glossary.php#Table_Top/Counter_Game" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>7 balls for 1 cent, or 10 balls for 5 cents. This is a <a target="glossary" class="glossarylink" href="/glossary.php#Square_Machine">Square&nbsp;Machine</a>, advertised as 24 1/2 inches square, and 8 1/4 inches high. One manufacturer ad included in the price a choice of a metal stand or wooden legs, for a total height of 36 1/4 inches. One of the games pictured here measured 23 1/2 inches square and 9 inches high. Both the wooden legs and metal stand attach to the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> with screws.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Raymond&nbsp;T.&nbsp;Moloney' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Raymond%20T.%20Moloney">Raymond&nbsp;T.&nbsp;Moloney</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> on this game is saucer-shaped and the shutter panel that keeps the trapped balls from falling through (aka baffle board) is also saucer-shaped but with its holes slightly offset. When the player pushes the coin chute to deposit a new coin, this curved shutter does not move back and forth like those on games with flat <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a>, but instead slightly rotates on a central axis, aligning its holes with the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> holes so that the trapped balls drop down towards the ball-lift.<br><br>In an interview published in 1982 in <i>The Pinball Collectors' Quarterly</i>, Bally Vice President Herb Jones explained they never could get the mechanics right on the rotating shutter panel, making the alignment of upper and lower holes erratic. Balls would get stuck and not fall through. As a result, he said, almost the entire run of this game was returned to the factory for refund or credit. Thousands of these games were scrapped by Bally, and their <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> were salvaged to make <span title="Click here to open a new window and display Bally's 1933 'Mike and Ike'"><a target="game1595" href="machine.cgi?id=1595">Bally's 1933 'Mike and Ike'</a></span>.<br><br>Of the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> examples pictured here, four show ball lifts, all different from each other. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> photos attributed to Higgins show no external ball lift knob, as the lift is built into the ball shooter, where pulling back the shooter lifts the ball up to playing level. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> photos attributed to Lankar show a round wooden knob on its right side, and the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> sticker advises the player to turn this knob to 'release' balls. We are not certain if this knob releases balls to the ball shooter, or if it is used at the very start of play to drop all balls through the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> holes as a solution to any problems encountered when the coin slide did it. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> photos attributed to Ricci show a metal lever on the front, below the shooter knob, to lift the balls up. This third game also had extensive reconstruction inside, replacing metal with wood and vice versa, clearly not by the factory, so its ball lift style may not be original either. The <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> photos attributed to Dodel show a metal ball lift knob on the side.<br><br>A Billboard article dated July 30, 1932 mentions a report from Bally President Ray Maloney that Ballyround had been "greatly improved" but does not elaborate. We know games with the combined lift-and-shooter were advertised in May of 1932. We would think the great improvement was with the troublesome baffle board. The fourth <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> shown here appears to have all original internal construction. We have no pictures of the inside of the first two <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> styles to evaluate further.<br><br>According to the <I>Encyclopedia of Pinball Vol 1</I>, Bally wanted to name this game 'Scram' until they discovered another game was being marketed under that name, <span title="Click here to open a new window and display Hutchison Engineering Company's 1932 'Scram'"><a target="game5138" href="machine.cgi?id=5138">Hutchison Engineering Company's 1932 'Scram'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+The Billboard, May-28-1932, pages 71 and 77<br>
+The Pinball Collectors’ Quarterly, No. 3 Summer 1982, page 12<br>
+<a href="redirect.pl?http://1930s.com/pinball/forsale/AdCat31-33V2.html" target="booksourcelink">Pinball Ad Catalog Volume 1</a>, 1931-33, pages 27-28<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=bZAefxTf4nE">Example of Play (at YouTube) [04:36]</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 482 KB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/159/Ballyround_Reconstructed_Instructions_submitted_by_Melissa_Ricci.jpg" >Instructions (Reconstructed)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=16263" 
+><span title="Image # 16263: Ballyround Playfield "><img src="https://www.ipdb.org/images/159/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 16263: Ballyround Playfield "><br>Playfield</span></a><br><font size="-2">514x450</font><br>[George Carkin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=26072" 
+><span title="Image # 26072: Ballyround Full View "><img src="https://www.ipdb.org/images/159/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 26072: Ballyround Full View "><br>Full View</span></a><br><font size="-2">581x466</font><br>[Joseph Higgins & Linda Gillings]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=26073" 
+><span title="Image # 26073: Ballyround Full View "><img src="https://www.ipdb.org/images/159/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 26073: Ballyround Full View "><br>Full View</span></a><br><font size="-2">589x542</font><br>[Joseph Higgins & Linda Gillings]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=26074" 
+><span title="Image # 26074: Ballyround Upper Playfield "><img src="https://www.ipdb.org/images/159/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 26074: Ballyround Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">600x350</font><br>[Joseph Higgins & Linda Gillings]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=33661" 
+><span title="Image # 33661: Ballyround Playfield "><img src="https://www.ipdb.org/images/159/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 33661: Ballyround Playfield "><br>Playfield</span></a><br><font size="-2">900x686</font><br>[Raphael Lankar]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=33662" 
+><span title="Image # 33662: Ballyround Machine "><img src="https://www.ipdb.org/images/159/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 33662: Ballyround Machine "><br>Machine</span></a><br><font size="-2">900x1162</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=42575" 
+><span title="Image # 42575: Ballyround Full View "><img src="https://www.ipdb.org/images/159/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42575: Ballyround Full View "><br>Full View</span></a><br><font size="-2">1200x1600</font><br>[Richard Zielinski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47213" 
+><span title="Image # 47213: Ballyround Billboard Ad 
+(The Billboard, May-28-1932, page 71)"><img src="https://www.ipdb.org/images/159/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=65 height=100 alt="Image # 47213: Ballyround Billboard Ad 
+(The Billboard, May-28-1932, page 71)"><br>Billboard Ad*</span></a><br><font size="-2">1200x1841</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47214" 
+><span title="Image # 47214: Ballyround Billboard Ad 
+(The Billboard, May-28-1932, page 77)"><img src="https://www.ipdb.org/images/159/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 47214: Ballyround Billboard Ad 
+(The Billboard, May-28-1932, page 77)"><br>Billboard Ad*</span></a><br><font size="-2">1200x1114</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47658" 
+><span title="Image # 47658: Ballyround Playfield "><img src="https://www.ipdb.org/images/159/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47658: Ballyround Playfield "><br>Playfield</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47659" 
+><span title="Image # 47659: Ballyround Cabinet - Left "><img src="https://www.ipdb.org/images/159/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 47659: Ballyround Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">984x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47660" 
+><span title="Image # 47660: Ballyround Cabinet - Right "><img src="https://www.ipdb.org/images/159/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47660: Ballyround Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47661" 
+><span title="Image # 47661: Ballyround Cabinet - Front View "><img src="https://www.ipdb.org/images/159/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 47661: Ballyround Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1028x876</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47662" 
+><span title="Image # 47662: Ballyround Cabinet - Front View "><img src="https://www.ipdb.org/images/159/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47662: Ballyround Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47663" 
+><span title="Image # 47663: Ballyround Ball Lift and Shooter Knob "><img src="https://www.ipdb.org/images/159/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 47663: Ballyround Ball Lift and Shooter Knob "><br>Ball Lift and Shooter Knob</span></a><br><font size="-2">998x900</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47664" 
+><span title="Image # 47664: Ballyround Ball Lift And Shooter Knob "><img src="https://www.ipdb.org/images/159/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47664: Ballyround Ball Lift And Shooter Knob "><br>Ball Lift And Shooter Knob</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47667" 
+><span title="Image # 47667: Ballyround Ball Shooter Assembly 
+(The inside of this cabinet has been reconstructed and is not original but is included here to show ball shooter detail.)"><img src="https://www.ipdb.org/images/159/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 47667: Ballyround Ball Shooter Assembly 
+(The inside of this cabinet has been reconstructed and is not original but is included here to show ball shooter detail.)"><br>Ball Shooter Assembly*</span></a><br><font size="-2">1000x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47668" 
+><span title="Image # 47668: Ballyround Ball Lift Mechanism 
+(The inside of this cabinet has been reconstructed and is not original but is included here to show the ball lift detail.)"><img src="https://www.ipdb.org/images/159/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47668: Ballyround Ball Lift Mechanism 
+(The inside of this cabinet has been reconstructed and is not original but is included here to show the ball lift detail.)"><br>Ball Lift Mechanism*</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47671" 
+><span title="Image # 47671: Ballyround Instructions "><img src="https://www.ipdb.org/images/159/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=69 height=100 alt="Image # 47671: Ballyround Instructions "><br>Instructions</span></a><br><font size="-2">894x1289</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47673" 
+><span title="Image # 47673: Ballyround Legs "><img src="https://www.ipdb.org/images/159/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 47673: Ballyround Legs "><br>Legs</span></a><br><font size="-2">1018x868</font><br>[Melissa Ricci]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=47674" 
+><span title="Image # 47674: Ballyround Inspection Tag "><img src="https://www.ipdb.org/images/159/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 47674: Ballyround Inspection Tag "><br>Inspection Tag</span></a><br><font size="-2">1200x900</font><br>[Melissa Ricci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51902" 
+><span title="Image # 51902: Ballyround Playfield "><img src="https://www.ipdb.org/images/159/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 51902: Ballyround Playfield "><br>Playfield</span></a><br><font size="-2">1000x878</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51903" 
+><span title="Image # 51903: Ballyround Playfield "><img src="https://www.ipdb.org/images/159/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 51903: Ballyround Playfield "><br>Playfield</span></a><br><font size="-2">1026x874</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51904" 
+><span title="Image # 51904: Ballyround Bally Hole "><img src="https://www.ipdb.org/images/159/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51904: Ballyround Bally Hole "><br>Bally Hole</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51905" 
+><span title="Image # 51905: Ballyround Price "><img src="https://www.ipdb.org/images/159/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51905: Ballyround Price "><br>Price</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51906" 
+><span title="Image # 51906: Ballyround Instructions "><img src="https://www.ipdb.org/images/159/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51906: Ballyround Instructions "><br>Instructions</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51907" 
+><span title="Image # 51907: Ballyround Playfield Sticker "><img src="https://www.ipdb.org/images/159/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 51907: Ballyround Playfield Sticker "><br>Playfield Sticker</span></a><br><font size="-2">1026x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51908" 
+><span title="Image # 51908: Ballyround Shooter Gauge "><img src="https://www.ipdb.org/images/159/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 51908: Ballyround Shooter Gauge "><br>Shooter Gauge</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51909" 
+><span title="Image # 51909: Ballyround Cabinet - Left "><img src="https://www.ipdb.org/images/159/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 51909: Ballyround Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1164x703</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51910" 
+><span title="Image # 51910: Ballyround Cabinet - Right "><img src="https://www.ipdb.org/images/159/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 51910: Ballyround Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1174x725</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51911" 
+><span title="Image # 51911: Ballyround Cabinet - Front View "><img src="https://www.ipdb.org/images/159/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 51911: Ballyround Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1119x700</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51912" 
+><span title="Image # 51912: Ballyround Cabinet - Rear "><img src="https://www.ipdb.org/images/159/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 51912: Ballyround Cabinet - Rear "><br>Cabinet - Rear</span></a><br><font size="-2">1061x607</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51913" 
+><span title="Image # 51913: Ballyround Inside Cabinet "><img src="https://www.ipdb.org/images/159/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 51913: Ballyround Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">742x882</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51914" 
+><span title="Image # 51914: Ballyround Under Playfield "><img src="https://www.ipdb.org/images/159/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51914: Ballyround Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51915" 
+><span title="Image # 51915: Ballyround Ball Lift and Shooter Knob "><img src="https://www.ipdb.org/images/159/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 51915: Ballyround Ball Lift and Shooter Knob "><br>Ball Lift and Shooter Knob</span></a><br><font size="-2">1200x1504</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51916" 
+><span title="Image # 51916: Ballyround Baffle Board - Drain Board Removed 
+(The baffle board is saucer-shaped.)"><img src="https://www.ipdb.org/images/159/tn_image-A22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51916: Ballyround Baffle Board - Drain Board Removed 
+(The baffle board is saucer-shaped.)"><br>Baffle Board - Drain Board Removed*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51917" 
+><span title="Image # 51917: Ballyround Baffle Board - Side View 
+(The baffle board is saucer-shaped.)"><img src="https://www.ipdb.org/images/159/tn_image-A29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 51917: Ballyround Baffle Board - Side View 
+(The baffle board is saucer-shaped.)"><br>Baffle Board - Side View*</span></a><br><font size="-2">1092x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51918" 
+><span title="Image # 51918: Ballyround Baffle Board - Side View 
+(The baffle board is saucer-shaped.)"><img src="https://www.ipdb.org/images/159/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 51918: Ballyround Baffle Board - Side View 
+(The baffle board is saucer-shaped.)"><br>Baffle Board - Side View*</span></a><br><font size="-2">856x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51919" 
+><span title="Image # 51919: Ballyround Baffle Board - Side View 
+(The baffle board is saucer-shaped.)"><img src="https://www.ipdb.org/images/159/tn_image-A33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 51919: Ballyround Baffle Board - Side View 
+(The baffle board is saucer-shaped.)"><br>Baffle Board - Side View*</span></a><br><font size="-2">1200x1600</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51920" 
+><span title="Image # 51920: Ballyround Drain Board - Inside View 
+(The drain board is saucer-shaped.)"><img src="https://www.ipdb.org/images/159/tn_image-A34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51920: Ballyround Drain Board - Inside View 
+(The drain board is saucer-shaped.)"><br>Drain Board - Inside View*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51921" 
+><span title="Image # 51921: Ballyround Drain Board - Outside View 
+(The drain board is saucer-shaped.)"><img src="https://www.ipdb.org/images/159/tn_image-A35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51921: Ballyround Drain Board - Outside View 
+(The drain board is saucer-shaped.)"><br>Drain Board - Outside View*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51922" 
+><span title="Image # 51922: Ballyround Inside Cabinet 
+(The game instructions refer to a metal cashbox.)"><img src="https://www.ipdb.org/images/159/tn_image-A37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 51922: Ballyround Inside Cabinet 
+(The game instructions refer to a metal cashbox.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=159&amp;picno=51923" 
+><span title="Image # 51923: Ballyround Cashbox 
+(The game instructions refer to a metal cashbox.)"><img src="https://www.ipdb.org/images/159/tn_image-A36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=93 alt="Image # 51923: Ballyround Cashbox 
+(The game instructions refer to a metal cashbox.)"><br>Cashbox*</span></a><br><font size="-2">856x800</font><br>[Dennis Dodel]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

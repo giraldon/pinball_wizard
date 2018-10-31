@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: AMI 'West Show'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game AMI West Show WestShow Add-A-Ball Flippers (2), Pop bumpers (2), Slingshots (2), 4-bank drop targets (1), Standup targets (6), Ball kicker (1). The backbox score has two dummy zeroes.
+
+Underneath the large right-side slingshot plastic is a smaller slingshot and a ball return lane with a gate. When all drop targets are hit, the gate opens from under this plastic into the outlane to divert a draining ball to roll under the plastic and to a hidden ball kicker which shoots the ball to light a yellow left-side target lit for 500,000 points.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for AMI 'West Show' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>West Show</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3737">West Show</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3737">3737</a> <I>/ 1976 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3737" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'AMI'"><a href="search.pl?searchtype=advanced&amp;mfgid=10">A.M.I, <font size="-1">of Italy</font> (1975-1977)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3737">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Western</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Add-A-Ball&nbsp;<a href="glossary.php#Add-A-Ball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (6), Ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> (1). The <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> score has two dummy zeroes.<br><br>Underneath the large right-side <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshot</a> plastic is a smaller <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshot</a> and a ball <a target="glossary" class="glossarylink" href="/glossary.php#Return_Lane">return&nbsp;lane</a> with a <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. When all <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> are hit, the <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a> opens from under this plastic into the <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> to divert a draining ball to roll under the plastic and to a hidden ball <a target="glossary" class="glossarylink" href="/glossary.php#Kicker">kicker</a> which shoots the ball to light a yellow left-side target lit for 500,000 points.<P></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is a near copy of <span title="Click here to open a new window and display Gottlieb's 1975 'Quick Draw'"><a target="game1893" href="machine.cgi?id=1893">Gottlieb's 1975 'Quick Draw'</a></span>.<br><br>Included in this listing is an alternate <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> carrying the manufacturer's logo. Its <a target="glossary" class="glossarylink" href="/glossary.php#Bumper">bumper</a> caps and <a target="glossary" class="glossarylink" href="/glossary.php#Skirt">skirts</a> do not ma<ignore>tch the other pictured game or the flyer, but these items can easily be substituted on any <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, therefore may not be original. A concrete difference is found in the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> where two painted stars appear in place of two star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a>. Several <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> are different, with red ones substituted in a few places. The left <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlane</a> <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> do not state "When Lit" while the right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> does, and this suggests after-factory replacement, or perhaps the manufacturer ran out of the correct ones during production, as has been believed to have happened on other games. However, the strongest suggestion of after-factory replacement of <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> is found in the <a target="glossary" class="glossarylink" href="/glossary.php#Bonus_Ladder">bonus&nbsp;ladder</a> where each <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> has a thicker black border around it than the other game we show. Interestingly, the alignment of these bonus <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> seems to not follow a straight line, and while that may be an optical illusion given the art design involved, we notice the holes for the 3-4-5-6 <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> were not placed equidistantly.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39735" 
+><span title="Image # 39735: West Show Illuminated Backglass "><img src="https://www.ipdb.org/images/3737/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=95 height=100 alt="Image # 39735: West Show Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x1078</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39736" 
+><span title="Image # 39736: West Show Illuminated Playfield "><img src="https://www.ipdb.org/images/3737/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 39736: West Show Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1024x1146</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39737" 
+><span title="Image # 39737: West Show Right Outlane Gate and Ball Kicker "><img src="https://www.ipdb.org/images/3737/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 39737: West Show Right Outlane Gate and Ball Kicker "><br>Right Outlane Gate and Ball Kicker</span></a><br><font size="-2">1024x941</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39738" 
+><span title="Image # 39738: West Show Cabinet - Left "><img src="https://www.ipdb.org/images/3737/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39738: West Show Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x767</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39739" 
+><span title="Image # 39739: West Show Cabinet - Right "><img src="https://www.ipdb.org/images/3737/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 39739: West Show Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">832x801</font><br>[Maurizio Iannuzzelli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39740" 
+><span title="Image # 39740: West Show Backbox - Right "><img src="https://www.ipdb.org/images/3737/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 39740: West Show Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">536x1130</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39741" 
+><span title="Image # 39741: West Show Cabinet - Front "><img src="https://www.ipdb.org/images/3737/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 39741: West Show Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x687</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=39742" 
+><span title="Image # 39742: West Show Illuminated Full View "><img src="https://www.ipdb.org/images/3737/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 39742: West Show Illuminated Full View "><br>Illuminated Full View</span></a><br><font size="-2">982x1387</font><br>[Maurizio Iannuzzelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=45043" 
+><span title="Image # 45043: West Show Flyer "><img src="https://www.ipdb.org/images/3737/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 45043: West Show Flyer "><br>Flyer</span></a><br><font size="-2">850x1205</font><br>[Ronald Barbagallo]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3737&amp;picno=45062" 
+><span title="Image # 45062: West Show Alternate Playfield "><img src="https://www.ipdb.org/images/3737/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 45062: West Show Alternate Playfield "><br>Alternate Playfield</span></a><br><font size="-2">1200x1600</font><br>[Maurizio Iannuzzelli]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

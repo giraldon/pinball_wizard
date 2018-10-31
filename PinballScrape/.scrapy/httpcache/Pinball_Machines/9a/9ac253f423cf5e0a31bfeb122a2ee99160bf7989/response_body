@@ -1,0 +1,231 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Vector'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Vector Flippers (4), Pop bumpers (1), Slingshots (2), Kick-out holes (5), 3-bank drop targets (3), 2-ball and 3-ball multiball. Playfield digital display.  Split-level playfield with four ramps.  Greg Freres Greg Kmiec ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Vector' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Vector</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2723">Vector</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2723">2723</a> <I>/ February, 1982 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2723" target="showrate2723"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.3</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2723" target="showrate2723">30 ratings/25 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2723" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>March 24, 1981</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1982</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1247</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=18">Bally MPU AS-2518-35</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>3,500 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2723">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Sports</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (5), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (3), 2-ball and 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">multiball</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> digital display.  Split-level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> with four <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Kmiec' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Kmiec">Greg&nbsp;Kmiec</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Freres' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Freres">Greg&nbsp;Freres</a></span></td></tr>
+<!-- 778 == Elektra -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Unlike other Bally electronic pinball games, their documentation for this game shows the model number only as 1247, not 1247-E.<br><P>Artist Greg Freres offers some interesting information about the evolution of a design team:<P style="padding-left:30px;"><i>Vector was a bit of an experiment when it came to the design philosophy at that time. We were in the midst of trying to sa<ignore>ve pinball from the video monster and I'm not sure who it was, but the idea of working as a complete "team" was introduced as a concept to hopefully improve upon the design from the ground up by allowing more ideas to flow into the process. Before this the design group would build whitewoods, play them, tweak them, and then decide which of them would become the next game. Some of the games had more input from art or marketing from the inception, like Xenon, but for the most part the games would get blessed by Norm [Clark], etc and get sent to the art department for the finished theme and package. <br><br>With Vector, I recall having meetings with a team of maybe five to ten people, including Greg Kmiec and people from other areas, maybe sound, mechanical, and electrical included (?). Greg was the project leader and we all brainstormed together to come up with unique features, the theme, and other design elements.</I><br><P>Greg Kmiec summed it up this way:<P style="padding-left:30px;"><i>Bally tried an experiment of "team designing" games.  Each team had a des<ignore>igner, programmer, artist and solid state/sound person on it.  The goal was to design a game with everyone's input.  I remember that VECTOR was one of the games that came out of the team design concept because I was the des<ignore>igner on that team.  As you can tell by the number of features on it, VECTOR was indeed designed by committee.  The experiment was abandoned after each team's first game.</I><br></P><br>The 1982 Bally/Midway pinball parts catalog page 41 indicates the top <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> is the same part number and uses the same size <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubber</a> ring as the two 3-inch <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a> at the bottom of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. However, every game we have seen has the shorter 2-inch size for this top <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> (and a smaller ring). We asked <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> Greg Kmiec if ever a 3-inch <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> was intended, or if changes were made during production. He confirmed his original <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> drawing has a small <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> in this upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> location.  He said that a larger <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> would somewhat inhibit the pinball from entering the upper <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and provide too much power shooting at the nearby targets.  He does not remember changing his original design to a larger <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> anytime during the production run. From this, it appears the parts manual is in error to indicate the top <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> is the same size as the bottom <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>.<br><br>Pictured here are <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> fronts of two games, each having a dual coin door to accommodate a bill validator. This dual coin door is also seen in the listing for <span title="Click here to open a new window and display Bally's 1981 'Elektra'"><a target="game778" href="machine.cgi?id=778">Bally's 1981 'Elektra'</a></span>. Both examples have a red start button mounted on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> and centered above the coin doors in addition to having a small red push-button on the right coin door itself. We showed the Vector game to Allan Reizman, Engineering Lab Supervisor at Bally from 1977 to 1983, and asked him if Bally made these dual coin doors. He replies:<P style="padding-left:30px;"><I>I do not remember any of these games with bill acceptors being regular production. These look like lab samples or conv<ignore>ersion kits.<br><br>At the time the desire was to come up with a way to take dollars. The 25 cent coin slot was not capable of generating sufficient revenue and oper<ignore>ators wanted a way to accept dollar bills.<br><br>Our research had shown resistance in getting customers to reach into their pocket for more than one coin. Games did better on location if a user only need to in<ignore>sert one coin. The US mint had begun issuing dollar coins but the public would not use them and the government refused to stop printing dollar bills. All this left the vending industry in a pickle to come up with an economical way to accept dollar bills.<br><br>At Bally we experimented with a new coin door that could optionally have a dollar bill acceptor and some distributers came up with their own conversions. The Vector game photo looks like just that, a distributor or homemade con<ignore>version kit.<br><br>As for the red button, again, does not look factory more like a homemade conversion. Since the Bally start button was incorporated into the traditional coin door any replacement kit would have to include a new button and wiring mod. As to why the Vector game seems to have both I’m not sure. Remember, the start button wiring was in the coin door harness so placing the button on the cab<ignore>inet would have made wring modifications more complex. It’s possible the conv<ignore>ersion kit included a button for the cab<ignore>inet and the installer started off thinking they would put the start button on the cab<ignore>inet only to discover the wiring or Vectors multi ball ra<ignore>mps were in the way. It may have been easier to leave the button in place than to fill the hole.</i></P><br>Collector John Mohr told us that he recalls a dual coin door on a Vector that he played in Sioux Falls, South Dakota in 1981-1982. The location was either a Bally's Aladdin's Castle arcade or was another arcade. He has also heard anecdotally of any of <span title="Click here to open a new window and display Bally's 1981 'Centaur'"><a target="game476" href="machine.cgi?id=476">Bally's 1981 'Centaur'</a></span> also having a dual coin door and theorizes if the spacing in the rivet artwork above its coin door allowed space for the red button. However, we are not yet aware of any examples of Centaur with this dual coin door.<br><br>Collector Christian Jacobs in Germany contacted us in 2014 stating he noticed on a few Vector <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> that they appeared to be <a target="game778" href="machine.cgi?id=778">Elektra</a> <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> artwork overpainted with the Vector artwork. He recalled one such Vector game had serial number EVE 2405. We note that Vector was the next game produced after Elektra. Claude Fernandez (designer of Elektra) told us that if Bally had any leftover <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> from the Elektra production they would have repainted them to be used for Vector instead of throwing them out. Greg Kmiec (designer of Vector) told us that perhaps Bally cut the production run of Electra in order to push Vector into the market.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 223<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 56<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 29<br>
+Pinball The Lure of the Silverball, page 84<br>
+<a href="redirect.pl?http://pinball-magazine.com/shop/index.php?route=product/product&product_id=54" target="booksourcelink">Pinball (Ciuffo)</a>, pages 200-201<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/2723/VECTOR.HTM" target="rulesheet">Vector Guide (Sep/26/1997), by Ryan Avery</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2723">http://www.pinballowners.com/owners/2723</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#2723">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 53 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/Bally_1982_Vector_Home_ROM_V4.zip" >Home ROM V4</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 66 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/vector.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 52 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/vectorb.zip" >PinMAME Romset (Modified Rules)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 24 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/Bally_1982_Vector_ROMs.zip" >ROMs</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 8 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/vector_manual_rev.pdf" onClick="return purchasemanual();">Manual with Schematics</a></td><td> [Bally Mfg&#46; Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/Award_Threshold_Adjustment_Card_copy.jpg" >Instructions for Adjusting Award Thresholds M-469-1133-2</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/Vector_Switch_Settings.jpg" >Instructions for Setting Maximum Credits and Coin Credits</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 410 KB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/Bally_1982_Vector_Manufacturer_s_Certificate.jpg" >Manufacturer's Certificate</a></td><td> [Bally]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 36 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/Bally_1982_Vector_Droptarget_Decals.pdf" >Reproduction Drop Target Decals</a></td><td> [Peter Koch]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;JPG&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2723/tuck_away.jpg" >Solenoid Identification Table M-469-1335-1</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=2601" 
+><span title="Image # 2601: Vector Flyer "><img src="https://www.ipdb.org/images/2723/tn_Flyer.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 2601: Vector Flyer "><br>Flyer</span></a><br><font size="-2">831x645</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=3912" 
+><span title="Image # 3912: Vector Flyer, Front "><img src="https://www.ipdb.org/images/2723/tn_2723f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3912: Vector Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">587x789</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=3913" 
+><span title="Image # 3913: Vector Flyer, Back "><img src="https://www.ipdb.org/images/2723/tn_2723f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3913: Vector Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">587x789</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17836" 
+><span title="Image # 17836: Vector Backglasses "><img src="https://www.ipdb.org/images/2723/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 17836: Vector Backglasses "><br>Backglasses</span></a><br><font size="-2">475x477</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17838" 
+><span title="Image # 17838: Vector Outer Backglass - Reverse "><img src="https://www.ipdb.org/images/2723/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 17838: Vector Outer Backglass - Reverse "><br>Outer Backglass - Reverse</span></a><br><font size="-2">585x409</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17839" 
+><span title="Image # 17839: Vector Inner Backglass - Reverse "><img src="https://www.ipdb.org/images/2723/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 17839: Vector Inner Backglass - Reverse "><br>Inner Backglass - Reverse</span></a><br><font size="-2">545x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17844" 
+><span title="Image # 17844: Vector Cabinet - Left "><img src="https://www.ipdb.org/images/2723/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17844: Vector Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17845" 
+><span title="Image # 17845: Vector Cabinet - Right "><img src="https://www.ipdb.org/images/2723/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17845: Vector Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17846" 
+><span title="Image # 17846: Vector Backbox - Left "><img src="https://www.ipdb.org/images/2723/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=42 height=100 alt="Image # 17846: Vector Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">253x606</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=17847" 
+><span title="Image # 17847: Vector Backbox - Right "><img src="https://www.ipdb.org/images/2723/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 17847: Vector Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">270x620</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19729" 
+><span title="Image # 19729: Vector Backglass "><img src="https://www.ipdb.org/images/2723/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 19729: Vector Backglass "><br>Backglass</span></a><br><font size="-2">616x525</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19730" 
+><span title="Image # 19730: Vector Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19730: Vector Playfield "><br>Playfield</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19731" 
+><span title="Image # 19731: Vector Upper Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19731: Vector Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19732" 
+><span title="Image # 19732: Vector Middle Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19732: Vector Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19733" 
+><span title="Image # 19733: Vector Lower Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19733: Vector Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19734" 
+><span title="Image # 19734: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19734: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19735" 
+><span title="Image # 19735: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19735: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19736" 
+><span title="Image # 19736: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19736: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19737" 
+><span title="Image # 19737: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19737: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19738" 
+><span title="Image # 19738: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19738: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19739" 
+><span title="Image # 19739: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19739: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19740" 
+><span title="Image # 19740: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19740: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19741" 
+><span title="Image # 19741: Vector Playfield - Detail "><img src="https://www.ipdb.org/images/2723/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19741: Vector Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19742" 
+><span title="Image # 19742: Vector Inner Backglass "><img src="https://www.ipdb.org/images/2723/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 19742: Vector Inner Backglass "><br>Inner Backglass</span></a><br><font size="-2">700x933</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=19743" 
+><span title="Image # 19743: Vector Dual Coin Door - Bill Validator "><img src="https://www.ipdb.org/images/2723/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 19743: Vector Dual Coin Door - Bill Validator "><br>Dual Coin Door - Bill Validator</span></a><br><font size="-2">700x525</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50392" 
+><span title="Image # 50392: Vector Addams Family (1964 TV-Series) On The Plastic "><img src="https://www.ipdb.org/images/2723/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50392: Vector Addams Family (1964 TV-Series) On The Plastic "><br>Addams Family (1964 TV-Series) On The Plastic</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50393" 
+><span title="Image # 50393: Vector Defender Drop Targets "><img src="https://www.ipdb.org/images/2723/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50393: Vector Defender Drop Targets "><br>Defender Drop Targets</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50394" 
+><span title="Image # 50394: Vector X-Y-Z Drop Targets "><img src="https://www.ipdb.org/images/2723/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50394: Vector X-Y-Z Drop Targets "><br>X-Y-Z Drop Targets</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50395" 
+><span title="Image # 50395: Vector Inside Backbox "><img src="https://www.ipdb.org/images/2723/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50395: Vector Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50396" 
+><span title="Image # 50396: Vector Behind Backglass "><img src="https://www.ipdb.org/images/2723/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50396: Vector Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50397" 
+><span title="Image # 50397: Vector Under Upper Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50397: Vector Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50398" 
+><span title="Image # 50398: Vector Under Middle Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50398: Vector Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50399" 
+><span title="Image # 50399: Vector Under Lower-Middle Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50399: Vector Under Lower-Middle Playfield "><br>Under Lower-Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=50400" 
+><span title="Image # 50400: Vector Under Lower Playfield "><img src="https://www.ipdb.org/images/2723/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 50400: Vector Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Peter Koch]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=58091" 
+><span title="Image # 58091: Vector Backglass "><img src="https://www.ipdb.org/images/2723/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 58091: Vector Backglass "><br>Backglass</span></a><br><font size="-2">1200x1073</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2723&amp;picno=71370" 
+><span title="Image # 71370: Vector Dual Coin Door - Bill Validator "><img src="https://www.ipdb.org/images/2723/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71370: Vector Dual Coin Door - Bill Validator "><br>Dual Coin Door - Bill Validator</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

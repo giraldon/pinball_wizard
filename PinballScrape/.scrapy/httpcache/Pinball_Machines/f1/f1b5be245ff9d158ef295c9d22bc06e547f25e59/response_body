@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Space Shuttle'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Space Shuttle Flippers (2), Pop bumpers (3), Slingshots (2), Kick-out holes (2), 3-bank drop targets (1), Timed drop target (1), Standup targets (7), Spinning target (1), Multiball (2 ball, 3 ball), Ramps (2), Right outlane detour gate, Lane change, Up-post between flippers. Uses a ringing bell instead of a knocker. Has speech. Plastic shuttle replica  Mark Sprenger Joe Kaminkow Barry Oursler Joe Kaminkow Larry DeMar Eugene Jarvis Bill Parod ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Space Shuttle' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Space Shuttle</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2260">Space Shuttle</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2260">2260</a> <I>/ December, 1984 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2260" target="showrate2260"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2260" target="showrate2260">90 ratings/58 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2260" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>December, 1984</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>535</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>SS</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=5">Williams System 9</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,000 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2260">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), Timed <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (7), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a> (2 ball, 3 ball), <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">Ramps</a> (2), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> detour <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Lane_Change">Lane&nbsp;change</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>. Uses a ringing bell instead of a <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>. Has speech.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Plastic shuttle replica</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Kaminkow' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Kaminkow">Joe&nbsp;Kaminkow</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span>, <span title="Click here to perform a search for all pinball games that 'Joe&nbsp;Kaminkow' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Joe%20Kaminkow">Joe&nbsp;Kaminkow</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Mark&nbsp;Sprenger' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Mark%20Sprenger">Mark&nbsp;Sprenger</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Eugene&nbsp;Jarvis' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Eugene%20Jarvis">Eugene&nbsp;Jarvis</a></span>, <span title="Click here to perform a search for all pinball games that 'Bill&nbsp;Parod' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bill%20Parod">Bill&nbsp;Parod</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Larry&nbsp;DeMar' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Larry%20DeMar">Larry&nbsp;DeMar</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The three shuttle transporters depicted on the center right <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> carry the insignia of A8, W11, and S81. Artist Mark Sprenger told us that this represented the initials and birthdate of his son, as a little gift to him.<br><br>Steve Ritchie confirmed his voice is used on this game.<br><br>For several Williams games (especially before 1987), Speech Processing was a separate task than Software Programming and may have been done by a different person than whom we list as having done the Software. Larry DeMar did the Speech Processing for this game. <br><br>This is the first <I>solid state <u>production</u></I> pinball machine to have a <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> toy. Earlier examples of games with toys include <span title="Click here to open a new window and display Stoner's 1935 'Zoom'"><a target="game2843" href="machine.cgi?id=2843">Stoner's 1935 'Zoom'</a></span> and <span title="Click here to open a new window and display Chicago Coin's 1964 'South Pacific'"><a target="game2244" href="machine.cgi?id=2244">Chicago Coin's 1964 'South Pacific'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Advertising Age October 24, 1985, pp. 2.<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 122<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, page 115<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 134<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, pages 4, 44-45<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 109<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2260">http://www.pinballowners.com/owners/2260</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 84 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2260/sshtl_l7.zip" >Game ROM L-7</a></td><td> [Williams]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 23 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2260/Williams_1984_Space_Shuttle_Instruction_Manual_dated_Nov_3_1984_with_schematics.pdf" onClick="return purchasemanual();">Instruction Manual (dated Nov-3-1984, with schematics)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=2154" 
+><span title="Image # 2154: Space Shuttle Backglass "><img src="https://www.ipdb.org/images/2260/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 2154: Space Shuttle Backglass "><br>Backglass</span></a><br><font size="-2">610x518</font><br>[John Graves]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=4549" 
+><span title="Image # 4549: Space Shuttle Flyer "><img src="https://www.ipdb.org/images/2260/tn_2260f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4549: Space Shuttle Flyer "><br>Flyer</span></a><br><font size="-2">879x1141</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=6560" 
+><span title="Image # 6560: Space Shuttle Flyer, Front "><img src="https://www.ipdb.org/images/2260/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 6560: Space Shuttle Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">800x1049</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=6561" 
+><span title="Image # 6561: Space Shuttle Flyer, Back "><img src="https://www.ipdb.org/images/2260/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 6561: Space Shuttle Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">800x1049</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=6564" 
+><span title="Image # 6564: Space Shuttle Flyer, Pg 3 "><img src="https://www.ipdb.org/images/2260/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 6564: Space Shuttle Flyer, Pg 3 "><br>Flyer, Pg 3</span></a><br><font size="-2">800x1049</font><br>[John Smout]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=6565" 
+><span title="Image # 6565: Space Shuttle Flyer, Pg 4 "><img src="https://www.ipdb.org/images/2260/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 6565: Space Shuttle Flyer, Pg 4 "><br>Flyer, Pg 4</span></a><br><font size="-2">800x1049</font><br>[John Smout]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=7164" 
+><span title="Image # 7164: Space Shuttle Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7164: Space Shuttle Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Mike Messersmith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=7165" 
+><span title="Image # 7165: Space Shuttle Full Machine "><img src="https://www.ipdb.org/images/2260/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 7165: Space Shuttle Full Machine "><br>Full Machine</span></a><br><font size="-2">331x619</font><br>[Mike Messersmith]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=11244" 
+><span title="Image # 11244: Space Shuttle Press Release "><img src="https://www.ipdb.org/images/2260/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 11244: Space Shuttle Press Release "><br>Press Release</span></a><br><font size="-2">620x798</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15269" 
+><span title="Image # 15269: Space Shuttle Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 15269: Space Shuttle Playfield "><br>Playfield</span></a><br><font size="-2">958x994</font><br>[Mark Orthner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15270" 
+><span title="Image # 15270: Space Shuttle Lower Left Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15270: Space Shuttle Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">1024x768</font><br>[Mark Orthner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15271" 
+><span title="Image # 15271: Space Shuttle Lower Right Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15271: Space Shuttle Lower Right Playfield "><br>Lower Right Playfield</span></a><br><font size="-2">528x396</font><br>[Mark Orthner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15272" 
+><span title="Image # 15272: Space Shuttle Upper Left Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15272: Space Shuttle Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1024x768</font><br>[Mark Orthner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15273" 
+><span title="Image # 15273: Space Shuttle Upper Right Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15273: Space Shuttle Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">1024x768</font><br>[Mark Orthner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15274" 
+><span title="Image # 15274: Space Shuttle Cabinet - Full View "><img src="https://www.ipdb.org/images/2260/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=89 height=100 alt="Image # 15274: Space Shuttle Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">902x1012</font><br>[Mark Orthner]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=15275" 
+><span title="Image # 15275: Space Shuttle Backglass "><img src="https://www.ipdb.org/images/2260/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 15275: Space Shuttle Backglass "><br>Backglass</span></a><br><font size="-2">1024x834</font><br>[Mark Orthner]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28744" 
+><span title="Image # 28744: Space Shuttle Inside Backbox "><img src="https://www.ipdb.org/images/2260/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28744: Space Shuttle Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28745" 
+><span title="Image # 28745: Space Shuttle Backglass - Illuminated "><img src="https://www.ipdb.org/images/2260/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28745: Space Shuttle Backglass - Illuminated "><br>Backglass - Illuminated</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28746" 
+><span title="Image # 28746: Space Shuttle Backglass - Reverse "><img src="https://www.ipdb.org/images/2260/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28746: Space Shuttle Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28747" 
+><span title="Image # 28747: Space Shuttle Under Playfield "><img src="https://www.ipdb.org/images/2260/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 28747: Space Shuttle Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28748" 
+><span title="Image # 28748: Space Shuttle Illuminated Backbox Insert "><img src="https://www.ipdb.org/images/2260/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28748: Space Shuttle Illuminated Backbox Insert "><br>Illuminated Backbox Insert</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28749" 
+><span title="Image # 28749: Space Shuttle Instruction Card "><img src="https://www.ipdb.org/images/2260/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28749: Space Shuttle Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=28750" 
+><span title="Image # 28750: Space Shuttle Shuttle "><img src="https://www.ipdb.org/images/2260/tn_image-A16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28750: Space Shuttle Shuttle "><br>Shuttle</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=34206" 
+><span title="Image # 34206: Space Shuttle Cabinet - Left "><img src="https://www.ipdb.org/images/2260/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 34206: Space Shuttle Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">621x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=34207" 
+><span title="Image # 34207: Space Shuttle Backbox - Left "><img src="https://www.ipdb.org/images/2260/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 34207: Space Shuttle Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">320x620</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=36350" 
+><span title="Image # 36350: Space Shuttle Topper 
+(One of these signs was shipped with each Space Shuttle.)"><img src="https://www.ipdb.org/images/2260/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 36350: Space Shuttle Topper 
+(One of these signs was shipped with each Space Shuttle.)"><br>Topper*</span></a><br><font size="-2">1024x671</font><br>[James Bevins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=41450" 
+><span title="Image # 41450: Space Shuttle Playfield Plastic "><img src="https://www.ipdb.org/images/2260/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 41450: Space Shuttle Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1318x1200</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=41451" 
+><span title="Image # 41451: Space Shuttle Playfield Plastic "><img src="https://www.ipdb.org/images/2260/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 41451: Space Shuttle Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1200x1446</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=41452" 
+><span title="Image # 41452: Space Shuttle Playfield Plastic "><img src="https://www.ipdb.org/images/2260/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 41452: Space Shuttle Playfield Plastic "><br>Playfield Plastic</span></a><br><font size="-2">1200x1306</font><br>[Ian F. McKinnon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=62907" 
+><span title="Image # 62907: Space Shuttle Backbox with Topper "><img src="https://www.ipdb.org/images/2260/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=93 height=100 alt="Image # 62907: Space Shuttle Backbox with Topper "><br>Backbox with Topper</span></a><br><font size="-2">799x855</font><br>[Jason McNally]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=62908" 
+><span title="Image # 62908: Space Shuttle Cabinet - Left "><img src="https://www.ipdb.org/images/2260/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 62908: Space Shuttle Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x900</font><br>[Jason McNally]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=62909" 
+><span title="Image # 62909: Space Shuttle Cabinet - Right "><img src="https://www.ipdb.org/images/2260/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 62909: Space Shuttle Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1200x900</font><br>[Jason McNally]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2260&amp;picno=62910" 
+><span title="Image # 62910: Space Shuttle Cabinet - Front "><img src="https://www.ipdb.org/images/2260/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 62910: Space Shuttle Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Jason McNally]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

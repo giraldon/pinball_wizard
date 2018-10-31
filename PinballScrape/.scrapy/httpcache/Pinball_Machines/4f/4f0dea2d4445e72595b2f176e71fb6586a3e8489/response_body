@@ -1,0 +1,221 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Round Up'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Round Up Roundup Flippers (2), Pop bumpers (3), Mushroom bumpers (4), Passive bumper (1), Kick-out holes (2), Right outlane ball return gate.
+
+From the flyer:
+<i>Bonus lights spin when ball is shot into top kickout hole, when lit, or right kickout hole at any time. Player collects bonus - 2,000 to 5,000 - lit when spin stops on mystery random basis. Bonus value doubled if double light is lit by hitting target in left skill-lane.</i>
+
+Maximum displayed point score is 99990 points.  Christian Marche ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Round Up' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Round Up</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2026">Round Up</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2026">2026</a> <I>/ July 22, 1971 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">4.6 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2026" target="showrate2026">1 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2026" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>July 22, 1971</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>923</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>70 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2026">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Western</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">Mushroom&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumper</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.<br><br>From the flyer:<br><i>Bonus lights spin when ball is shot into top kickout hole, when lit, or right kickout hole at any time. Player collects bonus - 2,000 to 5,000 - lit when spin stops on mystery random basis. Bonus value doubled if double light is lit by hitting target in left skill-lane.</i><br><br>Maximum displayed point score is 99990 points.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 154<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2026/Bally_1971_Round_Up_Schematic_Diagram.pdf" onClick="return purchasemanual();">Schematic Diagram</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 401 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2026/Bally_1971_Round_Up_Installation_and_General_Game_Operating_Instructions.pdf" >Installation and General Game Operating Instructions</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=7783" 
+><span title="Image # 7783: Round Up Flyer "><img src="https://www.ipdb.org/images/2026/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 7783: Round Up Flyer "><br>Flyer</span></a><br><font size="-2">547x744</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=8829" 
+><span title="Image # 8829: Round Up Backglass "><img src="https://www.ipdb.org/images/2026/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 8829: Round Up Backglass "><br>Backglass</span></a><br><font size="-2">801x685</font><br>[John Bowes]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=8830" 
+><span title="Image # 8830: Round Up Playfield "><img src="https://www.ipdb.org/images/2026/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 8830: Round Up Playfield "><br>Playfield</span></a><br><font size="-2">1024x1296</font><br>[John Bowes]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=22581" 
+><span title="Image # 22581: Round Up Cabinet- Right 
+(Serial number 1027.)"><img src="https://www.ipdb.org/images/2026/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 22581: Round Up Cabinet- Right 
+(Serial number 1027.)"><br>Cabinet- Right*</span></a><br><font size="-2">1024x589</font><br>[Brian Saunders]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=22582" 
+><span title="Image # 22582: Round Up Backbox - Left 
+(Serial number 1027.)"><img src="https://www.ipdb.org/images/2026/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 22582: Round Up Backbox - Left 
+(Serial number 1027.)"><br>Backbox - Left*</span></a><br><font size="-2">838x1339</font><br>[Brian Saunders]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35688" 
+><span title="Image # 35688: Round Up Backglass 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 35688: Round Up Backglass 
+(Serial number 1031.)"><br>Backglass*</span></a><br><font size="-2">788x748</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35689" 
+><span title="Image # 35689: Round Up Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35689: Round Up Playfield 
+(Serial number 1031.)"><br>Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35690" 
+><span title="Image # 35690: Round Up Upper Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35690: Round Up Upper Playfield 
+(Serial number 1031.)"><br>Upper Playfield*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35691" 
+><span title="Image # 35691: Round Up Lower Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35691: Round Up Lower Playfield 
+(Serial number 1031.)"><br>Lower Playfield*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35692" 
+><span title="Image # 35692: Round Up Left Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35692: Round Up Left Playfield 
+(Serial number 1031.)"><br>Left Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Kory Hankin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35693" 
+><span title="Image # 35693: Round Up Upper Right Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35693: Round Up Upper Right Playfield 
+(Serial number 1031.)"><br>Upper Right Playfield*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35694" 
+><span title="Image # 35694: Round Up Center Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35694: Round Up Center Playfield 
+(Serial number 1031.)"><br>Center Playfield*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35695" 
+><span title="Image # 35695: Round Up Middle Right Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 35695: Round Up Middle Right Playfield 
+(Serial number 1031.)"><br>Middle Right Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35696" 
+><span title="Image # 35696: Round Up Lower Left Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35696: Round Up Lower Left Playfield 
+(Serial number 1031.)"><br>Lower Left Playfield*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35697" 
+><span title="Image # 35697: Round Up Lower Right Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35697: Round Up Lower Right Playfield 
+(Serial number 1031.)"><br>Lower Right Playfield*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35698" 
+><span title="Image # 35698: Round Up Instruction Card 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35698: Round Up Instruction Card 
+(Serial number 1031.)"><br>Instruction Card*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35699" 
+><span title="Image # 35699: Round Up Cabinet - Front 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 35699: Round Up Cabinet - Front 
+(Serial number 1031.)"><br>Cabinet - Front*</span></a><br><font size="-2">754x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35700" 
+><span title="Image # 35700: Round Up Inside Backbox 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35700: Round Up Inside Backbox 
+(Serial number 1031.)"><br>Inside Backbox*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=35701" 
+><span title="Image # 35701: Round Up Replay Score Adjustment Chart 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 35701: Round Up Replay Score Adjustment Chart 
+(Serial number 1031.)"><br>Replay Score Adjustment Chart*</span></a><br><font size="-2">1024x768</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=36013" 
+><span title="Image # 36013: Round Up Inside Cabinet 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36013: Round Up Inside Cabinet 
+(Serial number 1031.)"><br>Inside Cabinet*</span></a><br><font size="-2">1024x1365</font><br>[Kory Hankin]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=36014" 
+><span title="Image # 36014: Round Up Under Playfield 
+(Serial number 1031.)"><img src="https://www.ipdb.org/images/2026/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 36014: Round Up Under Playfield 
+(Serial number 1031.)"><br>Under Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=38417" 
+><span title="Image # 38417: Round Up Backglass "><img src="https://www.ipdb.org/images/2026/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 38417: Round Up Backglass "><br>Backglass</span></a><br><font size="-2">869x711</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=38418" 
+><span title="Image # 38418: Round Up Backglass - Reverse "><img src="https://www.ipdb.org/images/2026/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 38418: Round Up Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">900x691</font><br>[Kory Hankin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=54763" 
+><span title="Image # 54763: Round Up Backbox - Right 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/2026/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 54763: Round Up Backbox - Right 
+(Serial number 1007.)"><br>Backbox - Right*</span></a><br><font size="-2">661x1184</font><br>[Jim Palson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2026&amp;picno=54764" 
+><span title="Image # 54764: Round Up Cabinet - Left 
+(Serial number 1007.)"><img src="https://www.ipdb.org/images/2026/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=51 alt="Image # 54764: Round Up Cabinet - Left 
+(Serial number 1007.)"><br>Cabinet - Left*</span></a><br><font size="-2">1546x793</font><br>[Jim Palson]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

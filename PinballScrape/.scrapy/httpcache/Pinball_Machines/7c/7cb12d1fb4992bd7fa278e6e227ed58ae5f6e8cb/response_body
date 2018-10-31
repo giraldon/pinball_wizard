@@ -1,0 +1,219 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Chicago Coin 'Juke Box'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Chicago Coin Juke Box Jukebox Flippers (2), Pop bumpers (2), Slingshots (2), Standup targets (8), Kick-out hole (1), Spinning disc. The spinning playfield disc is actually under the playfield surface and does not affect ball travel. Hitting a Spin target makes the disc rotate to score points. Under the playfield is a relay tester for trouble-shooting.
+
+Maximum displayed point score is 199,990 points per player.
+
+Replay wheel maximum: 28
+
+Sound: 1 chime, knocker  Christian Marche Albin Peters Jerry Koci Wendell McAdams ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Chicago Coin 'Juke Box' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Juke Box</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1324">Juke Box</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1324">1324</a> <I>/ September, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">7.5 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1324" target="showrate1324">5 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1324" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Chicago Coin'"><a href="search.pl?searchtype=advanced&amp;mfgid=81">Chicago Coin Machine Manufacturing Company (1932-1977)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>September, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>469</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1324">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Music - Dancing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;hole</a> (1), Spinning disc. The spinning <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> disc is actually under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> surface and does not affect ball travel. Hitting a Spin target makes the disc rotate to score points. Under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> is a relay tester for trouble-shooting.<br><br>Maximum displayed point score is 199,990 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 28<br><br>Sound: 1 chime, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a><P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Albin&nbsp;Peters' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Albin%20Peters">Albin&nbsp;Peters</a></span>, <span title="Click here to perform a search for all pinball games that 'Jerry&nbsp;Koci' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jerry%20Koci">Jerry&nbsp;Koci</a></span>, <span title="Click here to perform a search for all pinball games that 'Wendell&nbsp;McAdams' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wendell%20McAdams">Wendell&nbsp;McAdams</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Christian&nbsp;Marche' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Christian%20Marche">Christian&nbsp;Marche</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to open a new window and display Chicago Coin's 1976 'Sound Stage'"><a target="game2243" href="machine.cgi?id=2243">Chicago Coin's 1976 'Sound Stage'</a></span> is the 2-player version of this game but with different artwork.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 172<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764320742/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764320742&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1970-1981</a>, page 101<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 16 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1324/Jukebox.pdf" onClick="return purchasemanual();">Parts Catalog (No. 469-2002)</a></td><td> [Chicago Coin]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1324/Chicago_Coin_1976_Juke_Box_Schematic_Diagram_continuous.pdf" onClick="return purchasemanual();">Schematic Diagram (continuous)</a></td><td> [Chicago Coin]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=1250" 
+><span title="Image # 1250: Juke Box Backglass "><img src="https://www.ipdb.org/images/1324/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 1250: Juke Box Backglass "><br>Backglass</span></a><br><font size="-2">512x430</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=3282" 
+><span title="Image # 3282: Juke Box Flyer "><img src="https://www.ipdb.org/images/1324/tn_1324f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3282: Juke Box Flyer "><br>Flyer</span></a><br><font size="-2">592x780</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=11746" 
+><span title="Image # 11746: Juke Box Backglass "><img src="https://www.ipdb.org/images/1324/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11746: Juke Box Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Jeff McAfee]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=11747" 
+><span title="Image # 11747: Juke Box Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11747: Juke Box Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Jeff McAfee]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=11748" 
+><span title="Image # 11748: Juke Box Cabinet "><img src="https://www.ipdb.org/images/1324/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11748: Juke Box Cabinet "><br>Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Jeff McAfee]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=11749" 
+><span title="Image # 11749: Juke Box Front "><img src="https://www.ipdb.org/images/1324/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11749: Juke Box Front "><br>Front</span></a><br><font size="-2">1024x768</font><br>[Jeff McAfee]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=14227" 
+><span title="Image # 14227: Juke Box Cabinet - Left "><img src="https://www.ipdb.org/images/1324/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 14227: Juke Box Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">457x450</font><br>[Dino Gaspari]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=14228" 
+><span title="Image # 14228: Juke Box Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 14228: Juke Box Playfield "><br>Playfield</span></a><br><font size="-2">480x640</font><br>[Dino Gaspari]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=14229" 
+><span title="Image # 14229: Juke Box Upper Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14229: Juke Box Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Dino Gaspari]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=14230" 
+><span title="Image # 14230: Juke Box Lower Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 14230: Juke Box Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>[Dino Gaspari]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=44396" 
+><span title="Image # 44396: Juke Box Illuminated Front View "><img src="https://www.ipdb.org/images/1324/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 44396: Juke Box Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">533x800</font><br>[Laurent Gaudin]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71695" 
+><span title="Image # 71695: Juke Box Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71695: Juke Box Playfield "><br>Playfield</span></a><br><font size="-2">1200x1600</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71696" 
+><span title="Image # 71696: Juke Box Illuminated Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71696: Juke Box Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71697" 
+><span title="Image # 71697: Juke Box Illuminated Upper Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71697: Juke Box Illuminated Upper Playfield "><br>Illuminated Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71698" 
+><span title="Image # 71698: Juke Box Illuminated Middle Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71698: Juke Box Illuminated Middle Playfield "><br>Illuminated Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71699" 
+><span title="Image # 71699: Juke Box Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71699: Juke Box Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71700" 
+><span title="Image # 71700: Juke Box Illuminated Backbox Insert "><img src="https://www.ipdb.org/images/1324/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71700: Juke Box Illuminated Backbox Insert "><br>Illuminated Backbox Insert</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71701" 
+><span title="Image # 71701: Juke Box Inside Backbox "><img src="https://www.ipdb.org/images/1324/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71701: Juke Box Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71702" 
+><span title="Image # 71702: Juke Box Under Playfield "><img src="https://www.ipdb.org/images/1324/tn_image-A10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71702: Juke Box Under Playfield "><br>Under Playfield</span></a><br><font size="-2">1200x1600</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71703" 
+><span title="Image # 71703: Juke Box Under Playfield - Relay Tester  "><img src="https://www.ipdb.org/images/1324/tn_image-A13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71703: Juke Box Under Playfield - Relay Tester  "><br>Under Playfield - Relay Tester </span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71704" 
+><span title="Image # 71704: Juke Box Spinner Disc Mechanism with Opto "><img src="https://www.ipdb.org/images/1324/tn_image-A14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71704: Juke Box Spinner Disc Mechanism with Opto "><br>Spinner Disc Mechanism with Opto</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71705" 
+><span title="Image # 71705: Juke Box Under Playfield - Relay Bank "><img src="https://www.ipdb.org/images/1324/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71705: Juke Box Under Playfield - Relay Bank "><br>Under Playfield - Relay Bank</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71706" 
+><span title="Image # 71706: Juke Box Inside Cabinet "><img src="https://www.ipdb.org/images/1324/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71706: Juke Box Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71707" 
+><span title="Image # 71707: Juke Box Inside Cabinet - Chime "><img src="https://www.ipdb.org/images/1324/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71707: Juke Box Inside Cabinet - Chime "><br>Inside Cabinet - Chime</span></a><br><font size="-2">1200x900</font><br>[Michel Maignaut]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71708" 
+><span title="Image # 71708: Juke Box Illuminated Backglass "><img src="https://www.ipdb.org/images/1324/tn_image-B11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 71708: Juke Box Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1040</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71709" 
+><span title="Image # 71709: Juke Box Playfield - Targets "><img src="https://www.ipdb.org/images/1324/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 71709: Juke Box Playfield - Targets "><br>Playfield - Targets</span></a><br><font size="-2">1200x800</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71710" 
+><span title="Image # 71710: Juke Box Playfield - Detail "><img src="https://www.ipdb.org/images/1324/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 71710: Juke Box Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x934</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71711" 
+><span title="Image # 71711: Juke Box German Instruction Card "><img src="https://www.ipdb.org/images/1324/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 71711: Juke Box German Instruction Card "><br>German Instruction Card</span></a><br><font size="-2">1200x647</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71712" 
+><span title="Image # 71712: Juke Box Score Card - 3 Balls "><img src="https://www.ipdb.org/images/1324/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 71712: Juke Box Score Card - 3 Balls "><br>Score Card - 3 Balls</span></a><br><font size="-2">1200x667</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71713" 
+><span title="Image # 71713: Juke Box Backbox - Left "><img src="https://www.ipdb.org/images/1324/tn_image-B10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 71713: Juke Box Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">774x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71714" 
+><span title="Image # 71714: Juke Box Cabinet - Left "><img src="https://www.ipdb.org/images/1324/tn_image-B14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=35 alt="Image # 71714: Juke Box Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x417</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71715" 
+><span title="Image # 71715: Juke Box Cabinet - Left "><img src="https://www.ipdb.org/images/1324/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 71715: Juke Box Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1200x1197</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71716" 
+><span title="Image # 71716: Juke Box Cabinet - Front "><img src="https://www.ipdb.org/images/1324/tn_image-B13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 71716: Juke Box Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x812</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71717" 
+><span title="Image # 71717: Juke Box Illuminated Front View "><img src="https://www.ipdb.org/images/1324/tn_image-A15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 71717: Juke Box Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">761x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71718" 
+><span title="Image # 71718: Juke Box Cabinet - Full View "><img src="https://www.ipdb.org/images/1324/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 71718: Juke Box Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1174x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1324&amp;picno=71719" 
+><span title="Image # 71719: Juke Box Illuminated Full View "><img src="https://www.ipdb.org/images/1324/tn_image-A17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 71719: Juke Box Illuminated Full View "><br>Illuminated Full View</span></a><br><font size="-2">1175x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

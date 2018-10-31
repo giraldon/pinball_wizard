@@ -1,0 +1,366 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Capt. Fantastic and The Brown Dirt Cowboy'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Capt. Fantastic and The Brown Dirt Cowboy Captain Fantastic Flippers (4), Pop bumpers (3), Slingshots (2), Star rollovers (8), Standup targets (2), 5-bank drop targets (1), Right outlane detour gate.
+
+Maximum displayed point score depends on the version:
+Early production Over The Top games show 99,990 points per player.
+Modified production games show 199,990 points per player.  Dave Christensen Greg Kmiec ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Capt. Fantastic and The Brown Dirt Cowboy' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Capt. Fantastic and The Brown Dirt Cowboy</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="438">Capt. Fantastic and The Brown Dirt Cowboy</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=438">438</a> <I>/ June, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=438" target="showrate438"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.7</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=438" target="showrate438">69 ratings/54 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=438" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>September 04, 1975</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>June, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1062</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>CF</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>16,155 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=438">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Celebrities - Fictional - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), Star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollovers</a> (8), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> detour <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.<br><br>Maximum displayed point score depends on the version:<br>Early production <a target="glossary" class="glossarylink" href="/glossary.php#Over_The_Top">Over&nbsp;The&nbsp;Top</a> games show 99,990 points per player.<br>Modified production games show 199,990 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Kmiec' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Kmiec">Greg&nbsp;Kmiec</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Christensen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Christensen">Dave&nbsp;Christensen</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Capt. Fantastic' was inspired by the movie 'Tommy' and includes a representation of Elton John, as his character from the movie, playing pinball on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Tom Nieman, VP of Marketing for Bally Pinball, tells us the flyer was made while Elton was recording a new album in Canada. For this flyer, a game was shipped to the Toronto hotel where Elton was staying. That is why he is shown wearing a Canadian hockey jersey. Elton then asked Nieman to send a game to his various residences and one to his "mum" in the UK.<br><br>Artist Dave Christensen included in the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> several depictions of people doing things that, at first, escaped notice by Bally management. A small number of games with these so-called "X-rated" or "uncensored" <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> made it through production before changes were required to be made. Specifically, small mirrored stars were added over the objectionable parts and, curiously, these stars did not effectively obscure the offending art in all instances. Nieman explained to us that he and Christensen wanted the correction to be as minimal as possible because they knew they had "a monster hit" on their hands. The X-rated version is often referred to as the "no stars" version even though all of the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a> in the production run did contain a certain number of peripheral decorative stars anyway. Nieman is depicted in the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> as the man in the three-piece suit, and he says that 'Brutus' is artist Paul Faris.<br><br>Mr. Nieman attended the 1975 New York premier party for the movie "Tommy" held in the 57th Street subway station. He had agreed with artist Christensen to represent the date of this event in the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> art as the score 31775. A biography of Keith Moon records the date of this party as March 18, 1975. It is easy to believe that the party extended over both days.<br><br>Bally made an unknown quantity of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> for this game having orange star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> instead of the usual green ones. This version is seldom seen, which indicates the quantity made was small. Pictured in this listing are three different examples of this "orange version" <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Two of the three also have a white <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> Special <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a>, instead of the expected red-colored one. The production run of this game was over 16,000 units, and these "orange version" <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> may have simply resulted from spot shortages during the production run of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> parts having the correct colors. More information is needed to understand the reason for these <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> differences.<br><br>The Early Production game pictured here has serial number 1088 and has green star <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> on its <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. It has the <a target="glossary" class="glossarylink" href="/glossary.php#Over_The_Top">Over&nbsp;The&nbsp;Top</a> <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> which is uncensored and, like the game in the flyer, its <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> front has the "reversed" red and blue striping as compared to the striping on the <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> sides.<br><br>Included in this listing is a <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> showing signatures of both the <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> and artist silkscreened in the black area at the bottom where the <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlanes</a> exit towards the <a target="glossary" class="glossarylink" href="/glossary.php#Outhole">outhole</a>. Greg Kmiec tells us that Christensen had sneaked their signatures there but when Bally management heard about it and saw it, they made Christensen remove the signatures. Greg initially stated that only ten <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> were produced like this in a pilot run, not to appear on production games, but when the production game with serial number 1087 was identified as having a signed <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, it caused him to wonder if a larger quantity of, say, 100 was actually made, to have appeared on production games. Another explanation would be that game 1087 was retrofitted with a pilot run <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> after it left the factory. We note that the game with serial number 1088 does not have a signed <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>.<br><br>One game in this listing has a <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> frame painted red instead of the usual white. We have no further information on this except the same variation has been seen on <span title="Click here to open a new window and display Bally's 1978 'Power Play'"><a target="game1858" href="machine.cgi?id=1858">Bally's 1978 'Power Play'</a></span>.<br><br>A home version of this game was also produced; see <span title="Click here to open a new window and display Bally's 1977 'Captain Fantastic & The Brown Dirt Cowboy'"><a target="game439" href="machine.cgi?id=439">Bally's 1977 'Captain Fantastic & The Brown Dirt Cowboy'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Newsweek May 30, 1977, pp. 54.<br>
+Popular Mechanics 147(1), January 1977, pp. 98-101.<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, pages 85-86<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, pages 77, 98-99<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 88, 121, and 178<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a> page 179<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 242<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, pages 97-99<br>
+The Pinball Compendium Electro-mechanical Era, page 214<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/438/captfant.htm" target="rulesheet">Capt. Fantastic Rulesheet Version 1.0 (Aug/14/1997), by Scott R. Tiesma</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?cf">http://pinball.jameswest.com/ownerslists/ownerslist.php?cf</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/438/Bally_1976_Capt_Fantastic_and_The_Brown_Dirt_Cowboy_English_Manual_no_schematics.pdf" onClick="return purchasemanual();">English Manual (no schematics)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 7 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/438/Bally_1976_Capt_Fantastic_and_The_Brown_Dirt_Cowboy_German_Manual.pdf" onClick="return purchasemanual();">German Manual</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 719 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/438/Bally_1976_Capt_Fantastic_and_The_Brown_Dirt_Cowboy_Instruction_Cards.pdf" >Instruction Cards</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 566 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/438/Capt_Fantastic.pdf" onClick="return purchasemanual();">Playfield Chart from 1976 Parts Catalog</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/438/Bally_Capt_Fantastic_1062_Schematic.pdf" onClick="return purchasemanual();">Schematic Diagram</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 488 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/438/Bally_1976_Capt_Fantastic_and_The_Brown_Dirt_Cowboy_Score_Cards_and_Score_Card_Inserts.pdf" >Score Cards and Score Card Inserts</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=3985" 
+><span title="Image # 3985: Capt. Fantastic and The Brown Dirt Cowboy Flyer, Front "><img src="https://www.ipdb.org/images/438/tn_438f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 3985: Capt. Fantastic and The Brown Dirt Cowboy Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">849x1128</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=3986" 
+><span title="Image # 3986: Capt. Fantastic and The Brown Dirt Cowboy Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><img src="https://www.ipdb.org/images/438/tn_438f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 3986: Capt. Fantastic and The Brown Dirt Cowboy Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><br>Flyer, Back*</span></a><br><font size="-2">900x752</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=9163" 
+><span title="Image # 9163: Capt. Fantastic and The Brown Dirt Cowboy Starred Backglass Difference "><img src="https://www.ipdb.org/images/438/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=45 alt="Image # 9163: Capt. Fantastic and The Brown Dirt Cowboy Starred Backglass Difference "><br>Starred Backglass Difference</span></a><br><font size="-2">867x386</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=9164" 
+><span title="Image # 9164: Capt. Fantastic and The Brown Dirt Cowboy Starred Backglass Difference "><img src="https://www.ipdb.org/images/438/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 9164: Capt. Fantastic and The Brown Dirt Cowboy Starred Backglass Difference "><br>Starred Backglass Difference</span></a><br><font size="-2">700x700</font><br>[Duncan Brown]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=9165" 
+><span title="Image # 9165: Capt. Fantastic and The Brown Dirt Cowboy Starred Backglass Difference "><img src="https://www.ipdb.org/images/438/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 9165: Capt. Fantastic and The Brown Dirt Cowboy Starred Backglass Difference "><br>Starred Backglass Difference</span></a><br><font size="-2">800x323</font><br>[Duncan Brown]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=16855" 
+><span title="Image # 16855: Capt. Fantastic and The Brown Dirt Cowboy Upper Playfield "><img src="https://www.ipdb.org/images/438/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16855: Capt. Fantastic and The Brown Dirt Cowboy Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>[Tom Graham]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=16934" 
+><span title="Image # 16934: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Reverse "><img src="https://www.ipdb.org/images/438/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 16934: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">663x535</font><br>[Kendrick Reed]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=21768" 
+><span title="Image # 21768: Capt. Fantastic and The Brown Dirt Cowboy Backglass (no stars) "><img src="https://www.ipdb.org/images/438/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 21768: Capt. Fantastic and The Brown Dirt Cowboy Backglass (no stars) "><br>Backglass (no stars)</span></a><br><font size="-2">550x500</font><br>[Robert Ballard]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23288" 
+><span title="Image # 23288: Capt. Fantastic and The Brown Dirt Cowboy Playfield "><img src="https://www.ipdb.org/images/438/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23288: Capt. Fantastic and The Brown Dirt Cowboy Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23289" 
+><span title="Image # 23289: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Right "><img src="https://www.ipdb.org/images/438/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23289: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23290" 
+><span title="Image # 23290: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Left "><img src="https://www.ipdb.org/images/438/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23290: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23291" 
+><span title="Image # 23291: Capt. Fantastic and The Brown Dirt Cowboy Backbox - Right "><img src="https://www.ipdb.org/images/438/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23291: Capt. Fantastic and The Brown Dirt Cowboy Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23292" 
+><span title="Image # 23292: Capt. Fantastic and The Brown Dirt Cowboy Backbox - Left "><img src="https://www.ipdb.org/images/438/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23292: Capt. Fantastic and The Brown Dirt Cowboy Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23465" 
+><span title="Image # 23465: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Front View "><img src="https://www.ipdb.org/images/438/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23465: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23466" 
+><span title="Image # 23466: Capt. Fantastic and The Brown Dirt Cowboy Paperwork "><img src="https://www.ipdb.org/images/438/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23466: Capt. Fantastic and The Brown Dirt Cowboy Paperwork "><br>Paperwork</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23467" 
+><span title="Image # 23467: Capt. Fantastic and The Brown Dirt Cowboy Inside Cabinet "><img src="https://www.ipdb.org/images/438/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23467: Capt. Fantastic and The Brown Dirt Cowboy Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23468" 
+><span title="Image # 23468: Capt. Fantastic and The Brown Dirt Cowboy Inside Backbox "><img src="https://www.ipdb.org/images/438/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23468: Capt. Fantastic and The Brown Dirt Cowboy Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23469" 
+><span title="Image # 23469: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Front "><img src="https://www.ipdb.org/images/438/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23469: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x1365</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23470" 
+><span title="Image # 23470: Capt. Fantastic and The Brown Dirt Cowboy Lower Playfield "><img src="https://www.ipdb.org/images/438/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23470: Capt. Fantastic and The Brown Dirt Cowboy Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23471" 
+><span title="Image # 23471: Capt. Fantastic and The Brown Dirt Cowboy Middle Playfield "><img src="https://www.ipdb.org/images/438/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23471: Capt. Fantastic and The Brown Dirt Cowboy Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23472" 
+><span title="Image # 23472: Capt. Fantastic and The Brown Dirt Cowboy Upper Playfield "><img src="https://www.ipdb.org/images/438/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23472: Capt. Fantastic and The Brown Dirt Cowboy Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=23473" 
+><span title="Image # 23473: Capt. Fantastic and The Brown Dirt Cowboy Backglass (with stars) "><img src="https://www.ipdb.org/images/438/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 23473: Capt. Fantastic and The Brown Dirt Cowboy Backglass (with stars) "><br>Backglass (with stars)</span></a><br><font size="-2">1024x768</font><br>[Vic Camp]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26404" 
+><span title="Image # 26404: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Left "><img src="https://www.ipdb.org/images/438/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 26404: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">785x685</font><br>[Jim Kronick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26405" 
+><span title="Image # 26405: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Right "><img src="https://www.ipdb.org/images/438/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 26405: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">964x920</font><br>[Jim Kronick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26406" 
+><span title="Image # 26406: Capt. Fantastic and The Brown Dirt Cowboy Under Playfield "><img src="https://www.ipdb.org/images/438/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 26406: Capt. Fantastic and The Brown Dirt Cowboy Under Playfield "><br>Under Playfield</span></a><br><font size="-2">828x1533</font><br>[Jim Kronick]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26505" 
+><span title="Image # 26505: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Reverse "><img src="https://www.ipdb.org/images/438/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 26505: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">569x480</font><br>[Jim Kronick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26506" 
+><span title="Image # 26506: Capt. Fantastic and The Brown Dirt Cowboy Playfield in Service Position "><img src="https://www.ipdb.org/images/438/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 26506: Capt. Fantastic and The Brown Dirt Cowboy Playfield in Service Position "><br>Playfield in Service Position</span></a><br><font size="-2">762x791</font><br>[Jim Kronick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26507" 
+><span title="Image # 26507: Capt. Fantastic and The Brown Dirt Cowboy Backglass (no stars) "><img src="https://www.ipdb.org/images/438/tn_image-A28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 26507: Capt. Fantastic and The Brown Dirt Cowboy Backglass (no stars) "><br>Backglass (no stars)</span></a><br><font size="-2">1024x849</font><br>[Jim Kronick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=26508" 
+><span title="Image # 26508: Capt. Fantastic and The Brown Dirt Cowboy Playfield "><img src="https://www.ipdb.org/images/438/tn_image-A29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 26508: Capt. Fantastic and The Brown Dirt Cowboy Playfield "><br>Playfield</span></a><br><font size="-2">880x973</font><br>[Jim Kronick]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=27806" 
+><span title="Image # 27806: Capt. Fantastic and The Brown Dirt Cowboy Inside Backbox "><img src="https://www.ipdb.org/images/438/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 27806: Capt. Fantastic and The Brown Dirt Cowboy Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">600x600</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=28199" 
+><span title="Image # 28199: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts - Upper Playfield 
+(This playfield has orange star inserts, instead of the usual green ones. Game is serial number 3040.)"><img src="https://www.ipdb.org/images/438/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28199: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts - Upper Playfield 
+(This playfield has orange star inserts, instead of the usual green ones. Game is serial number 3040.)"><br>Orange Star Inserts - Upper Playfield*</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=28200" 
+><span title="Image # 28200: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts - Middle Playfield 
+(This playfield has orange star inserts, instead of the usual green ones. Game is serial number 3040.)"><img src="https://www.ipdb.org/images/438/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28200: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts - Middle Playfield 
+(This playfield has orange star inserts, instead of the usual green ones. Game is serial number 3040.)"><br>Orange Star Inserts - Middle Playfield*</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=28201" 
+><span title="Image # 28201: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts - Lower Playfield 
+(This playfield has orange star inserts, instead of the usual green ones. Game is serial number 3040.)"><img src="https://www.ipdb.org/images/438/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 28201: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts - Lower Playfield 
+(This playfield has orange star inserts, instead of the usual green ones. Game is serial number 3040.)"><br>Orange Star Inserts - Lower Playfield*</span></a><br><font size="-2">400x300</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=29049" 
+><span title="Image # 29049: Capt. Fantastic and The Brown Dirt Cowboy Lower Playfield - White Special Insert "><img src="https://www.ipdb.org/images/438/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29049: Capt. Fantastic and The Brown Dirt Cowboy Lower Playfield - White Special Insert "><br>Lower Playfield - White Special Insert</span></a><br><font size="-2">1024x768</font><br>[Matt Walsh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=29050" 
+><span title="Image # 29050: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts "><img src="https://www.ipdb.org/images/438/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 29050: Capt. Fantastic and The Brown Dirt Cowboy Orange Star Inserts "><br>Orange Star Inserts</span></a><br><font size="-2">1024x768</font><br>[Matt Walsh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=29104" 
+><span title="Image # 29104: Capt. Fantastic and The Brown Dirt Cowboy Comparison Of Two Playfield Versions 
+(The playfield on the left is the common version.)"><img src="https://www.ipdb.org/images/438/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 29104: Capt. Fantastic and The Brown Dirt Cowboy Comparison Of Two Playfield Versions 
+(The playfield on the left is the common version.)"><br>Comparison Of Two Playfield Versions*</span></a><br><font size="-2">1024x803</font><br>[Matt Walsh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=31339" 
+><span title="Image # 31339: Capt. Fantastic and The Brown Dirt Cowboy Under Playfield "><img src="https://www.ipdb.org/images/438/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31339: Capt. Fantastic and The Brown Dirt Cowboy Under Playfield "><br>Under Playfield</span></a><br><font size="-2">540x720</font><br>[Jeff Miller]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32046" 
+><span title="Image # 32046: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield "><img src="https://www.ipdb.org/images/438/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 32046: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield "><br>Factory-Signed Playfield</span></a><br><font size="-2">306x590</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32047" 
+><span title="Image # 32047: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield "><img src="https://www.ipdb.org/images/438/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32047: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield "><br>Factory-Signed Playfield</span></a><br><font size="-2">400x300</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32048" 
+><span title="Image # 32048: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield - Detail "><img src="https://www.ipdb.org/images/438/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32048: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield - Detail "><br>Factory-Signed Playfield - Detail</span></a><br><font size="-2">504x378</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32049" 
+><span title="Image # 32049: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield - Detail "><img src="https://www.ipdb.org/images/438/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32049: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield - Detail "><br>Factory-Signed Playfield - Detail</span></a><br><font size="-2">504x379</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32050" 
+><span title="Image # 32050: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield - Reverse "><img src="https://www.ipdb.org/images/438/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 32050: Capt. Fantastic and The Brown Dirt Cowboy Factory-Signed Playfield - Reverse "><br>Factory-Signed Playfield - Reverse</span></a><br><font size="-2">324x616</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32412" 
+><span title="Image # 32412: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Detail "><img src="https://www.ipdb.org/images/438/tn_image-A33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32412: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=32413" 
+><span title="Image # 32413: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Detail "><img src="https://www.ipdb.org/images/438/tn_image-B33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 32413: Capt. Fantastic and The Brown Dirt Cowboy Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=34864" 
+><span title="Image # 34864: Capt. Fantastic and The Brown Dirt Cowboy Manufacturer's Certificate 
+(Serial number 1965.)"><img src="https://www.ipdb.org/images/438/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 34864: Capt. Fantastic and The Brown Dirt Cowboy Manufacturer's Certificate 
+(Serial number 1965.)"><br>Manufacturer's Certificate*</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=43637" 
+><span title="Image # 43637: Capt. Fantastic and The Brown Dirt Cowboy Promotional Poster 
+(This is the game shown in the manufacturer's flyer. The poster inside the frame measures 45 cm by 61 cm.)"><img src="https://www.ipdb.org/images/438/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 43637: Capt. Fantastic and The Brown Dirt Cowboy Promotional Poster 
+(This is the game shown in the manufacturer's flyer. The poster inside the frame measures 45 cm by 61 cm.)"><br>Promotional Poster*</span></a><br><font size="-2">900x1200</font><br>[Federico Croci]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=44263" 
+><span title="Image # 44263: Capt. Fantastic and The Brown Dirt Cowboy Early Production Backglass (Over The Top, no stars) 
+(This is the Over The Top version of the backglass from game serial number 1088, the 88th game produced.)"><img src="https://www.ipdb.org/images/438/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 44263: Capt. Fantastic and The Brown Dirt Cowboy Early Production Backglass (Over The Top, no stars) 
+(This is the Over The Top version of the backglass from game serial number 1088, the 88th game produced.)"><br>Early Production Backglass (Over The Top, no stars)*</span></a><br><font size="-2">870x764</font><br>[Dwight Andersen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=44264" 
+><span title="Image # 44264: Capt. Fantastic and The Brown Dirt Cowboy Early Production Backglass (Over The Top, no stars) 
+(This is the Over The Top version of the backglass from game serial number 1088, the 88th game produced.)"><img src="https://www.ipdb.org/images/438/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 44264: Capt. Fantastic and The Brown Dirt Cowboy Early Production Backglass (Over The Top, no stars) 
+(This is the Over The Top version of the backglass from game serial number 1088, the 88th game produced.)"><br>Early Production Backglass (Over The Top, no stars)*</span></a><br><font size="-2">1024x768</font><br>[Dwight Andersen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=44265" 
+><span title="Image # 44265: Capt. Fantastic and The Brown Dirt Cowboy Early Production Cabinet 
+(Serial number 1088.)"><img src="https://www.ipdb.org/images/438/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 44265: Capt. Fantastic and The Brown Dirt Cowboy Early Production Cabinet 
+(Serial number 1088.)"><br>Early Production Cabinet*</span></a><br><font size="-2">962x768</font><br>[Dwight Andersen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=47011" 
+><span title="Image # 47011: Capt. Fantastic and The Brown Dirt Cowboy Blank Playfield - Orange and White - Front 
+(This playfield has orange star inserts and a white Special insert. Photo taken at Chicago Expo 2010.)"><img src="https://www.ipdb.org/images/438/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=53 height=100 alt="Image # 47011: Capt. Fantastic and The Brown Dirt Cowboy Blank Playfield - Orange and White - Front 
+(This playfield has orange star inserts and a white Special insert. Photo taken at Chicago Expo 2010.)"><br>Blank Playfield - Orange and White - Front*</span></a><br><font size="-2">824x1556</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=47012" 
+><span title="Image # 47012: Capt. Fantastic and The Brown Dirt Cowboy Blank Playfield - Orange and White - Back 
+(This playfield has orange star inserts and a white Special insert. Photo taken at Chicago Expo 2010.)"><img src="https://www.ipdb.org/images/438/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 47012: Capt. Fantastic and The Brown Dirt Cowboy Blank Playfield - Orange and White - Back 
+(This playfield has orange star inserts and a white Special insert. Photo taken at Chicago Expo 2010.)"><br>Blank Playfield - Orange and White - Back*</span></a><br><font size="-2">820x1564</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=52054" 
+><span title="Image # 52054: Capt. Fantastic and The Brown Dirt Cowboy Upper Playfield "><img src="https://www.ipdb.org/images/438/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=72 alt="Image # 52054: Capt. Fantastic and The Brown Dirt Cowboy Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x862</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=52055" 
+><span title="Image # 52055: Capt. Fantastic and The Brown Dirt Cowboy Middle Playfield "><img src="https://www.ipdb.org/images/438/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52055: Capt. Fantastic and The Brown Dirt Cowboy Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=52056" 
+><span title="Image # 52056: Capt. Fantastic and The Brown Dirt Cowboy Lower Playfield "><img src="https://www.ipdb.org/images/438/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 52056: Capt. Fantastic and The Brown Dirt Cowboy Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x800</font><br>[Mark Steinman]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=65110" 
+><span title="Image # 65110: Capt. Fantastic and The Brown Dirt Cowboy Backglass "><img src="https://www.ipdb.org/images/438/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 65110: Capt. Fantastic and The Brown Dirt Cowboy Backglass "><br>Backglass</span></a><br><font size="-2">1200x1069</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=65111" 
+><span title="Image # 65111: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Front View "><img src="https://www.ipdb.org/images/438/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 65111: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">797x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=65112" 
+><span title="Image # 65112: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Full View "><img src="https://www.ipdb.org/images/438/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 65112: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1200x1501</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=65113" 
+><span title="Image # 65113: Capt. Fantastic and The Brown Dirt Cowboy Inside Backbox "><img src="https://www.ipdb.org/images/438/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 65113: Capt. Fantastic and The Brown Dirt Cowboy Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x1104</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=65114" 
+><span title="Image # 65114: Capt. Fantastic and The Brown Dirt Cowboy Illuminated Backglass "><img src="https://www.ipdb.org/images/438/tn_image-A56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 65114: Capt. Fantastic and The Brown Dirt Cowboy Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1200x1046</font><br>[Billy Loretelli]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=65115" 
+><span title="Image # 65115: Capt. Fantastic and The Brown Dirt Cowboy Illuminated Playfield "><img src="https://www.ipdb.org/images/438/tn_image-A57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 65115: Capt. Fantastic and The Brown Dirt Cowboy Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">1200x1600</font><br>[Billy Loretelli]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=66490" 
+><span title="Image # 66490: Capt. Fantastic and The Brown Dirt Cowboy Artist Initials "><img src="https://www.ipdb.org/images/438/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 66490: Capt. Fantastic and The Brown Dirt Cowboy Artist Initials "><br>Artist Initials</span></a><br><font size="-2">1119x1334</font><br>[Jan Izaks]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=71925" 
+><span title="Image # 71925: Capt. Fantastic and The Brown Dirt Cowboy Backglass (with stars) 
+(Serial number 16629.)"><img src="https://www.ipdb.org/images/438/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71925: Capt. Fantastic and The Brown Dirt Cowboy Backglass (with stars) 
+(Serial number 16629.)"><br>Backglass (with stars)*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=71926" 
+><span title="Image # 71926: Capt. Fantastic and The Brown Dirt Cowboy Illuminated Backglass (with stars) 
+(Serial number 16629.)"><img src="https://www.ipdb.org/images/438/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 71926: Capt. Fantastic and The Brown Dirt Cowboy Illuminated Backglass (with stars) 
+(Serial number 16629.)"><br>Illuminated Backglass (with stars)*</span></a><br><font size="-2">985x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=71927" 
+><span title="Image # 71927: Capt. Fantastic and The Brown Dirt Cowboy Playfield - Orange Star Inserts and White Special Insert 
+(Playfield is mylared. Serial number 16629.)"><img src="https://www.ipdb.org/images/438/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 71927: Capt. Fantastic and The Brown Dirt Cowboy Playfield - Orange Star Inserts and White Special Insert 
+(Playfield is mylared. Serial number 16629.)"><br>Playfield - Orange Star Inserts and White Special Insert*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=71928" 
+><span title="Image # 71928: Capt. Fantastic and The Brown Dirt Cowboy Playfield - White Insert 
+(Factory-installed white insert. This insert is supposed to be red on production games. This playfield also has orange star rollover inserts instead of the usual green ones. Serial number 16629.)"><img src="https://www.ipdb.org/images/438/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 71928: Capt. Fantastic and The Brown Dirt Cowboy Playfield - White Insert 
+(Factory-installed white insert. This insert is supposed to be red on production games. This playfield also has orange star rollover inserts instead of the usual green ones. Serial number 16629.)"><br>Playfield - White Insert*</span></a><br><font size="-2">574x876</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=438&amp;picno=71929" 
+><span title="Image # 71929: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Serial Number 
+(Serial number 16629.)"><img src="https://www.ipdb.org/images/438/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 71929: Capt. Fantastic and The Brown Dirt Cowboy Cabinet - Serial Number 
+(Serial number 16629.)"><br>Cabinet - Serial Number*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+Photo&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

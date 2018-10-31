@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Slick Chick'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Slick Chick Flippers (2), Pop bumpers (5), Passive bumpers (4), Slingshots (2), Standup targets (3), Gobble hole (1). No outlanes.
+
+Maximum displayed point score is 1,999 points.
+
+Replay wheel maximum: 26  Roy Parker Wayne Neyens ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Slick Chick' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Slick Chick</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2208">Slick Chick</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2208">2208</a> <I>/ April, 1963 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=2208" target="showrate2208"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=2208" target="showrate2208">54 ratings/31 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2208" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=93">D. Gottlieb & Company (1931-1977) <i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1963</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>198</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>4,550 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2208">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Gobble_Hole">Gobble&nbsp;hole</a> (1). No <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlanes</a>.<br><br>Maximum displayed point score is 1,999 points.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 26<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Wayne&nbsp;Neyens' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Wayne%20Neyens">Wayne&nbsp;Neyens</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Roy&nbsp;Parker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Roy%20Parker">Roy&nbsp;Parker</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Below each <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> are two posts with a <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubber</a> ring stretched between them. Often we see games with no plastic ball guides installed on these posts. <a target="glossary" class="glossarylink" href="/glossary.php#Designer">Designer</a> Wayne Neyens told us that the game was shipped from the factory with a "one-sided" plastic ball guide connecting each pair of posts to prevent a fast ball from somehow getting stuck inside the rings. The vertical portion of each guide would face the metal <a target="glossary" class="glossarylink" href="/glossary.php#Apron">apron</a>, allowing the <a target="glossary" class="glossarylink" href="/glossary.php#Rubber">rubber</a> rings to bounce a ball back into play.<br><br>Sample <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinets</a> had one red stripe and one brown stripe. This was changed during production to be one red stripe and one blue stripe.<br><br>Sample games of Slick Chick were the last Gottlieb games to use the "threaded bolt and wingnut method" of fastening the <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a>. Production games used the "latching method" which was the style used on subsequent games. Pictures of the underside of each style of <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a> are shown in this listing.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cigar Aficionado Autumn 1996, pp. 320 ,321,323,324,327,328,331,332,335,336,339,341.<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0866670475/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0866670475&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball 1</a> Illustrated Historical Guide to Pinball Machines Volume 1, page 224<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 114 and 310<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/9780764315275/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=9780764315275&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1930s - 1960s</a>, page 157<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 249<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 65<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764321099/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764321099&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Snapshots</a>, pages 13, 182, 188-191<br>
+The Pinball Compendium Electro-mechanical Era, page 132<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/2208">http://www.pinballowners.com/owners/2208</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 448 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2208/Gottlieb_1963_Slick_Chick_Post_Adjustment_Chart.pdf" >Post Adjustment Chart</a></td><td> [D&#46; Gottlieb & Company]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 48 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/2208/Gottlieb_1963_Slick_Chick_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td> [Inkochnito]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=2102" 
+><span title="Image # 2102: Slick Chick Backglass "><img src="https://www.ipdb.org/images/2208/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 2102: Slick Chick Backglass "><br>Backglass</span></a><br><font size="-2">489x651</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=2103" 
+><span title="Image # 2103: Slick Chick Cabinet - Front View "><img src="https://www.ipdb.org/images/2208/tn_Machine.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 2103: Slick Chick Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">429x625</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=2104" 
+><span title="Image # 2104: Slick Chick Playfield 
+(On this playfield, the rubbered posts below the flippers are missing their plastic lane guides.)"><img src="https://www.ipdb.org/images/2208/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 2104: Slick Chick Playfield 
+(On this playfield, the rubbered posts below the flippers are missing their plastic lane guides.)"><br>Playfield*</span></a><br><font size="-2">492x709</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=5215" 
+><span title="Image # 5215: Slick Chick Flyer "><img src="https://www.ipdb.org/images/2208/tn_2208f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 5215: Slick Chick Flyer "><br>Flyer</span></a><br><font size="-2">900x675</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=8315" 
+><span title="Image # 8315: Slick Chick Instruction Card "><img src="https://www.ipdb.org/images/2208/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8315: Slick Chick Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x770</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=9095" 
+><span title="Image # 9095: Slick Chick Cabinet - Front View "><img src="https://www.ipdb.org/images/2208/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 9095: Slick Chick Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1365</font><br>[Dave Christiansen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=13443" 
+><span title="Image # 13443: Slick Chick Playfield 
+(On this playfield, the rubbered posts below the flippers are missing their plastic lane guides. )"><img src="https://www.ipdb.org/images/2208/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 13443: Slick Chick Playfield 
+(On this playfield, the rubbered posts below the flippers are missing their plastic lane guides. )"><br>Playfield*</span></a><br><font size="-2">722x802</font><br>[Raphael Lankar]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=17087" 
+><span title="Image # 17087: Slick Chick Playfield 
+(On this playfield, the rubbered posts below the flippers are missing their plastic lane guides.  The manufacturer used only white rubbers.)"><img src="https://www.ipdb.org/images/2208/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 17087: Slick Chick Playfield 
+(On this playfield, the rubbered posts below the flippers are missing their plastic lane guides.  The manufacturer used only white rubbers.)"><br>Playfield*</span></a><br><font size="-2">768x1024</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=17088" 
+><span title="Image # 17088: Slick Chick Playfield - Detail "><img src="https://www.ipdb.org/images/2208/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 17088: Slick Chick Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=23252" 
+><span title="Image # 23252: Slick Chick Cabinet - Front View "><img src="https://www.ipdb.org/images/2208/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23252: Slick Chick Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=23253" 
+><span title="Image # 23253: Slick Chick Playfield "><img src="https://www.ipdb.org/images/2208/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23253: Slick Chick Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=23254" 
+><span title="Image # 23254: Slick Chick Backglass "><img src="https://www.ipdb.org/images/2208/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 23254: Slick Chick Backglass "><br>Backglass</span></a><br><font size="-2">1024x1365</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=23538" 
+><span title="Image # 23538: Slick Chick Lower Playfield 
+(On this playfield, the rubbered posts below the flippers have been moved closer to the outhole.)"><img src="https://www.ipdb.org/images/2208/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 23538: Slick Chick Lower Playfield 
+(On this playfield, the rubbered posts below the flippers have been moved closer to the outhole.)"><br>Lower Playfield*</span></a><br><font size="-2">800x528</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=30508" 
+><span title="Image # 30508: Slick Chick Inside Cabinet "><img src="https://www.ipdb.org/images/2208/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 30508: Slick Chick Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">768x1024</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=38319" 
+><span title="Image # 38319: Slick Chick Slingshot Plastics "><img src="https://www.ipdb.org/images/2208/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 38319: Slick Chick Slingshot Plastics "><br>Slingshot Plastics</span></a><br><font size="-2">1024x784</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=38320" 
+><span title="Image # 38320: Slick Chick Upper Target Plastics "><img src="https://www.ipdb.org/images/2208/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 38320: Slick Chick Upper Target Plastics "><br>Upper Target Plastics</span></a><br><font size="-2">1024x764</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=41461" 
+><span title="Image # 41461: Slick Chick Inside Backbox "><img src="https://www.ipdb.org/images/2208/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 41461: Slick Chick Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">878x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=41462" 
+><span title="Image # 41462: Slick Chick Inside Backbox "><img src="https://www.ipdb.org/images/2208/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41462: Slick Chick Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=41463" 
+><span title="Image # 41463: Slick Chick Inside Backbox "><img src="https://www.ipdb.org/images/2208/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 41463: Slick Chick Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">964x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=41464" 
+><span title="Image # 41464: Slick Chick Inside Lower Backbox "><img src="https://www.ipdb.org/images/2208/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41464: Slick Chick Inside Lower Backbox "><br>Inside Lower Backbox</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=41465" 
+><span title="Image # 41465: Slick Chick Inside Lower Backbox "><img src="https://www.ipdb.org/images/2208/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 41465: Slick Chick Inside Lower Backbox "><br>Inside Lower Backbox</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=48243" 
+><span title="Image # 48243: Slick Chick Illuminated Front View "><img src="https://www.ipdb.org/images/2208/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 48243: Slick Chick Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">1025x1300</font><br>[Ari Sovijärvi]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=51178" 
+><span title="Image # 51178: Slick Chick Under playfield "><img src="https://www.ipdb.org/images/2208/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 51178: Slick Chick Under playfield "><br>Under playfield</span></a><br><font size="-2">856x1280</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=51179" 
+><span title="Image # 51179: Slick Chick Plastics  "><img src="https://www.ipdb.org/images/2208/tn_image-A19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 51179: Slick Chick Plastics  "><br>Plastics </span></a><br><font size="-2">1200x879</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=58320" 
+><span title="Image # 58320: Slick Chick Playfield - Downfield View 
+(This playfield shows the factory-correct placement of the 'one-sided' plastic ball guides on the rubbered posts below each flipper.)"><img src="https://www.ipdb.org/images/2208/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58320: Slick Chick Playfield - Downfield View 
+(This playfield shows the factory-correct placement of the 'one-sided' plastic ball guides on the rubbered posts below each flipper.)"><br>Playfield - Downfield View*</span></a><br><font size="-2">1200x900</font><br>[Jon Allison]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65264" 
+><span title="Image # 65264: Slick Chick Under Lockdown Bar - Production Game 
+(The cabinet front has been repainted.)"><img src="https://www.ipdb.org/images/2208/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 65264: Slick Chick Under Lockdown Bar - Production Game 
+(The cabinet front has been repainted.)"><br>Under Lockdown Bar - Production Game*</span></a><br><font size="-2">1200x960</font><br>[Jon Allison]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65324" 
+><span title="Image # 65324: Slick Chick Sample Game - Backglass 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 65324: Slick Chick Sample Game - Backglass 
+(Serial number 01055S.)"><br>Sample Game - Backglass*</span></a><br><font size="-2">1200x1468</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65325" 
+><span title="Image # 65325: Slick Chick Sample Game - Playfield 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 65325: Slick Chick Sample Game - Playfield 
+(Serial number 01055S.)"><br>Sample Game - Playfield*</span></a><br><font size="-2">1200x2133</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65326" 
+><span title="Image # 65326: Slick Chick Sample Game - Under Playfield 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 65326: Slick Chick Sample Game - Under Playfield 
+(Serial number 01055S.)"><br>Sample Game - Under Playfield*</span></a><br><font size="-2">1200x701</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65327" 
+><span title="Image # 65327: Slick Chick Sample Game - Middle Playfield 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 65327: Slick Chick Sample Game - Middle Playfield 
+(Serial number 01055S.)"><br>Sample Game - Middle Playfield*</span></a><br><font size="-2">1200x684</font><br>[Gene Langheld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65328" 
+><span title="Image # 65328: Slick Chick Sample Game - Lower Playfield 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 65328: Slick Chick Sample Game - Lower Playfield 
+(Serial number 01055S.)"><br>Sample Game - Lower Playfield*</span></a><br><font size="-2">1200x691</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65329" 
+><span title="Image # 65329: Slick Chick Sample Game - Card Holder 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 65329: Slick Chick Sample Game - Card Holder 
+(Serial number 01055S.)"><br>Sample Game - Card Holder*</span></a><br><font size="-2">1200x675</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65330" 
+><span title="Image # 65330: Slick Chick Sample Game - Playfield Serial Number 
+(The cabinet has serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 65330: Slick Chick Sample Game - Playfield Serial Number 
+(The cabinet has serial number 01055S.)"><br>Sample Game - Playfield Serial Number*</span></a><br><font size="-2">1200x699</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65331" 
+><span title="Image # 65331: Slick Chick Sample Game - Under Lockdown Bar 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 65331: Slick Chick Sample Game - Under Lockdown Bar 
+(Serial number 01055S.)"><br>Sample Game - Under Lockdown Bar*</span></a><br><font size="-2">1200x654</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65332" 
+><span title="Image # 65332: Slick Chick Sample Game - Cabinet - Left 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=97 height=100 alt="Image # 65332: Slick Chick Sample Game - Cabinet - Left 
+(Serial number 01055S.)"><br>Sample Game - Cabinet - Left*</span></a><br><font size="-2">1200x1242</font><br>[Gene Langheld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65333" 
+><span title="Image # 65333: Slick Chick Sample Game - Cabinet - Right 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 65333: Slick Chick Sample Game - Cabinet - Right 
+(Serial number 01055S.)"><br>Sample Game - Cabinet - Right*</span></a><br><font size="-2">1200x1190</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65334" 
+><span title="Image # 65334: Slick Chick Sample Game - Cabinet - Front 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 65334: Slick Chick Sample Game - Cabinet - Front 
+(Serial number 01055S.)"><br>Sample Game - Cabinet - Front*</span></a><br><font size="-2">1200x723</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65335" 
+><span title="Image # 65335: Slick Chick Sample Game - Cabinet Serial Number 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 65335: Slick Chick Sample Game - Cabinet Serial Number 
+(Serial number 01055S.)"><br>Sample Game - Cabinet Serial Number*</span></a><br><font size="-2">1200x527</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65336" 
+><span title="Image # 65336: Slick Chick Sample Game - Cabinet - Rear 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 65336: Slick Chick Sample Game - Cabinet - Rear 
+(Serial number 01055S.)"><br>Sample Game - Cabinet - Rear*</span></a><br><font size="-2">1200x2038</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65337" 
+><span title="Image # 65337: Slick Chick Sample Game - Backbox Door Removed 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 65337: Slick Chick Sample Game - Backbox Door Removed 
+(Serial number 01055S.)"><br>Sample Game - Backbox Door Removed*</span></a><br><font size="-2">1200x2157</font><br>[Gene Langheld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65338" 
+><span title="Image # 65338: Slick Chick Sample Game - Inside Backbox 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 65338: Slick Chick Sample Game - Inside Backbox 
+(Serial number 01055S.)"><br>Sample Game - Inside Backbox*</span></a><br><font size="-2">1200x941</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65339" 
+><span title="Image # 65339: Slick Chick Sample Game - Under Playfield 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 65339: Slick Chick Sample Game - Under Playfield 
+(Serial number 01055S.)"><br>Sample Game - Under Playfield*</span></a><br><font size="-2">1200x2133</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65340" 
+><span title="Image # 65340: Slick Chick Sample Game - Inside Cabinet 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 65340: Slick Chick Sample Game - Inside Cabinet 
+(Serial number 01055S.)"><br>Sample Game - Inside Cabinet*</span></a><br><font size="-2">1200x2133</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65341" 
+><span title="Image # 65341: Slick Chick Sample Game - Total Play Meter 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=59 alt="Image # 65341: Slick Chick Sample Game - Total Play Meter 
+(Serial number 01055S.)"><br>Sample Game - Total Play Meter*</span></a><br><font size="-2">1200x702</font><br>[Gene Langheld]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65342" 
+><span title="Image # 65342: Slick Chick Sample Game - Backglass - Reverse 
+(Serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 65342: Slick Chick Sample Game - Backglass - Reverse 
+(Serial number 01055S.)"><br>Sample Game - Backglass - Reverse*</span></a><br><font size="-2">1200x974</font><br>[Gene Langheld]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2208&amp;picno=65343" 
+><span title="Image # 65343: Slick Chick Sample Game - Test Game Report 
+(From the game with serial number 01055S.)"><img src="https://www.ipdb.org/images/2208/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 65343: Slick Chick Sample Game - Test Game Report 
+(From the game with serial number 01055S.)"><br>Sample Game - Test Game Report*</span></a><br><font size="-2">1200x1811</font><br>[Gene Langheld]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

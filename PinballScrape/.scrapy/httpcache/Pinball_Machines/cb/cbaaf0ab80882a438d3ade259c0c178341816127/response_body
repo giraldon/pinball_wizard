@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Alpine Club'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Alpine Club Flippers (4), Pop bumpers (4), Passive bumpers (3), Slingshots (2), Kick-out holes (2), Standup target (1), Right outlane ball return gate. Illuminated backglass marquee. Drop-down cabinet. Backglass light animation (mountain climber ascends mountain). Scoring A-B-C-D-E in sequence advances the climber up the mountain. When climber is almost at the summit, the climber lamp flashes. Climber reaching summit briefly lights a flag there, a replay is scored, and the animation resets to light the climber back to the beginning of the climb. This is a carryover feature from game to game. Rollover buttons light one-at-a-time starting at the bottom button. Hitting a lit button lights the one above it. Hitting the top rollover button when lit lights target. Hitting lit target opens gate, scores 300 points, and increases kick-out hole value.
+
+Maximum displayed point score is 9,999 points.
+
+Replay wheel maximum: 20
+
+Sound: bell, knocker.  Art Stenholm Steve Kordek ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Alpine Club' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Alpine Club</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="63">Alpine Club</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=63">63</a> <I>/ February, 1965 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=63" target="showrate63"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=63" target="showrate63">13 ratings/10 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=63" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=350">Williams Electronic Manufacturing Company (1958-1967) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1965</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>310</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,200 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=63">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Snow Skiing - Vacationing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Passive_bumper">Passive&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;target</a> (1), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> ball return <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Illuminated <a target="glossary" class="glossarylink" href="/glossary.php#Backglass_Marquee">backglass&nbsp;marquee</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Drop-down_cabinet">Drop-down&nbsp;cabinet</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">Backglass</a> light <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> (mountain climber ascends mountain). Scoring A-B-C-D-E in sequence advances the climber up the mountain. When climber is almost at the summit, the climber lamp flashes. Climber reaching summit briefly lights a flag there, a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> is scored, and the <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a> resets to light the climber back to the beginning of the climb. This is a carryover feature from game to game. <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">Rollover</a> buttons light one-at-a-time starting at the bottom button. Hitting a lit button lights the one above it. Hitting the top <a target="glossary" class="glossarylink" href="/glossary.php#Rollover">rollover</a> button when lit lights target. Hitting lit target opens <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>, scores 300 points, and increases <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">kick-out&nbsp;hole</a> value.<br><br>Maximum displayed point score is 9,999 points.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 20<br><br>Sound: bell, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Kordek' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Kordek">Steve&nbsp;Kordek</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Art&nbsp;Stenholm' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Art%20Stenholm">Art&nbsp;Stenholm</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The <a target="glossary" class="glossarylink" href="/glossary.php#Add-A-Ball">add-a-ball</a> version is <span title="Click here to open a new window and display Williams' 1965 'Ski Club'"><a target="game2172" href="machine.cgi?id=2172">Williams' 1965 'Ski Club'</a></span>.<br><br>The reverse side of the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> shows the mountain climber is silkscreened fourteen times. However, the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox_Insert">backbox&nbsp;insert</a> shows only ten lamps were provisioned in the stepping mechanism to light the climber. This shows a decision was made by Williams to eliminate four steps in this <a target="glossary" class="glossarylink" href="/glossary.php#Carry-over">carry-over</a> feature. While this decision likely was made before production began, if anyone has a Sample or Early Production game, please let us know, so we can see whether it has ten or fourteen steps of <a target="glossary" class="glossarylink" href="/glossary.php#Animation">animation</a>.<br><br>Near each upper <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> is a <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> hole where a lamp should be. There are no lamp sockets wired to these holes. Under the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>, the <a target="glossary" class="glossarylink" href="/glossary.php#End-of-Stroke_Switch">end-of-stroke&nbsp;switch</a> for each <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flipper</a> required the space where the light socket would be.<br><br>'Alpine Club' was the first Williams game to have these features:<br><br>• a hinged door on the front of the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> for easy access to the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> or to change bulbs.<br>• a <a target="glossary" class="glossarylink" href="/glossary.php#Backglass_Marquee">backglass&nbsp;marquee</a> for advertising.<br>• an automatic ball lift.<br>• a one-piece <a target="glossary" class="glossarylink" href="/glossary.php#Lockdown_Bar">lockdown&nbsp;bar</a>.<br>• the now-familiar plastic rectangular ball shooter escutcheon.<br>• a coin return flap.<br>• a new coin door designed to accommodate nickels, dimes, and quarters in a single slot. Prior to this, each denomination required it's own coin slot. This new design required a larger coin acceptor and a larger coin door than before. To accommodate the larger door, the front of the wood <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> was extended downward. This <a target="glossary" class="glossarylink" href="/glossary.php#Drop-down_cabinet">drop-down&nbsp;cabinet</a> style was used on subsequent games through mid-1966 when its use ended during the production run of <span title="Click here to open a new window and display Williams' 1966 'A-Go-Go'"><a target="game27" href="machine.cgi?id=27">Williams' 1966 'A-Go-Go'</a></span>.<br><br>Manufacturer data for Alpine Club:<br>Quantity produced for USA/Canada: 873*<br>Quantity produced for export: 327*<br>Total quantity produced: 1200*<br>Price to Distributor: $360.00<br>*These quantities may be sales estimates.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 66<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 66-68, 190.<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/63">http://www.pinballowners.com/owners/63</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 1010 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/63/Williams_1965_Alpine_Club_Promotional_Photo_Large_Size.pdf" >Promotional Photo - Large Size</a></td><td> [Williams Electronic Mfg&#46; Co&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=63" 
+><span title="Image # 63: Alpine Club Playfield "><img src="https://www.ipdb.org/images/63/tn_Playfield2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 63: Alpine Club Playfield "><br>Playfield</span></a><br><font size="-2">482x714</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=64" 
+><span title="Image # 64: Alpine Club Playfield "><img src="https://www.ipdb.org/images/63/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 64: Alpine Club Playfield "><br>Playfield</span></a><br><font size="-2">388x485</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=65" 
+><span title="Image # 65: Alpine Club Backglass "><img src="https://www.ipdb.org/images/63/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 65: Alpine Club Backglass "><br>Backglass</span></a><br><font size="-2">463x568</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=4451" 
+><span title="Image # 4451: Alpine Club Flyer - Front "><img src="https://www.ipdb.org/images/63/tn_63f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4451: Alpine Club Flyer - Front "><br>Flyer - Front</span></a><br><font size="-2">562x729</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=5296" 
+><span title="Image # 5296: Alpine Club Flyer - Back "><img src="https://www.ipdb.org/images/63/tn_63f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 5296: Alpine Club Flyer - Back "><br>Flyer - Back</span></a><br><font size="-2">564x726</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=21530" 
+><span title="Image # 21530: Alpine Club Playfield - Detail "><img src="https://www.ipdb.org/images/63/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 21530: Alpine Club Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=38351" 
+><span title="Image # 38351: Alpine Club Backglass 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38351: Alpine Club Backglass 
+(Serial number 19514.)"><br>Backglass*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=38352" 
+><span title="Image # 38352: Alpine Club Playfield 
+(The right outlane ball return wireform in this image is not original to this game. Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38352: Alpine Club Playfield 
+(The right outlane ball return wireform in this image is not original to this game. Serial number 19514.)"><br>Playfield*</span></a><br><font size="-2">1024x1365</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46370" 
+><span title="Image # 46370: Alpine Club Cabinet - Left 
+(Portions of the blue areas of the cabinet have been touched up. Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 46370: Alpine Club Cabinet - Left 
+(Portions of the blue areas of the cabinet have been touched up. Serial number 19514.)"><br>Cabinet - Left*</span></a><br><font size="-2">1078x878</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46371" 
+><span title="Image # 46371: Alpine Club Cabinet - Front 
+(Portions of the blue areas of the cabinet have been touched up. Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 46371: Alpine Club Cabinet - Front 
+(Portions of the blue areas of the cabinet have been touched up. Serial number 19514.)"><br>Cabinet - Front*</span></a><br><font size="-2">1056x900</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46372" 
+><span title="Image # 46372: Alpine Club Inside Coin Door 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=80 alt="Image # 46372: Alpine Club Inside Coin Door 
+(Serial number 19514.)"><br>Inside Coin Door*</span></a><br><font size="-2">1120x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46373" 
+><span title="Image # 46373: Alpine Club Inside Coin Door - Coin Mech Removed 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=79 alt="Image # 46373: Alpine Club Inside Coin Door - Coin Mech Removed 
+(Serial number 19514.)"><br>Inside Coin Door - Coin Mech Removed*</span></a><br><font size="-2">1136x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46374" 
+><span title="Image # 46374: Alpine Club Under Playfield 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46374: Alpine Club Under Playfield 
+(Serial number 19514.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46375" 
+><span title="Image # 46375: Alpine Club Inside Cabinet 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46375: Alpine Club Inside Cabinet 
+(Serial number 19514.)"><br>Inside Cabinet*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46376" 
+><span title="Image # 46376: Alpine Club Inside Backbox 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 46376: Alpine Club Inside Backbox 
+(Serial number 19514.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46377" 
+><span title="Image # 46377: Alpine Club Behind Backglass 
+(Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46377: Alpine Club Behind Backglass 
+(Serial number 19514.)"><br>Behind Backglass*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46378" 
+><span title="Image # 46378: Alpine Club Left Side Missing Lamp Socket 
+(Under the playfield, the flipper end-of-stroke switch required the space where the light socket would be. Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46378: Alpine Club Left Side Missing Lamp Socket 
+(Under the playfield, the flipper end-of-stroke switch required the space where the light socket would be. Serial number 19514.)"><br>Left Side Missing Lamp Socket*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=46379" 
+><span title="Image # 46379: Alpine Club Right Side Missing Lamp Socket 
+(Under the playfield, the flipper end-of-stroke switch required the space where the light socket would be. Serial number 19514.)"><img src="https://www.ipdb.org/images/63/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 46379: Alpine Club Right Side Missing Lamp Socket 
+(Under the playfield, the flipper end-of-stroke switch required the space where the light socket would be. Serial number 19514.)"><br>Right Side Missing Lamp Socket*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49927" 
+><span title="Image # 49927: Alpine Club Illuminated Backglass 
+(Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=87 height=100 alt="Image # 49927: Alpine Club Illuminated Backglass 
+(Serial number 22236.)"><br>Illuminated Backglass*</span></a><br><font size="-2">784x900</font><br>[Cédric Bérenger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49928" 
+><span title="Image # 49928: Alpine Club Illuminated Playfield 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 49928: Alpine Club Illuminated Playfield 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><br>Illuminated Playfield*</span></a><br><font size="-2">336x448</font><br>[Cédric Bérenger]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49929" 
+><span title="Image # 49929: Alpine Club Illuminated Upper Playfield 
+(Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49929: Alpine Club Illuminated Upper Playfield 
+(Serial number 22236.)"><br>Illuminated Upper Playfield*</span></a><br><font size="-2">1200x900</font><br>[Cédric Bérenger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49930" 
+><span title="Image # 49930: Alpine Club Illuminated Lower Playfield 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 49930: Alpine Club Illuminated Lower Playfield 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><br>Illuminated Lower Playfield*</span></a><br><font size="-2">1200x900</font><br>[Cédric Bérenger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49931" 
+><span title="Image # 49931: Alpine Club Cabinet - Left 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 49931: Alpine Club Cabinet - Left 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><br>Cabinet - Left*</span></a><br><font size="-2">1200x1216</font><br>[Cédric Bérenger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49932" 
+><span title="Image # 49932: Alpine Club Cabinet - Right 
+(Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 49932: Alpine Club Cabinet - Right 
+(Serial number 22236.)"><br>Cabinet - Right*</span></a><br><font size="-2">1044x1060</font><br>[Cédric Bérenger]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=49933" 
+><span title="Image # 49933: Alpine Club Cabinet - Front View 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><img src="https://www.ipdb.org/images/63/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 49933: Alpine Club Cabinet - Front View 
+(The two white posts below the flippers were added after the game left the factory. Serial number 22236.)"><br>Cabinet - Front View*</span></a><br><font size="-2">876x1484</font><br>[Cédric Bérenger]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=63&amp;picno=68061" 
+><span title="Image # 68061: Alpine Club Promotional Photo "><img src="https://www.ipdb.org/images/63/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 68061: Alpine Club Promotional Photo "><br>Promotional Photo</span></a><br><font size="-2">1200x1479</font><br>[Duncan Brown]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

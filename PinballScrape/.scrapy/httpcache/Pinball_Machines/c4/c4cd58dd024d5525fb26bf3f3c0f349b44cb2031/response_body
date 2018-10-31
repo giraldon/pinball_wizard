@@ -1,0 +1,257 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Skill Derby (Non-replay Model)'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Skill Derby (Non-replay Model) Not A Pinball Nickel or dime play (operator option). Mechanical backbox animation (horses race). A small disc, the size of a nickel, is used instead of a ball. Cabinet measures 72 inches high, 27 inches wide, and 22 inches deep (width and depth dimensions include front rail extensions).  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Skill Derby (Non-replay Model)' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Skill Derby (Non-replay Model)</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="6433">Skill Derby (Non-replay Model)</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=6433">6433</a> <I>/ September 08, 1960 / 1 Player</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>No ratings on file</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=6433" target="do_a_rating">Be first to rate this game!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>September 08, 1960</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>656</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=6433">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Horse Racing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline><span class="notapinballspec">Not A Pinball</span>&nbsp;<a href="glossary.php#Not_A_Pinball" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+Novelty Play&nbsp;<a href="glossary.php#Novelty_Play" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+Mechanical Backbox Animation&nbsp;<a href="glossary.php#Mechanical_Backbox_Animation" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>Nickel or dime play (operator option). <a target="glossary" class="glossarylink" href="/glossary.php#Mechanical_Backbox_Animation">Mechanical&nbsp;backbox&nbsp;animation</a> (horses race). A small disc, the size of a nickel, is used instead of a ball. <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">Cabinet</a> measures 72 inches high, 27 inches wide, and 22 inches deep (width and depth dimensions include front rail extensions).</td></tr>
+<!-- 6040 == Bally Derby -->
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>This listing is the non-replay model. The <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> model is <span title="Click here to open a new window and display Bally's 1960 'Skill Derby (Replay Model)'"><a target="game2180" href="machine.cgi?id=2180">Bally's 1960 'Skill Derby (Replay Model)'</a></span>. This non-replay model does not have a <a target="glossary" class="glossarylink" href="/glossary.php#Replay">replay</a> counter in the upper left corner of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> nor has the illuminating odds column along the right side of the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Available Bally documentation does not indicate separate model numbers for these two models.<br><br>Bally referred to the <a target="glossary" class="glossarylink" href="/glossary.php#Transparent">transparent</a> cover over the animated horses as a "Vista-Dome". Although Bally also referred to this game as "an upright pin-game", a disc is used instead of a ball and therefore we classify it as <a target="glossary" class="glossarylink" href="/glossary.php#Not_A_Pinball">Not&nbsp;A&nbsp;Pinball</a>.<br><br>This game is not to be confused with another Bally upright game from 1960 called <a target="game6040" href="machine.cgi?id=6040">Bally Derby</a> and which also had a horserace theme but is a gun game for up to 5 players, with a pop-up array found in games like <span title="Click here to open a new window and display Genco's 1958 'Flying Aces'"><a target="game4024" href="machine.cgi?id=4024">Genco's 1958 'Flying Aces'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69810" 
+><span title="Image # 69810: Skill Derby (Non-replay Model) Backglass 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 69810: Skill Derby (Non-replay Model) Backglass 
+(Serial number BA1078S.)"><br>Backglass*</span></a><br><font size="-2">1200x694</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69811" 
+><span title="Image # 69811: Skill Derby (Non-replay Model) Horse Track Animation 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 69811: Skill Derby (Non-replay Model) Horse Track Animation 
+(Serial number BA1078S.)"><br>Horse Track Animation*</span></a><br><font size="-2">1131x704</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69812" 
+><span title="Image # 69812: Skill Derby (Non-replay Model) Illuminated Horse Track Animation 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 69812: Skill Derby (Non-replay Model) Illuminated Horse Track Animation 
+(Serial number BA1078S.)"><br>Illuminated Horse Track Animation*</span></a><br><font size="-2">1048x778</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69813" 
+><span title="Image # 69813: Skill Derby (Non-replay Model) Animation Scenery 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=76 alt="Image # 69813: Skill Derby (Non-replay Model) Animation Scenery 
+(Serial number BA1078S.)"><br>Animation Scenery*</span></a><br><font size="-2">1173x893</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69814" 
+><span title="Image # 69814: Skill Derby (Non-replay Model) Animation Scenery 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 69814: Skill Derby (Non-replay Model) Animation Scenery 
+(Serial number BA1078S.)"><br>Animation Scenery*</span></a><br><font size="-2">1059x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69815" 
+><span title="Image # 69815: Skill Derby (Non-replay Model) Playfield 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69815: Skill Derby (Non-replay Model) Playfield 
+(Serial number BA1078S.)"><br>Playfield*</span></a><br><font size="-2">900x1200</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69816" 
+><span title="Image # 69816: Skill Derby (Non-replay Model) Illuminated Playfield 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 69816: Skill Derby (Non-replay Model) Illuminated Playfield 
+(Serial number BA1078S.)"><br>Illuminated Playfield*</span></a><br><font size="-2">721x1200</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69817" 
+><span title="Image # 69817: Skill Derby (Non-replay Model) Rubber Disc 
+(This disc is the size of a US nickel. Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69817: Skill Derby (Non-replay Model) Rubber Disc 
+(This disc is the size of a US nickel. Serial number BA1078S.)"><br>Rubber Disc*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69818" 
+><span title="Image # 69818: Skill Derby (Non-replay Model) Player Controls 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 69818: Skill Derby (Non-replay Model) Player Controls 
+(Serial number BA1078S.)"><br>Player Controls*</span></a><br><font size="-2">1200x717</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69819" 
+><span title="Image # 69819: Skill Derby (Non-replay Model) Horse Selection Knob 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69819: Skill Derby (Non-replay Model) Horse Selection Knob 
+(Serial number BA1078S.)"><br>Horse Selection Knob*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69820" 
+><span title="Image # 69820: Skill Derby (Non-replay Model) Coin Insert and Price Plates 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69820: Skill Derby (Non-replay Model) Coin Insert and Price Plates 
+(Serial number BA1078S.)"><br>Coin Insert and Price Plates*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69821" 
+><span title="Image # 69821: Skill Derby (Non-replay Model) Skill Shooter and Shooter Guage 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69821: Skill Derby (Non-replay Model) Skill Shooter and Shooter Guage 
+(Serial number BA1078S.)"><br>Skill Shooter and Shooter Guage*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69822" 
+><span title="Image # 69822: Skill Derby (Non-replay Model) Cabinet - Bottom Front 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 69822: Skill Derby (Non-replay Model) Cabinet - Bottom Front 
+(Serial number BA1078S.)"><br>Cabinet - Bottom Front*</span></a><br><font size="-2">1107x821</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69823" 
+><span title="Image # 69823: Skill Derby (Non-replay Model) Cabiet - Front Door 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69823: Skill Derby (Non-replay Model) Cabiet - Front Door 
+(Serial number BA1078S.)"><br>Cabiet - Front Door*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69824" 
+><span title="Image # 69824: Skill Derby (Non-replay Model) Cabinet - Serial Number 
+(Located at right side of cabinet below the player controls shelf. Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 69824: Skill Derby (Non-replay Model) Cabinet - Serial Number 
+(Located at right side of cabinet below the player controls shelf. Serial number BA1078S.)"><br>Cabinet - Serial Number*</span></a><br><font size="-2">1200x795</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69825" 
+><span title="Image # 69825: Skill Derby (Non-replay Model) Cabinet - Full View 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=47 height=100 alt="Image # 69825: Skill Derby (Non-replay Model) Cabinet - Full View 
+(Serial number BA1078S.)"><br>Cabinet - Full View*</span></a><br><font size="-2">519x1097</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69826" 
+><span title="Image # 69826: Skill Derby (Non-replay Model) Cabinet - Right 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 69826: Skill Derby (Non-replay Model) Cabinet - Right 
+(Serial number BA1078S.)"><br>Cabinet - Right*</span></a><br><font size="-2">557x1167</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69827" 
+><span title="Image # 69827: Skill Derby (Non-replay Model) Cabinet - Rear 
+(Near the keylock is a toggle switch to power the game, labeled ON and OFF. Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=54 height=100 alt="Image # 69827: Skill Derby (Non-replay Model) Cabinet - Rear 
+(Near the keylock is a toggle switch to power the game, labeled ON and OFF. Serial number BA1078S.)"><br>Cabinet - Rear*</span></a><br><font size="-2">644x1184</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69828" 
+><span title="Image # 69828: Skill Derby (Non-replay Model) Inside Front Door 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 69828: Skill Derby (Non-replay Model) Inside Front Door 
+(Serial number BA1078S.)"><br>Inside Front Door*</span></a><br><font size="-2">1200x788</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69829" 
+><span title="Image # 69829: Skill Derby (Non-replay Model) Inside Front Door - Detail 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 69829: Skill Derby (Non-replay Model) Inside Front Door - Detail 
+(Serial number BA1078S.)"><br>Inside Front Door - Detail*</span></a><br><font size="-2">1000x838</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69830" 
+><span title="Image # 69830: Skill Derby (Non-replay Model) Inside Cabinet - Cash Box Removed 
+(Viewd through the open front door. Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69830: Skill Derby (Non-replay Model) Inside Cabinet - Cash Box Removed 
+(Viewd through the open front door. Serial number BA1078S.)"><br>Inside Cabinet - Cash Box Removed*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69831" 
+><span title="Image # 69831: Skill Derby (Non-replay Model) Cash Box 
+(Measures 11 inches by 9 inches by 4 inches. From the game with serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69831: Skill Derby (Non-replay Model) Cash Box 
+(Measures 11 inches by 9 inches by 4 inches. From the game with serial number BA1078S.)"><br>Cash Box*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69832" 
+><span title="Image # 69832: Skill Derby (Non-replay Model) Inside Back Door 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69832: Skill Derby (Non-replay Model) Inside Back Door 
+(Serial number BA1078S.)"><br>Inside Back Door*</span></a><br><font size="-2">900x1200</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69833" 
+><span title="Image # 69833: Skill Derby (Non-replay Model) Lower Inside Back Door 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69833: Skill Derby (Non-replay Model) Lower Inside Back Door 
+(Serial number BA1078S.)"><br>Lower Inside Back Door*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69834" 
+><span title="Image # 69834: Skill Derby (Non-replay Model) Inside Back Door - Tag 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69834: Skill Derby (Non-replay Model) Inside Back Door - Tag 
+(Serial number BA1078S.)"><br>Inside Back Door - Tag*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69835" 
+><span title="Image # 69835: Skill Derby (Non-replay Model) Inside Cabinet 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 69835: Skill Derby (Non-replay Model) Inside Cabinet 
+(Serial number BA1078S.)"><br>Inside Cabinet*</span></a><br><font size="-2">900x1200</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69836" 
+><span title="Image # 69836: Skill Derby (Non-replay Model) Horse Track Mechanism 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69836: Skill Derby (Non-replay Model) Horse Track Mechanism 
+(Serial number BA1078S.)"><br>Horse Track Mechanism*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69837" 
+><span title="Image # 69837: Skill Derby (Non-replay Model) Horse Track Mechanism 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69837: Skill Derby (Non-replay Model) Horse Track Mechanism 
+(Serial number BA1078S.)"><br>Horse Track Mechanism*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69838" 
+><span title="Image # 69838: Skill Derby (Non-replay Model) Inside Cabinet - Tag 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69838: Skill Derby (Non-replay Model) Inside Cabinet - Tag 
+(Serial number BA1078S.)"><br>Inside Cabinet - Tag*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69839" 
+><span title="Image # 69839: Skill Derby (Non-replay Model) Inside Cabinet - Tag 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69839: Skill Derby (Non-replay Model) Inside Cabinet - Tag 
+(Serial number BA1078S.)"><br>Inside Cabinet - Tag*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=6433&amp;picno=69840" 
+><span title="Image # 69840: Skill Derby (Non-replay Model) Horse Selector Unit 
+(Serial number BA1078S.)"><img src="https://www.ipdb.org/images/6433/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 69840: Skill Derby (Non-replay Model) Horse Selector Unit 
+(Serial number BA1078S.)"><br>Horse Selector Unit*</span></a><br><font size="-2">1200x900</font><br>[Dennis Dodel]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Source: </b></td><td colspan=4 align=left valign=baseline>
+pictures&nbsp;<a href="sourcelist.html" title="Show Source Information" target="_sourcelist"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

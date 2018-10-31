@@ -1,0 +1,261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Jack·Bot'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Jack·Bot JackBot, Jack Bot, Jack*Bot Flippers (2), Pop bumpers (3), 5-target dropping bank (1), 3-bank drop targets (1), Kick-out holes (3). Opening skillshot sends ball up a conical ramp. Colorful playfield array of lights track progress of hitting targets. A dropping bank of 5 targets lowers to reveal two kick-out holes. Upper level bagatelle mini-playfield. Mechanically-raised left-side ramp. Multiball. Maximum 3 buy-in balls per player (operator option).  John Youssi Doug Watson Barry Oursler Larry DeMar Adam Rhine Brian Morris Robert C. Friesl Bob Brown Jon Hey Larry DeMar Louis Koziarz Jon Hey ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Jack·Bot' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Jack·Bot</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="3619">Jack·Bot</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=3619">3619</a> <I>/ October 10, 1995 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=3619" target="showrate3619"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.6</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=3619" target="showrate3619">75 ratings/54 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=3619" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=349">Williams Electronics Games, Incorporated, a subsidiary of WMS Ind.,<br> Incorporated (1985-1999) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>October 10, 1995</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50051</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>JB, J*B</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=30">Williams WPC Security (WPC-S)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>2,428 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=3619">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Gambling - Outer Space</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), 5-target <a target="glossary" class="glossarylink" href="/glossary.php#Dropping_Bank">dropping&nbsp;bank</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (3). Opening skillshot sends ball up a conical <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a>. Colorful <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> array of lights track progress of hitting targets. A <a target="glossary" class="glossarylink" href="/glossary.php#Dropping_Bank">dropping&nbsp;bank</a> of 5 targets lowers to reveal two <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">kick-out&nbsp;holes</a>. Upper level <a target="glossary" class="glossarylink" href="/glossary.php#Bagatelle">bagatelle</a> mini-playfield. Mechanically-raised left-side <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>. Maximum 3 <a target="glossary" class="glossarylink" href="/glossary.php#Buy-In">buy-in</a> balls per player (operator option).</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Barry&nbsp;Oursler' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Barry%20Oursler">Barry&nbsp;Oursler</a></span>, <span title="Click here to perform a search for all pinball games that 'Larry&nbsp;DeMar' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Larry%20DeMar">Larry&nbsp;DeMar</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span>, <span title="Click here to perform a search for all pinball games that 'Doug&nbsp;Watson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Doug%20Watson">Doug&nbsp;Watson</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Dots/Animation by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Adam&nbsp;Rhine' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Adam%20Rhine">Adam&nbsp;Rhine</a></span>, <span title="Click here to perform a search for all pinball games that 'Brian&nbsp;Morris' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brian%20Morris">Brian&nbsp;Morris</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Robert&nbsp;C.&nbsp;Friesl' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Robert%20C.%20Friesl">Robert&nbsp;C.&nbsp;Friesl</a></span>, <span title="Click here to perform a search for all pinball games that 'Bob&nbsp;Brown' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Bob%20Brown">Bob&nbsp;Brown</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Hey' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Hey">Jon&nbsp;Hey</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Jon&nbsp;Hey' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Jon%20Hey">Jon&nbsp;Hey</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Larry&nbsp;DeMar' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Larry%20DeMar">Larry&nbsp;DeMar</a></span>, <span title="Click here to perform a search for all pinball games that 'Louis&nbsp;Koziarz' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Louis%20Koziarz">Louis&nbsp;Koziarz</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Jack-Bot' is third in a series of games with a robot theme, including <span title="Click here to open a new window and display Williams' 1986 'PIN·BOT'"><a target="game1796" href="machine.cgi?id=1796">Williams' 1986 'PIN·BOT'</a></span> and <span title="Click here to open a new window and display Williams' 1991 'The Machine: Bride of Pin·bot'"><a target="game1502" href="machine.cgi?id=1502">Williams' 1991 'The Machine: Bride of Pin·bot'</a></span>.<br><br>Some games in the production run were built using WPC-95 board sets.<br><br>Two different <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> versions for this game are noticed, where just below the 5-bank of targets one version uses five arrow <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> that are all white in color, and the other version uses five arrow <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> of different colors.<br><br>There also are two different plastics used above the entrance to the left <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> where it states "Lite Game Sau<ignore>cer Mega Ra<ignore>mp". One version is a simple light blue with pattern while the other is a fancier black and purple design.<br><br>It is unknown to us which version of <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> and/or <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> plastic came first, or the reasons for them. Consider these variations: The flyer has colored arrows and the light blue <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> plastic. The promo poster has all white arrows and the light blue <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> plastic. One game pictured in this listing has white arrows and the blue & purple <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> plastic, while another game pictured here has the colored arrows and the light blue <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramp</a> plastic.<br><br>In <i>The Pinball Compendium 1982 to Present</i>, Larry DeMar is quoted to say they had briefly considered naming this game "Lucky Star".<br><br>Included in this listing are pictures of a <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> from the game with serial number 53351102134. Instead of the color red, a different color is shown, described by the owner as orange-yellow. Because this color appears on all sides, it is difficult to attribute it to "<a target="glossary" class="glossarylink" href="/glossary.php#Red_Fade">red&nbsp;fade</a>" from the sun. If anyone has a similar <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a>, please contact us and include your serial number.<br><br>Artist John Youssi told us that Python Anghelo left this project in mid-design and John and Doug Watson finished the game, with Doug doing the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> art and John doing the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> and <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> art.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Marketing Slogans: </b></td><td colspan=4 align=left valign=baseline>
+"It's Within Everyone's Reach."<br>
+"A Sure Bet!"<br>
+</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 203<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/3619/JACKBOT.HTM" target="rulesheet">Jack*Bot Rulesheet (Oct/21/1995), by Mark Phaedrus</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?jb">http://pinball.jameswest.com/ownerslists/ownerslist.php?jb</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#3619">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Additional Media:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.youtube.com/watch?v=BH3FKdQB1-A">Promotional Video (at YouTube)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 383 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3619/jb_10b.zip" >PinMAME Romset (1.0B) Belgium/Canada</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3619/jb_10r.zip" >PinMAME Romset (1.0R)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3619/Williams_1995_Jack_Bot_Sample_Prototype_ROM_0_4A.zip" >Sample/Prototype ROM 0.4A</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3619/Williams_1995_Jack_Bot_English_Manual.pdf" onClick="return purchasemanual();">English Manual</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 186 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3619/Williams_1995_Jack_Bot_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/3619/Williams_1995_Jack_Bot_Service_Bulletin_86.pdf" >Service Bulletin #86</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=2913" 
+><span title="Image # 2913: Jack·Bot Overall view "><img src="https://www.ipdb.org/images/3619/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=60 height=100 alt="Image # 2913: Jack·Bot Overall view "><br>Overall view</span></a><br><font size="-2">200x332</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=4411" 
+><span title="Image # 4411: Jack·Bot Flyer, Front "><img src="https://www.ipdb.org/images/3619/tn_3619f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4411: Jack·Bot Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">634x823</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=4412" 
+><span title="Image # 4412: Jack·Bot Flyer, Back "><img src="https://www.ipdb.org/images/3619/tn_3619f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 4412: Jack·Bot Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">631x822</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=7117" 
+><span title="Image # 7117: Jack·Bot Backglass "><img src="https://www.ipdb.org/images/3619/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 7117: Jack·Bot Backglass "><br>Backglass</span></a><br><font size="-2">576x585</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=7118" 
+><span title="Image # 7118: Jack·Bot Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 7118: Jack·Bot Playfield "><br>Playfield</span></a><br><font size="-2">576x771</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=7120" 
+><span title="Image # 7120: Jack·Bot Upper Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 7120: Jack·Bot Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">576x442</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=7121" 
+><span title="Image # 7121: Jack·Bot Lower Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=73 alt="Image # 7121: Jack·Bot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">576x423</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=7122" 
+><span title="Image # 7122: Jack·Bot Backbox "><img src="https://www.ipdb.org/images/3619/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=37 height=100 alt="Image # 7122: Jack·Bot Backbox "><br>Backbox</span></a><br><font size="-2">144x390</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8725" 
+><span title="Image # 8725: Jack·Bot Full Machine "><img src="https://www.ipdb.org/images/3619/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8725: Jack·Bot Full Machine "><br>Full Machine</span></a><br><font size="-2">550x738</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8726" 
+><span title="Image # 8726: Jack·Bot Cabinet Front "><img src="https://www.ipdb.org/images/3619/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 8726: Jack·Bot Cabinet Front "><br>Cabinet Front</span></a><br><font size="-2">500x303</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8727" 
+><span title="Image # 8727: Jack·Bot Cabinet Left "><img src="https://www.ipdb.org/images/3619/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 8727: Jack·Bot Cabinet Left "><br>Cabinet Left</span></a><br><font size="-2">500x510</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8728" 
+><span title="Image # 8728: Jack·Bot Cabinet Right "><img src="https://www.ipdb.org/images/3619/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 8728: Jack·Bot Cabinet Right "><br>Cabinet Right</span></a><br><font size="-2">500x480</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8729" 
+><span title="Image # 8729: Jack·Bot BackBox "><img src="https://www.ipdb.org/images/3619/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=80 height=100 alt="Image # 8729: Jack·Bot BackBox "><br>BackBox</span></a><br><font size="-2">500x626</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8730" 
+><span title="Image # 8730: Jack·Bot Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8730: Jack·Bot Playfield "><br>Playfield</span></a><br><font size="-2">500x667</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8731" 
+><span title="Image # 8731: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8731: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8732" 
+><span title="Image # 8732: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8732: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8733" 
+><span title="Image # 8733: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8733: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8734" 
+><span title="Image # 8734: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8734: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8735" 
+><span title="Image # 8735: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 8735: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">350x467</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8736" 
+><span title="Image # 8736: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8736: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8737" 
+><span title="Image # 8737: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8737: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=8738" 
+><span title="Image # 8738: Jack·Bot Playfield Detail "><img src="https://www.ipdb.org/images/3619/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 8738: Jack·Bot Playfield Detail "><br>Playfield Detail</span></a><br><font size="-2">500x375</font><br>[Allen Shope]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=31765" 
+><span title="Image # 31765: Jack·Bot Instruction Card "><img src="https://www.ipdb.org/images/3619/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31765: Jack·Bot Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=31766" 
+><span title="Image # 31766: Jack·Bot Under Lower Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31766: Jack·Bot Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=31767" 
+><span title="Image # 31767: Jack·Bot Under Upper Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31767: Jack·Bot Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=31768" 
+><span title="Image # 31768: Jack·Bot Inside Cabinet "><img src="https://www.ipdb.org/images/3619/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 31768: Jack·Bot Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=31769" 
+><span title="Image # 31769: Jack·Bot Inside Backbox "><img src="https://www.ipdb.org/images/3619/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 31769: Jack·Bot Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=32473" 
+><span title="Image # 32473: Jack·Bot Promotional Poster 
+(Dimension: 24 inches by 36 inches.)"><img src="https://www.ipdb.org/images/3619/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=84 height=100 alt="Image # 32473: Jack·Bot Promotional Poster 
+(Dimension: 24 inches by 36 inches.)"><br>Promotional Poster*</span></a><br><font size="-2">668x800</font><br>[Bill Ung]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=44761" 
+><span title="Image # 44761: Jack·Bot Backglass "><img src="https://www.ipdb.org/images/3619/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 44761: Jack·Bot Backglass "><br>Backglass</span></a><br><font size="-2">1024x710</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=44762" 
+><span title="Image # 44762: Jack·Bot Backbox - Right "><img src="https://www.ipdb.org/images/3619/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=38 height=100 alt="Image # 44762: Jack·Bot Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">600x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=44763" 
+><span title="Image # 44763: Jack·Bot Cabinet - Right "><img src="https://www.ipdb.org/images/3619/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=51 alt="Image # 44763: Jack·Bot Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x522</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=44764" 
+><span title="Image # 44764: Jack·Bot Cabinet - Front "><img src="https://www.ipdb.org/images/3619/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 44764: Jack·Bot Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1024x709</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=44765" 
+><span title="Image # 44765: Jack·Bot Cabinet - Front View "><img src="https://www.ipdb.org/images/3619/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 44765: Jack·Bot Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">876x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=44766" 
+><span title="Image # 44766: Jack·Bot Illuminated Backglass "><img src="https://www.ipdb.org/images/3619/tn_image-A26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 44766: Jack·Bot Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x947</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=60583" 
+><span title="Image # 60583: Jack·Bot Lower Playfield "><img src="https://www.ipdb.org/images/3619/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60583: Jack·Bot Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">960x720</font><br>[Rita Giese]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=64122" 
+><span title="Image # 64122: Jack·Bot Illuminated Backglass 
+(Serial number 53351102134.)"><img src="https://www.ipdb.org/images/3619/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=81 height=100 alt="Image # 64122: Jack·Bot Illuminated Backglass 
+(Serial number 53351102134.)"><br>Illuminated Backglass*</span></a><br><font size="-2">603x747</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=64123" 
+><span title="Image # 64123: Jack·Bot Illuminated Playfield 
+(Serial number 53351102134.)"><img src="https://www.ipdb.org/images/3619/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64123: Jack·Bot Illuminated Playfield 
+(Serial number 53351102134.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=64124" 
+><span title="Image # 64124: Jack·Bot Backbox - Left - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><img src="https://www.ipdb.org/images/3619/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 64124: Jack·Bot Backbox - Left - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><br>Backbox - Left - Alternate Color*</span></a><br><font size="-2">561x993</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=64125" 
+><span title="Image # 64125: Jack·Bot Cabinet - Left - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><img src="https://www.ipdb.org/images/3619/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64125: Jack·Bot Cabinet - Left - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><br>Cabinet - Left - Alternate Color*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=64126" 
+><span title="Image # 64126: Jack·Bot Cabinet - Right - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><img src="https://www.ipdb.org/images/3619/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 64126: Jack·Bot Cabinet - Right - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><br>Cabinet - Right - Alternate Color*</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=3619&amp;picno=64127" 
+><span title="Image # 64127: Jack·Bot Cabinet - Front - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><img src="https://www.ipdb.org/images/3619/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=74 alt="Image # 64127: Jack·Bot Cabinet - Front - Alternate Color 
+(The owner described the color as orange-yellow, not red. Serial number 53351102134.)"><br>Cabinet - Front - Alternate Color*</span></a><br><font size="-2">928x684</font><br>&nbsp;</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

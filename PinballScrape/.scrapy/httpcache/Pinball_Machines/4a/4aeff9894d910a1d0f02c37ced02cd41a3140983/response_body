@@ -1,0 +1,299 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Old Chicago'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Old Chicago Flippers (2), Pop bumpers (5), Standup targets (3), Kick-out holes (2), 5-bank drop targets (1), Spinning target (1). No slingshots. When a player's score exceeds 99,990 points, a buzzer temporarily sounds.
+
+Maximum displayed point score depends on the version:
+Early production Over The Top games show 99,990 points per player.
+Modified production games show 199,990 points per player.
+
+Replay wheel maximum: 25
+
+Sound: 3 chimes, knocker, '100,000' point buzzer  Dave Christensen John Youssi Greg Kmiec ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Old Chicago' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Old Chicago</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1704">Old Chicago</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1704">1704</a> <I>/ April, 1976 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=1704" target="showrate1704"><img src="stars/7stars.png" height=18 width=201 border=0 alt="[ 7 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.4</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=1704" target="showrate1704">34 ratings/30 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1704" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>March 05, 1975</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1976</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>1042</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>7,155 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1704">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Historical</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (5), <a target="glossary" class="glossarylink" href="/glossary.php#Standup_Target">Standup&nbsp;targets</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), 5-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Spinning_Target">Spinning&nbsp;target</a> (1). No <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">slingshots</a>. When a player's score exceeds 99,990 points, a buzzer temporarily sounds.<br><br>Maximum displayed point score depends on the version:<br>Early production <a target="glossary" class="glossarylink" href="/glossary.php#Over_The_Top">Over&nbsp;The&nbsp;Top</a> games show 99,990 points per player.<br>Modified production games show 199,990 points per player.<br><br><a target="glossary" class="glossarylink" href="/glossary.php#Replay">Replay</a> wheel maximum: 25<br><br>Sound: 3 chimes, <a target="glossary" class="glossarylink" href="/glossary.php#Knocker">knocker</a>, "100,000" point buzzer<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Greg&nbsp;Kmiec' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Greg%20Kmiec">Greg&nbsp;Kmiec</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dave&nbsp;Christensen' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dave%20Christensen">Dave&nbsp;Christensen</a></span>, <span title="Click here to perform a search for all pinball games that 'John&nbsp;Youssi' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Youssi">John&nbsp;Youssi</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>Artist John Youssi initially worked on the art for this game. He provided to us the following information:<P style="padding-left:30px;"><I>Here’s the story as I remember it:<br><br>I was working at Album Graphics Inc. in Chicago back then (early 70’s) but also did some free-lancing. My roommate after art school was Ken Kupietz and he worked at Bally in the art department. I can't remember if he got me in or if Dave had just seen my work but he asked if I'd like to try a game. I had no pinball experience, but a fellow illustrator John Craig had done the art for 'Spanish Eyes' and it looked like a fun project. The theme was 'Old Chicago' and involved 20's and 30's era gangsters. I was to design and illustrate final art for the back<ignore>glass and play<ignore>field. I can't recall how much guidance Dave gave me but I loved the era and dug in researching the project. No internet back then, but I had Time-Life books on the 20’s and 30’s as well as the Chicago library image files to draw from. The process was as usual for commercial art back then. I started with sketches which were approved and followed that up with color roughs.  Then I created inked art for both the back<ignore>glass and the play<ignore>field along with a color guide or overlay to aid the screen cutter. Dave was disappointed in general but especially with my poor inking skills and I left Bally that day feeling grim and not knowing what would happen with the art. I realized that there was no way my skills could ma<ignore>tch Dave's as he was a master at what he did. As it turned out, Dave did a little design work here and there plus he re-inked the art completely with much more detail as only Dave could do. He would not only ink but also 'scratch' out ink to give it an etched or scratchboard appearance. I don't know if he worked over my art or started over. The overall design is very similar to mine.<br> <br>Backglass: I think Dave spent most of his time on the two main figures. My male figure was a generic gangster but Dave had John Dillinger in mind when he re-did the art which added lots of character.  He also reworked the female figures. My background design and elements remained intact (but re-inked) including the Jazz band on the bottom, city, spotlights, airship, border, etc. The logo is similar but it's been a long time.<br><br>Play<ignore>field and plastics: I was really into art deco and used it on several album covers including 'Early Allman'- 'Allman Joy' for the Allman Brothers (1973). Funny but I loved bubbles and painted them whenever possible. I had established the overall design with an art deco look, the two cars, but really can't say how much re-design Dave did on the play<ignore>field. The plastics are similar to mine but he probably tweaked lots of stuff. Pretty sure I used imagery from the Time-Life books mentioned earlier. Can't remember doing the two girls on the upper plastics. They look "pure Dave".</i></P><br><br>The center <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> figure with monogrammed pocket handkerchief is meant to be gangster John Dillinger. He was gunned down by federal agents in front of Chicago's Biograph Theatre in 1934, betrayed by brothel madam Anna Sage (real name Ana Cumpanas), the legendary "Woman in Red".<br><br>Sage is also depicted on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>, wearing a red dress and looking youthful, although she was 45 years old and reportedly wearing a bright orange sk<ignore>irt and white blouse when she, Dillinger, and his girlfriend Polly Hamilton exited the theater into the FBI ambush.<br><br>In the <i>Encyclopedia of Pinball Volume 1</i>, Sage is misidentified on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> as Billie Frechette, another Dillinger girlfriend who, after his death, toured with members of his family. Artist Dave Christensen concurred at Pinball Expo 2004 that he intended his Woman in Red to be Sage and no one else.<br><br>Also on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> is a reference to the SMC Cartage Company garage at 2122 North Clark Street, where the St. Valentine's Day Massacre occurred in 1929. When the garage was torn down in 1967, Christensen took some bricks from the site to display on his fireplace mantel.<br><br>The Biograph Theater operated as a movie house from 1914 until 2004, when it was renovated for live performances.<br><br>A Hollywood movie, "Dillinger", came out in 1973.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0525474811/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0525474811&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball! (Sharpe)</a> pages 18-19, 34-35<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1872532101/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1872532101&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Art</a>, dust jacket and page 5<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, page 118<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0451799666/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451799666&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball An Illustrated History</a>, page 2<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/1889933015/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1889933015&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Encyclopedia of Pinball Volume 1</a>, page 230<br>
+<a href="redirect.pl?http://www.amazon.com/Tilt-The-Pinball-Book-Communications/dp/0916870146/ref=sr_1_1?ie=UTF8&qid=1395981626&sr=8-1&keywords=Tilt+The+Pinball+Book" target="booksourcelink">Tilt The Pinball Book</a>, page 102<br>
+Mad Dog and His Art, pages 57-62<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, page 123<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 86<br>
+The Pinball Compendium Electro-mechanical Era, page 212<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.pinballowners.com/owners/1704">http://www.pinballowners.com/owners/1704</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#1704">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 262 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Bally_1976_Old_Chicago_Coin_Door_Schematic_Type_10_with_2_Chutes.pdf" onClick="return purchasemanual();">Coin Door Schematic - Type #10 with 2 Chutes</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 2 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Bally_1976_Old_Chicago_Manual_no_schematics.pdf" onClick="return purchasemanual();">Manual (no schematics)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 615 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Old_Chicago.pdf" onClick="return purchasemanual();">Playfield Chart from 1976 Parts Catalog</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 342 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Bally_1976_Old_Chicago_Schematic_Diagram_paginated.pdf" onClick="return purchasemanual();">Schematic Diagram (paginated)</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 77 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Bally_1976_Old_Chicago_Reproduction_Score_and_Instruction_Cards.zip" >Reproduction Score and Instruction Cards</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 141 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Bally_1976_Old_Chicago_Suggested_Score_Cards.pdf" >Suggested Score Cards</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 150 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/1704/Bally_1976_Old_Chicago_Time_Delay_Circuit_Explanation_and_Adjustments.pdf" >Time Delay Circuit - Explanation and Adjustments</a></td><td> [Bally Manufacturing Corp&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=3810" 
+><span title="Image # 3810: Old Chicago Flyer, Front "><img src="https://www.ipdb.org/images/1704/tn_1704f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 3810: Old Chicago Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">861x1128</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=3811" 
+><span title="Image # 3811: Old Chicago Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><img src="https://www.ipdb.org/images/1704/tn_1704f3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 3811: Old Chicago Flyer, Back 
+(Back of Flyer, rotated 90 degrees for easier viewing.)"><br>Flyer, Back*</span></a><br><font size="-2">900x742</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=5462" 
+><span title="Image # 5462: Old Chicago Backglass "><img src="https://www.ipdb.org/images/1704/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 5462: Old Chicago Backglass "><br>Backglass</span></a><br><font size="-2">389x351</font><br>[Dan Ferguson]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=6552" 
+><span title="Image # 6552: Old Chicago Early Production Playfield 
+(This is an orange version of the playfield from game serial number 1009, the 9th game produced.)"><img src="https://www.ipdb.org/images/1704/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=49 height=100 alt="Image # 6552: Old Chicago Early Production Playfield 
+(This is an orange version of the playfield from game serial number 1009, the 9th game produced.)"><br>Early Production Playfield*</span></a><br><font size="-2">736x1500</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=10464" 
+><span title="Image # 10464: Old Chicago Illuminated Front View "><img src="https://www.ipdb.org/images/1704/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 10464: Old Chicago Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">480x640</font><br>[John Do]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=10465" 
+><span title="Image # 10465: Old Chicago Middle Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10465: Old Chicago Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">640x480</font><br>[John Do]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=10466" 
+><span title="Image # 10466: Old Chicago Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10466: Old Chicago Playfield "><br>Playfield</span></a><br><font size="-2">640x480</font><br>[John Do]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=10467" 
+><span title="Image # 10467: Old Chicago Drop Targets "><img src="https://www.ipdb.org/images/1704/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10467: Old Chicago Drop Targets "><br>Drop Targets</span></a><br><font size="-2">640x480</font><br>[John Do]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=10673" 
+><span title="Image # 10673: Old Chicago Cabinet - Front "><img src="https://www.ipdb.org/images/1704/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 10673: Old Chicago Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">400x300</font><br>[Nick Magro]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=10883" 
+><span title="Image # 10883: Old Chicago Backglass "><img src="https://www.ipdb.org/images/1704/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=95 alt="Image # 10883: Old Chicago Backglass "><br>Backglass</span></a><br><font size="-2">400x379</font><br>[Bruno Durand]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=11937" 
+><span title="Image # 11937: Old Chicago Early Production Backglass - Over The Top 
+(This is the Over The Top version of the backglass from game serial number 1009, the 9th game produced.)"><img src="https://www.ipdb.org/images/1704/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=69 alt="Image # 11937: Old Chicago Early Production Backglass - Over The Top 
+(This is the Over The Top version of the backglass from game serial number 1009, the 9th game produced.)"><br>Early Production Backglass - Over The Top*</span></a><br><font size="-2">864x592</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=11938" 
+><span title="Image # 11938: Old Chicago Early Production Playfield 
+(This is an orange version of the playfield from game serial number 1009, the 9th game produced.)"><img src="https://www.ipdb.org/images/1704/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 11938: Old Chicago Early Production Playfield 
+(This is an orange version of the playfield from game serial number 1009, the 9th game produced.)"><br>Early Production Playfield*</span></a><br><font size="-2">574x876</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=16357" 
+><span title="Image # 16357: Old Chicago Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16357: Old Chicago Playfield "><br>Playfield</span></a><br><font size="-2">800x600</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=16873" 
+><span title="Image # 16873: Old Chicago Illuminated Backglass "><img src="https://www.ipdb.org/images/1704/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 16873: Old Chicago Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">612x470</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18516" 
+><span title="Image # 18516: Old Chicago Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 18516: Old Chicago Playfield "><br>Playfield</span></a><br><font size="-2">567x850</font><br>[Jason Forster]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18517" 
+><span title="Image # 18517: Old Chicago Cabinet - Left "><img src="https://www.ipdb.org/images/1704/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 18517: Old Chicago Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">800x618</font><br>[Jason Forster]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18518" 
+><span title="Image # 18518: Old Chicago Cabinet - Right "><img src="https://www.ipdb.org/images/1704/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 18518: Old Chicago Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">850x657</font><br>[Jason Forster]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18519" 
+><span title="Image # 18519: Old Chicago Backbox - Left "><img src="https://www.ipdb.org/images/1704/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 18519: Old Chicago Backbox - Left "><br>Backbox - Left</span></a><br><font size="-2">270x589</font><br>[Jason Forster]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18520" 
+><span title="Image # 18520: Old Chicago Backbox - Right "><img src="https://www.ipdb.org/images/1704/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 18520: Old Chicago Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">350x641</font><br>[Jason Forster]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18713" 
+><span title="Image # 18713: Old Chicago Upper Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-A.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18713: Old Chicago Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">800x600</font><br>[Barry Schiffer]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18714" 
+><span title="Image # 18714: Old Chicago Lower Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-B.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 18714: Old Chicago Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">800x600</font><br>[Barry Schiffer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=18715" 
+><span title="Image # 18715: Old Chicago Backglass - Reverse "><img src="https://www.ipdb.org/images/1704/tn_image-C.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=94 height=100 alt="Image # 18715: Old Chicago Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">506x541</font><br>[Barry Schiffer]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=30402" 
+><span title="Image # 30402: Old Chicago Backglass - Detail "><img src="https://www.ipdb.org/images/1704/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30402: Old Chicago Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">400x300</font><br>[Bruno Durand]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36506" 
+><span title="Image # 36506: Old Chicago Playfield Plastic 
+(Part number M-1330-118-1.)"><img src="https://www.ipdb.org/images/1704/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 36506: Old Chicago Playfield Plastic 
+(Part number M-1330-118-1.)"><br>Playfield Plastic*</span></a><br><font size="-2">530x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36507" 
+><span title="Image # 36507: Old Chicago Playfield Plastic 
+(Part number M-1330-118-2.)"><img src="https://www.ipdb.org/images/1704/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 36507: Old Chicago Playfield Plastic 
+(Part number M-1330-118-2.)"><br>Playfield Plastic*</span></a><br><font size="-2">1024x1292</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36508" 
+><span title="Image # 36508: Old Chicago Playfield Plastic 
+(Part number M-1330-118-3.)"><img src="https://www.ipdb.org/images/1704/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=29 height=100 alt="Image # 36508: Old Chicago Playfield Plastic 
+(Part number M-1330-118-3.)"><br>Playfield Plastic*</span></a><br><font size="-2">297x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36509" 
+><span title="Image # 36509: Old Chicago Playfield Plastic 
+(Part number M-1330-118-4.)"><img src="https://www.ipdb.org/images/1704/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=32 height=100 alt="Image # 36509: Old Chicago Playfield Plastic 
+(Part number M-1330-118-4.)"><br>Playfield Plastic*</span></a><br><font size="-2">324x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36510" 
+><span title="Image # 36510: Old Chicago Playfield Plastic 
+(Part number M-1330-118-5.)"><img src="https://www.ipdb.org/images/1704/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=45 height=100 alt="Image # 36510: Old Chicago Playfield Plastic 
+(Part number M-1330-118-5.)"><br>Playfield Plastic*</span></a><br><font size="-2">457x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36511" 
+><span title="Image # 36511: Old Chicago Playfield Plastic 
+(Part number M-1330-118-6.)"><img src="https://www.ipdb.org/images/1704/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=37 height=100 alt="Image # 36511: Old Chicago Playfield Plastic 
+(Part number M-1330-118-6.)"><br>Playfield Plastic*</span></a><br><font size="-2">376x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36512" 
+><span title="Image # 36512: Old Chicago Playfield Plastic 
+(Part number M-1330-118-7.)"><img src="https://www.ipdb.org/images/1704/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 36512: Old Chicago Playfield Plastic 
+(Part number M-1330-118-7.)"><br>Playfield Plastic*</span></a><br><font size="-2">641x1024</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36513" 
+><span title="Image # 36513: Old Chicago Playfield Plastic 
+(Part number M-1330-118-8.)"><img src="https://www.ipdb.org/images/1704/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 36513: Old Chicago Playfield Plastic 
+(Part number M-1330-118-8.)"><br>Playfield Plastic*</span></a><br><font size="-2">695x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36514" 
+><span title="Image # 36514: Old Chicago Playfield Plastic 
+(Part number M-1330-118-9. )"><img src="https://www.ipdb.org/images/1704/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=50 height=100 alt="Image # 36514: Old Chicago Playfield Plastic 
+(Part number M-1330-118-9. )"><br>Playfield Plastic*</span></a><br><font size="-2">517x1024</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36515" 
+><span title="Image # 36515: Old Chicago Playfield Plastic 
+(Part number M-1330-118-10.)"><img src="https://www.ipdb.org/images/1704/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=90 alt="Image # 36515: Old Chicago Playfield Plastic 
+(Part number M-1330-118-10.)"><br>Playfield Plastic*</span></a><br><font size="-2">1024x926</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36516" 
+><span title="Image # 36516: Old Chicago Playfield Plastic 
+(Part number M-1330-118-11.)"><img src="https://www.ipdb.org/images/1704/tn_image-A21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 36516: Old Chicago Playfield Plastic 
+(Part number M-1330-118-11.)"><br>Playfield Plastic*</span></a><br><font size="-2">1024x714</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36517" 
+><span title="Image # 36517: Old Chicago Instruction Card "><img src="https://www.ipdb.org/images/1704/tn_image-A20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=64 alt="Image # 36517: Old Chicago Instruction Card "><br>Instruction Card</span></a><br><font size="-2">1024x651</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=36518" 
+><span title="Image # 36518: Old Chicago Score Card "><img src="https://www.ipdb.org/images/1704/tn_image-A8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 36518: Old Chicago Score Card "><br>Score Card</span></a><br><font size="-2">1024x646</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=45741" 
+><span title="Image # 45741: Old Chicago 100,000 Point Thresholds 
+(Relays are used to record for each player when 100,000 points are scored. Match number 50 is visible. From the game with serial number 39xx.)"><img src="https://www.ipdb.org/images/1704/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 45741: Old Chicago 100,000 Point Thresholds 
+(Relays are used to record for each player when 100,000 points are scored. Match number 50 is visible. From the game with serial number 39xx.)"><br>100,000 Point Thresholds*</span></a><br><font size="-2">1200x900</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=45742" 
+><span title="Image # 45742: Old Chicago Illuminated Playfield 
+(Serial number 39xx.)"><img src="https://www.ipdb.org/images/1704/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 45742: Old Chicago Illuminated Playfield 
+(Serial number 39xx.)"><br>Illuminated Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Jay Stafford]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=54695" 
+><span title="Image # 54695: Old Chicago Under Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 54695: Old Chicago Under Playfield "><br>Under Playfield</span></a><br><font size="-2">873x1600</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=54696" 
+><span title="Image # 54696: Old Chicago Under Upper Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54696: Old Chicago Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1200x1600</font><br>[John Gray]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=54697" 
+><span title="Image # 54697: Old Chicago Under Lower Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54697: Old Chicago Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1200x1600</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=54698" 
+><span title="Image # 54698: Old Chicago Inside Cabinet "><img src="https://www.ipdb.org/images/1704/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 54698: Old Chicago Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=54699" 
+><span title="Image # 54699: Old Chicago Inside Backbox "><img src="https://www.ipdb.org/images/1704/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 54699: Old Chicago Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1200x900</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=56498" 
+><span title="Image # 56498: Old Chicago Illuminated Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=52 height=100 alt="Image # 56498: Old Chicago Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">828x1600</font><br>[Nick Jaquay]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1704&amp;picno=59242" 
+><span title="Image # 59242: Old Chicago Stripped Playfield "><img src="https://www.ipdb.org/images/1704/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=48 height=100 alt="Image # 59242: Old Chicago Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">763x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td colspan=5>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

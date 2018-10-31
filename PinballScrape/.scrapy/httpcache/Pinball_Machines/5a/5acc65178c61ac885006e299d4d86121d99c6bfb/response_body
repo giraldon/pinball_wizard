@@ -1,0 +1,422 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Gottlieb 'Krull'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Gottlieb Krull Widebody Flippers (7), Pop bumpers (6), Slingshots (3), 4-bank drop targets (1), Kick-out holes (2). Three-level playfield. Bottom playfield viewed through reducing lens. 3 or 5 ball play.  Keith Parkinson John Trudeau ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Gottlieb 'Krull' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Krull</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="1397">Krull</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=1397">1397</a> <I>/ February, 1983 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">5.3 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=1397" target="showrate1397">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=1397" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'D. Gottlieb & Company, a Columbia Pictures Industries Company'"><a href="search.pl?searchtype=advanced&amp;mfgid=94">D. Gottlieb & Company, a Columbia Pictures Industries Company (1977-1983)<br><i>[Trade Name: Gottlieb</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1983</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>676</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=16">Gottlieb System 80A</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>10 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=1397">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Fantasy - Licensed Theme</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Specialty: </b></td><td colspan=4 align=left valign=baseline>Widebody&nbsp;<a href="glossary.php#Widebody" title="Explain this specialty" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a><br>
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (7), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (6), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (3), 4-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (1), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2). Three-level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Bottom <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> viewed through reducing lens. 3 or 5 ball play.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Trudeau' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Trudeau">John&nbsp;Trudeau</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Keith&nbsp;Parkinson' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Keith%20Parkinson">Keith&nbsp;Parkinson</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>'Krull' never went into production. <a target="glossary" class="glossarylink" href="/glossary.php#Designer">Designer</a> John Trudeau said that Ed Krynski made a <a target="glossary" class="glossarylink" href="/glossary.php#Prototype">prototype</a> with a <a target="glossary" class="glossarylink" href="/glossary.php#Transparent">transparent</a> <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> but it was deemed to expensive to produce.<br><br>Although the artwork is often attributed to Larry Day, Larry told us he was not the artist, but he remembers Keith Parkinson illustrating the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>. Larry is not sure who did the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. On a separate occasion, Margaret Hudson indicated she is not the artist.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 126<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 28<br>
+Mike Pacak's Pinball Flyer Reference Book G-R<br>
+</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>PinMAME Romset <!-- gid 1397 krull.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 12 KB</td><td align=left nowrap width="5%">&nbsp;ZIP&nbsp;</td><td align=left>ROMs <!-- gid 1397 Gottlieb_1983_Krull_ROMs.zip -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [D&#46; Gottlieb & Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 4 MB</td><td align=left nowrap width="5%">&nbsp;PDF&nbsp;</td><td align=left>English Manual <!-- gid 1397 Gottlieb_1983_Krull_Manual.pdf -->(<a href="faq.html#faq17"><i>Availability limited by copyright</i></a>)&nbsp;&nbsp;&nbsp;&nbsp;</td><td> [D&#46; Gottlieb & Co&#46;, a Columbia Pictures Industries Company]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=1344" 
+><span title="Image # 1344: Krull Backglass "><img src="https://www.ipdb.org/images/1397/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=98 height=100 alt="Image # 1344: Krull Backglass "><br>Backglass</span></a><br><font size="-2">420x428</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=1346" 
+><span title="Image # 1346: Krull Playfield "><img src="https://www.ipdb.org/images/1397/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=90 height=100 alt="Image # 1346: Krull Playfield "><br>Playfield</span></a><br><font size="-2">478x535</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=6171" 
+><span title="Image # 6171: Krull Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 6171: Krull Playfield "><br>Playfield</span></a><br><font size="-2">764x1012</font><br>[Riffhard]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=6172" 
+><span title="Image # 6172: Krull Backglass "><img src="https://www.ipdb.org/images/1397/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 6172: Krull Backglass "><br>Backglass</span></a><br><font size="-2">724x617</font><br>[Riffhard]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=9913" 
+><span title="Image # 9913: Krull Cabinet - Full View "><img src="https://www.ipdb.org/images/1397/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 9913: Krull Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">642x944</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=10488" 
+><span title="Image # 10488: Krull Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 10488: Krull Playfield "><br>Playfield</span></a><br><font size="-2">681x969</font><br>[John Trudeau]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=10489" 
+><span title="Image # 10489: Krull Cabinet - Front View "><img src="https://www.ipdb.org/images/1397/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 10489: Krull Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">681x969</font><br>[John Trudeau]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=10490" 
+><span title="Image # 10490: Krull Playfield Inset Detail "><img src="https://www.ipdb.org/images/1397/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 10490: Krull Playfield Inset Detail "><br>Playfield Inset Detail</span></a><br><font size="-2">969x681</font><br>[John Trudeau]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=10491" 
+><span title="Image # 10491: Krull Cabinet - Left "><img src="https://www.ipdb.org/images/1397/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 10491: Krull Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">681x969</font><br>[John Trudeau]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=10492" 
+><span title="Image # 10492: Krull Whitewood "><img src="https://www.ipdb.org/images/1397/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 10492: Krull Whitewood "><br>Whitewood</span></a><br><font size="-2">758x768</font><br>[John Trudeau]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=38687" 
+><span title="Image # 38687: Krull Behind Backglass "><img src="https://www.ipdb.org/images/1397/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=92 alt="Image # 38687: Krull Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">523x480</font><br>[Basil LeBlanc]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=38688" 
+><span title="Image # 38688: Krull Inside Backbox "><img src="https://www.ipdb.org/images/1397/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=86 alt="Image # 38688: Krull Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">640x550</font><br>[Basil LeBlanc]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=38689" 
+><span title="Image # 38689: Krull Under Main Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 38689: Krull Under Main Playfield "><br>Under Main Playfield</span></a><br><font size="-2">590x640</font><br>[Basil LeBlanc]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=38690" 
+><span title="Image # 38690: Krull Lower Level Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 38690: Krull Lower Level Playfield "><br>Lower Level Playfield</span></a><br><font size="-2">480x640</font><br>[Basil LeBlanc]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=38691" 
+><span title="Image # 38691: Krull Instruction Card "><img src="https://www.ipdb.org/images/1397/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 38691: Krull Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x450</font><br>[Basil LeBlanc]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47854" 
+><span title="Image # 47854: Krull Upper Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47854: Krull Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47855" 
+><span title="Image # 47855: Krull Upper Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47855: Krull Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47856" 
+><span title="Image # 47856: Krull Upper Left Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47856: Krull Upper Left Playfield "><br>Upper Left Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47857" 
+><span title="Image # 47857: Krull Upper Right Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47857: Krull Upper Right Playfield "><br>Upper Right Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47858" 
+><span title="Image # 47858: Krull Middle Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47858: Krull Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47859" 
+><span title="Image # 47859: Krull Left Middle Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47859: Krull Left Middle Playfield "><br>Left Middle Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47860" 
+><span title="Image # 47860: Krull Right Middle Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47860: Krull Right Middle Playfield "><br>Right Middle Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47861" 
+><span title="Image # 47861: Krull Lower Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47861: Krull Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47862" 
+><span title="Image # 47862: Krull Lower Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47862: Krull Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47863" 
+><span title="Image # 47863: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47863: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47864" 
+><span title="Image # 47864: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47864: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47865" 
+><span title="Image # 47865: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47865: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47866" 
+><span title="Image # 47866: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47866: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47867" 
+><span title="Image # 47867: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47867: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47868" 
+><span title="Image # 47868: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47868: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47869" 
+><span title="Image # 47869: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47869: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47870" 
+><span title="Image # 47870: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47870: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47871" 
+><span title="Image # 47871: Krull Playfield - Detail "><img src="https://www.ipdb.org/images/1397/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47871: Krull Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47872" 
+><span title="Image # 47872: Krull Cabinet - Front View "><img src="https://www.ipdb.org/images/1397/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47872: Krull Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x1803</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47873" 
+><span title="Image # 47873: Krull Cabinet - Front View "><img src="https://www.ipdb.org/images/1397/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47873: Krull Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">1200x1803</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47874" 
+><span title="Image # 47874: Krull Inside Cabinet "><img src="https://www.ipdb.org/images/1397/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47874: Krull Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1803</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47875" 
+><span title="Image # 47875: Krull Under Upper Main Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47875: Krull Under Upper Main Playfield "><br>Under Upper Main Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47876" 
+><span title="Image # 47876: Krull Under Middle Main Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47876: Krull Under Middle Main Playfield "><br>Under Middle Main Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47877" 
+><span title="Image # 47877: Krull Under Lower Main Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47877: Krull Under Lower Main Playfield "><br>Under Lower Main Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47878" 
+><span title="Image # 47878: Krull Lower Level Playfield "><img src="https://www.ipdb.org/images/1397/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47878: Krull Lower Level Playfield "><br>Lower Level Playfield</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47879" 
+><span title="Image # 47879: Krull Cabinet - Right "><img src="https://www.ipdb.org/images/1397/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 47879: Krull Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">964x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47880" 
+><span title="Image # 47880: Krull Backbox - Right "><img src="https://www.ipdb.org/images/1397/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 47880: Krull Backbox - Right "><br>Backbox - Right</span></a><br><font size="-2">1200x1803</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=47881" 
+><span title="Image # 47881: Krull Cabinet - Front "><img src="https://www.ipdb.org/images/1397/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 47881: Krull Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">1200x798</font><br>[Mark Clayton]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67576" 
+><span title="Image # 67576: Krull Backglass 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=99 alt="Image # 67576: Krull Backglass 
+(Serial number 01009E.)"><br>Backglass*</span></a><br><font size="-2">1200x1191</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67577" 
+><span title="Image # 67577: Krull Illuminated Backglass 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-47.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 67577: Krull Illuminated Backglass 
+(Serial number 01009E.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1200x1196</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67578" 
+><span title="Image # 67578: Krull Illuminated Backglass - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 67578: Krull Illuminated Backglass - Detail 
+(Serial number 01009E.)"><br>Illuminated Backglass - Detail*</span></a><br><font size="-2">1200x1511</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67579" 
+><span title="Image # 67579: Krull Backglass - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=65 alt="Image # 67579: Krull Backglass - Detail 
+(Serial number 01009E.)"><br>Backglass - Detail*</span></a><br><font size="-2">1200x776</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67580" 
+><span title="Image # 67580: Krull Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-59.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=55 height=100 alt="Image # 67580: Krull Playfield 
+(Serial number 01009E.)"><br>Playfield*</span></a><br><font size="-2">872x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67581" 
+><span title="Image # 67581: Krull Upper Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-67.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 67581: Krull Upper Playfield 
+(Serial number 01009E.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x720</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67582" 
+><span title="Image # 67582: Krull Upper Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-65.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 67582: Krull Upper Playfield 
+(Serial number 01009E.)"><br>Upper Playfield*</span></a><br><font size="-2">1200x530</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67583" 
+><span title="Image # 67583: Krull Middle Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-60.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=61 alt="Image # 67583: Krull Middle Playfield 
+(Serial number 01009E.)"><br>Middle Playfield*</span></a><br><font size="-2">1200x732</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67584" 
+><span title="Image # 67584: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-61.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 67584: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x1008</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67585" 
+><span title="Image # 67585: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-69.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 67585: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1004x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67586" 
+><span title="Image # 67586: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-63.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=40 alt="Image # 67586: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x482</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67587" 
+><span title="Image # 67587: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-66.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=54 alt="Image # 67587: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1600x870</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67588" 
+><span title="Image # 67588: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-71.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=77 alt="Image # 67588: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x924</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67589" 
+><span title="Image # 67589: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-70.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 67589: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x792</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67590" 
+><span title="Image # 67590: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-62.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=70 alt="Image # 67590: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x842</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67591" 
+><span title="Image # 67591: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-72.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=58 alt="Image # 67591: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x701</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67592" 
+><span title="Image # 67592: Krull Pop Bumper Cap 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-49.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 67592: Krull Pop Bumper Cap 
+(Serial number 01009E.)"><br>Pop Bumper Cap*</span></a><br><font size="-2">1200x1180</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67593" 
+><span title="Image # 67593: Krull Illuminated Pop Bumper Cap 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-50.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 67593: Krull Illuminated Pop Bumper Cap 
+(Serial number 01009E.)"><br>Illuminated Pop Bumper Cap*</span></a><br><font size="-2">1200x1164</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67594" 
+><span title="Image # 67594: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-64.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=61 height=100 alt="Image # 67594: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">983x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67595" 
+><span title="Image # 67595: Krull Playfield - Detail 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-68.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 67595: Krull Playfield - Detail 
+(Serial number 01009E.)"><br>Playfield - Detail*</span></a><br><font size="-2">1200x1468</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67596" 
+><span title="Image # 67596: Krull Lower Level Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-56.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=62 height=100 alt="Image # 67596: Krull Lower Level Playfield 
+(Serial number 01009E.)"><br>Lower Level Playfield*</span></a><br><font size="-2">997x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67597" 
+><span title="Image # 67597: Krull Lower Level Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-57.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 67597: Krull Lower Level Playfield 
+(Serial number 01009E.)"><br>Lower Level Playfield*</span></a><br><font size="-2">1200x1198</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67598" 
+><span title="Image # 67598: Krull Lower Level Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-58.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 67598: Krull Lower Level Playfield 
+(Serial number 01009E.)"><br>Lower Level Playfield*</span></a><br><font size="-2">1200x1562</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67599" 
+><span title="Image # 67599: Krull Cabinet - Left 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-51.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=44 alt="Image # 67599: Krull Cabinet - Left 
+(Serial number 01009E.)"><br>Cabinet - Left*</span></a><br><font size="-2">1600x704</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67600" 
+><span title="Image # 67600: Krull Cabinet - Right 
+(The backbox insert has been hinged outward. Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-73.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 67600: Krull Cabinet - Right 
+(The backbox insert has been hinged outward. Serial number 01009E.)"><br>Cabinet - Right*</span></a><br><font size="-2">1200x1175</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67601" 
+><span title="Image # 67601: Krull Cabinet - Full View 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-53.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=78 height=100 alt="Image # 67601: Krull Cabinet - Full View 
+(Serial number 01009E.)"><br>Cabinet - Full View*</span></a><br><font size="-2">1200x1536</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67602" 
+><span title="Image # 67602: Krull Cabinet - Full View 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-54.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 67602: Krull Cabinet - Full View 
+(Serial number 01009E.)"><br>Cabinet - Full View*</span></a><br><font size="-2">1200x1664</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67603" 
+><span title="Image # 67603: Krull Backglass - Reverse 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-48.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=100 alt="Image # 67603: Krull Backglass - Reverse 
+(Serial number 01009E.)"><br>Backglass - Reverse*</span></a><br><font size="-2">1200x1200</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67604" 
+><span title="Image # 67604: Krull Backbox Insert 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 67604: Krull Backbox Insert 
+(Serial number 01009E.)"><br>Backbox Insert*</span></a><br><font size="-2">1200x1148</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67605" 
+><span title="Image # 67605: Krull Illuminated Backbox Insert 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 67605: Krull Illuminated Backbox Insert 
+(Serial number 01009E.)"><br>Illuminated Backbox Insert*</span></a><br><font size="-2">1200x1147</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67606" 
+><span title="Image # 67606: Krull Inside Backbox 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-55.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 67606: Krull Inside Backbox 
+(Serial number 01009E.)"><br>Inside Backbox*</span></a><br><font size="-2">1200x1150</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67607" 
+><span title="Image # 67607: Krull Under Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-75.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=59 height=100 alt="Image # 67607: Krull Under Playfield 
+(Serial number 01009E.)"><br>Under Playfield*</span></a><br><font size="-2">942x1600</font><br>[Jean-Pierre Renault]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67608" 
+><span title="Image # 67608: Krull Under Playfield 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-76.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 67608: Krull Under Playfield 
+(Serial number 01009E.)"><br>Under Playfield*</span></a><br><font size="-2">1082x1600</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67609" 
+><span title="Image # 67609: Krull Fuse List 
+(Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-52.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=46 alt="Image # 67609: Krull Fuse List 
+(Serial number 01009E.)"><br>Fuse List*</span></a><br><font size="-2">1200x550</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=1397&amp;picno=67610" 
+><span title="Image # 67610: Krull Serial Number 
+(Located on the inner cabinet wall above shooter lane. Serial number 01009E.)"><img src="https://www.ipdb.org/images/1397/tn_image-74.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=63 alt="Image # 67610: Krull Serial Number 
+(Located on the inner cabinet wall above shooter lane. Serial number 01009E.)"><br>Serial Number*</span></a><br><font size="-2">1200x754</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

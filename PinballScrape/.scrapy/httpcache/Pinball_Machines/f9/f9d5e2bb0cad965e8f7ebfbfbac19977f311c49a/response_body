@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Spinball S.A.L. 'Mach 2.0 Two'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Spinball S.A.L. Mach 2.0 Two 3 or 5 ball play. The two aircraft models on the playfield are a SAAB JAS 39 Gripen fighter and a General Dynamics F-111-A Aardvark fighter-bomber.  ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Spinball S.A.L. 'Mach 2.0 Two' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Mach 2.0 Two</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4617">Mach 2.0 Two</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4617">4617</a> <I>/ 1995 </I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">6.6 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=4617" target="showrate4617">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4617" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Spinball S.A.L.'"><a href="search.pl?searchtype=advanced&amp;mfgid=375">Spinball S.A.L., <font size="-1">of Fuenlabrada, Spain</font> (1995-1996)</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>1995</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>2278</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4617">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Aviation</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline>3 or 5 ball play.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>The two aircraft models on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> are a SAAB JAS 39 Gripen fighter and a General Dynamics F-111-A Aardvark fighter-bomber.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>The manufacturer's flyer and game manual refer to this game as 'Mach 2' while the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> shows 'Mach 2.0 Two'.<br><br>Designed by Inder before they closed.<P></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 961 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4617/mach2.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 14 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4617/Spinball_1995_Mach_2_Manual.pdf" onClick="return purchasemanual();">Spanish Manual (with paginated schematics)</a></td><td> [Spinball S&#46;A&#46;L&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=19994" 
+><span title="Image # 19994: Mach 2.0 Two Flyer "><img src="https://www.ipdb.org/images/4617/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=71 height=100 alt="Image # 19994: Mach 2.0 Two Flyer "><br>Flyer</span></a><br><font size="-2">1010x1430</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37215" 
+><span title="Image # 37215: Mach 2.0 Two Backglass "><img src="https://www.ipdb.org/images/4617/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 37215: Mach 2.0 Two Backglass "><br>Backglass</span></a><br><font size="-2">922x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37216" 
+><span title="Image # 37216: Mach 2.0 Two Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=85 height=100 alt="Image # 37216: Mach 2.0 Two Playfield "><br>Playfield</span></a><br><font size="-2">652x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37217" 
+><span title="Image # 37217: Mach 2.0 Two Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37217: Mach 2.0 Two Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37218" 
+><span title="Image # 37218: Mach 2.0 Two Upper Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37218: Mach 2.0 Two Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37219" 
+><span title="Image # 37219: Mach 2.0 Two Middle Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37219: Mach 2.0 Two Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37220" 
+><span title="Image # 37220: Mach 2.0 Two Middle Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37220: Mach 2.0 Two Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37221" 
+><span title="Image # 37221: Mach 2.0 Two Center Ramp "><img src="https://www.ipdb.org/images/4617/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37221: Mach 2.0 Two Center Ramp "><br>Center Ramp</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37222" 
+><span title="Image # 37222: Mach 2.0 Two Lower Left Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37222: Mach 2.0 Two Lower Left Playfield "><br>Lower Left Playfield</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37223" 
+><span title="Image # 37223: Mach 2.0 Two Right Slingshot "><img src="https://www.ipdb.org/images/4617/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 37223: Mach 2.0 Two Right Slingshot "><br>Right Slingshot</span></a><br><font size="-2">1024x768</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=37224" 
+><span title="Image # 37224: Mach 2.0 Two Cabinet - Left "><img src="https://www.ipdb.org/images/4617/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=82 height=100 alt="Image # 37224: Mach 2.0 Two Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">626x768</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38856" 
+><span title="Image # 38856: Mach 2.0 Two Illuminated Backglass 
+(The white aircraft toy at the bottom of this image is not factory original.)"><img src="https://www.ipdb.org/images/4617/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 38856: Mach 2.0 Two Illuminated Backglass 
+(The white aircraft toy at the bottom of this image is not factory original.)"><br>Illuminated Backglass*</span></a><br><font size="-2">1024x1432</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38858" 
+><span title="Image # 38858: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38858: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38862" 
+><span title="Image # 38862: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38862: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38863" 
+><span title="Image # 38863: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38863: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38864" 
+><span title="Image # 38864: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 38864: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1531</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38865" 
+><span title="Image # 38865: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 38865: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x1531</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38868" 
+><span title="Image # 38868: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38868: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38870" 
+><span title="Image # 38870: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38870: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38872" 
+><span title="Image # 38872: Mach 2.0 Two Inside Cabinet "><img src="https://www.ipdb.org/images/4617/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 38872: Mach 2.0 Two Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1024x1531</font><br>[Vincent Giovannone]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38873" 
+><span title="Image # 38873: Mach 2.0 Two Under Lower Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38873: Mach 2.0 Two Under Lower Playfield "><br>Under Lower Playfield</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38874" 
+><span title="Image # 38874: Mach 2.0 Two Under Middle Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38874: Mach 2.0 Two Under Middle Playfield "><br>Under Middle Playfield</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38875" 
+><span title="Image # 38875: Mach 2.0 Two Under Upper Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 38875: Mach 2.0 Two Under Upper Playfield "><br>Under Upper Playfield</span></a><br><font size="-2">1024x685</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38876" 
+><span title="Image # 38876: Mach 2.0 Two Behind Backglass "><img src="https://www.ipdb.org/images/4617/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 38876: Mach 2.0 Two Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">686x626</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=38877" 
+><span title="Image # 38877: Mach 2.0 Two Inside Backbox "><img src="https://www.ipdb.org/images/4617/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=99 height=100 alt="Image # 38877: Mach 2.0 Two Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">678x686</font><br>[Vincent Giovannone]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=59229" 
+><span title="Image # 59229: Mach 2.0 Two Illuminated Lower Playfield "><img src="https://www.ipdb.org/images/4617/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 59229: Mach 2.0 Two Illuminated Lower Playfield "><br>Illuminated Lower Playfield</span></a><br><font size="-2">1023x911</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=59230" 
+><span title="Image # 59230: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=55 alt="Image # 59230: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1022x563</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=59231" 
+><span title="Image # 59231: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=91 alt="Image # 59231: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">753x682</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=59232" 
+><span title="Image # 59232: Mach 2.0 Two Playfield - Detail "><img src="https://www.ipdb.org/images/4617/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 59232: Mach 2.0 Two Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1024x852</font><br>[Vincent Giovannone]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67611" 
+><span title="Image # 67611: Mach 2.0 Two Backglass Detail 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67611: Mach 2.0 Two Backglass Detail 
+(Serial number 000284.)"><br>Backglass Detail*</span></a><br><font size="-2">1200x900</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67612" 
+><span title="Image # 67612: Mach 2.0 Two Backglass Serial Number 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 67612: Mach 2.0 Two Backglass Serial Number 
+(Serial number 000284.)"><br>Backglass Serial Number*</span></a><br><font size="-2">1024x696</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67613" 
+><span title="Image # 67613: Mach 2.0 Two Illuminated Playfield - Ball View 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67613: Mach 2.0 Two Illuminated Playfield - Ball View 
+(Serial number 000284.)"><br>Illuminated Playfield - Ball View*</span></a><br><font size="-2">1200x900</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67614" 
+><span title="Image # 67614: Mach 2.0 Two Plane  - Illuminated Cockpit 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67614: Mach 2.0 Two Plane  - Illuminated Cockpit 
+(Serial number 000284.)"><br>Plane  - Illuminated Cockpit*</span></a><br><font size="-2">1200x900</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67615" 
+><span title="Image # 67615: Mach 2.0 Two Plane 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67615: Mach 2.0 Two Plane 
+(Serial number 000284.)"><br>Plane*</span></a><br><font size="-2">1200x900</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67616" 
+><span title="Image # 67616: Mach 2.0 Two Illuminated Playfield - Detail 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 67616: Mach 2.0 Two Illuminated Playfield - Detail 
+(Serial number 000284.)"><br>Illuminated Playfield - Detail*</span></a><br><font size="-2">1200x900</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67617" 
+><span title="Image # 67617: Mach 2.0 Two Illuminated Playfield - Detail 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67617: Mach 2.0 Two Illuminated Playfield - Detail 
+(Serial number 000284.)"><br>Illuminated Playfield - Detail*</span></a><br><font size="-2">1200x1600</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67618" 
+><span title="Image # 67618: Mach 2.0 Two Manufacturer Plaque 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=62 alt="Image # 67618: Mach 2.0 Two Manufacturer Plaque 
+(Serial number 000284.)"><br>Manufacturer Plaque*</span></a><br><font size="-2">1200x742</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67619" 
+><span title="Image # 67619: Mach 2.0 Two Playfield in Service Position 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67619: Mach 2.0 Two Playfield in Service Position 
+(Serial number 000284.)"><br>Playfield in Service Position*</span></a><br><font size="-2">1200x1600</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67620" 
+><span title="Image # 67620: Mach 2.0 Two Under Upper Playfield 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67620: Mach 2.0 Two Under Upper Playfield 
+(Serial number 000284.)"><br>Under Upper Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67621" 
+><span title="Image # 67621: Mach 2.0 Two Under Lower Playfield 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 67621: Mach 2.0 Two Under Lower Playfield 
+(Serial number 000284.)"><br>Under Lower Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67622" 
+><span title="Image # 67622: Mach 2.0 Two Flipper Mechanism with PCB 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=97 alt="Image # 67622: Mach 2.0 Two Flipper Mechanism with PCB 
+(Serial number 000284.)"><br>Flipper Mechanism with PCB*</span></a><br><font size="-2">1200x1162</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67623" 
+><span title="Image # 67623: Mach 2.0 Two Inside Cabinet - Front 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 67623: Mach 2.0 Two Inside Cabinet - Front 
+(Serial number 000284.)"><br>Inside Cabinet - Front*</span></a><br><font size="-2">1200x1017</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67624" 
+><span title="Image # 67624: Mach 2.0 Two Inside Cabinet - Rear 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=92 height=100 alt="Image # 67624: Mach 2.0 Two Inside Cabinet - Rear 
+(Serial number 000284.)"><br>Inside Cabinet - Rear*</span></a><br><font size="-2">1200x1305</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67625" 
+><span title="Image # 67625: Mach 2.0 Two DPU 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 67625: Mach 2.0 Two DPU 
+(Serial number 000284.)"><br>DPU*</span></a><br><font size="-2">995x1200</font><br>[Lee Buck]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67626" 
+><span title="Image # 67626: Mach 2.0 Two Driver Board 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 67626: Mach 2.0 Two Driver Board 
+(Serial number 000284.)"><br>Driver Board*</span></a><br><font size="-2">1200x1023</font><br>[Lee Buck]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4617&amp;picno=67627" 
+><span title="Image # 67627: Mach 2.0 Two Power Board 
+(Serial number 000284.)"><img src="https://www.ipdb.org/images/4617/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=56 alt="Image # 67627: Mach 2.0 Two Power Board 
+(Serial number 000284.)"><br>Power Board*</span></a><br><font size="-2">1200x672</font><br>[Lee Buck]</td>
+<td colspan=4>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

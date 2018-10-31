@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Williams 'Black Knight'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Williams Black Knight Flippers (4), Pop bumper (1), 3-bank drop targets (4), Kick-out holes (2), Rollunder spinner (1). Magna-Save on both inlanes. Split-Level Playfield with 3 ramps. Left horseshoe lane. Bonus Ball, 2- or 3-ball Multiball.  Tony Ramunni Steve Ritchie Larry DeMar John Kotlarik ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Williams 'Black Knight' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Black Knight</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="310">Black Knight</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=310">310</a> <I>/ November, 1980 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=310" target="showrate310"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>8.0</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=310" target="showrate310">171 ratings/122 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=310" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Williams'"><a href="search.pl?searchtype=advanced&amp;mfgid=351">Williams Electronics, Incorporated (1967-1985) <i>[Trade Name: Williams</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>November, 1980</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>500</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>BK</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=4">Williams System 7</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>13,075 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=310">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Historical - Knights</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumper</a> (1), 3-bank <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;targets</a> (4), <a target="glossary" class="glossarylink" href="/glossary.php#Kick-out_Hole">Kick-out&nbsp;holes</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Rollunder_Spinner">Rollunder&nbsp;spinner</a> (1). <a target="glossary" class="glossarylink" href="/glossary.php#Magna-Save">Magna-Save</a> on both <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlanes</a>. Split-Level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">Playfield</a> with 3 <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a>. Left <a target="glossary" class="glossarylink" href="/glossary.php#Horseshoe_Lane">horseshoe&nbsp;lane</a>. Bonus Ball, 2- or 3-ball <a target="glossary" class="glossarylink" href="/glossary.php#Multiball">Multiball</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Steve&nbsp;Ritchie' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Steve%20Ritchie">Steve&nbsp;Ritchie</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Tony&nbsp;Ramunni' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Tony%20Ramunni">Tony&nbsp;Ramunni</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'John&nbsp;Kotlarik' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=John%20Kotlarik">John&nbsp;Kotlarik</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Larry&nbsp;DeMar' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Larry%20DeMar">Larry&nbsp;DeMar</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>For several Williams games (especially before 1987), Speech Processing was a separate task than Software Programming and may have been done by a different person than whom we list as having done the Software. Paul Dussault did the English Speech Processing for this game.<br><br>Black Knight' introduced '<a target="glossary" class="glossarylink" href="/glossary.php#Magna-Save">Magna-Save</a>' and the Bonus Ball concept where the player with the highest score won additional seconds of <a target="glossary" class="glossarylink" href="/glossary.php#Free_Play">free&nbsp;play</a>. <a target="glossary" class="glossarylink" href="/glossary.php#Magna-Save">Magna-Save</a> was a feature where a user could press a button on either side and <a target="glossary" class="glossarylink" href="/glossary.php#Magnet">magnets</a> would prevent the ball from draining via that <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a>. It would stop and hold the ball and drop it into the <a target="glossary" class="glossarylink" href="/glossary.php#Inlane">inlane</a>. The user had to perform some task to re-enable magnasave.<br><br>Steve Ritchie confirmed his voice was used on this game.<br><br><P>Comments from <a target="glossary" class="glossarylink" href="/glossary.php#Designer">designer</a> Steve Ritchie:<P style="padding-left:30px;"><i>Black Knight was the first game ever to employ faceted <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> (the <a target="glossary" class="glossarylink" href="/glossary.php#Transparent">transparent</a> inlaid plastic windows) in the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. My design was a simple eight-sided "Jewel Look", but <a target="glossary" class="glossarylink" href="/glossary.php#Insert">insert</a> texturing progressed from there to many different designs, finally settling on refracting radial lines originating at the center of round and rectangular <a target="glossary" class="glossarylink" href="/glossary.php#Insert">inserts</a> and from points of arrows and lightning bolts, etc.</i></P><br>In the beginning of the production run, the transformer was located in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>, and the game used power supply board part# D-7999, with a stand-alone General Illumination Relay mounted to the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> floor. During production, the transformer was moved to the lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> and the G.I. Relay was then mounted on a new power supply board, part# D-8345.<br><br>Pictured in this listing is the inside <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a> of an Early Production game having System 7 boards in it, except for the power supply board which is System 6. The serial number of the game is 460804 and the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> has "Dec 2 1980" on it. Reportedly, several more games with System 6 power supplies have been sighted in Germany and they likely are also Early Production, but no serial numbers for them have been identified to us.<br><br>From France, we have a picture of the inside lower <a target="glossary" class="glossarylink" href="/glossary.php#Cabinet">cabinet</a> for an Early Production game having serial number 458205 and the owner states it has a regular System 6 Power board. This picture shows a board upon which rests the line filter and the main power fuse. The transformer, normally found on this board in later games in the production run, is located in the <a target="glossary" class="glossarylink" href="/glossary.php#Backbox">backbox</a>.<br><br>Also pictured in this listing is a Pre-Production <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a> owned for many years by Steve Ritchie. The knight's armor is a teal color, not gray like in production glasses. Only one was made. The current owner states this glass is a lot thinner than regular <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglasses</a>, and that artist Tony Ramunni's signature on it is different.<br><br>Also pictured in this listing is a stripped <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> from the game with serial number 457797. Three of the four slots cut into this <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> for the <a target="glossary" class="glossarylink" href="/glossary.php#Drop_Target">drop&nbsp;target</a> banks also have a cutout to support a vertical rebound switch. The switch can be seen in the flyer game if one looks carefully at the center drop bank. We do not know how many production games had these switches. Games that do not have switches might still have the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> cutouts. Other games might not even have the cut outs. Steve Ritchie explains:<P style="padding-left:30px;"><i>The switch was removed because it never really got a chance to be hit much.  The timers would reset the banks, so they weren't exposed often enough to justify the cost of keeping them.</I><P><br>'Black Knight' was the first <i>solid state</i> game with a multi-level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a>. Examples of earlier games with multi-level <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfields</a> are <span title="Click here to open a new window and display Fisher & Coe Manufacturing Company's 1933 'Grand Central'"><a target="game1067" href="machine.cgi?id=1067">Fisher & Coe Manufacturing Company's 1933 'Grand Central'</a></span> and <span title="Click here to open a new window and display Chicago Vending Company's 1934 'Three Point'"><a target="game2542" href="machine.cgi?id=2542">Chicago Vending Company's 1934 'Three Point'</a></span>.<P></td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Chicago Tribune December 31, 1989, pp. Sect. 10, p. 14-19.<br>
+Times Educational Supplement 3861, June 29, 1990, pp. 25.<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764337858/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764337858&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Complete Pinball Book</a>, pages 216-217,<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/088740619X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=088740619X&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Arcade Treasures</a>, page 114<br>
+Mike Pacak's Pinball Flyer Reference Book A-F<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764308955/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764308955&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Machines (Eiden-Lukas)</a>, pages 28 and 110<br>
+Pinball The Lure of the Silverball, page 8<br>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764326090/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764326090&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">Pinball Perspectives</a>, page 211<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/310/blackkni.htm" target="rulesheet">Black Knight Rulesheet, by Ray Johnson</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Owners List URL:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://pinball.jameswest.com/ownerslists/ownerslist.php?bk">http://pinball.jameswest.com/ownerslists/ownerslist.php?bk</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 71 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/bk_f4.zip" >French Speech Romset</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 72 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/bk_l4.zip" >PinMAME Romset (L-4)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 29 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/Williams_1980_Black_Knight_ROM_L_4.zip" >ROM L-4</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 21 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/Williams_1980_Black_Knight_English_Manual_with_paginated_schematics.pdf" onClick="return purchasemanual();">English Manual (with paginated schematics)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 25 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/Williams_1980_Black_Knight_Schematic_Diagrams_paginated.pdf" onClick="return purchasemanual();">Schematic Diagrams (paginated)</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 3 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/bkmicroswitchkit.pdf" >A-8762 Microswitch Retrofit Kit</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 1 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/310/Williams_1980_Black_Knight_Operators_Handbook.pdf" >Instruction Booklet</a></td><td> [Williams Electronics, Inc&#46;]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=298" 
+><span title="Image # 298: Black Knight Playfield "><img src="https://www.ipdb.org/images/310/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=70 height=100 alt="Image # 298: Black Knight Playfield "><br>Playfield</span></a><br><font size="-2">380x542</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=299" 
+><span title="Image # 299: Black Knight Full View "><img src="https://www.ipdb.org/images/310/tn_Overall_view.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 299: Black Knight Full View "><br>Full View</span></a><br><font size="-2">362x498</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=5879" 
+><span title="Image # 5879: Black Knight Flyer, Front "><img src="https://www.ipdb.org/images/310/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 5879: Black Knight Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">875x1154</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=5880" 
+><span title="Image # 5880: Black Knight Flyer, Pg 2 "><img src="https://www.ipdb.org/images/310/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 5880: Black Knight Flyer, Pg 2 "><br>Flyer, Pg 2</span></a><br><font size="-2">875x1141</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=5881" 
+><span title="Image # 5881: Black Knight Flyer, Pg 3 "><img src="https://www.ipdb.org/images/310/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=83 height=100 alt="Image # 5881: Black Knight Flyer, Pg 3 "><br>Flyer, Pg 3</span></a><br><font size="-2">875x1048</font><br>[Russ Jensen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=5882" 
+><span title="Image # 5882: Black Knight Flyer, Pg 4 "><img src="https://www.ipdb.org/images/310/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=73 height=100 alt="Image # 5882: Black Knight Flyer, Pg 4 "><br>Flyer, Pg 4</span></a><br><font size="-2">875x1201</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=5883" 
+><span title="Image # 5883: Black Knight Flyer, Pg 5 "><img src="https://www.ipdb.org/images/310/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 5883: Black Knight Flyer, Pg 5 "><br>Flyer, Pg 5</span></a><br><font size="-2">875x1160</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=5884" 
+><span title="Image # 5884: Black Knight Flyer, Back "><img src="https://www.ipdb.org/images/310/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=76 height=100 alt="Image # 5884: Black Knight Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">875x1144</font><br>[Russ Jensen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=11838" 
+><span title="Image # 11838: Black Knight Lower Playfield "><img src="https://www.ipdb.org/images/310/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11838: Black Knight Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=11839" 
+><span title="Image # 11839: Black Knight Upper Playfield "><img src="https://www.ipdb.org/images/310/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11839: Black Knight Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">640x480</font><br>&nbsp;</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=15997" 
+><span title="Image # 15997: Black Knight Backglass "><img src="https://www.ipdb.org/images/310/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=85 alt="Image # 15997: Black Knight Backglass "><br>Backglass</span></a><br><font size="-2">565x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=15998" 
+><span title="Image # 15998: Black Knight Illuminated Playfield "><img src="https://www.ipdb.org/images/310/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 15998: Black Knight Illuminated Playfield "><br>Illuminated Playfield</span></a><br><font size="-2">914x1345</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=15999" 
+><span title="Image # 15999: Black Knight Illuminated Ball View "><img src="https://www.ipdb.org/images/310/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 15999: Black Knight Illuminated Ball View "><br>Illuminated Ball View</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16000" 
+><span title="Image # 16000: Black Knight Cabinet - Left "><img src="https://www.ipdb.org/images/310/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=89 alt="Image # 16000: Black Knight Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">538x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16001" 
+><span title="Image # 16001: Black Knight Cabinet - Right "><img src="https://www.ipdb.org/images/310/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 16001: Black Knight Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">497x477</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16002" 
+><span title="Image # 16002: Black Knight Cabinet - Front "><img src="https://www.ipdb.org/images/310/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16002: Black Knight Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16003" 
+><span title="Image # 16003: Black Knight Under Playfield "><img src="https://www.ipdb.org/images/310/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16003: Black Knight Under Playfield "><br>Under Playfield</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16004" 
+><span title="Image # 16004: Black Knight Inside Cabinet "><img src="https://www.ipdb.org/images/310/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16004: Black Knight Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16005" 
+><span title="Image # 16005: Black Knight Inside Front Door "><img src="https://www.ipdb.org/images/310/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 16005: Black Knight Inside Front Door "><br>Inside Front Door</span></a><br><font size="-2">640x480</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16006" 
+><span title="Image # 16006: Black Knight Inside Backbox "><img src="https://www.ipdb.org/images/310/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=87 alt="Image # 16006: Black Knight Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">551x480</font><br>[John Yates]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16007" 
+><span title="Image # 16007: Black Knight Backglass - Reverse "><img src="https://www.ipdb.org/images/310/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 16007: Black Knight Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">480x640</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16008" 
+><span title="Image # 16008: Black Knight Behind Backglass "><img src="https://www.ipdb.org/images/310/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=96 alt="Image # 16008: Black Knight Behind Backglass "><br>Behind Backglass</span></a><br><font size="-2">490x470</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=16009" 
+><span title="Image # 16009: Black Knight Illuminated Front View "><img src="https://www.ipdb.org/images/310/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=63 height=100 alt="Image # 16009: Black Knight Illuminated Front View "><br>Illuminated Front View</span></a><br><font size="-2">834x1324</font><br>[John Yates]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26688" 
+><span title="Image # 26688: Black Knight Front View "><img src="https://www.ipdb.org/images/310/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=66 height=100 alt="Image # 26688: Black Knight Front View "><br>Front View</span></a><br><font size="-2">1024x1543</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26689" 
+><span title="Image # 26689: Black Knight Playfield "><img src="https://www.ipdb.org/images/310/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 26689: Black Knight Playfield "><br>Playfield</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26690" 
+><span title="Image # 26690: Black Knight Upper Playfield "><img src="https://www.ipdb.org/images/310/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 26690: Black Knight Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26691" 
+><span title="Image # 26691: Black Knight LowerPlayfield "><img src="https://www.ipdb.org/images/310/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 26691: Black Knight LowerPlayfield "><br>LowerPlayfield</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26692" 
+><span title="Image # 26692: Black Knight Backglass "><img src="https://www.ipdb.org/images/310/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 26692: Black Knight Backglass "><br>Backglass</span></a><br><font size="-2">823x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26693" 
+><span title="Image # 26693: Black Knight Upper Playfield "><img src="https://www.ipdb.org/images/310/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 26693: Black Knight Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=26694" 
+><span title="Image # 26694: Black Knight Middle Playfield "><img src="https://www.ipdb.org/images/310/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=66 alt="Image # 26694: Black Knight Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x680</font><br>[Chris Lyon]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=30431" 
+><span title="Image # 30431: Black Knight Instruction Card "><img src="https://www.ipdb.org/images/310/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30431: Black Knight Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=30432" 
+><span title="Image # 30432: Black Knight Instruction Card "><img src="https://www.ipdb.org/images/310/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 30432: Black Knight Instruction Card "><br>Instruction Card</span></a><br><font size="-2">640x480</font><br>[John Gray]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=33830" 
+><span title="Image # 33830: Black Knight Cabinet - left "><img src="https://www.ipdb.org/images/310/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 33830: Black Knight Cabinet - left "><br>Cabinet - left</span></a><br><font size="-2">1024x768</font><br>[Jim May]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=33831" 
+><span title="Image # 33831: Black Knight Cabinet - Front "><img src="https://www.ipdb.org/images/310/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 33831: Black Knight Cabinet - Front "><br>Cabinet - Front</span></a><br><font size="-2">918x768</font><br>[Jim May]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=36425" 
+><span title="Image # 36425: Black Knight Playfield "><img src="https://www.ipdb.org/images/310/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36425: Black Knight Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Fernando Capurro]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=36426" 
+><span title="Image # 36426: Black Knight Upper Playfield "><img src="https://www.ipdb.org/images/310/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36426: Black Knight Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Fernando Capurro]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=36427" 
+><span title="Image # 36427: Black Knight Playfield "><img src="https://www.ipdb.org/images/310/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 36427: Black Knight Playfield "><br>Playfield</span></a><br><font size="-2">1024x768</font><br>[Fernando Capurro]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=38128" 
+><span title="Image # 38128: Black Knight Spinner "><img src="https://www.ipdb.org/images/310/tn_image-A33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 38128: Black Knight Spinner "><br>Spinner</span></a><br><font size="-2">906x762</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=39505" 
+><span title="Image # 39505: Black Knight Early Production - System 6 - Inside Backbox 
+(Early Black Knight game, produced before the switch from System 6 to System 7 power supply and transformer. Serial number 460804.)"><img src="https://www.ipdb.org/images/310/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 39505: Black Knight Early Production - System 6 - Inside Backbox 
+(Early Black Knight game, produced before the switch from System 6 to System 7 power supply and transformer. Serial number 460804.)"><br>Early Production - System 6 - Inside Backbox*</span></a><br><font size="-2">1024x768</font><br>[Philippe Thibault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=42529" 
+><span title="Image # 42529: Black Knight Autographed Pre-Production Backglass "><img src="https://www.ipdb.org/images/310/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=84 alt="Image # 42529: Black Knight Autographed Pre-Production Backglass "><br>Autographed Pre-Production Backglass</span></a><br><font size="-2">1200x1006</font><br>[Martin Wiest]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=42895" 
+><span title="Image # 42895: Black Knight Early Production - Inside Cabinet 
+(The line filter and the main power fuse are mounted on the lower board. The transformer is in the backbox. Serial number 458205.)"><img src="https://www.ipdb.org/images/310/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 42895: Black Knight Early Production - Inside Cabinet 
+(The line filter and the main power fuse are mounted on the lower board. The transformer is in the backbox. Serial number 458205.)"><br>Early Production - Inside Cabinet*</span></a><br><font size="-2">960x1280</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=45197" 
+><span title="Image # 45197: Black Knight Backglass "><img src="https://www.ipdb.org/images/310/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 45197: Black Knight Backglass "><br>Backglass</span></a><br><font size="-2">1024x902</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=47998" 
+><span title="Image # 47998: Black Knight Stripped Playfield "><img src="https://www.ipdb.org/images/310/tn_image-40.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 47998: Black Knight Stripped Playfield "><br>Stripped Playfield</span></a><br><font size="-2">1200x2129</font><br>[Brian Lee]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=53900" 
+><span title="Image # 53900: Black Knight Illuminated Backglass "><img src="https://www.ipdb.org/images/310/tn_image-41.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 53900: Black Knight Illuminated Backglass "><br>Illuminated Backglass</span></a><br><font size="-2">1024x768</font><br>[Maxime Racette]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=60271" 
+><span title="Image # 60271: Black Knight Stripped Playfield with Switch Cutouts 
+(This game has the cutouts but not the switches. Serial number 457797.)"><img src="https://www.ipdb.org/images/310/tn_image-42.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=68 height=100 alt="Image # 60271: Black Knight Stripped Playfield with Switch Cutouts 
+(This game has the cutouts but not the switches. Serial number 457797.)"><br>Stripped Playfield with Switch Cutouts*</span></a><br><font size="-2">1089x1600</font><br>[Mark Tibbetts]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=60272" 
+><span title="Image # 60272: Black Knight Stripped Upper Playfield with Switch Cutout 
+(This game has the cutouts but not the switches. Serial number 457797.)"><img src="https://www.ipdb.org/images/310/tn_image-43.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 60272: Black Knight Stripped Upper Playfield with Switch Cutout 
+(This game has the cutouts but not the switches. Serial number 457797.)"><br>Stripped Upper Playfield with Switch Cutout*</span></a><br><font size="-2">1200x900</font><br>[Mark Tibbetts]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=60273" 
+><span title="Image # 60273: Black Knight Stripped Center Playfield with Switch Cutouts 
+(This game has the cutouts but not the switches. Serial number 457797.)"><img src="https://www.ipdb.org/images/310/tn_image-44.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=78 alt="Image # 60273: Black Knight Stripped Center Playfield with Switch Cutouts 
+(This game has the cutouts but not the switches. Serial number 457797.)"><br>Stripped Center Playfield with Switch Cutouts*</span></a><br><font size="-2">1152x900</font><br>[Mark Tibbetts]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=66706" 
+><span title="Image # 66706: Black Knight Playfield - Detail "><img src="https://www.ipdb.org/images/310/tn_image-46.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 66706: Black Knight Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1567</font><br>[Jean-Pierre Renault]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=310&amp;picno=66707" 
+><span title="Image # 66707: Black Knight Cabinet - Front View "><img src="https://www.ipdb.org/images/310/tn_image-45.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=56 height=100 alt="Image # 66707: Black Knight Cabinet - Front View "><br>Cabinet - Front View</span></a><br><font size="-2">894x1600</font><br>[Jean-Pierre Renault]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

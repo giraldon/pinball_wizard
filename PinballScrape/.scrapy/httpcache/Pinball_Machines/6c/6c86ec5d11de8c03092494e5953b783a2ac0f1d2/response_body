@@ -1,0 +1,245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Bally 'Wild Wheels'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Bally Wild Wheels Flippers (2), Pop bumpers (3), Slingshots (2), Mushroom bumpers (7), Right outlane free ball gate. Each of the three 'Match-Wheels' mounted in the playfield rotate to show a different number when the ball hits the mushroom bumper in front of it. Different combinations of wheel numbers light different features on the playfield for increased value or Special, or open the free ball gate.
+
+Maximum displayed point score is 9,999 points per player.  George Molentin Ted Zale ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Bally 'Wild Wheels' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>Wild Wheels</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="2786">Wild Wheels</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=2786">2786</a> <I>/ February, 1966 / 2 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr><td nowrap width="20%" valign=top align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left valign=top><font color=red>Needs More Ratings!</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#666666">8.5 / 10</font>&nbsp;&nbsp;(<a href="rate/showrate.pl?gid=2786" target="showrate2786">2 ratings</a>)&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=2786" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Bally'"><a href="search.pl?searchtype=advanced&amp;mfgid=47">Bally Manufacturing Corporation (1931-1983) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Project Date: </b></td><td colspan=4 align=left valign=baseline>September 28, 1965</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>February, 1966</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>772</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Electro-mechanical (EM)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=EM#EM" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>580 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=2786">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Motorcyles - Scooters- Transportation</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Pop_Bumper">Pop&nbsp;bumpers</a> (3), <a target="glossary" class="glossarylink" href="/glossary.php#Slingshot">Slingshots</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">Mushroom&nbsp;bumpers</a> (7), Right <a target="glossary" class="glossarylink" href="/glossary.php#Outlane">outlane</a> free ball <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>. Each of the three "Match-Wheels" mounted in the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> rotate to show a different number when the ball hits the <a target="glossary" class="glossarylink" href="/glossary.php#Mushroom_Bumper">mushroom&nbsp;bumper</a> in front of it. Different combinations of wheel numbers light different features on the <a target="glossary" class="glossarylink" href="/glossary.php#Playfield">playfield</a> for increased value or Special, or open the free ball <a target="glossary" class="glossarylink" href="/glossary.php#Gate">gate</a>.<br><br>Maximum displayed point score is 9,999 points per player.<P></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Design by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Ted&nbsp;Zale' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Ted%20Zale">Ted&nbsp;Zale</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'George&nbsp;Molentin' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=George%20Molentin">George&nbsp;Molentin</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>A special version was produced for Germany</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+Cash Box, Mar-5-1966, pages 69 and 81<br>
+Mike Pacak's Pinball Flyer Reference Book S-Z<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=2653" 
+><span title="Image # 2653: Wild Wheels Backglass "><img src="https://www.ipdb.org/images/2786/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=98 alt="Image # 2653: Wild Wheels Backglass "><br>Backglass</span></a><br><font size="-2">436x428</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=2654" 
+><span title="Image # 2654: Wild Wheels Playfield "><img src="https://www.ipdb.org/images/2786/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=88 height=100 alt="Image # 2654: Wild Wheels Playfield "><br>Playfield</span></a><br><font size="-2">474x543</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=3922" 
+><span title="Image # 3922: Wild Wheels Flyer "><img src="https://www.ipdb.org/images/2786/tn_2786f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=74 height=100 alt="Image # 3922: Wild Wheels Flyer "><br>Flyer</span></a><br><font size="-2">880x1185</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11693" 
+><span title="Image # 11693: Wild Wheels Backglass "><img src="https://www.ipdb.org/images/2786/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11693: Wild Wheels Backglass "><br>Backglass</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11694" 
+><span title="Image # 11694: Wild Wheels Backglass - Reverse "><img src="https://www.ipdb.org/images/2786/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11694: Wild Wheels Backglass - Reverse "><br>Backglass - Reverse</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11695" 
+><span title="Image # 11695: Wild Wheels Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11695: Wild Wheels Playfield "><br>Playfield</span></a><br><font size="-2">852x1136</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11696" 
+><span title="Image # 11696: Wild Wheels Upper Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11696: Wild Wheels Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11697" 
+><span title="Image # 11697: Wild Wheels Lower Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11697: Wild Wheels Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11698" 
+><span title="Image # 11698: Wild Wheels Cabinet - Left "><img src="https://www.ipdb.org/images/2786/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11698: Wild Wheels Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11699" 
+><span title="Image # 11699: Wild Wheels Cabinet - Right "><img src="https://www.ipdb.org/images/2786/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11699: Wild Wheels Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11700" 
+><span title="Image # 11700: Wild Wheels Under Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11700: Wild Wheels Under Playfield "><br>Under Playfield</span></a><br><font size="-2">852x1136</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11701" 
+><span title="Image # 11701: Wild Wheels Inside Backbox "><img src="https://www.ipdb.org/images/2786/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 11701: Wild Wheels Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">852x1136</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=11702" 
+><span title="Image # 11702: Wild Wheels Backglass - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 11702: Wild Wheels Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1024x768</font><br>[Kevin McHugh]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=40625" 
+><span title="Image # 40625: Wild Wheels Cash Box Ad 
+(Cash Box, Mar-5-1966, page 81)"><img src="https://www.ipdb.org/images/2786/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=72 height=100 alt="Image # 40625: Wild Wheels Cash Box Ad 
+(Cash Box, Mar-5-1966, page 81)"><br>Cash Box Ad*</span></a><br><font size="-2">1200x1665</font><br>[Rob Hawkins]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=40626" 
+><span title="Image # 40626: Wild Wheels Cash Box Article 
+(Cash Box, Mar-5-1966, page 69)"><img src="https://www.ipdb.org/images/2786/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=21 height=100 alt="Image # 40626: Wild Wheels Cash Box Article 
+(Cash Box, Mar-5-1966, page 69)"><br>Cash Box Article*</span></a><br><font size="-2">514x2500</font><br>[Rob Hawkins]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=40772" 
+><span title="Image # 40772: Wild Wheels Backglass "><img src="https://www.ipdb.org/images/2786/tn_image-A11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=82 alt="Image # 40772: Wild Wheels Backglass "><br>Backglass</span></a><br><font size="-2">942x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=40773" 
+><span title="Image # 40773: Wild Wheels Playfield - Downfield View "><img src="https://www.ipdb.org/images/2786/tn_image-A12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 40773: Wild Wheels Playfield - Downfield View "><br>Playfield - Downfield View</span></a><br><font size="-2">1024x768</font><br>[Miroslaw Adamczewski]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53619" 
+><span title="Image # 53619: Wild Wheels German Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=67 height=100 alt="Image # 53619: Wild Wheels German Playfield "><br>German Playfield</span></a><br><font size="-2">800x1200</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53620" 
+><span title="Image # 53620: Wild Wheels German Pop Bumpers "><img src="https://www.ipdb.org/images/2786/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53620: Wild Wheels German Pop Bumpers "><br>German Pop Bumpers</span></a><br><font size="-2">1200x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53621" 
+><span title="Image # 53621: Wild Wheels German Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53621: Wild Wheels German Playfield - Detail "><br>German Playfield - Detail</span></a><br><font size="-2">1200x800</font><br>[Jasper Verheggen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53622" 
+><span title="Image # 53622: Wild Wheels German Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53622: Wild Wheels German Playfield - Detail "><br>German Playfield - Detail</span></a><br><font size="-2">1200x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53623" 
+><span title="Image # 53623: Wild Wheels German Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53623: Wild Wheels German Playfield - Detail "><br>German Playfield - Detail</span></a><br><font size="-2">1200x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53624" 
+><span title="Image # 53624: Wild Wheels German Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53624: Wild Wheels German Playfield - Detail "><br>German Playfield - Detail</span></a><br><font size="-2">1200x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53625" 
+><span title="Image # 53625: Wild Wheels German Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 53625: Wild Wheels German Playfield - Detail "><br>German Playfield - Detail</span></a><br><font size="-2">1200x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53626" 
+><span title="Image # 53626: Wild Wheels German Cabinet - Right "><img src="https://www.ipdb.org/images/2786/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=83 alt="Image # 53626: Wild Wheels German Cabinet - Right "><br>German Cabinet - Right</span></a><br><font size="-2">964x800</font><br>[Jasper Verheggen]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53627" 
+><span title="Image # 53627: Wild Wheels German Cabinet - Front "><img src="https://www.ipdb.org/images/2786/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=71 alt="Image # 53627: Wild Wheels German Cabinet - Front "><br>German Cabinet - Front</span></a><br><font size="-2">1127x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=53628" 
+><span title="Image # 53628: Wild Wheels German - Behind Backglass "><img src="https://www.ipdb.org/images/2786/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=81 alt="Image # 53628: Wild Wheels German - Behind Backglass "><br>German - Behind Backglass</span></a><br><font size="-2">991x800</font><br>[Jasper Verheggen]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57985" 
+><span title="Image # 57985: Wild Wheels Backglass "><img src="https://www.ipdb.org/images/2786/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57985: Wild Wheels Backglass "><br>Backglass</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57986" 
+><span title="Image # 57986: Wild Wheels Backglass - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57986: Wild Wheels Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57987" 
+><span title="Image # 57987: Wild Wheels Backglass - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57987: Wild Wheels Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57988" 
+><span title="Image # 57988: Wild Wheels Backglass - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57988: Wild Wheels Backglass - Detail "><br>Backglass - Detail</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57989" 
+><span title="Image # 57989: Wild Wheels Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 57989: Wild Wheels Playfield "><br>Playfield</span></a><br><font size="-2">1198x1555</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57990" 
+><span title="Image # 57990: Wild Wheels Upper Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57990: Wild Wheels Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57991" 
+><span title="Image # 57991: Wild Wheels Middle Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57991: Wild Wheels Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57992" 
+><span title="Image # 57992: Wild Wheels Lower Playfield "><img src="https://www.ipdb.org/images/2786/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57992: Wild Wheels Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57993" 
+><span title="Image # 57993: Wild Wheels Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57993: Wild Wheels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57994" 
+><span title="Image # 57994: Wild Wheels Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57994: Wild Wheels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57995" 
+><span title="Image # 57995: Wild Wheels Playfield - Detail "><img src="https://www.ipdb.org/images/2786/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 57995: Wild Wheels Playfield - Detail "><br>Playfield - Detail</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57996" 
+><span title="Image # 57996: Wild Wheels Cabinet - Left "><img src="https://www.ipdb.org/images/2786/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=88 alt="Image # 57996: Wild Wheels Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1023x900</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57997" 
+><span title="Image # 57997: Wild Wheels Cabinet - Right "><img src="https://www.ipdb.org/images/2786/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=96 height=100 alt="Image # 57997: Wild Wheels Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">848x887</font><br>[Casey Davis]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57998" 
+><span title="Image # 57998: Wild Wheels Cabinet - Full View "><img src="https://www.ipdb.org/images/2786/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57998: Wild Wheels Cabinet - Full View "><br>Cabinet - Full View</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=57999" 
+><span title="Image # 57999: Wild Wheels Under Playfield 
+(The right flipper coil is dangling loose in this picture.)"><img src="https://www.ipdb.org/images/2786/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 57999: Wild Wheels Under Playfield 
+(The right flipper coil is dangling loose in this picture.)"><br>Under Playfield*</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=58000" 
+><span title="Image # 58000: Wild Wheels Inside Cabinet "><img src="https://www.ipdb.org/images/2786/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 58000: Wild Wheels Inside Cabinet "><br>Inside Cabinet</span></a><br><font size="-2">1200x1600</font><br>[Casey Davis]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=2786&amp;picno=58001" 
+><span title="Image # 58001: Wild Wheels Inside Cabinet - Front "><img src="https://www.ipdb.org/images/2786/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 58001: Wild Wheels Inside Cabinet - Front "><br>Inside Cabinet - Front</span></a><br><font size="-2">1200x900</font><br>[Casey Davis]</td>
+<td colspan=1>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>

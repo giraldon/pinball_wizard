@@ -1,0 +1,255 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<meta name="robots" content="noodp">
+<html>
+<head><title>Internet Pinball Machine Database: Midway 'The Champion Pub'</title>
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<meta name="keywords" content="IPD IPDB Internet Pinball Machine Database Game Midway The Champion Pub Flippers (2), Up-post between flippers, Autoplunger. Features a punching bag that rotates 180 degrees to reveal the top half of a boxer who waves his arms up and down. A pair of ramps guide the ball to hit the figure on both sides of the face, and shooting between the ramps lands a 'body blow'. Also features a mini-playfield in which the ball is launched at a speed bag by plastic fists instead of flippers, and a 'jump rope' which is comprised of a rotating wire that the ball must jump over using a button-controlled solenoid.  Paul Barker Linda Doane (aka Deal) Pete Piotrowski Brad Cornell Rich Carle Dwight Sullivan Rich Carle ">
+<meta name="Description" content="Pictures, documents, manufacturing data, ratings, comments, features, and history for Midway 'The Champion Pub' pinball machine.">
+<LINK REL="shortcut icon" HREF="https://www.ipdb.org/favicon.ico" />
+<LINK REL="apple-touch-icon" HREF="/apple-touch-icon.png" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="PUBLIC">
+<META HTTP-EQUIV="EXPIRES" CONTENT="+12h">
+<META HTTP-EQUIV="PRAGMA" CONTENT="PUBLIC">
+<meta name="rating" content="safe for kids">
+<link rel=stylesheet type="text/css" href="generalmessage2.css">
+<link rel=stylesheet type="text/css" href="styles.css">
+<script type="text/javascript" src="prefixfree.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://redalert.battleforthenet.com/widget.js" async></script>
+</head><body bgcolor=white>
+<table border=0 align=center width="80%" cellpadding=0 cellspacing=0><tr><td></td><td><center><b>The Internet Pinball Database Presents</b></center><br>
+<center><font size="+3"><B>The Champion Pub</b></font></center><br>
+</td><td></td></tr></table>
+<hr width="80%">
+<table border=0 cellpadding=0 cellspacing=0 align=center><tr><td align=center><font size="-1">[&nbsp;<a href="search.pl?searchtype=quick">Quick&nbsp;Search</a>&nbsp;] [&nbsp;<a href="search.pl?searchtype=advanced">Advanced&nbsp;Search</a>&nbsp;] [&nbsp;<a href="lists.cgi">Game&nbsp;Lists</a>&nbsp;] [&nbsp;<a href="https://archive.ipdb.org">Archives</a>&nbsp;] [&nbsp;<a href="glossary.php">Pinball&nbsp;Glossary</a>&nbsp;] [&nbsp;<a href="playing/skills.html">Playing&nbsp;Skills</a>&nbsp;] [&nbsp;<a href="faq.html">FAQ</a>&nbsp;] [&nbsp;<a href="myinfo/showmyinfo.pl">Settings</a>&nbsp;]</font></td></tr></table><hr width="80%">
+<script type="text/javascript" language="Javascript">
+<!--
+function openedit(id)
+{
+ var x=window.screen.availWidth;
+ var y=window.screen.availHeight;
+ var width=x*0.9;
+ var height=y*0.85;
+ var xoff=x*0.05;
+ var yoff=y*0.05;
+ var win=window.open('edit.pl?gid=' + id,'update','scrollbars=yes,resizable=yes,screenX=' + xoff + ',screenY=' + yoff + ',left=' + xoff + ',top=' + yoff + ',width=' + width + ',height=' + height + ',status=1,menubar=0,toolbar=0,location=0');
+ win.focus();
+ return false;
+}
+
+function purchasemanual()
+{
+  return confirm("If you have problems downloading a manual by clicking on it, \nright-click on it and choose 'Save Target As' to save it to \nyour local drive. \n\nIf you're having trouble viewing a file, make sure you're using \nthe most recent Acrobat software by clicking on the 'PDF' link. \n\nPlease use this PDF manual only *in addition* to an \noriginal paper manual, which can be purchased from your \nregular merchants.  For Gottlieb materials, \n'The Pinball Resource' is the licensed distributor and should \nhave all Gottlieb materials available, for Bally/Williams materials,\nPlanetary Pinball has licensed reprints, and original paper manuals \nare available from various other sources. \n\n");
+}
+// -->
+</script>
+<TABLE border=0 align=center width="80%" cellpadding=1 cellspacing=0>
+<tr><td valign=top colspan=5><table border=0 width="100%"><tr><td><font size="+1"><B><a name="4358">The Champion Pub</a></B> / IPD No. <a class="linkid"  href="machine.cgi?id=4358">4358</a> <I>/ April, 1998 / 4 Players</I></font><br>&nbsp;</td><td align=right valign=top></td></tr></table></td></tr>
+<tr valign=baseline><td nowrap width="20%" align=right><b>Average Fun Rating: </b></td><td colspan=4 width="80%" align=left><a style="text-decoration: none; color:black" href="rate/showrate.pl?gid=4358" target="showrate4358"><img src="stars/8stars.png" height=18 width=201 border=0 alt="[ 8 stars - Click for comments ]">&nbsp;&nbsp;&nbsp;&nbsp;<b>7.8</b>/10&nbsp;&nbsp;</a>(<a href="rate/showrate.pl?gid=4358" target="showrate4358">116 ratings/77 comments</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="rate/login.pl?gid=4358" target="do_a_rating">Add Your Rating!</a> ]
+</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Manufacturer: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games manufactured by 'Midway'"><a href="search.pl?searchtype=advanced&amp;mfgid=214">Midway Manufacturing Company, a subsidiary of WMS Industries, Incorporated,<br> <font size="-1">of Chicago, Illinois, USA</font> (1988-1999) <i>[Trade Name: Bally</i>]</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Date Of Manufacture: </b></td><td colspan=4 align=left valign=baseline>April, 1998</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Model Number: </b></td><td colspan=4 align=left valign=baseline>50063</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Common Abbreviations: </b></td><td colspan=4 align=left valign=baseline>CP, TCP</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>MPU: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that use this MPU"><a href="search.pl?searchtype=advanced&amp;mpu=11">Williams WPC-95</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Type: </b></td><td colspan=4 align=left valign=baseline>Solid State Electronic (SS)&nbsp;<a href="showhelp.pl?item=type&amp;highlight=SS#SS" title="Show Type Classifications" target="help"><img alt="[?]" style="cursor: help;" src="/graphic/question.gif" border=0></a></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Production: </b></td><td colspan=4 align=left valign=baseline>1,369 units &nbsp;&nbsp;<font size="-1">(<i>confirmed</i>)</font></td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Serial Number Database:</b></td><td colspan=4 align="left" valign=baseline><a href="redirect.pl?http://www.ipsnd.net/View.aspx?id=4358">View at <I>The Internet Pinball Serial Number Database</I> (IPSND.net)</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr><td nowrap width="20%" valign=baseline align=right><b>Theme: </b></td><td colspan=4 align=left valign=baseline>Sports - Boxing</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notable Features: </b></td><td colspan=4 align=left valign=baseline><a target="glossary" class="glossarylink" href="/glossary.php#Flipper">Flippers</a> (2), <a target="glossary" class="glossarylink" href="/glossary.php#Up-Post">Up-post</a> between <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, <a target="glossary" class="glossarylink" href="/glossary.php#Autoplunger">Autoplunger</a>.</td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Toys: </b></td><td colspan=4 align=left valign=baseline>Features a punching bag that rotates 180 degrees to reveal the top half of a boxer who waves his arms up and down. A pair of <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> guide the ball to hit the figure on both sides of the face, and shooting between the <a target="glossary" class="glossarylink" href="/glossary.php#Ramp">ramps</a> lands a "<a target="glossary" class="glossarylink" href="/glossary.php#Body">body</a> blow". Also features a mini-playfield in which the ball is launched at a speed bag by plastic fists instead of <a target="glossary" class="glossarylink" href="/glossary.php#Flipper">flippers</a>, and a "jump rope" which is comprised of a rotating wire that the ball must jump over using a button-controlled <a target="glossary" class="glossarylink" href="/glossary.php#Solenoid">solenoid</a>.</td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Concept by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Pete&nbsp;Piotrowski' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Pete%20Piotrowski">Pete&nbsp;Piotrowski</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Art by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Paul&nbsp;Barker' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Paul%20Barker">Paul&nbsp;Barker</a></span>, <span title="Click here to perform a search for all pinball games that 'Linda&nbsp;Doane&nbsp;(aka&nbsp;Deal)' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Linda%20Doane%20%28aka%20Deal%29">Linda&nbsp;Doane&nbsp;(aka&nbsp;Deal)</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Mechanics by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Brad&nbsp;Cornell' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Brad%20Cornell">Brad&nbsp;Cornell</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Music by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Rich&nbsp;Carle' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rich%20Carle">Rich&nbsp;Carle</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Sound by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Rich&nbsp;Carle' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Rich%20Carle">Rich&nbsp;Carle</a></span></td></tr>
+<tr><td width="20%" valign=baseline align=right><b>Software by: </b></td><td colspan=4 align=left valign=baseline><span title="Click here to perform a search for all pinball games that 'Dwight&nbsp;Sullivan' was connected with."><a href="search.pl?searchtype=advanced&amp;ppl=Dwight%20Sullivan">Dwight&nbsp;Sullivan</a></span></td></tr>
+<tr><td nowrap width="20%" valign=baseline align=right><b>Notes: </b></td><td colspan=4 align=left valign=baseline>In our Files section is a list of pinball industry personnel that appear on the <a target="glossary" class="glossarylink" href="/glossary.php#Backglass">backglass</a>.</td></tr>
+<tr><td nowrap width="20%" align=right valign=baseline><b>Photos in: </b></td><td colspan=4 align=left valign=baseline>
+<a href="redirect.pl?http://www.amazon.com/gp/product/0764341073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0764341073&linkCode=as2&tag=theinternetpi-20&linkId=Z72T2JLDLWNKE4TA">The Pinball Compendium 1982 to Present</a>, page 243<br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Rule Sheets: </b></td><td colspan=4 align=left valign=baseline>
+<a href="http://www.ipdb.org/rulesheets/4358/champpub.htm" target="rulesheet">Champion Pub Rulesheet Version 1.75 (Nov/20/2000), by Poln</a>&nbsp;&nbsp;<font size="-1"></font><br>
+<a href="http://www.ipdb.org/rulesheets/4358/cpub-jl.htm" target="rulesheet">Champion Pub Rulesheet Version 1.4, by John Lange</a>&nbsp;&nbsp;<font size="-1"></font><br>
+</td></tr>
+<tr><td nowrap width="20%" align="right" valign=baseline><b>Easter Eggs:</b></td><td colspan=4 align="left" valign=baseline>Available at <a href="redirect.pl?http://hem.bredband.net/b257182/Cows&Easter.htm#4358">Cows and Easter Eggs</a>&nbsp;&nbsp;<font size="-1"><I>(External site)</i></font></td></tr><tr valign=top><td nowrap width="20%" align="right" valign=baseline><b><span title="Read-Only Memory Chip Images">ROMs:</span> </b></td><td align=right nowrap> 6 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/cp_16.zip" >PinMAME Romset</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 302 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/cp_15.zip" >PinMAME Romset (1.5)</a></td><td></td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 304 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Revision_1_5_Game_ROM.zip" >Revision 1.5 Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 309 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://www.7-zip.org/" style="text-decoration:none;">ZIP</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Game_ROM_V1_6.zip" >Revision 1.6 Game ROM</a></td><td> [Midway Mfg&#46; Co&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Documentation: </b></td><td align=right nowrap> 14 MB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Manual_OCR_searchable.pdf" onClick="return purchasemanual();">Manual (OCR searchable)</a></td><td> [Williams Electronics Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 862 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Operator_Manual.pdf" onClick="return purchasemanual();">Operator Manual</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 201 KB</td><td align=left nowrap width="5%">&nbsp;TXT&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Parts_List.txt" >Parts List</a></td><td></td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Service Bulletins: </b></td><td align=right nowrap> 5 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Service_Bulletin_107.pdf" >Service Bulletin #107</a></td><td> [Williams Electronic Games, Inc&#46;]</td></tr>
+<tr valign=top><td nowrap width="20%" align="right" valign=baseline><b>Files: </b></td><td align=right nowrap> 861 KB</td><td align=left nowrap width="5%">&nbsp;WMV&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Boxer_Movement.wmv" >Boxer Movement</a></td><td> [Cassidy Thomas]</td></tr>
+<tr valign=top><td width="20%" align="right" valign=baseline>&nbsp;</td><td align=right nowrap> 45 KB</td><td align=left nowrap width="5%">&nbsp;<a href="redirect.pl?http://get.adobe.com/reader/" style="text-decoration:none;">PDF</a>&nbsp;</td><td align=left><a href="https://www.ipdb.org/files/4358/Bally_1998_The_Champion_Pub_Industry_Personnel_Portrayed_on_Backglass.pdf" >Industry Personnel Portrayed on Backglass</a></td><td> [Dwight Sullivan]</td></tr>
+<tr><td nowrap width="20%" align="right" valign=top><b>Images: </b><br><font size="-2"><I>(click to zoom)</i></font></td><td colspan=4 align=left valign=baseline>
+<SCRIPT type="text/javascript" language="javascript">
+document.write('<style type="text/css"> .currentimage { filter:alpha(opacity=60) gray; } .normalimg {filter:alpha(opacity=100); border:1px solid black; margin:1px;} .opacity80 {filter:alpha(opacity=80);} .rolloverimg {filter:alpha(opacity=70); border:2px solid blue; margin:0px;} </style>');
+</script>
+<table border=0 cellpadding=4 cellspacing=4 align=left width="100%"><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=3092" 
+><span title="Image # 3092: The Champion Pub Backglass "><img src="https://www.ipdb.org/images/4358/tn_Backglass.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=68 alt="Image # 3092: The Champion Pub Backglass "><br>Backglass</span></a><br><font size="-2">640x441</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=3093" 
+><span title="Image # 3093: The Champion Pub Playfield "><img src="https://www.ipdb.org/images/4358/tn_Playfield.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=44 height=100 alt="Image # 3093: The Champion Pub Playfield "><br>Playfield</span></a><br><font size="-2">217x490</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=3983" 
+><span title="Image # 3983: The Champion Pub Flyer, Front "><img src="https://www.ipdb.org/images/4358/tn_4358f1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=79 height=100 alt="Image # 3983: The Champion Pub Flyer, Front "><br>Flyer, Front</span></a><br><font size="-2">612x778</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=3984" 
+><span title="Image # 3984: The Champion Pub Flyer, Back "><img src="https://www.ipdb.org/images/4358/tn_4358f2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=77 height=100 alt="Image # 3984: The Champion Pub Flyer, Back "><br>Flyer, Back</span></a><br><font size="-2">612x792</font><br>&nbsp;</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12497" 
+><span title="Image # 12497: The Champion Pub Backbox Left "><img src="https://www.ipdb.org/images/4358/tn_image-1.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=46 height=100 alt="Image # 12497: The Champion Pub Backbox Left "><br>Backbox Left</span></a><br><font size="-2">725x1586</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12498" 
+><span title="Image # 12498: The Champion Pub Backbox Right "><img src="https://www.ipdb.org/images/4358/tn_image-2.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=41 height=100 alt="Image # 12498: The Champion Pub Backbox Right "><br>Backbox Right</span></a><br><font size="-2">641x1554</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12499" 
+><span title="Image # 12499: The Champion Pub Cabinet - Left "><img src="https://www.ipdb.org/images/4358/tn_image-3.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=57 alt="Image # 12499: The Champion Pub Cabinet - Left "><br>Cabinet - Left</span></a><br><font size="-2">1024x581</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12500" 
+><span title="Image # 12500: The Champion Pub Cabinet - Right "><img src="https://www.ipdb.org/images/4358/tn_image-4.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=49 alt="Image # 12500: The Champion Pub Cabinet - Right "><br>Cabinet - Right</span></a><br><font size="-2">1024x505</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12501" 
+><span title="Image # 12501: The Champion Pub Coin Door "><img src="https://www.ipdb.org/images/4358/tn_image-5.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=60 alt="Image # 12501: The Champion Pub Coin Door "><br>Coin Door</span></a><br><font size="-2">1024x615</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12502" 
+><span title="Image # 12502: The Champion Pub Backbox "><img src="https://www.ipdb.org/images/4358/tn_image-6.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12502: The Champion Pub Backbox "><br>Backbox</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12503" 
+><span title="Image # 12503: The Champion Pub Full View "><img src="https://www.ipdb.org/images/4358/tn_image-7.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=64 height=100 alt="Image # 12503: The Champion Pub Full View "><br>Full View</span></a><br><font size="-2">1024x1591</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12504" 
+><span title="Image # 12504: The Champion Pub Playfield Apron "><img src="https://www.ipdb.org/images/4358/tn_image-8.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12504: The Champion Pub Playfield Apron "><br>Playfield Apron</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12505" 
+><span title="Image # 12505: The Champion Pub Left Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-9.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12505: The Champion Pub Left Playfield "><br>Left Playfield</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12506" 
+><span title="Image # 12506: The Champion Pub Left Low Slingshot "><img src="https://www.ipdb.org/images/4358/tn_image-10.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12506: The Champion Pub Left Low Slingshot "><br>Left Low Slingshot</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12507" 
+><span title="Image # 12507: The Champion Pub Left Ramp "><img src="https://www.ipdb.org/images/4358/tn_image-11.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12507: The Champion Pub Left Ramp "><br>Left Ramp</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12508" 
+><span title="Image # 12508: The Champion Pub Jump Rope "><img src="https://www.ipdb.org/images/4358/tn_image-12.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12508: The Champion Pub Jump Rope "><br>Jump Rope</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12509" 
+><span title="Image # 12509: The Champion Pub Speed Bag "><img src="https://www.ipdb.org/images/4358/tn_image-13.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12509: The Champion Pub Speed Bag "><br>Speed Bag</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12510" 
+><span title="Image # 12510: The Champion Pub Right Ramp "><img src="https://www.ipdb.org/images/4358/tn_image-14.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12510: The Champion Pub Right Ramp "><br>Right Ramp</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12511" 
+><span title="Image # 12511: The Champion Pub Punch Ramps "><img src="https://www.ipdb.org/images/4358/tn_image-15.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12511: The Champion Pub Punch Ramps "><br>Punch Ramps</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12512" 
+><span title="Image # 12512: The Champion Pub Shooter Lane "><img src="https://www.ipdb.org/images/4358/tn_image-16.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12512: The Champion Pub Shooter Lane "><br>Shooter Lane</span></a><br><font size="-2">1024x1365</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12513" 
+><span title="Image # 12513: The Champion Pub Left Slingshot "><img src="https://www.ipdb.org/images/4358/tn_image-17.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12513: The Champion Pub Left Slingshot "><br>Left Slingshot</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12514" 
+><span title="Image # 12514: The Champion Pub Right Slingshot "><img src="https://www.ipdb.org/images/4358/tn_image-18.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12514: The Champion Pub Right Slingshot "><br>Right Slingshot</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12515" 
+><span title="Image # 12515: The Champion Pub Ball View "><img src="https://www.ipdb.org/images/4358/tn_image-19.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12515: The Champion Pub Ball View "><br>Ball View</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12516" 
+><span title="Image # 12516: The Champion Pub Boxer "><img src="https://www.ipdb.org/images/4358/tn_image-20.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12516: The Champion Pub Boxer "><br>Boxer</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12517" 
+><span title="Image # 12517: The Champion Pub Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-21.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 12517: The Champion Pub Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12518" 
+><span title="Image # 12518: The Champion Pub Right Low Slingshot "><img src="https://www.ipdb.org/images/4358/tn_image-22.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12518: The Champion Pub Right Low Slingshot "><br>Right Low Slingshot</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12519" 
+><span title="Image # 12519: The Champion Pub Boxer Low "><img src="https://www.ipdb.org/images/4358/tn_image-23.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12519: The Champion Pub Boxer Low "><br>Boxer Low</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12520" 
+><span title="Image # 12520: The Champion Pub Lit Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-24.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12520: The Champion Pub Lit Playfield "><br>Lit Playfield</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12521" 
+><span title="Image # 12521: The Champion Pub Playfield - Dark "><img src="https://www.ipdb.org/images/4358/tn_image-25.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12521: The Champion Pub Playfield - Dark "><br>Playfield - Dark</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12522" 
+><span title="Image # 12522: The Champion Pub Playfield - Left, Dark "><img src="https://www.ipdb.org/images/4358/tn_image-26.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12522: The Champion Pub Playfield - Left, Dark "><br>Playfield - Left, Dark</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12523" 
+><span title="Image # 12523: The Champion Pub Playfield - Right, Dark "><img src="https://www.ipdb.org/images/4358/tn_image-27.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12523: The Champion Pub Playfield - Right, Dark "><br>Playfield - Right, Dark</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12524" 
+><span title="Image # 12524: The Champion Pub Flippers - Dark "><img src="https://www.ipdb.org/images/4358/tn_image-28.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12524: The Champion Pub Flippers - Dark "><br>Flippers - Dark</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=12525" 
+><span title="Image # 12525: The Champion Pub Inside Backbox "><img src="https://www.ipdb.org/images/4358/tn_image-29.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 12525: The Champion Pub Inside Backbox "><br>Inside Backbox</span></a><br><font size="-2">1024x768</font><br>[Robert Winter]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20815" 
+><span title="Image # 20815: The Champion Pub Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-30.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20815: The Champion Pub Playfield "><br>Playfield</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20816" 
+><span title="Image # 20816: The Champion Pub Upper Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-31.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20816: The Champion Pub Upper Playfield "><br>Upper Playfield</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20817" 
+><span title="Image # 20817: The Champion Pub Left Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-32.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20817: The Champion Pub Left Playfield "><br>Left Playfield</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20818" 
+><span title="Image # 20818: The Champion Pub Right Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-33.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20818: The Champion Pub Right Playfield "><br>Right Playfield</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20819" 
+><span title="Image # 20819: The Champion Pub Lower Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-34.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20819: The Champion Pub Lower Playfield "><br>Lower Playfield</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20820" 
+><span title="Image # 20820: The Champion Pub Middle Playfield "><img src="https://www.ipdb.org/images/4358/tn_image-35.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20820: The Champion Pub Middle Playfield "><br>Middle Playfield</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20821" 
+><span title="Image # 20821: The Champion Pub Jump Rope Detail "><img src="https://www.ipdb.org/images/4358/tn_image-36.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=75 height=100 alt="Image # 20821: The Champion Pub Jump Rope Detail "><br>Jump Rope Detail</span></a><br><font size="-2">1024x1365</font><br>[Cassidy Thomas]</td>
+</tr><tr>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=20822" 
+><span title="Image # 20822: The Champion Pub Jump Ramps Detail "><img src="https://www.ipdb.org/images/4358/tn_image-37.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=75 alt="Image # 20822: The Champion Pub Jump Ramps Detail "><br>Jump Ramps Detail</span></a><br><font size="-2">1024x768</font><br>[Cassidy Thomas]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=32808" 
+><span title="Image # 32808: The Champion Pub Promotional Poster 
+(Dimensions: 16 inches by 36 inches.)"><img src="https://www.ipdb.org/images/4358/tn_image-38.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=57 height=100 alt="Image # 32808: The Champion Pub Promotional Poster 
+(Dimensions: 16 inches by 36 inches.)"><br>Promotional Poster*</span></a><br><font size="-2">453x800</font><br>[Bill Ung]</td>
+<td align=center width="20%">
+<a href="showpic.pl?id=4358&amp;picno=54845" 
+><span title="Image # 54845: The Champion Pub Backglass "><img src="https://www.ipdb.org/images/4358/tn_image-39.jpg" class="normalimg" onmouseover="this.className='rolloverimg'" onmouseout="this.className='normalimg'" width=100 height=67 alt="Image # 54845: The Champion Pub Backglass "><br>Backglass</span></a><br><font size="-2">1024x685</font><br>[Jean-Pierre Renault]</td>
+<td colspan=2>&nbsp;</td></tr></table>
+</td></tr>
+</TABLE><hr width="80%">
+<table align=center border=0 width="80%"><tr valign=top><td width="20%" align=left valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="support/">Support the IPDB</a> ]<br>[ <a href="contact.html">Contact Us</a> ]<br>[ <a href="aboutus.html">About Us</a> ]</span></td><td width="60%" valign=top align=center><span style='line-height:1.4em; font-size:65%;'>All copyrighted and trademarked Gottlieb<span style='font-size:85%;'>&reg;</span> material licensed from Gottlieb Development LLC.<br>Copyrighted and trademarked material from <a href="redirect.pl?http://www.planetarypinball.com">Planetary Pinball Supply, Inc</a><span style='font-size:85%;'>&reg;</span> used with permission.<br>All photographs licensed from original photographers, who retain their copyright. Do not use without permission!<br>Site design, phrasing, and other local content copyright 2004-2018 by The Internet Pinball Database&trade;.<br>Where appropriate, other trademarks & copyrights remain property of their owners.
+</span></td>
+<td width="20%" align=right valign=top><span style='line-height:1.4em; font-size:85%;'>[ <a href="changes.pl">Database Change Log</a> ]</span><p style="font-size:11px; margin-bottom:1px; margin-top:4px;">ipdb.org hosted at pair.com</p><span id="pairad"><a href="redirect.pl?http://promote.pair.com/click.pl" alt="Hosting donated by"><img src="https://promote.pair.com/88x31.pl" border=0 height=31 width=88></a></span> &nbsp;<a href="redirect.pl?http://papa.org" alt="Hosting donated by"><img src="/graphic/PAPA-RedLogo-tiny.jpg" border=0 height=31 width=38></a></td></tr>
+</table>
+
+<script>
+window.setTimeout(function(){
+  if ( window.canRunThem === undefined ) {
+    document.getElementById("pairad").innerHTML = '<a href="https://www.ipdb.org/redirect.pl?http://promote.pair.com/click.pl" border=0><img border=0 src="backup_pair_img_small.gif"></a>';
+  }
+}, 1000);
+
+<!-- Attempt to improve site by gathering anonymous info on how users move through it -->
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2413866-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" language="javascript">
+<!--
+window.focus();
+-->
+</script>
+<a href="/nosuchfile.html" style="color:white; text-decoration:none">blank line</a>
+</body></html>
